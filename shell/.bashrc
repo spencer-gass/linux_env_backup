@@ -141,6 +141,7 @@ export DVTLMD_LICENSE_FILE=27000@walle.lab.e.kepler.gdn
 export ALDEC_LICENSE_FILE=27009@walle.lab.e.kepler.gdn
 #export ALDEC_LICENSE_FILE=27009@10.0.5.16
 
+export KEPLER_MONOREPO_PYTHON_VIRTUALENV_PATH=/home/sgass/.venvs/kepler/bin/activate
 
 alias ssh='ssh -X'
 alias vim='vim -O'
