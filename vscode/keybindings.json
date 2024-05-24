@@ -18,8 +18,13 @@
     },
     {
         "key": "ctrl+n",
-        "command": "editor.action.nextMatchFindAction",
-        "when": "editorFocus"
+        "command": "editor.action.wordHighlight.next",
+        "when": "editorFocus && !editorHasSelection"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "editor.action.nextSelectionMatchFindAction",
+        "when": "editorFocus && editorHasSelection"
     },
     {
         "key": "f3",
@@ -28,8 +33,13 @@
     },
     {
         "key": "ctrl+m",
-        "command": "editor.action.previousMatchFindAction",
-        "when": "editorFocus"
+        "command": "editor.action.wordHighlight.prev",
+        "when": "editorFocus && !editorHasSelection"
+    },
+    {
+        "key": "ctrl+m",
+        "command": "editor.action.previousSelectionMatchFindAction",
+        "when": "editorFocus && editorHasSelection"
     },
     {
         "key": "shift+f3",
