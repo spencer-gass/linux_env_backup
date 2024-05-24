@@ -1,4 +1,4 @@
-A repo to back up configs for apps I like to use on a linux environment.
+A repo to back up my linux environment.
 
 ### Usage
 `./bin/save.sh` copies config for all apps to the directories in the repo workspace
