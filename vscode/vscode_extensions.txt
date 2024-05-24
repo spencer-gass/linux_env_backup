@@ -1,0 +1,3 @@
+dalance.svls-vscode
+ms-python.python
+mshr-h.veriloghdl
