@@ -46,6 +46,10 @@
         "command": "-editor.action.previousMatchFindAction",
         "when": "editorFocus"
     },
+    {
+        "key": "ctrl+alt+s",
+        "command": "workbench.action.files.saveAll"
+    },
     // {
     //     "key": "ctrl+h",
     //     "command": "-editor.action.startFindReplaceAction",
