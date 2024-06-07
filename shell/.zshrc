@@ -48,6 +48,7 @@ export KEPLER_MONOREPO_PYTHON_VIRTUALENV_PATH=/home/sgass/.venvs/kepler/bin/acti
 
 alias ssh='ssh -X'
 alias vim='vim -O'
+alias cdk='cd ~/Projects/kepler'
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
