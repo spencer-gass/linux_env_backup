@@ -5,5 +5,6 @@
     "verilog.ctags.path": "ctags",
     "verilog.linting.path": "/opt/Xilinx/Vivado/2019.1/bin/",
     "files.trimTrailingWhitespace": true,
-    "editor.stickyScroll.enabled": false
+    "editor.stickyScroll.enabled": false,
+    "editor.find.seedSearchStringFromSelection": "never"
 }

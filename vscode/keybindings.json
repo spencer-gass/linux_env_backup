@@ -1,63 +1,40 @@
 // Place your key bindings in this file to override the defaults
 [
     {
-        "key": "ctrl+alt+m",
-        "command": "editor.action.toggleTabFocusMode"
-    },
-    {
-        "key": "ctrl+m",
-        "command": "-editor.action.toggleTabFocusMode"
-    },
-    {
-        "key": "ctrl+alt+n",
-        "command": "workbench.action.files.newUntitledFile"
-    },
-    {
-        "key": "ctrl+n",
-        "command": "-workbench.action.files.newUntitledFile"
-    },
-    {
-        "key": "ctrl+n",
-        "command": "editor.action.wordHighlight.next",
-        "when": "editorFocus && !editorHasSelection"
-    },
-    {
-        "key": "ctrl+n",
-        "command": "editor.action.nextSelectionMatchFindAction",
-        "when": "editorFocus && editorHasSelection"
-    },
-    {
-        "key": "f3",
-        "command": "-editor.action.nextMatchFindAction",
+        "key": "ctrl+d",
+        "command": "-editor.action.addSelectionToNextFindMatch",
         "when": "editorFocus"
     },
     {
-        "key": "ctrl+m",
-        "command": "editor.action.wordHighlight.prev",
-        "when": "editorFocus && !editorHasSelection"
+        "key": "ctrl+d",
+        "command": "runCommands",
+        "args": {
+          "commands": [
+            "actions.find",
+            "editor.action.nextMatchFindAction"
+          ]
+        },
+        "when": "editorFocus || editorIsOpen"
     },
     {
-        "key": "ctrl+m",
-        "command": "editor.action.previousSelectionMatchFindAction",
-        "when": "editorFocus && editorHasSelection"
+        "key": "ctrl+f",
+        "command": "-actions.find"
     },
     {
-        "key": "shift+f3",
-        "command": "-editor.action.previousMatchFindAction",
-        "when": "editorFocus"
+        "key": "ctrl+f",
+        "command": "runCommands",
+        "args": {
+          "commands": [
+            "editor.action.addSelectionToNextFindMatch",
+            "actions.find",
+            "editor.action.nextMatchFindAction"
+          ]
+        },
+        "when": "editorFocus || editorIsOpen"
     },
     {
         "key": "ctrl+alt+s",
         "command": "workbench.action.files.saveAll"
     },
-    // {
-    //     "key": "ctrl+h",
-    //     "command": "-editor.action.startFindReplaceAction",
-    //     "when": "editorFocus || editorIsOpen"
-    // },
-    // {
-    //     "key": "ctrl+f",
-    //     "command": "-actions.find",
-    //     "when": "editorFocus || editorIsOpen"
-    // }
+
 ]
