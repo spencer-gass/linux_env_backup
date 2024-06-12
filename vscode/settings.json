@@ -7,5 +7,6 @@
     "files.trimTrailingWhitespace": true,
     "editor.stickyScroll.enabled": false,
     "editor.find.seedSearchStringFromSelection": "never",
-    "terminal.integrated.lineHeight": 1.1
+    "terminal.integrated.lineHeight": 1.1,
+    "search.useIgnoreFiles": false
 }
