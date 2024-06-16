@@ -36,5 +36,36 @@
         "key": "ctrl+alt+s",
         "command": "workbench.action.files.saveAll"
     },
+    {
+      "key": "shift+alt+u",
+      "command": "cursorUndo",
+      "when": "textInputFocus"
+    },
+    {
+      "key": "ctrl+u",
+      "command": "-cursorUndo",
+      "when": "textInputFocus"
+    },
+    {
+      "key": "ctrl+u",
+      "command": "editor.action.transformToUppercase",
+      "when": "editorFocus && editorHasSelection"
+    },
+    {
+      "key": "ctrl+alt+l",
+      "command": "expandLineSelection",
+      "when": "textInputFocus"
+    },
+    {
+      "key": "ctrl+l",
+      "command": "-expandLineSelection",
+      "when": "textInputFocus"
+    },
+    {
+      "key": "ctrl+l",
+      "command": "editor.action.transformToLowercase",
+      "when": "editorFocus && editorHasSelection"
+    },
+
 
 ]
