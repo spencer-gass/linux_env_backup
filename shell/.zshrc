@@ -32,6 +32,8 @@ if [ -x /usr/bin/dircolors ]; then
     alias egrep='egrep --color=auto'
 fi
 
+export WALLE=walle.lab.e.kepler.gdn
+
 export VUNIT_MODELSIM_PATH=/opt/IntelFPGA_lite/20.1/modelsim_ase/linux
 export XILINXD_LICENSE_FILE=2100@walle.lab.e.kepler.gdn 
 export XILINX_SIMLIB=${HOME}/Xilinx_sim_libraries
