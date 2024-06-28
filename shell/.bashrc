@@ -20,6 +20,15 @@ export PATH=$PATH:/opt/IntelFPGA_lite/20.1/modelsim_ase/linux
 alias vivado_2019='export PATH=/opt/Xilinx/Vivado/2019.1/bin:/opt/Xilinx/SDK/2019.1/bin:$PATH'
 alias vivado_2021='export PATH=/opt/Xilinx/Vivado/2021.2/bin:/opt/Xilinx/Vitis/2021.2/bin:$PATH'
 
+# direnv
+eval "$(direnv hook bash)"
+show_virtual_env() {
+  if [[ -n "${VIRTUAL_ENV}" && -n "${DIRENV_DIR}" ]]; then
+    echo "($(basename -- ${DIRENV_DIR})) "
+  fi
+}
+export -f show_virtual_env
+PS1='$(show_virtual_env)'${PS1}
 
 # don't put duplicate lines or lines starting with space in the history.
 # See bash(1) for more options
@@ -145,3 +154,4 @@ export KEPLER_MONOREPO_PYTHON_VIRTUALENV_PATH=/home/sgass/.venvs/kepler/bin/acti
 
 alias ssh='ssh -X'
 alias vim='vim -O'
+alias cdk='cd ~/Projects/kepler'
