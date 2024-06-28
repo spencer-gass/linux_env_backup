@@ -9,7 +9,7 @@ save_dir() {
 
 if [[ $1 == "" ]]; then
     for dir in ./* ; do
-        if [ "$dir" != "./bin" ] && [ -d "$dir" ]; then
+        if [ "$dir" != "./bin" ] && [ -d "$dir" ] && [ -f $dir/bin/save_config.sh ]; then
             save_dir $dir
         fi
     done

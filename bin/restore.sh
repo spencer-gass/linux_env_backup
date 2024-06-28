@@ -9,7 +9,7 @@ restore_dir() {
 
 if [[ $1 == "" ]]; then
     for dir in ./* ; do
-        if [ "$dir" != "./bin" ] && [ -d "$dir" ]; then
+        if [ "$dir" != "./bin" ] && [ -d "$dir" ] && [ -f $dir/bin/restore_config.sh ]; then
             restore_dir $dir
         fi
     done
