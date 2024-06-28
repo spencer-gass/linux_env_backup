@@ -1,0 +1,6 @@
+sudo apt install msr-tools
+sudo apt install devmem2 turbostat
+sudo apt install linux-tools-6.5.0-41-generic
+git clone https://github.com/horshack-dpreview/setPL
+cd setPL
+sudo ./setPL 35 35
