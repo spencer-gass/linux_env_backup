@@ -1,2 +1,4 @@
 ms-python.python
+ms-vscode.hexeditor
 mshr-h.veriloghdl
+xi.p4
