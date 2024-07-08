@@ -4,7 +4,7 @@ source-vivado() {
 
     local vivado_2019_install_dirs=("/opt/Xilinx/Vivado/2019.1/bin" "/opt/Xilinx/SDK/2019.1/bin")
     local vivado_2021_install_dirs=("/opt/Xilinx/Vivado/2021.2/bin" "/opt/Xilinx/Vitis/2021.2/bin")
-    local vivado_2022_install_dirs=("/opt/Xilinx/Vivado/2022.1/bin")
+    local vivado_2022_install_dirs=("/opt/Xilinx/Vivado/2022.2/bin")
     local vivado_2023_install_dirs=("/opt/Xilinx/Vivado/2023.1/bin")
     local vivado_install_dirs=("${vivado_2019_install_dirs[@]}" "${vivado_2021_install_dirs[@]}" "${vivado_2022_install_dirs[@]}" "$vivado_2023_install_dirs[@]")
 
