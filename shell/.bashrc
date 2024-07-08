@@ -17,8 +17,11 @@ export PATH=$PATH:/opt/Aldec/ALINT-PRO-2023.05-EA17.6-x64/bin/
 export PATH=$PATH:/home/sgass/.local/bin
 export PATH=$PATH:/opt/IntelFPGA_lite/20.1/modelsim_ase/linux 
 
-alias vivado_2019='export PATH=/opt/Xilinx/Vivado/2019.1/bin:/opt/Xilinx/SDK/2019.1/bin:$PATH'
-alias vivado_2021='export PATH=/opt/Xilinx/Vivado/2021.2/bin:/opt/Xilinx/Vitis/2021.2/bin:$PATH'
+source .source-vivado.sh
+
+# alias vivado_2019='export PATH=/opt/Xilinx/Vivado/2019.1/bin:/opt/Xilinx/SDK/2019.1/bin:$PATH'
+# alias vivado_2021='export PATH=/opt/Xilinx/Vivado/2021.2/bin:/opt/Xilinx/Vitis/2021.2/bin:$PATH'
+# alias vivado_2023='export PATH=/opt/Xilinx/Vivado/2023.1/bin:$PATH'
 
 # direnv
 eval "$(direnv hook bash)"
