@@ -1,0 +1,9 @@
+{
+    "cmake.showOptionsMovedNotification": false,
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "verilog.linting.linter": "xvlog",
+    "verilog.ctags.path": "/usr/local/bin/",
+    "verilog.linting.path": "/opt/Xilinx/Vivado/2019.1/bin/",
+    "verilog.languageServer.svls.enabled": true
+}

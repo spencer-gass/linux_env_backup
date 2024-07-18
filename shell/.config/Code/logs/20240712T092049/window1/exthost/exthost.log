@@ -1,0 +1,1814 @@
+2024-07-12 09:20:49.911 [info] Extension host with pid 1533109 started
+2024-07-12 09:20:49.911 [info] Skipping acquiring lock for /home/sgass/.config/Code/User/workspaceStorage/be4431b632324a99dd6ba989b491fedf.
+2024-07-12 09:20:50.002 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-12 09:20:50.007 [info] ExtensionService#_doActivateExtension mshr-h.veriloghdl, startup: false, activationEvent: 'onLanguage:systemverilog'
+2024-07-12 09:20:50.073 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-12 09:20:50.092 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-12 09:20:50.120 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-12 09:20:50.166 [info] Eager extensions activated
+2024-07-12 09:20:50.214 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-12 09:20:50.216 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-12 09:20:51.141 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-07-12 09:21:53.721 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:21:53.724 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 09:27:58.917 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:27:58.917 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 09:29:51.643 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:29:51.643 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 09:31:28.643 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:31:28.643 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 09:46:23.538 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:46:23.538 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 09:46:25.052 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:46:25.052 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 09:46:29.959 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:46:29.962 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 09:47:00.842 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:47:00.843 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 09:50:56.974 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:50:56.974 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 09:50:57.387 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:50:57.387 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 09:51:00.855 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:51:00.855 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 09:52:23.393 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:52:23.394 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 09:52:24.247 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:52:24.247 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 09:53:09.124 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:53:09.124 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 09:53:22.976 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:53:22.976 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 09:53:55.141 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 09:53:55.141 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:02:46.906 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:02:46.906 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:04:21.030 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:04:21.030 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:04:50.149 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:04:50.149 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:13:54.505 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:13:54.505 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:16:25.965 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:16:25.966 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:39:31.049 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:39:31.049 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:39:31.616 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:39:31.616 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:39:42.882 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:39:42.882 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:40:16.713 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:40:16.713 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:40:38.167 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:40:38.167 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:40:58.800 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:40:58.800 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:40:59.133 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:40:59.133 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:40:59.401 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:40:59.401 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:41:00.221 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:41:00.221 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:44:11.110 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:44:11.110 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:45:24.068 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:45:24.068 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:45:44.147 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:45:44.147 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:48:40.460 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:48:40.460 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:48:40.940 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:48:40.940 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:48:41.209 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:48:41.210 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:48:41.482 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:48:41.482 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:48:42.011 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:48:42.011 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:50:24.408 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:50:24.408 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:50:25.059 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:50:25.059 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 10:50:29.880 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 10:50:29.880 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:05:40.074 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:05:40.074 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:06:14.576 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:06:14.576 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:06:33.472 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:06:33.472 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:06:38.369 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:06:38.369 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:06:59.502 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:06:59.502 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:07:01.922 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:07:01.922 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:07:02.455 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:07:02.455 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:07:03.141 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:07:03.141 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:07:03.342 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:07:03.342 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:07:03.625 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:07:03.626 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:07:03.975 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:07:03.975 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:07:37.119 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:07:37.119 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:08:02.773 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:08:02.773 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:08:04.224 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:08:04.224 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:08:04.474 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:08:04.474 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:08:14.140 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:08:14.140 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:08:17.305 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:08:17.305 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:08:20.533 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:08:20.533 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:08:47.524 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:08:47.524 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:08:48.606 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:08:48.606 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:08:57.157 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:08:57.157 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:09:14.339 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:09:14.339 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:09:21.922 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:09:21.922 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:09:28.438 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:09:28.438 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:09:30.091 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:09:30.091 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:09:30.389 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:09:30.389 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:09:30.605 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:09:30.605 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:09:33.187 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:09:33.187 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:09:33.423 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:09:33.423 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:09:42.695 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:09:42.695 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:09:43.857 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:09:43.857 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:09:44.527 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:09:44.527 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:10:47.353 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:10:47.353 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:11:13.609 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:11:13.609 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:11:45.464 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:11:45.464 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:12:12.881 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:12:12.881 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:13:56.885 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:13:56.885 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:13:57.302 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:13:57.302 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:16:23.367 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:16:23.367 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:16:24.015 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:16:24.015 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:17:11.396 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:17:11.396 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:22:46.324 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:22:46.324 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:22:50.250 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:22:50.250 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:22:52.955 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:22:52.955 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:23:18.791 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:23:18.791 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:23:37.507 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:23:37.507 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:24:02.594 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:24:02.594 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:24:03.209 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:24:03.209 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:24:03.382 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:24:03.382 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:24:16.303 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:24:16.303 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:24:17.148 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:24:17.148 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:24:39.777 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:24:39.777 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:24:49.922 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:24:49.922 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:25:02.139 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:25:02.139 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:25:33.771 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:25:33.772 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:25:36.270 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:25:36.270 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:25:39.503 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:25:39.503 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:25:39.986 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:25:39.986 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:25:41.129 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:25:41.129 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:25:43.803 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:25:43.803 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:25:45.321 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:25:45.321 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:25:48.547 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:25:48.547 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:26:03.363 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:26:03.363 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:26:56.292 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:26:56.292 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:27:00.426 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:27:00.427 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:27:36.241 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:27:36.241 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:27:38.497 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:27:38.497 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:27:52.508 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:27:52.508 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:28:27.199 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:28:27.199 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:28:28.316 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:28:28.316 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:28:30.602 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:28:30.602 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:29:04.577 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:29:04.577 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:31:36.239 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:31:36.239 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:32:21.723 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:32:21.723 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:33:45.714 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:33:45.714 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:33:46.053 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:33:46.053 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:33:46.356 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:33:46.356 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:36:59.480 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:36:59.480 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:36:59.759 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:36:59.759 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:37:00.140 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:37:00.141 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:37:00.426 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:37:00.426 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:37:00.720 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:37:00.720 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:37:03.341 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:37:03.341 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:37:06.123 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:37:06.123 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:37:33.956 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:37:33.956 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:37:47.489 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:37:47.489 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:37:53.321 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:37:53.321 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:37:53.594 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:37:53.594 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:38:00.571 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:38:00.572 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:38:01.453 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:38:01.453 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:38:11.930 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:38:11.931 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:38:12.197 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:38:12.197 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:38:20.204 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:38:20.205 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:38:20.686 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:38:20.686 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:38:21.001 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:38:21.001 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:38:27.735 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:38:27.735 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:40:05.609 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:40:05.609 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:40:12.971 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:40:12.971 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:40:21.000 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:40:21.000 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:41:11.198 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:41:11.198 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:41:25.664 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:41:25.665 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:41:26.665 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:41:26.665 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:42:27.562 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-07-12 11:44:20.825 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:44:20.825 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:45:43.505 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:45:43.506 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:46:32.887 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:46:32.887 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:46:33.455 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:46:33.455 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:47:57.020 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:47:57.020 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:51:24.929 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:51:24.929 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:51:36.913 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:51:36.913 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:52:03.762 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:52:03.762 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:52:37.526 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:52:37.526 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:52:43.641 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:52:43.641 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:55:11.104 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:55:11.104 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:55:29.233 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:55:29.233 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:55:29.681 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:55:29.681 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:55:29.905 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:55:29.905 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:55:35.855 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:55:35.855 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:55:36.255 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:55:36.255 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:56:01.623 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:56:01.624 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:56:39.671 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:56:39.672 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:56:41.238 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:56:41.238 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:59:41.581 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:59:41.581 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 11:59:49.688 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 11:59:49.688 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:00:07.900 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:00:07.900 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:00:18.740 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:00:18.741 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:00:51.760 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:00:51.760 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:00:52.960 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:00:52.960 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:00:54.895 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:00:54.895 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:06:33.148 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:06:33.148 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:06:48.257 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:06:48.257 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:06:48.588 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:06:48.588 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:07:24.732 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:07:24.732 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:07:25.516 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:07:25.516 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:07:28.219 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:07:28.219 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:07:43.904 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:07:43.904 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:08:02.970 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:08:02.971 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:08:10.772 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:08:10.772 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:10:29.469 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:10:29.470 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:11:14.203 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:11:14.204 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:13:16.051 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:13:16.051 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:13:16.362 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:13:16.362 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:14:57.210 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:14:57.210 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:40:39.246 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:40:39.246 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:46:05.421 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:46:05.421 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:48:59.219 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:48:59.220 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:49:00.051 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:49:00.051 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:49:19.268 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:49:19.268 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:49:21.433 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:49:21.433 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:52:57.752 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:52:57.752 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:54:14.473 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:54:14.473 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:54:57.214 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:54:57.214 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:57:24.407 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:57:24.407 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:57:24.592 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:57:24.593 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:57:25.298 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:57:25.298 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:57:27.549 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:57:27.549 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:57:28.679 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:57:28.679 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:57:28.931 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:57:28.931 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:57:29.695 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:57:29.695 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:57:32.112 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:57:32.112 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:57:32.713 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:57:32.713 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:57:34.815 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:57:34.815 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:57:35.431 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:57:35.431 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 12:57:51.211 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 12:57:51.211 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:01:14.992 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:01:14.992 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:03:06.077 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:03:06.077 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:03:42.176 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:03:42.176 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:03:53.361 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:03:53.361 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:10:03.823 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:10:03.823 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:12:02.622 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:12:02.622 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:12:02.872 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:12:02.872 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:12:15.368 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:12:15.368 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:16:14.863 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:16:14.863 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:16:17.895 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:16:17.896 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:17:08.998 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:17:08.998 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:21:37.577 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:21:37.577 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:24:12.024 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:24:12.024 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:24:17.135 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:24:17.136 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:24:17.522 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:24:17.522 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:24:25.337 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:24:25.337 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:24:28.353 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:24:28.353 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:29:44.886 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:29:44.886 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:30:55.531 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:30:55.531 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:33:07.729 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:33:07.729 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 13:33:52.681 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 13:33:52.681 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:48:58.646 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:48:58.646 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:50:12.162 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:50:12.162 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:50:31.730 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:50:31.731 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:51:29.760 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:51:29.760 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:51:42.126 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:51:42.126 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:51:43.008 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:51:43.008 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:51:44.944 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:51:44.944 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:53:11.973 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:53:11.974 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:54:05.673 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:54:05.673 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:54:23.756 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:54:23.757 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:55:34.798 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:55:34.799 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:55:35.049 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:55:35.049 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:55:52.280 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:55:52.280 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:56:03.550 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:56:03.550 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:56:31.271 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:56:31.271 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:57:04.348 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:57:04.349 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:57:09.527 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:57:09.527 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 14:58:27.727 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 14:58:27.727 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:00:07.175 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:00:07.176 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:00:28.844 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:00:28.844 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:00:29.076 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:00:29.076 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:02:38.555 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:02:38.555 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:02:40.308 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:02:40.308 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:02:44.607 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:02:44.607 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:03:07.955 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:03:07.955 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:03:40.603 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:03:40.603 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:03:42.105 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:03:42.105 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:03:43.654 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:03:43.655 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:03:49.220 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:03:49.221 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:04:21.786 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:04:21.786 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:04:26.715 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:04:26.715 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:04:26.899 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:04:26.899 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:04:27.267 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:04:27.267 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:04:27.756 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:04:27.756 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:04:33.903 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:04:33.903 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:06:12.980 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:06:12.980 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:06:48.330 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:06:48.330 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:06:54.723 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:06:54.724 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:07:19.435 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:07:19.435 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:07:31.190 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:07:31.190 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:08:15.199 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:08:15.199 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:08:24.659 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:08:24.659 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:09:34.127 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:09:34.127 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:11:48.018 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:11:48.018 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:14:38.634 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:14:38.634 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:17:52.044 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:17:52.044 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:26:37.905 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:26:37.905 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:26:38.381 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:26:38.381 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:27:09.421 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:27:09.421 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:27:09.689 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:27:09.689 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:28:16.192 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:28:16.192 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:28:16.505 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:28:16.505 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:28:20.911 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:28:20.911 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:28:21.476 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:28:21.476 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:28:24.245 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:28:24.245 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:28:29.828 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:28:29.828 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:28:29.995 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:28:29.995 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:28:46.845 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:28:46.845 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:28:51.114 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:28:51.114 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:29:27.549 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:29:27.549 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:30:34.169 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:30:34.169 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:30:34.616 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:30:34.616 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:30:40.005 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:30:40.006 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:30:42.504 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:30:42.504 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:30:47.204 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:30:47.204 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:30:50.107 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:30:50.107 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:30:54.584 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:30:54.584 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:30:55.085 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:30:55.085 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:30:57.484 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:30:57.484 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:31:00.900 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:31:00.900 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:31:03.272 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:31:03.272 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:31:03.556 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:31:03.556 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:31:36.872 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:31:36.872 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:31:39.937 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:31:39.938 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:34:17.113 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:34:17.114 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:34:48.728 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:34:48.728 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:43:09.725 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:43:09.726 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:43:41.133 [error] [mshr-h.veriloghdl] provider FAILED
+2024-07-12 15:43:41.133 [error] TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-12 15:57:45.353 [info] Extension host terminating: renderer closed the MessagePort
+2024-07-12 15:57:45.371 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at n.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945191)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.371 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at n.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945191)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.371 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at n.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945191)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.371 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at n.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945191)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.371 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at n.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945191)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.372 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at n.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945191)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.372 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at n.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945191)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.372 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at n.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945191)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.372 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at set hasGitHubRepositories (/usr/share/code/resources/app/extensions/github/dist/extension.js:2:322969)
+	at /usr/share/code/resources/app/extensions/github/dist/extension.js:2:323928
+	at n.value (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1050764)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.372 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at n.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945191)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.372 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at set hasGitHubRepositories (/usr/share/code/resources/app/extensions/github/dist/extension.js:2:322969)
+	at /usr/share/code/resources/app/extensions/github/dist/extension.js:2:323928
+	at n.value (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1050764)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.372 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at n.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945191)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.372 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at set hasGitHubRepositories (/usr/share/code/resources/app/extensions/github/dist/extension.js:2:322969)
+	at /usr/share/code/resources/app/extensions/github/dist/extension.js:2:323928
+	at n.value (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1050764)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.373 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at n.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945191)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.373 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at set hasGitHubRepositories (/usr/share/code/resources/app/extensions/github/dist/extension.js:2:322969)
+	at /usr/share/code/resources/app/extensions/github/dist/extension.js:2:323928
+	at n.value (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1050764)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.373 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at n.O [as value] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:945191)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.373 [error] Canceled: Canceled
+	at new A (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:50615)
+	at E.U (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:6007)
+	at z.<computed>.M.charCodeAt.R.CharCode.DollarSign.z.<computed> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3091)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199937)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at I.registerCommand.description (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:198699)
+	at h (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:200476)
+	at h.g (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199468)
+	at h.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:199375)
+	at Object.executeCommand (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22742)
+	at set hasGitHubRepositories (/usr/share/code/resources/app/extensions/github/dist/extension.js:2:322969)
+	at /usr/share/code/resources/app/extensions/github/dist/extension.js:2:323928
+	at n.value (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1050764)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.z (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:734)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:950)
+	at Object.p [as dispose] (/usr/share/code/resources/app/extensions/git/dist/main.js:2:964275)
+	at /usr/share/code/resources/app/extensions/git/dist/main.js:2:970313
+	at Array.forEach (<anonymous>)
+	at f.dispose (/usr/share/code/resources/app/extensions/git/dist/main.js:2:970299)
+	at a.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4032)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at a.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:947448)
+	at a.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4129)
+	at f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+	at u.eb (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9991)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7867
+	at Array.map (<anonymous>)
+	at u.$ (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7854)
+	at u.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8127)
+	at f.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+	at t (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10459)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6675)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-07-12 15:57:45.377 [info] Extension host with pid 1533109 exiting with code 0

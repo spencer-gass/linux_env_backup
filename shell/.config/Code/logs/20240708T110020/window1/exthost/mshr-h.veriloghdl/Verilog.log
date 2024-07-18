@@ -1,0 +1,226 @@
+2024-07-08 11:00:33.538 [info] mshr-h.veriloghdl is now active.
+2024-07-08 11:00:33.538 [info] [ExtensionManager] previousVersion: "1.14.1", currentVersion: "1.14.1"
+2024-07-08 11:00:33.538 [info] ctags manager configure
+2024-07-08 11:00:33.538 [warning] [LintManager] Invalid linter name: none
+2024-07-08 11:00:33.538 [info] mshr-h.veriloghdl activation finished.
+2024-07-08 11:00:33.538 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_forward_ex/imports/example_top.sv
+2024-07-08 11:00:33.538 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_forward_ex/imports/example_top.sv"
+2024-07-08 11:00:33.538 [info] executing ctags
+2024-07-08 11:00:33.538 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_forward_ex/imports/example_top.sv"
+2024-07-08 11:00:33.538 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_forward_ex/imports/example_top.sv
+2024-07-08 11:00:33.538 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_forward_ex/imports/example_top.sv"
+2024-07-08 11:00:33.538 [info] executing ctags
+2024-07-08 11:00:33.538 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_forward_ex/imports/example_top.sv"
+2024-07-08 11:00:33.538 [info] building symbols
+2024-07-08 11:00:33.538 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:00:33.538 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:00:39.848 [warning] [LintManager] Invalid linter name: none
+2024-07-08 11:02:25.926 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:02:25.926 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv"
+2024-07-08 11:02:25.926 [info] executing ctags
+2024-07-08 11:02:25.926 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv"
+2024-07-08 11:02:25.929 [info] building symbols
+2024-07-08 11:02:25.930 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:02:45.672 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:02:45.883 [info] [VerilogHoverProvider] Hover object returned
+2024-07-08 11:03:00.310 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:03:06.223 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:06.225 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:07.862 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:07.865 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:08.647 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:08.650 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:09.444 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:09.445 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:11.730 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:11.731 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:12.520 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:12.523 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:14.241 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-07-08 11:03:14.242 [info] [VerilogCompletionItemProvider] 57 items requested
+2024-07-08 11:03:15.152 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:15.156 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:16.013 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:16.016 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:27.136 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:27.139 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:29.552 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:29.555 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:30.420 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:30.423 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:38.484 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:38.485 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:39.108 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:39.112 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:40.388 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:40.389 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:41.132 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:41.136 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:42.732 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-07-08 11:03:42.733 [info] [VerilogCompletionItemProvider] 57 items requested
+2024-07-08 11:03:43.542 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:43.542 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:44.160 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:44.161 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:47.146 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:47.149 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:50.483 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:50.486 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:51.859 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:51.862 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:03:57.459 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:03:57.459 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:04:00.787 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-07-08 11:04:00.788 [info] [VerilogCompletionItemProvider] 57 items requested
+2024-07-08 11:04:01.709 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:04:01.709 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:04:02.335 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:04:02.338 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:04:03.720 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-07-08 11:04:03.720 [info] [VerilogCompletionItemProvider] 57 items requested
+2024-07-08 11:04:04.549 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-07-08 11:04:04.549 [info] [VerilogCompletionItemProvider] 57 items requested
+2024-07-08 11:04:04.689 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-07-08 11:04:04.689 [info] [VerilogCompletionItemProvider] 57 items requested
+2024-07-08 11:04:04.806 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-07-08 11:04:04.806 [info] [VerilogCompletionItemProvider] 57 items requested
+2024-07-08 11:04:05.142 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:04:05.143 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:04:06.814 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:04:06.815 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:04:08.951 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:04:08.952 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:04:11.114 [info] on save
+2024-07-08 11:04:11.463 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:04:11.463 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv"
+2024-07-08 11:04:11.463 [info] executing ctags
+2024-07-08 11:04:11.463 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv"
+2024-07-08 11:04:11.467 [info] building symbols
+2024-07-08 11:04:11.469 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:04:46.107 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:04:46.108 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:04:47.535 [info] on save
+2024-07-08 11:04:47.883 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:04:47.883 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv"
+2024-07-08 11:04:47.883 [info] executing ctags
+2024-07-08 11:04:47.883 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv"
+2024-07-08 11:04:47.888 [info] building symbols
+2024-07-08 11:04:47.889 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:04:51.298 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:04:53.724 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:05:09.193 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_control.sv
+2024-07-08 11:05:09.193 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_control.sv"
+2024-07-08 11:05:09.193 [info] executing ctags
+2024-07-08 11:05:09.193 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_control.sv"
+2024-07-08 11:05:09.195 [info] building symbols
+2024-07-08 11:05:09.196 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:07:42.250 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:07:42.488 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/15eglv_mpcut1/mpcut1.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv"
+2024-07-08 11:07:42.488 [info] executing ctags
+2024-07-08 11:07:42.488 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/15eglv_mpcut1/mpcut1.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv"
+2024-07-08 11:07:42.492 [info] building symbols
+2024-07-08 11:07:42.492 [info] [VerilogHoverProvider] Hover object returned
+2024-07-08 11:08:42.757 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:08:42.983 [info] [VerilogHoverProvider] Hover object returned
+2024-07-08 11:08:45.499 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:08:45.725 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:08:45.862 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:08:46.087 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:08:47.733 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:08:47.907 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:08:47.947 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:08:48.116 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:08:48.257 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:09:44.709 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:09:44.712 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:09:45.551 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:09:45.753 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:09:46.882 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:09:46.883 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:09:47.364 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:09:47.583 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:09:48.750 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:09:48.753 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:09:49.532 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:09:49.743 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:09:50.418 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:09:50.418 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:09:51.307 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:09:51.309 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:09:52.601 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:09:52.605 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:09:53.632 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:09:53.845 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:09:53.930 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:09:54.134 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:09:55.122 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:09:55.337 [info] [VerilogHoverProvider] Hover object returned
+2024-07-08 11:09:55.638 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:09:55.639 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:09:56.390 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:09:56.609 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:09:57.808 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:09:57.809 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:09:58.838 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:09:59.042 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:10:00.456 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:10:00.459 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:10:01.150 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:10:01.359 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:10:02.593 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/imports/example_top.sv
+2024-07-08 11:10:02.596 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:10:03.308 [info] on save
+2024-07-08 11:46:52.044 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv
+2024-07-08 11:46:52.044 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv"
+2024-07-08 11:46:52.044 [info] executing ctags
+2024-07-08 11:46:52.045 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv"
+2024-07-08 11:46:52.050 [info] building symbols
+2024-07-08 11:46:52.059 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:47:04.869 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:47:37.896 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:47:38.174 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:47:45.877 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:47:46.082 [info] [VerilogHoverProvider] Hover object returned
+2024-07-08 11:47:46.094 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:47:46.307 [info] [VerilogHoverProvider] Hover object returned
+2024-07-08 11:47:58.092 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:47:58.299 [info] [VerilogHoverProvider] Hover object returned
+2024-07-08 11:47:58.595 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:47:58.812 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:48:52.040 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:48:52.261 [info] [VerilogHoverProvider] Hover object returned
+2024-07-08 11:48:53.609 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:48:53.821 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:48:54.999 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv
+2024-07-08 11:48:55.228 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-07-08 11:49:06.501 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:49:06.726 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 11:54:31.387 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 11:54:31.606 [info] [VerilogHoverProvider] Hover object returned
+2024-07-08 11:55:17.819 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv
+2024-07-08 11:55:17.824 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:55:18.381 [info] on save
+2024-07-08 11:55:18.727 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv
+2024-07-08 11:55:18.727 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv"
+2024-07-08 11:55:18.727 [info] executing ctags
+2024-07-08 11:55:18.727 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv"
+2024-07-08 11:55:18.735 [info] building symbols
+2024-07-08 11:55:18.750 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 11:55:59.769 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv
+2024-07-08 11:55:59.774 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 12:01:13.246 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 12:01:13.475 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-08 12:01:56.931 [info] [VerilogHoverProvider] Hover requested
+2024-07-08 12:01:57.204 [info] [VerilogHoverProvider] Hover object returned
+2024-07-08 12:02:04.339 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv
+2024-07-08 12:02:04.344 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 12:02:05.033 [info] on save
+2024-07-08 12:02:05.382 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv
+2024-07-08 12:02:05.382 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv"
+2024-07-08 12:02:05.382 [info] executing ctags
+2024-07-08 12:02:05.382 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv"
+2024-07-08 12:02:05.389 [info] building symbols
+2024-07-08 12:02:05.396 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 12:02:24.126 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv
+2024-07-08 12:02:24.131 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 12:03:23.605 [info] [VerilogHoverProvider] Hover requested

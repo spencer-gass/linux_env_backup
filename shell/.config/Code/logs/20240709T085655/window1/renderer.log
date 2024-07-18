@@ -1,0 +1,1321 @@
+2024-07-09 08:56:56.220 [info] Started local extension host with pid 148023.
+2024-07-09 08:57:14.998 [info] [perf] Render performance baseline is 29ms
+2024-07-09 11:06:51.042 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 11:06:52.675 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 11:20:02.897 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 12:16:26.352 [error] [Extension Host] line 13:0 token recognition error at: '`t'
+2024-07-09 12:16:26.366 [error] [Extension Host] line 15:0 token recognition error at: '`d'
+2024-07-09 12:16:26.367 [error] [Extension Host] line 50:10 token recognition error at: '@'
+2024-07-09 12:16:26.367 [error] [Extension Host] line 57:0 token recognition error at: '`d'
+2024-07-09 12:16:26.367 [error] [Extension Host] line 13:11 no viable alternative at input 'imescale1'
+2024-07-09 12:16:26.392 [error] [Extension Host] line 13:14 mismatched input '/' expecting {';', ','}
+2024-07-09 12:16:26.392 [error] [Extension Host] line 15:2 mismatched input 'efault_nettype' expecting {';', ','}
+2024-07-09 12:16:26.393 [error] [Extension Host] line 17:0 mismatched input 'module' expecting {';', ','}
+2024-07-09 12:16:26.395 [error] [Extension Host] line 19:0 extraneous input ')' expecting {'Action', 'ActionValue', 'Rules', 'void', 'module', 'rule', '(', 'let', 'bit', 'function', 'parameter', '(*', Identifier, IntLiteral}
+2024-07-09 12:16:26.396 [error] [Extension Host] line 21:13 no viable alternative at input '(Clock_int.'
+2024-07-09 12:16:26.400 [error] [Extension Host] line 21:13 mismatched input '.' expecting {')', '#'}
+2024-07-09 12:16:26.403 [error] [Extension Host] line 23:11 extraneous input 'var' expecting {';', ','}
+2024-07-09 12:16:26.430 [error] [Extension Host] line 24:15 no viable alternative at input 'inputvarlogic'
+2024-07-09 12:16:26.442 [error] [Extension Host] line 25:15 no viable alternative at input 'inputvarlogic'
+2024-07-09 12:16:26.444 [error] [Extension Host] line 26:15 no viable alternative at input 'inputvarlogic'
+2024-07-09 12:16:26.447 [error] [Extension Host] line 28:15 no viable alternative at input 'outputvarlogic'
+2024-07-09 12:16:26.447 [error] [Extension Host] line 29:15 no viable alternative at input 'outputvarlogic'
+2024-07-09 12:16:26.448 [error] [Extension Host] line 31:0 extraneous input ')' expecting {'no_reset', 'Action', 'ActionValue', 'Rules', 'void', 'module', 'rule', ';', '(', 'let', 'bit', 'function', 'interface', 'method', 'endmodule', 'if', '{', 'tagged', 'match', 'begin', 'case', 'while', 'for', 'return', '?', 'valueof', 'valueOf', '+', '-', '!', '~', '&', '~&', '|', '~|', '^', '^~', '~^', 'action', 'actionvalue', 'rules', '$ungetc', '$fflush', '$finish', '$stop', '$dumpvars', '$dumpon', '$dumpoff', '$display', '$displayb', '$displayo', '$displayh', '$write', '$writeb', '$writeo', '$writeh', '$swrite', '$swriteb', '$swriteo', '$swriteh', '$sformat', '$time', '$stime', '$realtobits', '$bitstoreal', '$test$plusargs', '$format', '$fopen', 'fgetc', '$swriteAV', '$swritebAV', '$swriteoAV', '$swritehAV', '$sformatAV', '(*', 'seq', 'par', StringLiteral, Identifier, IntLiteral, RealLiteral}
+2024-07-09 12:16:26.449 [error] [Extension Host] line 33:9 no viable alternative at input 'function['
+2024-07-09 12:16:26.451 [error] [Extension Host] line 34:17 no viable alternative at input 'input[15:0]a'
+2024-07-09 12:16:26.453 [error] [Extension Host] line 35:15 no viable alternative at input 'reg[16:0]t'
+2024-07-09 12:16:26.499 [error] [Extension Host] line 40:0 extraneous input 'endfunction' expecting {'no_reset', 'Action', 'ActionValue', 'Rules', 'void', 'module', 'rule', ';', '(', 'let', 'bit', 'function', 'interface', 'method', 'endmodule', 'if', '{', 'tagged', 'match', 'begin', 'case', 'while', 'for', 'return', '?', 'valueof', 'valueOf', '+', '-', '!', '~', '&', '~&', '|', '~|', '^', '^~', '~^', 'action', 'actionvalue', 'rules', '$ungetc', '$fflush', '$finish', '$stop', '$dumpvars', '$dumpon', '$dumpoff', '$display', '$displayb', '$displayo', '$displayh', '$write', '$writeb', '$writeo', '$writeh', '$swrite', '$swriteb', '$swriteo', '$swriteh', '$sformat', '$time', '$stime', '$realtobits', '$bitstoreal', '$test$plusargs', '$format', '$fopen', 'fgetc', '$swriteAV', '$swritebAV', '$swriteoAV', '$swritehAV', '$sformatAV', '(*', 'seq', 'par', StringLiteral, Identifier, IntLiteral, RealLiteral}
+2024-07-09 12:16:26.500 [error] [Extension Host] line 44:12 no viable alternative at input 'always_combbegin'
+2024-07-09 12:16:26.537 [error] [Extension Host] line 48:0 missing ';' at 'end'
+2024-07-09 12:17:03.935 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 12:52:17.097 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 12:52:58.964 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 12:53:11.219 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 12:53:28.750 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+	at d (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at new u (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4930)
+	at new f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6395)
+	at qf.findSymbol (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7652)
+	at I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101322)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132113
+	at Ie.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:129520)
+	at Ie.$provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132100)
+	at E.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+	at E.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+	at E.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4723)
+	at E.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-07-09 12:53:31.720 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+	at d (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at new u (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4930)
+	at new f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6395)
+	at qf.findSymbol (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7652)
+	at I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101322)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132113
+	at Ie.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:129520)
+	at Ie.$provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132100)
+	at E.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+	at E.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+	at E.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4723)
+	at E.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-07-09 12:53:43.659 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 12:53:58.088 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 12:54:05.476 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 12:54:08.918 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 12:54:12.716 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 12:55:19.418 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 12:55:35.819 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 12:55:49.783 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 12:56:41.787 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:03:30.971 [error] Error: The editor could not be opened because the file was not found.
+    at N.gc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2187:30582)
+    at async N.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2187:29461)
+    at async s.S (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:24630)
+    at async s.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:23157)
+    at async s.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:22146)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:26784
+    at async Q (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2205:49174)
+2024-07-09 13:05:36.596 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:06:27.882 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:06:37.207 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:06:38.741 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:06:41.104 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:16:35.553 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:16:53.926 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:19:51.200 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:20:23.583 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:25:00.643 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:25:02.419 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:25:03.600 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:25:05.172 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:25:07.000 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:25:10.610 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:25:12.406 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:12.322 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:13.835 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:22.288 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:24.522 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:25.668 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:27.620 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:28.979 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:31.727 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:33.802 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:35.981 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:37.455 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:39.593 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:40.838 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:42.034 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:43.185 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:44.548 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:49.330 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:51.173 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:52.274 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:53.730 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:54.851 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:56.325 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:33:58.728 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:34:08.402 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:34:10.705 [error] FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1': Error: FileNotFoundError: [Errno 2] No such file or directory: '/home/sgass/Projects/kepler/Untitled-1'
+	at ae (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2330334)
+	at oe (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2328294)
+	at Immediate.<anonymous> (/home/sgass/.vscode/extensions/ms-python.python-2024.8.1/out/client/extension.js:2:2324588)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-07-09 13:35:56.046 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:36:15.578 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:36:16.583 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:36:31.801 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:38:37.812 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:40:29.329 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:50:22.729 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:50:27.639 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:56:03.564 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 13:56:33.220 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 18:40:12.452 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 18:40:54.655 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 18:41:18.242 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 18:41:22.149 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 18:43:05.106 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 18:45:11.345 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 18:47:48.243 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 18:53:38.087 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 18:54:24.507 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 18:55:45.910 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 18:55:53.294 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 18:56:33.447 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 18:57:47.966 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 18:58:54.521 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 18:59:21.622 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 19:03:50.636 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 19:03:51.867 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 19:08:15.004 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-09 19:09:26.933 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 08:40:56.956 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:23:55.853 [error] Error: The editor could not be opened because the file was not found.
+    at N.gc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2187:30582)
+    at async N.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2187:29461)
+    at async s.S (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:24630)
+    at async s.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:23157)
+    at async s.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:22146)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:26784
+2024-07-10 09:23:55.933 [info] Started local extension host with pid 572077.
+2024-07-10 09:23:58.501 [error] Error: The editor could not be opened because the file was not found.
+    at N.gc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2187:30582)
+    at async N.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2187:29461)
+    at async s.S (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:24630)
+    at async s.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:23157)
+    at async s.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:22146)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:26784
+2024-07-10 09:24:00.760 [error] Error: The editor could not be opened because the file was not found.
+    at N.gc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2187:30582)
+    at async N.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2187:29461)
+    at async s.S (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:24630)
+    at async s.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:23157)
+    at async s.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:22146)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:26784
+2024-07-10 09:26:23.019 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:27:15.869 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:27:23.800 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:27:48.705 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:27:55.691 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:28:27.148 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:30:14.861 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:38:07.263 [error] [Extension Host] Error: Repository not initialized
+	at T.run (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023198)
+	at T.checkIgnore (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1022005)
+	at c.checkIgnoreSoon (/usr/share/code/resources/app/extensions/git/dist/main.js:2:880857)
+	at Timeout._onTimeout (/usr/share/code/resources/app/extensions/git/dist/main.js:2:885726)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-07-10 09:39:45.166 [error] [Extension Host] Error: Repository not initialized
+	at T.run (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023198)
+	at T.checkIgnore (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1022005)
+	at c.checkIgnoreSoon (/usr/share/code/resources/app/extensions/git/dist/main.js:2:880857)
+	at Timeout._onTimeout (/usr/share/code/resources/app/extensions/git/dist/main.js:2:885726)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-07-10 09:40:03.463 [error] [Extension Host] Error: Repository not initialized
+	at T.run (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023198)
+	at T.checkIgnore (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1022005)
+	at c.checkIgnoreSoon (/usr/share/code/resources/app/extensions/git/dist/main.js:2:880857)
+	at Timeout._onTimeout (/usr/share/code/resources/app/extensions/git/dist/main.js:2:885726)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-07-10 09:40:29.285 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:40:36.076 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:40:39.260 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:40:50.485 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:40:53.703 [error] [Extension Host] Error: Repository not initialized
+	at T.run (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023198)
+	at T.checkIgnore (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1022005)
+	at c.checkIgnoreSoon (/usr/share/code/resources/app/extensions/git/dist/main.js:2:880857)
+	at Timeout._onTimeout (/usr/share/code/resources/app/extensions/git/dist/main.js:2:885726)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-07-10 09:41:30.328 [error] [Extension Host] Error: Repository not initialized
+	at T.run (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023198)
+	at T.checkIgnore (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1022005)
+	at c.checkIgnoreSoon (/usr/share/code/resources/app/extensions/git/dist/main.js:2:880857)
+	at Timeout._onTimeout (/usr/share/code/resources/app/extensions/git/dist/main.js:2:885726)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-07-10 09:41:32.474 [error] [Extension Host] Error: Repository not initialized
+	at T.run (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023198)
+	at T.checkIgnore (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1022005)
+	at c.checkIgnoreSoon (/usr/share/code/resources/app/extensions/git/dist/main.js:2:880857)
+	at Timeout._onTimeout (/usr/share/code/resources/app/extensions/git/dist/main.js:2:885726)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-07-10 09:41:33.252 [error] [Extension Host] Error: Repository not initialized
+	at T.run (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023198)
+	at T.checkIgnore (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1022005)
+	at c.checkIgnoreSoon (/usr/share/code/resources/app/extensions/git/dist/main.js:2:880857)
+	at Timeout._onTimeout (/usr/share/code/resources/app/extensions/git/dist/main.js:2:885726)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-07-10 09:44:07.147 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:44:28.996 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:44:30.147 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:44:37.732 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:44:43.941 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:51:09.918 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+	at d (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at new u (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4930)
+	at new f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6395)
+	at qf.findSymbol (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7652)
+	at I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101322)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132113
+	at Ie.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:129520)
+	at Ie.$provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132100)
+	at E.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+	at E.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+	at E.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4723)
+	at E.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-07-10 09:51:11.170 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+	at d (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at new u (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4930)
+	at new f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6395)
+	at qf.findSymbol (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at X_.provideDefinition (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:8267)
+	at E.provideDefinition (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:100270)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:131155
+	at Ie.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:129520)
+	at Ie.$provideDefinition (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:131142)
+	at E.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+	at E.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+	at E.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4723)
+	at E.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-07-10 09:52:19.275 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:52:45.694 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:53:26.512 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+	at d (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at u (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4930)
+	at new f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6395)
+	at qf.findSymbol (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7652)
+	at I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101322)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132113
+	at Ie.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:129520)
+	at Ie.$provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132100)
+	at E.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+	at E.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+	at E.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4723)
+	at E.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-07-10 09:53:33.095 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:54:15.972 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:54:26.080 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:55:38.506 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:56:19.141 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 09:57:49.624 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 10:00:18.380 [error] [Extension Host] Error: Repository not initialized
+	at T.run (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023198)
+	at T.checkIgnore (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1022005)
+	at c.checkIgnoreSoon (/usr/share/code/resources/app/extensions/git/dist/main.js:2:880857)
+	at Timeout._onTimeout (/usr/share/code/resources/app/extensions/git/dist/main.js:2:885726)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-07-10 10:04:22.753 [error] [Extension Host] Error: Repository not initialized
+	at T.run (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1023198)
+	at T.checkIgnore (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1022005)
+	at c.checkIgnoreSoon (/usr/share/code/resources/app/extensions/git/dist/main.js:2:880857)
+	at Timeout._onTimeout (/usr/share/code/resources/app/extensions/git/dist/main.js:2:885726)
+	at listOnTimeout (node:internal/timers:573:17)
+	at process.processTimers (node:internal/timers:514:7)
+2024-07-10 10:11:17.842 [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/sgass/Projects/kepler_fpga_build1)
+2024-07-10 10:11:17.843 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-07-10 10:48:43.333 [info] Started local extension host with pid 646734.
+2024-07-10 10:48:46.371 [info] [perf] Render performance baseline is 22ms
+2024-07-10 11:10:58.206 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 11:11:28.684 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 11:11:58.626 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 11:12:12.802 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 11:20:24.154 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 11:21:41.718 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 11:21:56.223 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 11:21:59.347 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 11:22:34.556 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 11:25:46.853 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 11:26:11.538 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 11:32:33.782 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:17:45.489 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:18:12.262 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:19:32.867 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:21:26.989 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:23:04.839 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:25:28.892 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:25:30.578 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:25:33.403 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:25:40.824 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:25:42.085 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:25:57.259 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:26:17.748 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:29:36.917 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:29:38.348 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:29:39.357 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:31:18.160 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:31:20.708 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:31:22.477 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:31:43.442 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:33:40.739 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:34:36.699 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:35:11.849 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:39:32.180 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:39:36.921 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:39:38.106 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:41:52.176 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:43:30.868 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:43:52.069 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:45:24.196 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:48:01.143 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:49:52.978 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:50:28.212 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:55:02.026 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:55:04.536 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:55:23.702 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:55:25.242 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 12:57:45.828 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:04:01.279 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:04:16.351 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:04:26.652 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:04:44.671 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:04:59.373 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:05:35.370 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:06:36.394 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:07:07.201 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:07:37.384 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:07:53.494 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:10:58.463 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:11:02.604 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:11:22.898 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:11:24.917 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:12:30.549 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:12:38.825 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:13:08.249 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:14:37.840 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:14:48.990 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:21:46.772 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:22:03.048 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:24:24.593 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:25:36.544 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:28:41.075 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:29:39.908 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:29:41.223 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:32:10.238 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:32:14.832 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:32:56.156 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:33:02.087 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:34:35.324 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:36:22.191 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:41:42.685 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:41:46.272 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:41:49.479 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:41:50.618 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:41:51.901 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:42:04.657 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:44:00.251 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:44:09.654 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:48:06.983 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:49:54.387 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:49:55.895 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:50:04.630 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:56:44.435 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:56:48.623 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:56:50.269 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 13:57:09.431 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 14:00:52.810 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 14:02:13.759 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 14:02:57.727 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 14:03:26.216 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 14:03:28.915 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 14:08:09.556 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 14:23:01.578 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 14:33:33.284 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 14:34:16.538 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 14:34:33.320 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 14:34:42.702 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 14:35:06.498 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:12:18.800 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:12:22.714 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:12:44.545 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:13:42.022 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:13:47.965 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:17:09.358 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:20:19.079 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:20:21.322 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:22:37.932 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:25:44.283 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:30:36.391 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:32:25.976 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:32:36.837 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:32:43.553 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:32:47.059 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:33:02.823 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:33:42.585 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:34:02.562 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:34:04.185 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:37:15.835 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:47:32.692 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:47:50.373 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:50:15.487 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:54:27.421 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:54:29.255 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:54:32.543 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:55:06.306 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 15:55:57.479 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 16:02:12.740 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 16:03:51.737 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 16:04:23.960 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 16:06:06.472 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 16:06:52.329 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-10 16:09:14.100 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 09:49:03.821 [error] Error: The editor could not be opened because the file was not found.
+    at N.gc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2187:30582)
+    at async N.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2187:29461)
+    at async s.S (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:24630)
+    at async s.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:23157)
+    at async s.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2185:22146)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2313:26784
+2024-07-11 09:49:03.926 [info] Started local extension host with pid 1252543.
+2024-07-11 09:52:22.066 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+	at d (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at u (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4930)
+	at new f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6395)
+	at qf.findSymbol (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7652)
+	at I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101322)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132113
+	at Ie.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:129520)
+	at Ie.$provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132100)
+	at E.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+	at E.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+	at E.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4723)
+	at E.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-07-11 09:52:24.964 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+	at d (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at u (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4930)
+	at new f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6395)
+	at qf.findSymbol (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7652)
+	at I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101322)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132113
+	at Ie.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:129520)
+	at Ie.$provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132100)
+	at E.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+	at E.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+	at E.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4723)
+	at E.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-07-11 10:07:31.931 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 10:08:06.242 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 10:08:21.292 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 10:09:31.528 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 10:12:55.272 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 10:31:40.004 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 10:55:53.716 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:08:38.384 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:09:04.987 [info] Started local extension host with pid 1346594.
+2024-07-11 12:09:07.841 [info] [perf] Render performance baseline is 24ms
+2024-07-11 12:37:55.692 [info] Started local extension host with pid 1370178.
+2024-07-11 12:37:58.528 [info] [perf] Render performance baseline is 23ms
+2024-07-11 12:40:00.082 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:40:18.620 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:40:20.201 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+	at d (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at u (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4930)
+	at new f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6395)
+	at qf.findSymbol (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7652)
+	at I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101322)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132113
+	at Ie.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:129520)
+	at Ie.$provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132100)
+	at E.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+	at E.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+	at E.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4723)
+	at E.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-07-11 12:41:07.791 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:41:28.986 [error] Illegal argument: character must be non-negative: Error: Illegal argument: character must be non-negative
+	at d (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:1029)
+	at u (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4930)
+	at new f (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6395)
+	at qf.findSymbol (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:65:72780)
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7652)
+	at I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101322)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132113
+	at Ie.s (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:129520)
+	at Ie.$provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:132100)
+	at E.S (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5970)
+	at E.Q (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5736)
+	at E.M (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:4723)
+	at E.L (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:3589)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2282)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at n.value (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8481)
+	at l.y (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:664)
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:881)
+	at s.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:14502)
+	at MessagePortMain.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6631)
+	at MessagePortMain.emit (node:events:514:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-07-11 12:43:03.929 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:43:05.886 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:43:11.615 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:43:13.650 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:43:23.769 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:43:24.862 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:43:37.313 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:45:24.883 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:45:47.897 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:45:48.983 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:46:29.749 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:49:27.594 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:49:28.729 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:50:38.673 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:51:31.686 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:51:56.687 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:52:17.955 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:52:49.848 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:53:00.337 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:53:15.019 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:53:16.038 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:53:17.823 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:54:27.023 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:54:34.478 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:54:52.551 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:55:22.654 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:57:36.779 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 12:58:04.247 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 13:05:48.372 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 13:32:04.921 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 13:35:22.874 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 13:36:30.185 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 13:36:31.401 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-11 13:36:36.336 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)

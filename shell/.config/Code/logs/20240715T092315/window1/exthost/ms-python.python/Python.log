@@ -1,0 +1,55 @@
+2024-07-15 09:23:28.455 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-15 09:23:28.456 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-15 09:23:28.456 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-07-15 09:23:28.456 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-15 09:23:28.456 [info] Experiment 'pythonTestAdapter' is active
+2024-07-15 09:23:28.456 [error] Reading directory to watch failed [Error: ENOENT: no such file or directory, scandir '/home/sgass/Projects/kepler/.pixi/envs'
+	at Object.readdirSync (node:fs:1515:3)
+	at t.readdirSync (node:electron/js2c/node_init:2:11289)
+	at /home/sgass/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:574598
+	at /home/sgass/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:574789
+	at Array.map (<anonymous>)
+	at d.initWatchers (/home/sgass/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:574507)
+	at async d.ensureWatchersReady (/home/sgass/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/out/client/extension.js:2:536827)] {
+  errno: -2,
+  syscall: 'scandir',
+  code: 'ENOENT',
+  path: '/home/sgass/Projects/kepler/.pixi/envs'
+}
+2024-07-15 09:23:28.456 [error] Dir "/home/sgass/Projects/kepler/.pixi/envs" is not watchable (directory does not exist)
+2024-07-15 09:23:28.456 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler
+2024-07-15 09:23:28.456 [info] Python interpreter path: /bin/python3
+2024-07-15 09:23:28.466 [info] > pyenv which python
+2024-07-15 09:23:28.466 [info] cwd: .
+2024-07-15 09:23:29.305 [info] Starting Jedi language server for kepler.
+2024-07-15 09:23:29.484 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-07-15 09:23:29.489 [info] > pixi --version
+2024-07-15 09:23:29.490 [error] [Error: spawn pixi ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-07-15 09:23:29.490 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-07-15 09:23:29.492 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2024-07-15 14:37:22.436 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-15 14:38:09.530 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-15 14:39:32.101 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-15 14:40:01.550 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-15 16:03:16.580 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-15 16:10:15.572 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-16 09:23:30.575 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-16 09:43:40.433 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_avmm_regs_tb.py
+2024-07-16 09:44:58.657 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_avmm_regs_tb.py
+2024-07-16 09:45:43.474 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_avmm_regs_tb.py
+2024-07-16 09:45:56.622 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_avmm_regs_tb.py
+2024-07-16 09:47:11.421 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_avmm_regs_tb.py
+2024-07-16 09:47:21.910 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_avmm_regs_tb.py
+2024-07-16 09:47:45.754 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_avmm_regs_tb.py
+2024-07-17 09:29:37.838 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_avmm_regs_tb.py
+2024-07-17 09:37:02.445 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_avmm_regs_tb.py
+2024-07-17 11:41:13.970 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_avmm_regs_tb.py

@@ -1,0 +1,173 @@
+#!/usr/bin/env bash
+
+# --------------------------------------------------------------------------
+# The Python part of following hook is from
+#            https://github.com/google/yapf/blob/master/plugins/pre-commit.sh
+
+# Git pre-commit hook to check staged Python files for formatting issues with
+# yapf.
+#
+# INSTALLING: Copy this script into `.git/hooks/pre-commit`, and mark it as
+# executable.
+#
+# Python
+# ======
+# This requires that yapf is installed and runnable in the environment running
+# the pre-commit hook.
+#
+# When running, this first checks for unstaged changes to staged files, and if
+# there are any, it will exit with an error. Files with unstaged changes will be
+# printed.
+#
+# If all staged files have no unstaged changes, it will run yapf against them,
+# leaving the formatting changes unstaged. Changed files will be printed.
+#
+# BUGS: This does not leave staged changes alone when used with the -a flag to
+# git commit, due to the fact that git stages ALL unstaged files when that flag
+# is used.
+#
+# SVLint
+# ======
+# This runs svlint on all *.sv and *.svh files. It exits with an error if there
+# are any failures.
+alias python3='python3.8'
+
+# Find and process all staged Python files.
+PYTHON_FILES=()
+while IFS=$'\n' read -r line; do PYTHON_FILES+=("$line"); done \
+  < <(git diff --name-only --cached --diff-filter=AM | grep --color=never '.py$')
+if [ ${#PYTHON_FILES[@]} -ne 0 ]; then
+    # Check if the environment Kepler Python virtual environment path variable is set.
+    if [[ -z "${KEPLER_MONOREPO_PYTHON_VIRTUALENV_PATH}" ]]; then
+        echo "WARNING: Environment variable 'KEPLER_MONOREPO_PYTHON_VIRTUALENV_PATH' not set."
+        echo "Falling back to Python environment from the scope of the caller..."
+    else
+        source $KEPLER_MONOREPO_PYTHON_VIRTUALENV_PATH
+    fi
+
+    # Check if the correct version of Python is being used for this virtual environment.
+    if ! python3 -c 'import sys; assert sys.version_info[:2] == (3,6)' 2> /dev/null; then
+        echo "WARNING: Python 3.6 not found for current environment."
+        echo "Falling back to $(python3 -V 2>&1)..."
+    fi
+
+    # Verify that yapf is installed; if not, warn and exit.
+    if ! command -v yapf >/dev/null; then
+    echo 'yapf not on path; can not format. Please install yapf:'
+    echo '    pip install yapf'
+    exit 2
+    fi
+
+    # Check for unstaged changes to files in the index.
+    CHANGED_FILES=()
+    while IFS=$'\n' read -r line; do CHANGED_FILES+=("$line"); done \
+    < <(git diff --name-only "${PYTHON_FILES[@]}")
+    if [ ${#CHANGED_FILES[@]} -gt 0 ]; then
+    echo 'You have unstaged changes to some files in your commit; skipping '
+    echo 'auto-format. Please stage, stash, or revert these changes. You may '
+    echo 'find `git stash -k` helpful here.'
+    echo 'Files with unstaged changes:' "${CHANGED_FILES[@]}"
+    exit 1
+    fi
+
+    # Format all staged files, then exit with an error code if any have uncommitted
+    # changes.
+    echo 'Formatting staged Python files . . .'
+
+    # WARN: Ensure the list of exclusions matches what is in tox.ini::format
+    #       so the results between the pre-commit check and the format
+    #       CI job are consistent.
+    yapf --style python/.style.yapf -i -r -p \
+        -e *_pb2.py \
+        -e *_pb2_grpc.py \
+        -e kepler/fpga/devices/ad9361/ad9361_api.py \
+        -e kepler/fpga/devices/ad9361/ad9361_dac_core.py \
+        -e kepler/fpga/devices/ad9361/ad9361.py \
+        "${PYTHON_FILES[@]}"
+
+    CHANGED_FILES=()
+    while IFS=$'\n' read -r line; do CHANGED_FILES+=("$line"); done \
+    < <(git diff --name-only "${PYTHON_FILES[@]}")
+    if [ ${#CHANGED_FILES[@]} -gt 0 ]; then
+    echo 'Reformatted staged files. Please review and stage the changes.'
+    echo 'Files updated: ' "${CHANGED_FILES[@]}"
+    exit 1
+    fi
+
+
+    # --------------------------------------------------------------------------
+    # The following hook uses git-pylint-commit-hook which needs to be installed
+
+    # Verify git-pylint-commit-hook is installed
+    if ! command -v git-pylint-commit-hook >/dev/null; then
+    echo 'git-pylint-commit-hook not on path; can not lint. Please install:'
+    echo '    pip install git-pylint-commit-hook'
+    exit 2
+    fi
+
+    git-pylint-commit-hook --pylintrc=python/kepler/.pylintrc --pylint-params=-j1 --limit=10.0
+    if [ $? -ne 0 ]; then
+        exit 1
+    fi
+
+    # --------------------------------------------------------------------------
+    # Typecheck all staged files.
+    echo 'Typechecking staged Python files . . .'
+
+    if ! command -v mypy >/dev/null; then
+        echo 'mypy not on path; can not type check. Please install:'
+        echo '    pip install mypy  # (Latest version)'
+        echo '    pip install -e .[pre-commit]  # (OR pinned version, with third-party stubs)'
+        exit 2
+    fi
+
+    # config has a relative path to stubs, from a different directory, so we must override it.
+    MYPYPATH=python/kepler/stubs mypy --config-file python/kepler/mypy.toml "${PYTHON_FILES[@]}"
+    if [ $? -ne 0 ]; then
+        exit 1
+    fi
+fi # end Python stuff
+
+# Find and process staged SystemVerilog files.
+SV_FILES=()
+while IFS=$'\n' read -r line; do SV_FILES+=("$line"); done \
+  < <(git diff --name-only --cached --diff-filter=AM | grep --extended-regexp --color=never '.svh?$')
+if [ ${#SV_FILES[@]} -ne 0 ]; then
+    # Import the svlint helper functions.
+    HERE=$(dirname $0)
+    LINT_FUNC_SCRIPT=$HERE/../sysscripts/rtl_helpers/lint_rtl_funcs.sh
+    if [ ! -e $LINT_FUNC_SCRIPT ]; then
+        echo "Could not find $LINT_FUNC_SCRIPT."
+        exit 2
+    fi
+    source $LINT_FUNC_SCRIPT
+
+    # Verify that svlint is installed; if not, warn and exit.
+    # SVlint may be in the path.
+    SVLINT=$(command -v svlint)
+    if [ "$SVLINT"x == ""x ]; then
+        # If it was installed via cargo, it will be in ${HOME}/.cargo/bin
+        if [ -x ${HOME}/.cargo/bin/svlint ]; then
+            export PATH=${PATH}:${HOME}/.cargo/bin
+            SVLINT=${HOME}/.cargo/bin/svlint
+        fi
+    fi
+    if [ ! -x $SVLINT ]; then
+        echo "svlint not on path and not ~/.cargo/bin. Please install svlint:"
+        echo "    sudo apt install cargo && cargo install svlint"
+        exit 2
+    fi
+
+    if ! command -v parallel > /dev/null; then
+        echo "GNU Parallal is not installed. Please install parallel."
+        echo "    sudo apt install parallel"
+        exit 2
+    fi
+
+    for svfile in "${SV_FILES[@]}"; do echo $svfile; done | filter_svlintable | parallel "lint_rtl {}"
+    FAILURES=$?
+    if [ $FAILURES -gt 0 ]; then
+        echo "$FAILURES files failed svlint."
+        exit 1
+    fi
+fi # end SV stuff

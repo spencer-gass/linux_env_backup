@@ -1,0 +1,11 @@
+[Added Associations]
+image/png=gimp.desktop;
+image/jpeg=gimp.desktop;firefox.desktop;
+
+[Default Applications]
+text/html=firefox_firefox.desktop
+x-scheme-handler/obsidian=obsidian.desktop
+x-scheme-handler/http=firefox_firefox.desktop
+x-scheme-handler/https=firefox_firefox.desktop
+x-scheme-handler/about=firefox_firefox.desktop
+x-scheme-handler/unknown=firefox_firefox.desktop

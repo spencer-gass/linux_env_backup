@@ -1,0 +1,17 @@
+2024-07-08 16:12:14.917 [info] mshr-h.veriloghdl is now active.
+2024-07-08 16:12:14.917 [info] [ExtensionManager] previousVersion: "1.14.1", currentVersion: "1.14.1"
+2024-07-08 16:12:14.917 [info] ctags manager configure
+2024-07-08 16:12:14.917 [warning] [LintManager] Invalid linter name: none
+2024-07-08 16:12:14.917 [info] mshr-h.veriloghdl activation finished.
+2024-07-08 16:12:15.302 [warning] [LintManager] Invalid linter name: none
+2024-07-08 16:12:15.386 [warning] [LintManager] Invalid linter name: none
+2024-07-08 16:12:16.053 [warning] [LintManager] Invalid linter name: none
+2024-07-08 16:12:16.759 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv
+2024-07-08 16:12:16.759 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv"
+2024-07-08 16:12:16.759 [info] executing ctags
+2024-07-08 16:12:16.759 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_2_ex/vitis_net_p4_2_ex.ip_user_files/ip/vitis_net_p4_2/src/verilog/vitis_net_p4_2_pkg.sv"
+2024-07-08 16:12:16.775 [info] building symbols
+2024-07-08 16:12:16.791 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-08 16:12:16.847 [warning] [LintManager] Invalid linter name: none
+2024-07-08 16:12:32.962 [warning] [LintManager] Invalid linter name: none
+2024-07-08 16:13:05.439 [info] Deactivated
