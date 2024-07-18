@@ -1,0 +1,5 @@
+# run traffic
+run_traffic /home/sgass/Projects/kepler/hdl/workspace/vitis_net_p4_0_ex/imports/traffic
+
+# end
+exit

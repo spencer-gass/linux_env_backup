@@ -1,0 +1,8 @@
+{
+    "cmake.showOptionsMovedNotification": false,
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "verilog.formatting.verilogHDL.formatter": "verible-verilog-format",
+    "verilog.linting.linter": "xvlog",
+    "verilog.ctags.path": "/usr/local/bin/"
+}

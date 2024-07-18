@@ -1,0 +1,36 @@
+2024-07-02 08:19:10.397 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-02 08:19:10.397 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-02 08:19:10.397 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-07-02 08:19:10.397 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-02 08:19:10.397 [info] Experiment 'pythonTestAdapter' is active
+2024-07-02 08:19:10.397 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler
+2024-07-02 08:19:10.397 [info] Python interpreter path: /bin/python3
+2024-07-02 08:19:10.401 [info] > pyenv which python
+2024-07-02 08:19:10.401 [info] cwd: .
+2024-07-02 08:19:10.802 [info] Starting Jedi language server for kepler.
+2024-07-02 08:19:11.408 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-07-02 08:23:51.635 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-02 08:24:14.009 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-02 08:26:15.847 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-02 08:27:22.450 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-02 08:27:31.981 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-02 08:28:58.377 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-02 08:29:34.274 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-02 08:44:33.588 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-02 08:44:34.666 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-02 08:57:24.085 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-02 09:09:10.464 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-02 09:10:21.695 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-02 09:35:53.349 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-02 09:37:07.540 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+2024-07-03 13:15:30.476 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-07-03 13:15:30.476 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-07-03 13:15:30.476 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-07-03 13:15:30.476 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-07-03 13:15:30.476 [info] Experiment 'pythonTestAdapter' is active
+2024-07-03 13:15:30.506 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler
+2024-07-03 13:15:30.525 [info] Python interpreter path: /bin/python3
+2024-07-03 13:15:30.556 [info] > pyenv which python
+2024-07-03 13:15:30.556 [info] cwd: .
+2024-07-03 13:15:31.087 [info] Starting Jedi language server for kepler.
+2024-07-03 13:15:31.581 [warning] Shell integration may not be active, environment activated may be overridden by the shell.

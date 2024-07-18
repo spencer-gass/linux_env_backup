@@ -1,0 +1,140 @@
+2024-07-02 08:19:06.781 [info] mshr-h.veriloghdl is now active.
+2024-07-02 08:19:06.781 [info] [ExtensionManager] previousVersion: "1.14.1", currentVersion: "1.14.1"
+2024-07-02 08:19:06.781 [info] ctags manager configure
+2024-07-02 08:19:06.781 [warning] [LintManager] Invalid linter name: none
+2024-07-02 08:19:06.781 [info] mshr-h.veriloghdl activation finished.
+2024-07-02 08:19:07.231 [warning] [LintManager] Invalid linter name: none
+2024-07-02 08:19:07.272 [warning] [LintManager] Invalid linter name: none
+2024-07-02 08:19:07.381 [warning] [LintManager] Invalid linter name: none
+2024-07-02 08:19:08.455 [warning] [LintManager] Invalid linter name: none
+2024-07-02 08:19:08.993 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/avmm_to_axi4lite_vnp4_control_sim.sv
+2024-07-02 08:19:08.993 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/avmm_to_axi4lite_vnp4_control_sim.sv"
+2024-07-02 08:19:08.993 [info] executing ctags
+2024-07-02 08:19:08.994 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/avmm_to_axi4lite_vnp4_control_sim.sv"
+2024-07-02 08:19:08.996 [info] building symbols
+2024-07-02 08:19:08.996 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-02 08:19:08.999 [warning] [LintManager] Invalid linter name: none
+2024-07-02 08:19:09.137 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 08:19:25.446 [warning] [LintManager] Invalid linter name: none
+2024-07-02 08:19:51.326 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_control_sim.sv
+2024-07-02 08:19:51.326 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_control_sim.sv"
+2024-07-02 08:19:51.326 [info] executing ctags
+2024-07-02 08:19:51.326 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_control_sim.sv"
+2024-07-02 08:19:51.329 [info] building symbols
+2024-07-02 08:19:51.330 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-02 08:19:53.514 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 08:23:51.382 [info] on save
+2024-07-02 08:24:13.758 [info] on save
+2024-07-02 08:26:15.596 [info] on save
+2024-07-02 08:27:22.199 [info] on save
+2024-07-02 08:27:31.730 [info] on save
+2024-07-02 08:28:58.125 [info] on save
+2024-07-02 08:29:34.023 [info] on save
+2024-07-02 08:44:33.337 [info] on save
+2024-07-02 08:44:34.416 [info] on save
+2024-07-02 08:57:23.835 [info] on save
+2024-07-02 09:09:10.212 [info] on save
+2024-07-02 09:10:21.443 [info] on save
+2024-07-02 09:35:53.097 [info] on save
+2024-07-02 09:37:07.288 [info] on save
+2024-07-02 09:37:17.738 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv
+2024-07-02 09:37:17.738 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv"
+2024-07-02 09:37:17.738 [info] executing ctags
+2024-07-02 09:37:17.738 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv"
+2024-07-02 09:37:17.740 [info] building symbols
+2024-07-02 09:37:17.742 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-02 09:37:38.764 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 09:37:39.019 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/15eglv_mpcut1/mpcut1.ip_user_files/ip/vitis_net_p4_forward/src/verilog/vitis_net_p4_forward_pkg.sv"
+2024-07-02 09:37:39.019 [info] executing ctags
+2024-07-02 09:37:39.019 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/15eglv_mpcut1/mpcut1.ip_user_files/ip/vitis_net_p4_forward/src/verilog/vitis_net_p4_forward_pkg.sv"
+2024-07-02 09:37:39.023 [info] building symbols
+2024-07-02 09:37:39.023 [info] [VerilogHoverProvider] Hover object returned
+2024-07-02 09:37:39.193 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 09:37:39.409 [info] [VerilogHoverProvider] Hover object returned
+2024-07-02 09:37:42.223 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv
+2024-07-02 09:37:42.224 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-02 09:37:43.970 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv
+2024-07-02 09:37:43.972 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-02 09:37:45.246 [info] on save
+2024-07-02 09:38:20.291 [info] on save
+2024-07-02 09:38:23.548 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 09:38:23.548 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv"
+2024-07-02 09:38:23.548 [info] executing ctags
+2024-07-02 09:38:23.548 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv"
+2024-07-02 09:38:23.558 [info] building symbols
+2024-07-02 09:38:23.798 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_frr_10G_pkg.sv"
+2024-07-02 09:38:23.798 [info] executing ctags
+2024-07-02 09:38:23.798 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_frr_10G_pkg.sv"
+2024-07-02 09:38:23.801 [info] building symbols
+2024-07-02 09:38:23.801 [info] [VerilogHoverProvider] Hover object returned
+2024-07-02 09:38:25.926 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 09:38:26.144 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_forward_pkg.sv"
+2024-07-02 09:38:26.144 [info] executing ctags
+2024-07-02 09:38:26.144 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_forward_pkg.sv"
+2024-07-02 09:38:26.146 [info] building symbols
+2024-07-02 09:38:26.146 [info] [VerilogHoverProvider] Hover object returned
+2024-07-02 09:38:26.786 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 09:38:27.006 [warning] [VerilogHoverProvider] Hover object not found
+2024-07-02 09:38:27.103 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 09:38:27.362 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_forward_ex/vitis_net_p4_forward_ex.ip_user_files/ip/vitis_net_p4_forward/src/verilog/vitis_net_p4_forward_pkg.sv"
+2024-07-02 09:38:27.362 [info] executing ctags
+2024-07-02 09:38:27.362 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/vitis_net_p4_forward_ex/vitis_net_p4_forward_ex.ip_user_files/ip/vitis_net_p4_forward/src/verilog/vitis_net_p4_forward_pkg.sv"
+2024-07-02 09:38:27.365 [info] building symbols
+2024-07-02 09:38:27.365 [info] [VerilogHoverProvider] Hover object returned
+2024-07-02 09:38:30.707 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv
+2024-07-02 09:38:30.709 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-02 09:38:31.725 [info] on save
+2024-07-02 09:41:16.075 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 09:41:16.075 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv"
+2024-07-02 09:41:16.075 [info] executing ctags
+2024-07-02 09:41:16.075 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv"
+2024-07-02 09:41:16.080 [info] building symbols
+2024-07-02 09:41:16.303 [info] [VerilogHoverProvider] Hover object returned
+2024-07-02 09:41:16.371 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 09:41:16.640 [info] [VerilogHoverProvider] Hover object returned
+2024-07-02 09:41:17.262 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 09:41:17.472 [info] [VerilogHoverProvider] Hover object returned
+2024-07-02 09:41:26.048 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 09:41:26.282 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/15eglv_mpcut1/mpcut1.ip_user_files/ip/vitis_net_p4_forward/src/verilog/vitis_net_p4_forward_pkg.sv"
+2024-07-02 09:41:26.282 [info] executing ctags
+2024-07-02 09:41:26.282 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/15eglv_mpcut1/mpcut1.ip_user_files/ip/vitis_net_p4_forward/src/verilog/vitis_net_p4_forward_pkg.sv"
+2024-07-02 09:41:26.284 [info] building symbols
+2024-07-02 09:41:26.284 [info] [VerilogHoverProvider] Hover object returned
+2024-07-02 09:41:33.981 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv
+2024-07-02 09:41:33.985 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-02 09:41:39.393 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv
+2024-07-02 09:41:39.398 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-02 09:41:44.825 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv
+2024-07-02 09:41:44.829 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-02 09:41:47.788 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv
+2024-07-02 09:41:47.791 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-02 09:41:52.878 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv
+2024-07-02 09:41:52.882 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-02 09:41:53.808 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_sim_pkg.sv
+2024-07-02 09:41:53.811 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-02 09:41:55.175 [info] on save
+2024-07-02 09:42:18.815 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 09:42:19.028 [info] [VerilogHoverProvider] Hover object returned
+2024-07-02 09:42:25.921 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 09:42:26.141 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_forward_pkg.sv"
+2024-07-02 09:42:26.141 [info] executing ctags
+2024-07-02 09:42:26.141 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_forward_pkg.sv"
+2024-07-02 09:42:26.144 [info] building symbols
+2024-07-02 09:42:26.144 [info] [VerilogHoverProvider] Hover object returned
+2024-07-02 09:42:34.264 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vnp4_control_sim.sv
+2024-07-02 09:42:34.265 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-07-02 09:42:37.932 [info] on save
+2024-07-02 09:43:38.783 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 09:54:47.478 [info] [VerilogHoverProvider] Hover requested
+2024-07-02 13:40:03.240 [info] Deactivated
+2024-07-02 13:40:04.182 [info] mshr-h.veriloghdl is now active.
+2024-07-02 13:40:04.183 [info] [ExtensionManager] previousVersion: "1.14.1", currentVersion: "1.14.1"
+2024-07-02 13:40:04.183 [info] ctags manager configure
+2024-07-02 13:40:04.183 [warning] [LintManager] Invalid linter name: none
+2024-07-02 13:40:04.183 [info] mshr-h.veriloghdl activation finished.
+2024-07-02 13:40:04.243 [warning] [LintManager] Invalid linter name: none
+2024-07-02 13:40:04.381 [warning] [LintManager] Invalid linter name: none
+2024-07-02 13:40:04.391 [warning] [LintManager] Invalid linter name: none
+2024-07-02 13:40:04.435 [warning] [LintManager] Invalid linter name: none
+2024-07-02 13:40:06.298 [warning] [LintManager] Invalid linter name: none
+2024-07-03 13:15:29.558 [info] Deactivated

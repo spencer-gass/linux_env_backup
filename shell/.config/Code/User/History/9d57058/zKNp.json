@@ -1,0 +1,70 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+d",
+        "command": "-editor.action.addSelectionToNextFindMatch",
+        "when": "editorFocus"
+    },
+    {
+        "key": "ctrl+d",
+        "command": "runCommands",
+        "args": {
+          "commands": [
+            "actions.find",
+            "editor.action.nextMatchFindAction"
+          ]
+        },
+        "when": "editorFocus || editorIsOpen"
+    },
+    {
+        "key": "ctrl+f",
+        "command": "-actions.find"
+    },
+    {
+        "key": "ctrl+f",
+        "command": "runCommands",
+        "args": {
+          "commands": [
+            "editor.action.addSelectionToNextFindMatch",
+            "actions.find",
+            "editor.action.nextMatchFindAction"
+          ]
+        },
+        "when": "editorFocus || editorIsOpen"
+    },
+    {
+        "key": "ctrl+alt+s",
+        "command": "workbench.action.files.saveAll"
+    },
+    {
+      "key": "shift+alt+u",
+      "command": "cursorUndo",
+      "when": "textInputFocus"
+    },
+    {
+      "key": "ctrl+u",
+      "command": "-cursorUndo",
+      "when": "textInputFocus"
+    },
+    {
+      "key": "ctrl+u",
+      "command": "editor.action.transformToUppercase",
+      "when": "editorFocus && editorHasSelection"
+    },
+    {
+      "key": "ctrl+shift+u",
+      "command": "editor.action.transformToLowercase",
+      "when": "editorFocus && editorHasSelection"
+    },
+    {
+      "key": "ctrl+alt+l",
+      "command": "expandLineSelection",
+      "when": "textInputFocus"
+    },
+    {
+      "key": "ctrl+l",
+      "command": "-expandLineSelection",
+      "when": "textInputFocus"
+    },
+
+]

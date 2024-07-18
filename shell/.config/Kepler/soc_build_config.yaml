@@ -1,0 +1,55 @@
+artifact_download:
+    soc_build:
+        nightly: http://socbuilds.i.kepler.engineering/
+    default: nightly
+    include_optional: false
+paths:
+    git_checkout_dir: /home/sgass/Projects/soc_builds/git
+    build_dir: /home/sgass/Projects/soc_builds/build
+    output_dir: /home/sgass/Projects/soc_builds/output
+    result_db: /home/sgass/Projects/soc_builds/db/soc_build.sqlite3
+tools:
+    vivado:
+        2019:
+            executable: /opt/Xilinx/Vivado/2019.1/bin/vivado
+            default: true
+        2021:
+            executable: /opt/Xilinx/Vivado/2021.2//bin/vivado
+    xsdk:
+        2019:
+            executable: /opt/Xilinx/SDK/2019.1/bin/xsct
+            default: true
+    vitis:
+        2021:
+            executable: /opt/Xilinx/Vitis/2021.2/bin/xsct
+            default: true
+    bootgen:
+        2019:
+            executable: /opt/Xilinx/SDK/2019.1/bin/bootgen
+        2021:
+            executable: /opt/Xilinx/Vitis/2021.2/bin/bootgen
+            default: true
+    petalinux:
+        2019:
+            executable: /home/sgass/Projects/kepler/Docker/petalinux/scripts/settings-2019.1.sh
+            downloads: /home/sgass/petalinux/2019.1/downloads/
+            sstate-cache: /home/sgass/petalinux/2019.1/sstate-cache/
+            default: true
+        2021:
+            executable: /home/sgass/Projects/kepler/Docker/petalinux/scripts/settings-2021.2.sh
+            downloads: /home/sgass/petalinux/2021.2/downloads/
+            sstate-cache: /home/sgass/petalinux/2021.2/sstate-cache/
+tool-config:
+    vivado:
+        timing_failure_is_build_failure: false
+repos:
+    git:
+        kepler: ssh://git@gitlab.i.kepler.engineering:6622/kepler/kepler.git
+        sgass: ssh://git@gitlab.i.kepler.engineering:6622/sgass/kepler.git
+    default_repo: local
+    default_branch: develop
+    project_config: soc_build/projects.yaml
+    git_hash_digits: 9
+override_defaults:
+    petalinux:
+        no-sdk: true

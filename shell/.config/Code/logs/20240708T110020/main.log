@@ -1,0 +1,7 @@
+2024-07-08 11:00:20.433 [info] update#setState idle
+2024-07-08 11:00:39.737 [error] update#isLatestVersion(): failed to check for updates
+2024-07-08 11:00:39.738 [error] Error: net::ERR_SOCKET_NOT_CONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:109791)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-07-08 11:00:50.435 [info] update#setState checking for updates
+2024-07-08 11:00:50.660 [info] update#setState available for download

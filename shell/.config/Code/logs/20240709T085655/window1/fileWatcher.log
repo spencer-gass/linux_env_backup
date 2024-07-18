@@ -1,0 +1,2 @@
+2024-07-10 10:11:17.846 [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/sgass/Projects/kepler_fpga_build1)
+2024-07-10 10:11:17.847 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

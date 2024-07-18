@@ -1,0 +1,176 @@
+`timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company:
+// Engineer:
+//
+// Create Date: 07/17/2024 04:02:56 PM
+// Design Name:
+// Module Name: p4_router_util_2022_top
+// Project Name:
+// Target Devices:
+// Tool Versions:
+// Description:
+//
+// Dependencies:
+//
+// Revision:
+// Revision 0.01 - File Created
+// Additional Comments:
+//
+//////////////////////////////////////////////////////////////////////////////////
+
+
+module p4_router_util_2022_top();
+
+   Clock_int #(
+        .CLOCK_GROUP_ID   ( 0 ), // Doesn't matter for TB
+        .SOURCE_FREQUENCY ( 0 )  // Doesn't matter for TB
+    ) avmm_clk_ifc ();
+
+    Reset_int #(
+        .CLOCK_GROUP_ID ( 0 )    // Doesn't matter for TB
+    ) peripheral_sreset_ifc ();
+
+    Reset_int #(
+        .CLOCK_GROUP_ID ( 0 )    // Doesn't matter for TB
+    ) interconnect_sreset_ifc ();
+
+    Clock_int #(
+        .CLOCK_GROUP_ID   ( 0 ), // Doesn't matter for TB
+        .SOURCE_FREQUENCY ( 0 )  // Doesn't matter for TB
+    ) core_clk_ifc ();
+
+    Reset_int #(
+        .CLOCK_GROUP_ID ( 0 )    // Doesn't matter for TB
+    ) core_sreset_ifc ();
+
+    ////////////////////////////////////////////////////////////////////////////////////////////////
+    // SUB-SECTION: AXIS interfaces
+
+    AXIS_int #(
+        .DATA_BYTES ( BYTES_PER_8BIT_WORD )
+    ) ing_8b_phys_ports [NUM_8B_ING_PHYS_PORTS-1:0] (
+        .clk     (core_clk_ifc.clk       ),
+        .sresetn (core_sreset_ifc.reset != core_sreset_ifc.ACTIVE_HIGH )
+    );
+
+    AXIS_int #(
+        .DATA_BYTES ( BYTES_PER_16BIT_WORD )
+    ) ing_16b_phys_ports [NUM_16B_ING_PHYS_PORTS-1:0] (
+        .clk     (core_clk_ifc.clk       ),
+        .sresetn (core_sreset_ifc.reset != core_sreset_ifc.ACTIVE_HIGH )
+    );
+
+    AXIS_int #(
+        .DATA_BYTES ( BYTES_PER_32BIT_WORD )
+    ) ing_32b_phys_ports [NUM_32B_ING_PHYS_PORTS-1:0] (
+        .clk     (core_clk_ifc.clk       ),
+        .sresetn (core_sreset_ifc.reset != core_sreset_ifc.ACTIVE_HIGH )
+    );
+
+    AXIS_int #(
+        .DATA_BYTES ( BYTES_PER_64BIT_WORD )
+    ) ing_64b_phys_ports [NUM_64B_ING_PHYS_PORTS-1:0] (
+        .clk     (core_clk_ifc.clk       ),
+        .sresetn (core_sreset_ifc.reset != core_sreset_ifc.ACTIVE_HIGH )
+    );
+
+   AXIS_int #(
+        .DATA_BYTES ( BYTES_PER_8BIT_WORD )
+    ) egr_8b_phys_ports [NUM_8B_EGR_PHYS_PORTS-1:0] (
+        .clk     (core_clk_ifc.clk       ),
+        .sresetn (core_sreset_ifc.reset != core_sreset_ifc.ACTIVE_HIGH )
+    );
+
+    AXIS_int #(
+        .DATA_BYTES ( BYTES_PER_16BIT_WORD )
+    ) egr_16b_phys_ports [NUM_16B_EGR_PHYS_PORTS-1:0] (
+        .clk     (core_clk_ifc.clk       ),
+        .sresetn (core_sreset_ifc.reset != core_sreset_ifc.ACTIVE_HIGH )
+    );
+
+    AXIS_int #(
+        .DATA_BYTES ( BYTES_PER_32BIT_WORD )
+    ) egr_32b_phys_ports [NUM_32B_EGR_PHYS_PORTS-1:0] (
+        .clk     (core_clk_ifc.clk       ),
+        .sresetn (core_sreset_ifc.reset != core_sreset_ifc.ACTIVE_HIGH )
+    );
+
+    AXIS_int #(
+        .DATA_BYTES ( BYTES_PER_64BIT_WORD )
+    ) egr_64b_phys_ports [NUM_64B_EGR_PHYS_PORTS-1:0] (
+        .clk     (core_clk_ifc.clk       ),
+        .sresetn (core_sreset_ifc.reset != core_sreset_ifc.ACTIVE_HIGH )
+    );
+
+    AXIS_int #(
+        .DATA_BYTES ( DPI_DATA_BYTES    )
+    ) axis_in (
+        .clk        ( core_clk_ifc.clk       ),
+        .sresetn    ( core_sreset_ifc.reset != core_sreset_ifc.ACTIVE_HIGH   )
+    );
+
+    AXIS_int #(
+        .DATA_BYTES ( DPI_DATA_BYTES    )
+    ) axis_out (
+        .clk        ( core_clk_ifc.clk       ),
+        .sresetn    ( core_sreset_ifc.reset != core_sreset_ifc.ACTIVE_HIGH   )
+    );
+
+
+    ////////////////////////////////////////////////////////////////////////////////////////////////
+    // SUB-SECTION: AVMM interfaces
+
+    AvalonMM_int #(
+        .DATALEN       ( AVMM_DATALEN ),
+        .ADDRLEN       ( AVMM_ADDRLEN ),
+        .BURSTLEN      ( 1            ),
+        .BURST_CAPABLE ( 1'b0         )
+    ) p4_router_avmm ();
+
+    AvalonMM_int #(
+        .DATALEN       ( AVMM_DATALEN ),
+        .ADDRLEN       ( AVMM_ADDRLEN ),
+        .BURSTLEN      ( 1            ),
+        .BURST_CAPABLE ( 1'b0         )
+    ) vnp4_avmm ();
+
+
+    p4_router #(
+        .NUM_8B_ING_PHYS_PORTS      ( 5  ),
+        .NUM_16B_ING_PHYS_PORTS     ( 2  ),
+        .NUM_32B_ING_PHYS_PORTS     ( 0  ),
+        .NUM_64B_ING_PHYS_PORTS     ( 4  ),
+        .NUM_8B_EGR_PHYS_PORTS      ( 5  ),
+        .NUM_16B_EGR_PHYS_PORTS     ( 2  ),
+        .NUM_32B_EGR_PHYS_PORTS     ( 0  ),
+        .NUM_64B_EGR_PHYS_PORTS     ( 4  ),
+        .VNP4_DATA_BYTES            ( 64 ),
+        .USER_METADATA_WIDTH        ( 16 ),
+        .EGR_SPEC_METADATA_WIDTH    ( 8  ),
+        .VNP4_AXI4LITE_DATALEN      ( 32 ),
+        .VNP4_AXI4LITE_ADDRLEN      ( 15 ),
+        .MTU_BYTES                  ( 5000 )
+    ) dut (
+
+        .core_clk_ifc               ( core_clk_ifc            ),
+        .core_sreset_ifc            ( core_sreset_ifc         ),
+        .cam_clk_ifc                ( core_clk_ifc            ),
+        .cam_sreset_ifc             ( core_sreset_ifc         ),
+        .avmm_clk_ifc               ( avmm_clk_ifc            ),
+        .interconnect_sreset_ifc    ( interconnect_sreset_ifc ),
+        .peripheral_sreset_ifc      ( peripheral_sreset_ifc   ),
+        .vnp4_avmm                  ( vnp4_avmm               ),
+        .p4_router_avmm             ( p4_router_avmm          ),
+        .ing_8b_phys_ports          ( ing_8b_phys_ports       ),
+        .ing_16b_phys_ports         ( ing_16b_phys_ports      ),
+        .ing_32b_phys_ports         ( ing_32b_phys_ports      ),
+        .ing_64b_phys_ports         ( ing_64b_phys_ports      ),
+        .egr_8b_phys_ports          ( egr_8b_phys_ports       ),
+        .egr_16b_phys_ports         ( egr_16b_phys_ports      ),
+        .egr_32b_phys_ports         ( egr_32b_phys_ports      ),
+        .egr_64b_phys_ports         ( egr_64b_phys_ports      )
+
+    );
+
+endmodule

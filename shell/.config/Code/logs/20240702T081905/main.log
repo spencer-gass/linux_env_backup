@@ -1,0 +1,38 @@
+2024-07-02 08:19:05.988 [info] update#setState idle
+2024-07-02 08:19:25.260 [error] update#isLatestVersion(): failed to check for updates
+2024-07-02 08:19:25.261 [error] Error: net::ERR_SOCKET_NOT_CONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:109791)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-07-02 08:19:35.990 [info] update#setState checking for updates
+2024-07-02 08:19:36.560 [info] update#setState idle
+2024-07-02 09:19:35.993 [info] update#setState checking for updates
+2024-07-02 09:19:36.346 [info] update#setState idle
+2024-07-02 10:19:35.997 [info] update#setState checking for updates
+2024-07-02 10:19:36.731 [info] update#setState idle
+2024-07-02 11:44:23.343 [info] update#setState checking for updates
+2024-07-02 11:44:23.711 [info] update#setState idle
+2024-07-02 12:44:23.345 [info] update#setState checking for updates
+2024-07-02 12:44:23.730 [info] update#setState idle
+2024-07-02 13:40:03.246 [info] Extension host with pid 280111 exited with code: 0, signal: unknown.
+2024-07-02 14:27:06.936 [info] update#setState checking for updates
+2024-07-02 14:27:07.346 [info] update#setState idle
+2024-07-02 15:27:06.939 [info] update#setState checking for updates
+2024-07-02 15:27:07.328 [info] update#setState idle
+2024-07-02 16:27:06.941 [info] update#setState checking for updates
+2024-07-02 16:27:07.350 [info] update#setState idle
+2024-07-02 17:27:06.941 [info] update#setState checking for updates
+2024-07-02 17:27:07.350 [info] update#setState idle
+2024-07-02 18:27:06.943 [info] update#setState checking for updates
+2024-07-02 18:27:07.379 [info] update#setState idle
+2024-07-03 09:20:43.634 [info] update#setState checking for updates
+2024-07-03 09:20:44.058 [info] update#setState idle
+2024-07-03 10:20:43.638 [info] update#setState checking for updates
+2024-07-03 10:20:44.096 [info] update#setState idle
+2024-07-03 11:20:43.642 [info] update#setState checking for updates
+2024-07-03 11:20:44.092 [info] update#setState idle
+2024-07-03 12:20:43.645 [info] update#setState checking for updates
+2024-07-03 12:20:44.046 [info] update#setState idle
+2024-07-03 13:15:29.562 [info] Extension host with pid 372532 exited with code: 0, signal: unknown.
+2024-07-03 13:20:43.648 [info] update#setState checking for updates
+2024-07-03 13:20:44.073 [info] update#setState available for download
+2024-07-03 16:15:59.222 [info] Extension host with pid 465816 exited with code: 0, signal: unknown.

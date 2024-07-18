@@ -15,9 +15,10 @@ export PATH=$PATH:/home/sgass/AppImages
 export PATH=$PATH:/opt/svlint/bin/
 export PATH=$PATH:/opt/Aldec/ALINT-PRO-2023.05-EA17.6-x64/bin/
 export PATH=$PATH:/home/sgass/.local/bin
-export PATH=$PATH:/opt/IntelFPGA_lite/20.1/modelsim_ase/linux 
+export PATH=$PATH:/opt/IntelFPGA_lite/20.1/modelsim_ase/linux
 
 source ~/.source-vivado.sh
+source ~/.config/p4c-vitisnet/2021.2/settings64.sh
 
 # alias vivado_2019='export PATH=/opt/Xilinx/Vivado/2019.1/bin:/opt/Xilinx/SDK/2019.1/bin:$PATH'
 # alias vivado_2021='export PATH=/opt/Xilinx/Vivado/2021.2/bin:/opt/Xilinx/Vitis/2021.2/bin:$PATH'
@@ -40,7 +41,7 @@ export DIRENV_LOG_FORMAT=
 export WALLE=walle.lab.e.kepler.gdn
 
 export VUNIT_MODELSIM_PATH=/opt/IntelFPGA_lite/20.1/modelsim_ase/linux
-export XILINXD_LICENSE_FILE=2100@walle.lab.e.kepler.gdn 
+export XILINXD_LICENSE_FILE=2100@walle.lab.e.kepler.gdn
 export XILINX_SIMLIB=${HOME}/Xilinx_sim_libraries
 
 export DVT_HOME=${HOME}/dvt_eclipse
@@ -56,6 +57,7 @@ export KEPLER_MONOREPO_PYTHON_VIRTUALENV_PATH=/home/sgass/.venvs/kepler/bin/acti
 alias ssh='ssh -X'
 alias vim='vim -O'
 alias cdk='cd ~/Projects/kepler'
+alias cdk2='cd ~/Projects/kepler2'
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"

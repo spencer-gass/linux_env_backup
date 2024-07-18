@@ -1,0 +1,43 @@
+2024-07-02 08:19:06.511 [info] Started local extension host with pid 280111.
+2024-07-02 08:19:07.540 [error] [Extension Host] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1022609)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-07-02 08:19:08.352 [error] [Extension Host] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1022609)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-07-02 08:19:09.128 [error] [Extension Host] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1022609)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-07-02 08:19:09.141 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-02 08:19:25.444 [info] [perf] Render performance baseline is 23ms
+2024-07-02 08:19:53.518 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-02 09:43:38.786 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-02 09:54:47.479 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.1/dist/main.js:588:7681)
+	at async I.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:101309)
+2024-07-02 11:14:13.551 [warning] Failed to fetch chat participant registry Offline
+2024-07-02 13:40:03.792 [info] Started local extension host with pid 372532.
+2024-07-02 13:40:06.652 [info] [perf] Render performance baseline is 31ms
+2024-07-03 13:15:30.159 [info] Started local extension host with pid 465816.
+2024-07-03 13:15:31.229 [error] [Extension Host] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1022609)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-07-03 13:15:32.109 [error] [Extension Host] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1022609)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-07-03 13:15:32.881 [error] [Extension Host] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/code/resources/app/extensions/git/dist/main.js:2:1022609)
+	at ChildProcess.emit (node:events:526:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2024-07-03 13:15:32.947 [info] [perf] Render performance baseline is 15ms

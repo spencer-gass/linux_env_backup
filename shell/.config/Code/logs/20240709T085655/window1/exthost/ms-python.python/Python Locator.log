@@ -1,0 +1,47 @@
+2024-07-10 10:00:17.976 [info] Starting Python Locator /home/sgass/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/python-env-tools/bin/pet server
+2024-07-10 10:00:17.976 [info] Started Refreshing Environments
+2024-07-10 10:00:18.092 [error] Failed to execute Python to resolve info "/home/sgass/Projects/kepler_fpga_build1/python": Permission denied (os error 13)
+2024-07-10 10:00:18.110 [warning] Unknown Python Env "/home/sgass/Projects/kepler_fpga_build1/python"
+2024-07-10 10:00:18.114 [info] Discovered env: /home/sgass/.venvs/kepler/bin/python
+2024-07-10 10:00:18.154 [info] Discovered env: /bin/python3
+2024-07-10 10:00:18.188 [info] Discovered env: /usr/bin/python3
+2024-07-10 10:00:18.215 [info] Discovered env: /usr/bin/python3.8
+2024-07-10 10:00:18.227 [info] Discovered env: /bin/python3.8
+2024-07-10 10:00:18.368 [info] Locator Conda took 47.996506ms
+2024-07-10 10:00:18.369 [info] Locator Homebrew took 1.055607ms
+2024-07-10 10:00:18.370 [info] Locator LinuxGlobalPython took 225.792168ms
+2024-07-10 10:00:18.371 [info] Locator PipEnv took 884ns
+2024-07-10 10:00:18.371 [info] Locator Poetry took 1.915461ms
+2024-07-10 10:00:18.372 [info] Locator PyEnv took 10.102463ms
+2024-07-10 10:00:18.372 [info] Locator Venv took 525ns
+2024-07-10 10:00:18.373 [info] Locator VirtualEnv took 601ns
+2024-07-10 10:00:18.374 [info] Locator VirtualEnvWrapper took 11.372µs
+2024-07-10 10:00:18.374 [info] Environments found using locators in 230.262169ms
+2024-07-10 10:00:18.374 [info] Environments in PATH found in 552.56657ms
+2024-07-10 10:00:18.376 [info] Environments in global virtual env paths found in 58.617522ms
+2024-07-10 10:00:18.376 [info] Environments in custom search paths found in 41.303831ms
+2024-07-10 10:00:18.397 [info] Refresh completed in 553ms
+2024-07-10 14:04:36.015 [info] Starting Python Locator /home/sgass/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/python-env-tools/bin/pet server
+2024-07-10 14:04:36.015 [info] Started Refreshing Environments
+2024-07-10 14:04:36.035 [error] Failed to execute Python to resolve info "/home/sgass/Projects/kepler2/python": Permission denied (os error 13)
+2024-07-10 14:04:36.036 [warning] Unknown Python Env "/home/sgass/Projects/kepler2/python"
+2024-07-10 14:04:36.037 [info] Discovered env: /home/sgass/.venvs/kepler2/bin/python
+2024-07-10 14:04:36.037 [info] Discovered env: /home/sgass/.venvs/kepler/bin/python
+2024-07-10 14:04:36.050 [info] Discovered env: /usr/bin/python3
+2024-07-10 14:04:36.052 [info] Discovered env: /bin/python3
+2024-07-10 14:04:36.102 [info] Discovered env: /bin/python3.8
+2024-07-10 14:04:36.102 [info] Discovered env: /usr/bin/python3.8
+2024-07-10 14:04:36.195 [info] Locator Conda took 9.821159ms
+2024-07-10 14:04:36.195 [info] Locator Homebrew took 203.03µs
+2024-07-10 14:04:36.195 [info] Locator LinuxGlobalPython took 135.317569ms
+2024-07-10 14:04:36.195 [info] Locator PipEnv took 12.193µs
+2024-07-10 14:04:36.196 [info] Locator Poetry took 369.325µs
+2024-07-10 14:04:36.196 [info] Locator PyEnv took 531.294µs
+2024-07-10 14:04:36.196 [info] Locator Venv took 270ns
+2024-07-10 14:04:36.196 [info] Locator VirtualEnv took 269ns
+2024-07-10 14:04:36.196 [info] Locator VirtualEnvWrapper took 329ns
+2024-07-10 14:04:36.196 [info] Environments found using locators in 135.921862ms
+2024-07-10 14:04:36.196 [info] Environments in PATH found in 228.822375ms
+2024-07-10 14:04:36.196 [info] Environments in global virtual env paths found in 35.26986ms
+2024-07-10 14:04:36.196 [info] Environments in custom search paths found in 7.569183ms
+2024-07-10 14:04:36.196 [info] Refresh completed in 229ms
