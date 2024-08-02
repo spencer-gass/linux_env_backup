@@ -1,0 +1,16 @@
+2024-08-01 14:24:49.684 [info] mshr-h.veriloghdl is now active.
+2024-08-01 14:24:49.684 [info] [ExtensionManager] previousVersion: "1.14.1", currentVersion: "1.14.1"
+2024-08-01 14:24:49.684 [info] ctags manager configure
+2024-08-01 14:24:49.684 [warning] [LintManager] Invalid linter name: none
+2024-08-01 14:24:49.684 [info] mshr-h.veriloghdl activation finished.
+2024-08-01 14:24:50.180 [warning] [LintManager] Invalid linter name: none
+2024-08-01 14:24:50.214 [warning] [LintManager] Invalid linter name: none
+2024-08-01 14:24:50.338 [warning] [LintManager] Invalid linter name: none
+2024-08-01 14:24:51.849 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_ipv4_chksum_extern_wrapper.sv
+2024-08-01 14:24:51.849 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_ipv4_chksum_extern_wrapper.sv"
+2024-08-01 14:24:51.849 [info] executing ctags
+2024-08-01 14:24:51.849 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_ipv4_chksum_extern_wrapper.sv"
+2024-08-01 14:24:51.855 [info] building symbols
+2024-08-01 14:24:51.857 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-01 14:24:51.862 [warning] [LintManager] Invalid linter name: none
+2024-08-01 14:24:52.175 [info] Deactivated
