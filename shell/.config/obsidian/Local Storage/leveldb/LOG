@@ -1,3 +1,33 @@
-2024/07/15-08:40:46.794 1bf1 Reusing MANIFEST /home/sgass/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
-2024/07/15-08:40:46.825 1bf1 Recovering log #28
-2024/07/15-08:40:46.826 1bf1 Reusing old log /home/sgass/.config/obsidian/Local Storage/leveldb/000028.log 
+2024/07/29-09:47:37.727 6e73 Reusing MANIFEST /home/sgass/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2024/07/29-09:47:37.753 6e73 Recovering log #28
+2024/07/29-09:47:37.753 6e73 Reusing old log /home/sgass/.config/obsidian/Local Storage/leveldb/000028.log 
+2024/07/29-10:37:18.603 6e72 Level-0 table #33: started
+2024/07/29-10:37:18.608 6e72 Level-0 table #33: 10369 bytes OK
+2024/07/29-10:37:18.610 6e72 Delete type=0 #28
+2024/07/29-11:38:51.198 6e72 Level-0 table #35: started
+2024/07/29-11:38:51.203 6e72 Level-0 table #35: 10349 bytes OK
+2024/07/29-11:38:51.204 6e72 Delete type=0 #32
+2024/07/29-14:40:34.385 6e72 Level-0 table #37: started
+2024/07/29-14:40:34.389 6e72 Level-0 table #37: 12132 bytes OK
+2024/07/29-14:40:34.391 6e72 Delete type=0 #34
+2024/07/29-14:59:35.092 6e73 Level-0 table #39: started
+2024/07/29-14:59:35.096 6e73 Level-0 table #39: 10765 bytes OK
+2024/07/29-14:59:35.098 6e73 Delete type=0 #36
+2024/07/29-14:59:35.099 6e73 Compacting 4@0 + 1@1 files
+2024/07/29-14:59:35.101 6e73 Generated table #40@0: 20 keys, 1885 bytes
+2024/07/29-14:59:35.101 6e73 Compacted 4@0 + 1@1 files => 1885 bytes
+2024/07/29-14:59:35.102 6e73 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/29-14:59:35.102 6e73 Delete type=2 #35
+2024/07/29-14:59:35.102 6e73 Delete type=2 #30
+2024/07/29-14:59:35.102 6e73 Delete type=2 #37
+2024/07/29-14:59:35.102 6e73 Delete type=2 #39
+2024/07/29-14:59:35.102 6e73 Delete type=2 #33
+2024/07/29-16:10:24.002 6e73 Level-0 table #42: started
+2024/07/29-16:10:24.012 6e73 Level-0 table #42: 8585 bytes OK
+2024/07/29-16:10:24.015 6e73 Delete type=0 #38
+2024/07/29-17:22:04.007 6e73 Level-0 table #44: started
+2024/07/29-17:22:04.009 6e73 Level-0 table #44: 9749 bytes OK
+2024/07/29-17:22:04.011 6e73 Delete type=0 #41
+2024/07/30-10:07:40.498 6e73 Level-0 table #46: started
+2024/07/30-10:07:40.502 6e73 Level-0 table #46: 9080 bytes OK
+2024/07/30-10:07:40.504 6e73 Delete type=0 #43

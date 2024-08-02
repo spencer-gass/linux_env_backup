@@ -1,30 +1,3 @@
-2024/07/08-15:54:45.324 881b Reusing MANIFEST /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/08-15:54:45.324 881b Recovering log #106
-2024/07/08-15:54:45.331 881b Reusing old log /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000106.log 
-2024/07/09-11:26:07.613 87ed Level-0 table #111: started
-2024/07/09-11:26:07.623 87ed Level-0 table #111: 1709160 bytes OK
-2024/07/09-11:26:07.624 87ed Delete type=0 #106
-2024/07/09-11:37:46.636 87ed Compacting 1@1 + 1@2 files
-2024/07/09-11:37:46.657 87ed Generated table #112@1: 3063 keys, 820502 bytes
-2024/07/09-11:37:46.657 87ed Compacted 1@1 + 1@2 files => 820502 bytes
-2024/07/09-11:37:46.658 87ed compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/07/09-11:37:46.658 87ed Delete type=2 #111
-2024/07/09-11:37:46.658 87ed Delete type=2 #108
-2024/07/11-10:06:46.521 87ed Level-0 table #114: started
-2024/07/11-10:06:46.530 87ed Level-0 table #114: 1791883 bytes OK
-2024/07/11-10:06:46.532 87ed Delete type=0 #110
-2024/07/11-10:11:34.494 87ed Compacting 1@1 + 1@2 files
-2024/07/11-10:11:34.502 87ed Generated table #115@1: 3071 keys, 763287 bytes
-2024/07/11-10:11:34.502 87ed Compacted 1@1 + 1@2 files => 763287 bytes
-2024/07/11-10:11:34.503 87ed compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/07/11-10:11:34.503 87ed Delete type=2 #112
-2024/07/11-10:11:34.503 87ed Delete type=2 #114
-2024/07/12-09:18:56.139 87ed Level-0 table #117: started
-2024/07/12-09:18:56.154 87ed Level-0 table #117: 1815400 bytes OK
-2024/07/12-09:18:56.156 87ed Delete type=0 #113
-2024/07/12-09:26:45.189 87ed Compacting 1@1 + 1@2 files
-2024/07/12-09:26:45.202 87ed Generated table #118@1: 3105 keys, 619397 bytes
-2024/07/12-09:26:45.202 87ed Compacted 1@1 + 1@2 files => 619397 bytes
-2024/07/12-09:26:45.203 87ed compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/07/12-09:26:45.203 87ed Delete type=2 #115
-2024/07/12-09:26:45.203 87ed Delete type=2 #117
+2024/07/27-09:38:38.323 2367 Reusing MANIFEST /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/27-09:38:38.323 2367 Recovering log #120
+2024/07/27-09:38:38.335 2367 Reusing old log /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000120.log 

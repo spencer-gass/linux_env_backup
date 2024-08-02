@@ -46,4 +46,61 @@
       </monitorspec>
     </disabled>
   </configuration>
+  <configuration>
+    <logicalmonitor>
+      <x>1920</x>
+      <y>0</y>
+      <scale>1</scale>
+      <monitor>
+        <monitorspec>
+          <connector>DP-3</connector>
+          <vendor>BNQ</vendor>
+          <product>BenQ GW2475H</product>
+          <serial>ECL00244019</serial>
+        </monitorspec>
+        <mode>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+    <logicalmonitor>
+      <x>0</x>
+      <y>0</y>
+      <scale>1</scale>
+      <monitor>
+        <monitorspec>
+          <connector>DP-4</connector>
+          <vendor>BNQ</vendor>
+          <product>BenQ GW2475H</product>
+          <serial>ECL00249019</serial>
+        </monitorspec>
+        <mode>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+    <logicalmonitor>
+      <x>986</x>
+      <y>1080</y>
+      <scale>1</scale>
+      <primary>yes</primary>
+      <monitor>
+        <monitorspec>
+          <connector>eDP-1</connector>
+          <vendor>BOE</vendor>
+          <product>0x0a2f</product>
+          <serial>0x00000000</serial>
+        </monitorspec>
+        <mode>
+          <width>1920</width>
+          <height>1200</height>
+          <rate>60.002223968505859</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+  </configuration>
 </monitors>
