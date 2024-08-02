@@ -5286,3 +5286,44 @@
 [2024-07-18 12:12:53.590] [info]  GetVisibleTabs - visibleTabs={"AVTabIsHidden":true,"VPNTabIsHidden":false,"VULNTabIsHidden":true,"ComplianceTabIsHidden":false,"ZtnaIsHidden":true,"WfTabIsHidden":true,"SandboxTabIsHidden":true,"AETabIsHidden":true,"FwTabIsHidden":true}
 [2024-07-18 12:12:57.939] [info]  WindowManager WindowManager - handleWindowClosed
 [2024-07-18 12:12:57.939] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
+[2024-07-18 15:19:30.721] [info]  Server init() port number is 
+[2024-07-18 15:19:30.723] [info]  Fail to retrieve port number from file.
+[2024-07-18 15:19:31.725] [info]  Server init() port number is 35781
+[2024-07-18 15:19:31.726] [info]  initWebSocket port is 35781
+[2024-07-18 15:19:31.762] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient-linux-x64/FortiClient"]
+[2024-07-18 15:19:31.762] [info]  WindowManager handleCreateMainWindow
+[2024-07-18 15:19:31.769] [info]  MAIN Starting FortiTray
+[2024-07-18 15:19:31.770] [info]  MAIN MainWindow - createWindow Platform detected: ubuntu
+[2024-07-18 15:19:31.775] [info]  web-contents-created contents.id=1
+[2024-07-18 15:19:31.778] [info]  Saml - init
+[2024-07-18 15:19:31.779] [info]  Saml - listenSamlLoginRequest
+[2024-07-18 15:19:31.779] [info]  Server init() port number is 35781
+[2024-07-18 15:19:31.925] [info]  compliance configDir=/home/sgass/.config/FortiClient/config
+[2024-07-18 15:19:31.927] [info]  MAIN did-finish-load
+[2024-07-18 15:19:31.929] [info]  MAIN ready-to-show
+[2024-07-18 15:19:32.843] [info]  GetVisibleTabs - visibleTabs={"AVTabIsHidden":true,"VPNTabIsHidden":false,"VULNTabIsHidden":true,"ComplianceTabIsHidden":false,"ZtnaIsHidden":true,"WfTabIsHidden":true,"SandboxTabIsHidden":true,"AETabIsHidden":true,"FwTabIsHidden":true}
+[2024-07-18 15:19:32.904] [info]  IPC_RENDERER_REQUEST.LOADED
+[2024-07-18 15:19:32.904] [info]  WindowManager handleWindowLoaded
+[2024-07-18 15:19:33.405] [info]  WindowManager handlePossibleProtocolLauncherArgs argv=["/opt/forticlient/gui/FortiClient-linux-x64/FortiClient"]
+[2024-07-18 15:19:33.406] [info]  WindowManager handleCreateMainWindow
+[2024-07-18 15:19:35.754] [info]  EpctrlStatusChange: Updating view of vpn
+[2024-07-18 15:19:35.844] [info]  Vpn - start doSamlConnect
+[2024-07-18 15:19:35.916] [info]  GetVisibleTabs - visibleTabs={"AVTabIsHidden":true,"VPNTabIsHidden":false,"VULNTabIsHidden":true,"ComplianceTabIsHidden":false,"ZtnaIsHidden":true,"WfTabIsHidden":true,"SandboxTabIsHidden":true,"AETabIsHidden":true,"FwTabIsHidden":true}
+[2024-07-18 15:19:54.584] [info]  remoteInfo=[object Object]
+[2024-07-18 15:19:54.586] [info]  Saml - IPC_RENDERER_REQUEST.SAML_LOGIN url=https://vpn.kepler.gdn:443/remote/saml/start?realm=SSL-VPN-ENGINEERING
+[2024-07-18 15:19:54.587] [info]  Saml - doSamlAuth samlReq={"connection_name":"FUSION-SSL-VPN-ENG","url":"https://vpn.kepler.gdn:443/remote/saml/start?realm=SSL-VPN-ENGINEERING","authTimeout":"360","ignoreCert":false,"type":1,"redirect":true,"redirectUrl":"https://vpn.kepler.gdn:443/remote/saml/auth_id","sso_port":"8020"}
+[2024-07-18 15:19:54.589] [info]  Saml - closeServer
+[2024-07-18 15:19:54.589] [info]  Saml - startServer sso_port=8020
+[2024-07-18 15:19:54.591] [info]  Server running on http://localhost:8020
+[2024-07-18 15:19:54.591] [info]  Saml - openExternal url=https://vpn.kepler.gdn/remote/saml/start?realm=SSL-VPN-ENGINEERING&redirect=1
+[2024-07-18 15:19:55.940] [info]  Saml - redirect auth_id to tray
+[2024-07-18 15:19:55.941] [info]  Saml - closeServer
+[2024-07-18 15:19:55.941] [info]  Saml - closing server
+[2024-07-18 15:19:55.942] [info]  sendSslvpnAuthId - Failed to load template
+[2024-07-18 15:19:55.942] [info]  Events - IPC_MAIN_RESPONSE.SAML_LOGIN_VPN_RESPONSE
+[2024-07-18 15:19:55.942] [info]  Vpn - handleSAMLLoginResp2 samldata.length=16
+[2024-07-18 15:19:56.051] [info]  VpnHandler UNHANDLED {"isTrusted":true}
+[2024-07-18 15:19:56.074] [info]  EpctrlStatusChange: Updating view of vpn
+[2024-07-18 15:19:56.217] [info]  GetVisibleTabs - visibleTabs={"AVTabIsHidden":true,"VPNTabIsHidden":false,"VULNTabIsHidden":true,"ComplianceTabIsHidden":false,"ZtnaIsHidden":true,"WfTabIsHidden":true,"SandboxTabIsHidden":true,"AETabIsHidden":true,"FwTabIsHidden":true}
+[2024-07-18 15:19:59.569] [info]  WindowManager WindowManager - handleWindowClosed
+[2024-07-18 15:19:59.569] [info]  WindowManager WindowManager - all windows are destroyed. quit the app.
