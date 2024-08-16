@@ -1,0 +1,92 @@
+2024-08-13 21:19:21.138 [info] mshr-h.veriloghdl is now active.
+2024-08-13 21:19:21.138 [info] [ExtensionManager] previousVersion: "1.14.3", currentVersion: "1.14.3"
+2024-08-13 21:19:21.138 [info] ctags manager configure
+2024-08-13 21:19:21.138 [warning] [LintManager] Invalid linter name: none
+2024-08-13 21:19:21.138 [info] mshr-h.veriloghdl activation finished.
+2024-08-13 21:19:21.467 [warning] [LintManager] Invalid linter name: none
+2024-08-13 21:19:21.511 [warning] [LintManager] Invalid linter name: none
+2024-08-13 21:19:21.582 [warning] [LintManager] Invalid linter name: none
+2024-08-13 21:19:21.635 [warning] [LintManager] Invalid linter name: none
+2024-08-13 21:19:22.474 [warning] [LintManager] Invalid linter name: none
+2024-08-13 21:19:23.025 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/axis/axis_adapter_shift_register.sv
+2024-08-13 21:19:23.025 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/axis/axis_adapter_shift_register.sv"
+2024-08-13 21:19:23.025 [info] executing ctags
+2024-08-13 21:19:23.025 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/axis/axis_adapter_shift_register.sv"
+2024-08-13 21:19:23.027 [info] building symbols
+2024-08-13 21:19:23.028 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-13 21:19:23.033 [warning] [LintManager] Invalid linter name: none
+2024-08-13 21:19:39.242 [warning] [LintManager] Invalid linter name: none
+2024-08-13 21:25:04.668 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_ingress_tb.sv
+2024-08-13 21:25:04.668 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_ingress_tb.sv"
+2024-08-13 21:25:04.668 [info] executing ctags
+2024-08-13 21:25:04.668 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_ingress_tb.sv"
+2024-08-13 21:25:04.670 [info] building symbols
+2024-08-13 21:25:04.672 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-13 21:25:40.691 [info] on save
+2024-08-13 21:25:43.169 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_ingress_port_array_adapt.sv
+2024-08-13 21:25:43.169 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_ingress_port_array_adapt.sv"
+2024-08-13 21:25:43.169 [info] executing ctags
+2024-08-13 21:25:43.170 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_ingress_port_array_adapt.sv"
+2024-08-13 21:25:43.171 [info] building symbols
+2024-08-13 21:25:43.172 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-13 21:25:44.116 [info] [VerilogHoverProvider] Hover requested
+2024-08-13 21:25:44.314 [info] [VerilogHoverProvider] Hover object returned
+2024-08-13 21:25:45.046 [info] [VerilogHoverProvider] Hover requested
+2024-08-13 21:25:45.253 [info] [VerilogHoverProvider] Hover object returned
+2024-08-13 21:25:45.640 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_ingress_port_array_adapt.sv
+2024-08-13 21:25:45.832 [info] [VerilogDefinitionProvider] 1 definitions returned
+2024-08-13 21:25:46.955 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_ingress_port_array_adapt.sv
+2024-08-13 21:25:47.144 [info] [VerilogDefinitionProvider] 1 definitions returned
+2024-08-13 21:25:47.948 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_ingress_port_array_adapt.sv
+2024-08-13 21:25:48.150 [info] [VerilogDefinitionProvider] 1 definitions returned
+2024-08-13 21:25:53.609 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_ingress_port_array_adapt.sv
+2024-08-13 21:25:53.609 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-13 21:25:53.827 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:53.828 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:54.012 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:54.012 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:54.131 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:54.132 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:54.312 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:54.312 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:54.649 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_ingress_port_array_adapt.sv
+2024-08-13 21:25:54.649 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-13 21:25:55.330 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_ingress_port_array_adapt.sv
+2024-08-13 21:25:55.330 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-13 21:25:55.533 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:55.533 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:55.736 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:55.736 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:55.951 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:55.951 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:56.108 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:56.108 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:56.457 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:56.457 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:56.598 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:56.598 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:56.694 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:56.694 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:56.831 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:56.831 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:56.982 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:56.983 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:57.091 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:57.091 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:57.213 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:57.213 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:57.348 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:57.348 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:57.413 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-13 21:25:57.413 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-13 21:25:57.754 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_ingress_port_array_adapt.sv
+2024-08-13 21:25:57.755 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-13 21:25:58.539 [info] on save
+2024-08-13 21:25:59.313 [info] [VerilogHoverProvider] Hover requested
+2024-08-13 21:28:55.846 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/mpls/mpls_router.sv
+2024-08-13 21:28:55.846 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/mpls/mpls_router.sv"
+2024-08-13 21:28:55.846 [info] executing ctags
+2024-08-13 21:28:55.846 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/mpls/mpls_router.sv"
+2024-08-13 21:28:55.848 [info] building symbols
+2024-08-13 21:28:55.849 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-13 21:35:00.782 [info] Deactivated

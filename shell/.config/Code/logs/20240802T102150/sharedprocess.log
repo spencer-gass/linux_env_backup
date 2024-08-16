@@ -1,0 +1,28 @@
+2024-08-02 10:22:11.186 [info] Getting Manifest... ms-python.python
+2024-08-02 10:22:11.187 [info] Getting Manifest... mshr-h.veriloghdl
+2024-08-02 10:22:11.315 [info] Installing extension: mshr-h.veriloghdl vscode-userdata:/home/sgass/.vscode/extensions/extensions.json
+2024-08-02 10:22:11.316 [info] Installing extension: ms-python.python vscode-userdata:/home/sgass/.vscode/extensions/extensions.json
+2024-08-02 10:22:13.146 [info] Extension signature verification result for mshr-h.veriloghdl: Success. Executed: true. Duration: 1365ms.
+2024-08-02 10:22:13.172 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 1194ms.
+2024-08-02 10:22:13.243 [info] Extracted extension to file:///home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.3: mshr-h.veriloghdl
+2024-08-02 10:22:13.249 [info] Renamed to /home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.14.3
+2024-08-02 10:22:13.283 [info] Marked extension as uninstalled mshr-h.veriloghdl-1.14.1
+2024-08-02 10:22:13.297 [info] Extension installed successfully: mshr-h.veriloghdl vscode-userdata:/home/sgass/.vscode/extensions/extensions.json
+2024-08-02 10:22:13.335 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sgass/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sgass/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)
+2024-08-02 10:22:14.392 [info] Extracted extension to file:///home/sgass/.vscode/extensions/ms-python.python-2024.12.1-linux-x64: ms-python.python
+2024-08-02 10:22:14.400 [info] Renamed to /home/sgass/.vscode/extensions/ms-python.python-2024.12.1-linux-x64
+2024-08-02 10:22:14.437 [info] Marked extension as uninstalled ms-python.python-2024.10.0-linux-x64
+2024-08-02 10:22:14.447 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/sgass/.vscode/extensions/extensions.json
+2024-08-02 10:22:14.482 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sgass/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sgass/.vscode/extensions/extensions.json.vsctmp'
+    at c.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19235)
+    at m (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:19345)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36685)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29033)
+    at async b.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:14899)
+    at async H.vb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:117665)

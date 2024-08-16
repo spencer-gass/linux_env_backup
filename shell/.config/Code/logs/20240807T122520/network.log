@@ -1,0 +1,3 @@
+2024-08-07 12:25:40.211 [error] electron #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/b1c0a14de1414fcdaa400695b4db1c0799bc3124 - error undefined net::ERR_SOCKET_NOT_CONNECTED
+2024-08-08 13:25:06.097 [error] electron #616: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2024-08-08 13:25:08.695 [error] electron #617: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED

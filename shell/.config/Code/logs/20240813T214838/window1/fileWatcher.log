@@ -1,0 +1,2 @@
+2024-08-14 16:10:40.126 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/sgass/Projects/kepler/petalinux/pcu-ecp-2021/project-spec/hw-description' failed: No such file or directory (EUNKNOWN) (path: /home/sgass/Projects/kepler)
+2024-08-14 16:10:40.126 [error] [File Watcher (universal)] inotify_add_watch on '/home/sgass/Projects/kepler/petalinux/pcu-ecp-2021/project-spec/hw-description' failed: No such file or directory

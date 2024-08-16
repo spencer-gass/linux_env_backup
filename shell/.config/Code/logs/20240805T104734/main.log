@@ -1,0 +1,9 @@
+2024-08-05 10:47:34.285 [info] update#setState idle
+2024-08-05 10:47:53.763 [error] update#isLatestVersion(): failed to check for updates
+2024-08-05 10:47:53.764 [error] Error: net::ERR_SOCKET_NOT_CONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:109791)
+    at SimpleURLLoaderWrapper.emit (node:events:514:28)
+2024-08-05 10:48:04.287 [info] update#setState checking for updates
+2024-08-05 10:48:04.548 [info] update#setState available for download
+2024-08-05 10:48:09.958 [info] update#setState idle
+2024-08-05 10:49:42.348 [info] Extension host with pid 150183 exited with code: 0, signal: unknown.

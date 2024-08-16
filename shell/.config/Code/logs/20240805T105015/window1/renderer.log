@@ -1,0 +1,10 @@
+2024-08-05 10:50:16.728 [info] Started local extension host with pid 153639.
+2024-08-05 10:50:35.841 [info] [perf] Render performance baseline is 62ms
+2024-08-05 11:23:24.218 [error] Error: The editor could not be opened because the file was not found.
+    at O.gc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2435:30700)
+    at async O.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2435:29569)
+    at async l.S (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2433:24899)
+    at async l.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2433:23426)
+    at async l.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2433:22409)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2561:27041
+    at async re.ub (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3147:39340)

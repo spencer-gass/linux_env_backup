@@ -1,0 +1,50 @@
+2024-08-11 12:02:56.375 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6"
+
+2024-08-11 12:04:02.337 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "77"
+
+2024-08-11 12:04:11.106 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "81"
+
+2024-08-11 12:04:14.081 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "85"
+
+2024-08-11 12:04:16.261 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "89"
+
+2024-08-11 12:04:26.513 [info] ERROR:pygls.protocol:Failed to handle request 105 textDocument/documentHighlight DocumentHighlightParams(text_document=TextDocumentIdentifier(uri='file:///home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py'), position=8:65, work_done_token=None, partial_result_token=None)
+Traceback (most recent call last):
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.2-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.2-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.2-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 364, in highlight
+    names = jedi_script.get_references(*jedi_lines, scope="file")
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.2-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper
+    raise ValueError('`column` parameter (%d) is not in a valid range '
+ValueError: `column` parameter (65) is not in a valid range (0-0) for line 9 ('\n').
+
+2024-08-11 12:04:26.517 [info] [Error - 12:04:26] Request textDocument/documentHighlight failed.
+2024-08-11 12:04:26.517 [info]   Message: ValueError: `column` parameter (65) is not in a valid range (0-0) for line 9 ('\n').
+  Code: -32602 
+{'traceback': ['  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.2-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.2-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.2-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 364, in highlight\n    names = jedi_script.get_references(*jedi_lines, scope="file")\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.2-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper\n    raise ValueError(\'`column` parameter (%d) is not in a valid range \'\n']}
+2024-08-11 12:04:26.522 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "105"
+
+2024-08-11 12:04:30.479 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "117"
+
+2024-08-11 12:05:08.075 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "147"
+
+2024-08-11 12:05:14.028 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "151"
+
+2024-08-11 12:05:26.933 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "164"
+
+2024-08-11 12:06:31.005 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "230"
+
+2024-08-11 12:06:41.552 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "235"
+
+2024-08-11 12:06:44.987 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "237"
+
+2024-08-11 12:32:03.558 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "292"
+
+2024-08-11 12:33:32.479 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "314"
+
+2024-08-11 12:35:08.304 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "336"
+
+2024-08-11 12:35:37.150 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "344"
+

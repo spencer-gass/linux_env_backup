@@ -1,0 +1,92 @@
+2024-08-07 16:27:02.162 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6"
+
+2024-08-07 16:27:02.174 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "8"
+
+2024-08-07 16:27:02.196 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "9"
+
+2024-08-07 16:27:02.201 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "10"
+
+2024-08-07 16:30:25.767 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "11"
+
+2024-08-07 16:31:46.862 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "25"
+
+2024-08-07 16:31:46.864 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "26"
+
+2024-08-07 16:31:51.117 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "35"
+
+2024-08-07 16:31:55.297 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "38"
+
+2024-08-07 16:32:03.300 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "43"
+
+2024-08-07 16:32:05.291 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "47"
+
+2024-08-07 16:32:21.350 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "56"
+
+2024-08-07 16:32:22.319 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "58"
+
+2024-08-07 16:32:35.166 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "71"
+
+2024-08-07 16:32:41.777 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "77"
+
+2024-08-07 16:32:44.164 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "79"
+
+2024-08-07 16:33:46.453 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "102"
+
+2024-08-07 16:40:11.965 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "141"
+
+2024-08-07 20:10:07.655 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "150"
+
+2024-08-07 20:11:58.671 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "158"
+
+2024-08-07 20:12:36.288 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "178"
+
+2024-08-08 09:28:29.355 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "223"
+
+2024-08-08 09:28:56.575 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "235"
+
+2024-08-08 12:35:55.815 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "294"
+
+2024-08-08 12:36:13.490 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "302"
+
+2024-08-08 12:36:44.781 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "333"
+
+2024-08-08 12:36:57.043 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "353"
+
+2024-08-08 12:36:58.816 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "355"
+
+2024-08-08 12:37:00.833 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "358"
+
+2024-08-08 12:37:08.773 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "374"
+
+2024-08-08 15:06:53.925 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "413"
+
+2024-08-08 15:07:25.401 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "431"
+
+2024-08-08 15:07:37.431 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "447"
+
+2024-08-08 19:32:40.044 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "500"
+
+2024-08-09 09:40:35.518 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "532"
+
+2024-08-09 09:42:10.685 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "545"
+
+2024-08-10 11:55:02.220 [info] ERROR:pygls.protocol:Failed to handle request 573 textDocument/documentHighlight DocumentHighlightParams(text_document=TextDocumentIdentifier(uri='file:///home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_ingress_tb.py'), position=42:61, work_done_token=None, partial_result_token=None)
+Traceback (most recent call last):
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.1-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.1-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.1-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 364, in highlight
+    names = jedi_script.get_references(*jedi_lines, scope="file")
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.1-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper
+    raise ValueError('`column` parameter (%d) is not in a valid range '
+ValueError: `column` parameter (61) is not in a valid range (0-49) for line 43 ('            "rtl/p4_router/p4_router_ing_buf.sv",\n').
+
+2024-08-10 11:55:02.222 [info] [Error - 11:55:02] Request textDocument/documentHighlight failed.
+2024-08-10 11:55:02.222 [info]   Message: ValueError: `column` parameter (61) is not in a valid range (0-49) for line 43 ('            "rtl/p4_router/p4_router_ing_buf.sv",\n').
+  Code: -32602 
+{'traceback': ['  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.1-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.1-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.1-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 364, in highlight\n    names = jedi_script.get_references(*jedi_lines, scope="file")\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.1-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 484, in wrapper\n    raise ValueError(\'`column` parameter (%d) is not in a valid range \'\n']}
+2024-08-10 11:55:02.226 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "573"
+
+2024-08-10 12:06:47.893 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "587"
+

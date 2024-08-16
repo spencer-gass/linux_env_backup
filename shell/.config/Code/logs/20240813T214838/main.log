@@ -1,0 +1,40 @@
+2024-08-13 21:48:39.027 [info] update#setState idle
+2024-08-13 21:48:58.131 [error] update#isLatestVersion(): failed to check for updates
+2024-08-13 21:48:58.131 [error] Error: net::ERR_SOCKET_NOT_CONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2024-08-13 21:49:09.029 [info] update#setState checking for updates
+2024-08-13 21:49:09.287 [info] update#setState idle
+2024-08-14 09:23:20.421 [info] update#setState checking for updates
+2024-08-14 09:23:20.812 [info] update#setState idle
+2024-08-14 10:23:20.425 [info] update#setState checking for updates
+2024-08-14 10:23:25.817 [info] update#setState idle
+2024-08-14 11:23:20.429 [info] update#setState checking for updates
+2024-08-14 11:23:20.860 [info] update#setState idle
+2024-08-14 11:42:30.146 [info] Extension host with pid 1179518 exited with code: 0, signal: unknown.
+2024-08-14 12:23:20.433 [info] update#setState checking for updates
+2024-08-14 12:23:20.839 [info] update#setState idle
+2024-08-14 13:23:20.435 [info] update#setState checking for updates
+2024-08-14 13:23:20.868 [info] update#setState idle
+2024-08-14 14:23:20.437 [info] update#setState checking for updates
+2024-08-14 14:23:20.854 [info] update#setState idle
+2024-08-14 15:23:20.440 [info] update#setState checking for updates
+2024-08-14 15:23:20.830 [info] update#setState idle
+2024-08-14 16:10:06.496 [info] Extension host with pid 1308246 exited with code: 0, signal: unknown.
+2024-08-14 16:23:20.443 [info] update#setState checking for updates
+2024-08-14 16:23:20.845 [info] update#setState idle
+2024-08-15 09:02:58.581 [info] update#setState checking for updates
+2024-08-15 09:02:59.441 [info] update#setState idle
+2024-08-15 10:02:58.584 [info] update#setState checking for updates
+2024-08-15 10:02:58.932 [info] update#setState idle
+2024-08-15 11:02:58.586 [info] update#setState checking for updates
+2024-08-15 11:02:58.961 [info] update#setState idle
+2024-08-15 11:55:21.161 [info] Extension host with pid 1558525 exited with code: 0, signal: unknown.
+2024-08-15 12:02:58.592 [info] update#setState checking for updates
+2024-08-15 12:02:58.910 [info] update#setState idle
+2024-08-15 13:02:58.598 [info] update#setState checking for updates
+2024-08-15 13:02:59.012 [info] update#setState idle
+2024-08-15 14:02:58.601 [info] update#setState checking for updates
+2024-08-15 14:02:58.915 [info] update#setState available for download
+2024-08-16 08:49:28.977 [info] Extension host with pid 1737207 exited with code: 0, signal: unknown.
+2024-08-16 08:49:55.997 [info] Extension host with pid 1903866 exited with code: 0, signal: unknown.

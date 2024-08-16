@@ -1,0 +1,21 @@
+2024-08-07 16:25:17.637 [info] Starting Python Locator /home/sgass/.vscode/extensions/ms-python.python-2024.12.1-linux-x64/python-env-tools/bin/pet server
+2024-08-07 16:25:17.876 [info] Discovered env: /home/sgass/.venvs/kepler2/bin/python
+2024-08-07 16:25:17.877 [info] Discovered env: /home/sgass/.venvs/kepler/bin/python
+2024-08-07 16:25:17.888 [info] Discovered env: /usr/bin/python3
+2024-08-07 16:25:17.899 [info] Discovered env: /bin/python3
+2024-08-07 16:25:17.901 [info] Discovered env: /usr/bin/python3.8
+2024-08-07 16:25:17.904 [info] Discovered env: /bin/python3.8
+2024-08-07 16:25:17.905 [info] Locator Conda took 168.727539ms
+2024-08-07 16:25:17.906 [info] Locator Homebrew took 212.449µs
+2024-08-07 16:25:17.906 [info] Locator LinuxGlobal took 374.007339ms
+2024-08-07 16:25:17.906 [info] Locator PipEnv took 31.955µs
+2024-08-07 16:25:17.906 [info] Locator Poetry took 499.444µs
+2024-08-07 16:25:17.906 [info] Locator PyEnv took 1.342148ms
+2024-08-07 16:25:17.906 [info] Locator Venv took 599.888µs
+2024-08-07 16:25:17.906 [info] Locator VirtualEnv took 698.94µs
+2024-08-07 16:25:17.906 [info] Locator VirtualEnvWrapper took 267.592µs
+2024-08-07 16:25:17.907 [info] Locator GlobalVirtualEnvs took 153.208449ms
+2024-08-07 16:25:17.907 [info] Locator Locators took 375.561207ms
+2024-08-07 16:25:17.907 [info] Locator Path took 589.147961ms
+2024-08-07 16:25:17.907 [info] Locator Workspaces took 188.708797ms
+2024-08-07 16:25:17.907 [info] Refresh completed in 598ms

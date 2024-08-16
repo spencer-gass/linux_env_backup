@@ -1,0 +1,62 @@
+2024-08-11 19:31:55.145 [info] update#setState idle
+2024-08-11 19:32:14.338 [error] update#isLatestVersion(): failed to check for updates
+2024-08-11 19:32:14.338 [error] Error: net::ERR_SOCKET_NOT_CONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2024-08-11 19:32:25.146 [info] update#setState checking for updates
+2024-08-11 19:32:25.488 [info] update#setState idle
+2024-08-11 20:32:25.149 [info] update#setState checking for updates
+2024-08-11 20:32:25.601 [info] update#setState idle
+2024-08-11 21:32:25.153 [info] update#setState checking for updates
+2024-08-11 21:32:25.566 [info] update#setState idle
+2024-08-12 09:09:08.241 [info] update#setState checking for updates
+2024-08-12 09:09:08.607 [info] update#setState idle
+2024-08-12 10:09:08.242 [info] update#setState checking for updates
+2024-08-12 10:09:08.844 [info] update#setState idle
+2024-08-12 11:09:08.246 [info] update#setState checking for updates
+2024-08-12 11:09:08.688 [info] update#setState idle
+2024-08-12 12:19:04.753 [info] update#setState checking for updates
+2024-08-12 12:19:05.032 [info] update#setState idle
+2024-08-12 13:25:50.769 [info] update#setState checking for updates
+2024-08-12 13:25:51.164 [info] update#setState idle
+2024-08-12 14:25:50.773 [info] update#setState checking for updates
+2024-08-12 14:25:51.273 [info] update#setState idle
+2024-08-12 15:25:50.775 [info] update#setState checking for updates
+2024-08-12 15:25:51.161 [info] update#setState idle
+2024-08-12 16:25:50.777 [info] update#setState checking for updates
+2024-08-12 16:25:51.140 [info] update#setState idle
+2024-08-12 17:25:50.780 [info] update#setState checking for updates
+2024-08-12 17:25:51.170 [info] update#setState idle
+2024-08-12 18:25:50.783 [info] update#setState checking for updates
+2024-08-12 18:25:51.182 [info] update#setState idle
+2024-08-12 19:25:50.785 [info] update#setState checking for updates
+2024-08-12 19:25:51.210 [info] update#setState idle
+2024-08-12 20:25:50.786 [info] update#setState checking for updates
+2024-08-12 20:25:51.223 [info] update#setState idle
+2024-08-13 08:55:32.584 [info] update#setState checking for updates
+2024-08-13 08:55:33.177 [info] update#setState idle
+2024-08-13 09:55:32.587 [info] update#setState checking for updates
+2024-08-13 09:55:32.905 [info] update#setState idle
+2024-08-13 10:55:32.589 [info] update#setState checking for updates
+2024-08-13 10:55:32.855 [info] update#setState idle
+2024-08-13 11:55:32.594 [info] update#setState checking for updates
+2024-08-13 11:55:32.961 [info] update#setState idle
+2024-08-13 12:55:32.597 [info] update#setState checking for updates
+2024-08-13 12:55:42.984 [info] update#setState idle
+2024-08-13 13:55:32.601 [info] update#setState checking for updates
+2024-08-13 13:55:33.142 [info] update#setState idle
+2024-08-13 14:55:32.604 [info] update#setState checking for updates
+2024-08-13 14:55:33.007 [info] update#setState idle
+2024-08-13 15:55:32.605 [info] update#setState checking for updates
+2024-08-13 15:55:32.919 [info] update#setState idle
+2024-08-13 16:55:32.608 [info] update#setState checking for updates
+2024-08-13 16:55:33.090 [info] update#setState idle
+2024-08-13 17:55:32.613 [info] update#setState checking for updates
+2024-08-13 17:55:32.970 [info] update#setState idle
+2024-08-13 18:55:32.617 [info] update#setState checking for updates
+2024-08-13 18:55:33.013 [info] update#setState idle
+2024-08-13 19:55:32.619 [info] update#setState checking for updates
+2024-08-13 19:55:33.027 [info] update#setState idle
+2024-08-13 20:55:32.622 [info] update#setState checking for updates
+2024-08-13 20:55:33.083 [info] update#setState idle
+2024-08-13 21:19:17.360 [info] Extension host with pid 363141 exited with code: 0, signal: unknown.
