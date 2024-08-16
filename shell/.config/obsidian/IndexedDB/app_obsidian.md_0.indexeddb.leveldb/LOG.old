@@ -1,3 +1,30 @@
-2024/07/27-09:38:38.323 2367 Reusing MANIFEST /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/27-09:38:38.323 2367 Recovering log #120
-2024/07/27-09:38:38.335 2367 Reusing old log /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000120.log 
+2024/08/06-09:09:47.586 cffaf Reusing MANIFEST /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/06-09:09:47.587 cffaf Recovering log #134
+2024/08/06-09:09:47.651 cffaf Reusing old log /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000134.log 
+2024/08/06-09:09:47.697 cffd7 Level-0 table #139: started
+2024/08/06-09:09:47.713 cffd7 Level-0 table #139: 1341903 bytes OK
+2024/08/06-09:09:47.715 cffd7 Delete type=0 #134
+2024/08/06-09:10:42.270 cff63 Compacting 1@1 + 1@2 files
+2024/08/06-09:10:42.285 cff63 Generated table #140@1: 3494 keys, 829200 bytes
+2024/08/06-09:10:42.285 cff63 Compacted 1@1 + 1@2 files => 829200 bytes
+2024/08/06-09:10:42.285 cff63 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/06-09:10:42.286 cff63 Delete type=2 #136
+2024/08/06-09:10:42.286 cff63 Delete type=2 #139
+2024/08/07-09:23:15.793 cff63 Level-0 table #142: started
+2024/08/07-09:23:15.807 cff63 Level-0 table #142: 1771802 bytes OK
+2024/08/07-09:23:15.808 cff63 Delete type=0 #138
+2024/08/07-09:40:45.971 cff62 Compacting 1@1 + 1@2 files
+2024/08/07-09:40:45.993 cff62 Generated table #143@1: 3590 keys, 876528 bytes
+2024/08/07-09:40:45.993 cff62 Compacted 1@1 + 1@2 files => 876528 bytes
+2024/08/07-09:40:45.994 cff62 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/07-09:40:45.995 cff62 Delete type=2 #140
+2024/08/07-09:40:45.995 cff62 Delete type=2 #142
+2024/08/07-12:56:57.045 cff63 Level-0 table #145: started
+2024/08/07-12:56:57.053 cff63 Level-0 table #145: 1824028 bytes OK
+2024/08/07-12:56:57.054 cff63 Delete type=0 #141
+2024/08/07-14:30:56.700 cff63 Compacting 1@1 + 1@2 files
+2024/08/07-14:30:56.712 cff63 Generated table #146@1: 3719 keys, 1205797 bytes
+2024/08/07-14:30:56.712 cff63 Compacted 1@1 + 1@2 files => 1205797 bytes
+2024/08/07-14:30:56.713 cff63 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/07-14:30:56.713 cff63 Delete type=2 #145
+2024/08/07-14:30:56.713 cff63 Delete type=2 #143

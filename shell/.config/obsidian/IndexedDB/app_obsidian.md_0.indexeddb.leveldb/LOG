@@ -1,30 +1,39 @@
-2024/07/29-09:47:38.686 6ea1 Reusing MANIFEST /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2024/07/29-09:47:38.686 6ea1 Recovering log #120
-2024/07/29-09:47:38.702 6ea1 Reusing old log /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000120.log 
-2024/07/29-10:13:36.514 6e73 Level-0 table #125: started
-2024/07/29-10:13:36.533 6e73 Level-0 table #125: 1830045 bytes OK
-2024/07/29-10:13:36.534 6e73 Delete type=0 #120
-2024/07/29-11:21:54.583 6ea0 Compacting 1@1 + 1@2 files
-2024/07/29-11:21:54.598 6ea0 Generated table #126@1: 2872 keys, 187282 bytes
-2024/07/29-11:21:54.599 6ea0 Compacted 1@1 + 1@2 files => 187282 bytes
-2024/07/29-11:21:54.600 6ea0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/07/29-11:21:54.600 6ea0 Delete type=2 #125
-2024/07/29-11:21:54.600 6ea0 Delete type=2 #122
-2024/07/30-13:33:30.094 6e73 Level-0 table #128: started
-2024/07/30-13:33:30.114 6e73 Level-0 table #128: 1579596 bytes OK
-2024/07/30-13:33:30.115 6e73 Delete type=0 #124
-2024/07/30-13:55:20.485 6e73 Compacting 1@1 + 1@2 files
-2024/07/30-13:55:20.502 6e73 Generated table #129@1: 3202 keys, 491910 bytes
-2024/07/30-13:55:20.503 6e73 Compacted 1@1 + 1@2 files => 491910 bytes
-2024/07/30-13:55:20.503 6e73 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/07/30-13:55:20.503 6e73 Delete type=2 #128
-2024/07/30-13:55:20.503 6e73 Delete type=2 #126
-2024/08/01-09:43:53.578 6e73 Level-0 table #131: started
-2024/08/01-09:43:53.596 6e73 Level-0 table #131: 1733671 bytes OK
-2024/08/01-09:43:53.597 6e73 Delete type=0 #127
-2024/08/01-09:45:44.263 6e73 Compacting 1@1 + 1@2 files
-2024/08/01-09:45:44.279 6e73 Generated table #132@1: 3250 keys, 566305 bytes
-2024/08/01-09:45:44.279 6e73 Compacted 1@1 + 1@2 files => 566305 bytes
-2024/08/01-09:45:44.280 6e73 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/08/01-09:45:44.280 6e73 Delete type=2 #131
-2024/08/01-09:45:44.280 6e73 Delete type=2 #129
+2024/08/11-10:14:19.065 17b7 Reusing MANIFEST /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/11-10:14:19.066 17b7 Recovering log #144
+2024/08/11-10:14:19.080 17b7 Reusing old log /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000144.log 
+2024/08/11-14:14:19.063 1789 Level-0 table #149: started
+2024/08/11-14:14:19.076 1789 Level-0 table #149: 1801705 bytes OK
+2024/08/11-14:14:19.078 1789 Delete type=0 #144
+2024/08/11-15:15:57.975 1789 Compacting 1@1 + 1@2 files
+2024/08/11-15:15:57.987 1789 Generated table #150@1: 3749 keys, 948578 bytes
+2024/08/11-15:15:57.987 1789 Compacted 1@1 + 1@2 files => 948578 bytes
+2024/08/11-15:15:57.988 1789 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/11-15:15:57.988 1789 Delete type=2 #146
+2024/08/11-15:15:57.988 1789 Delete type=2 #149
+2024/08/13-10:15:34.460 1789 Level-0 table #152: started
+2024/08/13-10:15:34.480 1789 Level-0 table #152: 1663848 bytes OK
+2024/08/13-10:15:34.482 1789 Delete type=0 #148
+2024/08/13-10:18:42.566 1788 Compacting 1@1 + 1@2 files
+2024/08/13-10:18:42.585 1788 Generated table #153@1: 3969 keys, 1035539 bytes
+2024/08/13-10:18:42.585 1788 Compacted 1@1 + 1@2 files => 1035539 bytes
+2024/08/13-10:18:42.586 1788 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/13-10:18:42.586 1788 Delete type=2 #150
+2024/08/13-10:18:42.586 1788 Delete type=2 #152
+2024/08/14-12:33:29.437 1789 Level-0 table #155: started
+2024/08/14-12:33:29.450 1789 Level-0 table #155: 1750901 bytes OK
+2024/08/14-12:33:29.452 1789 Delete type=0 #151
+2024/08/14-13:38:59.382 1789 Compacting 1@1 + 1@2 files
+2024/08/14-13:38:59.398 1789 Generated table #156@1: 3906 keys, 1068591 bytes
+2024/08/14-13:38:59.398 1789 Compacted 1@1 + 1@2 files => 1068591 bytes
+2024/08/14-13:38:59.399 1789 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/14-13:38:59.399 1789 Delete type=2 #155
+2024/08/14-13:38:59.399 1789 Delete type=2 #153
+2024/08/15-12:04:32.459 1788 Level-0 table #158: started
+2024/08/15-12:04:32.468 1788 Level-0 table #158: 1789346 bytes OK
+2024/08/15-12:04:32.469 1788 Delete type=0 #154
+2024/08/15-14:44:32.454 1789 Compacting 1@1 + 1@2 files
+2024/08/15-14:44:32.468 1789 Generated table #159@1: 3858 keys, 1022854 bytes
+2024/08/15-14:44:32.468 1789 Compacted 1@1 + 1@2 files => 1022854 bytes
+2024/08/15-14:44:32.469 1789 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/15-14:44:32.469 1789 Delete type=2 #156
+2024/08/15-14:44:32.469 1789 Delete type=2 #158
