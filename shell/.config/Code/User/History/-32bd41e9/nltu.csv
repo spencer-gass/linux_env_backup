@@ -1,0 +1,19 @@
+ADDRLEN,28,,,,,
+DATALEN,32,,,,,
+ADDRESSING,byte,,,,,
+#,enum name,base addr,words,Verilog module,comment (written to headers),comment (not written to headers)
+,ADDRS_ROM,h0000,19,avmm_rom,AVMM device address map ROM,
+,SGMII_PHY_MDIO,h0200,20,mdio_mmi,MDIO controller for PL-side SGMII PHY on Blade Tester,
+,DDR_CTRL,h0280,30,ddr4_ctrl,DDR controller,
+,PS_MASTER,h1900,20,avmm_to_avmm,Avalon Memory-Mapped adapter,
+,SGMII_MAC_DRP,h2000,24,drp_mmi,SGMII MAC DRP,
+,SEM,h2100,20,sem_ultrascale_avmm,Zynq Ultrascale SEM,
+,SGMII_MAC_MDIO,h2F00,20,mdio_mmi,MDIO controller for PL-side SGMII MAC on FPGA for PHY on Blade Tester,
+,PPL_CTRL,h3C80,20,ppl_ctrl,PPL multiplexing controller,
+,PPL_PRBS,h3D80,24,prbs_axis_src_sink_mmi,two PRBS sources and sinks for each side of the PPL,
+,PPL_AUR_CTRL,h3E00,20,aurora_ctrl_mmi,PCU-PCU Link Aurora control,
+,PPL_AUR_DRP,h3E80,6,drp_mmi,DRP to MMI for Aurora xcvr,
+,GIT_INFO,h6100,22,avmm_rom,Git Commit Hash and Date Info,
+,P4_ROUTER,h6120,64,p4_router_avmm_regs, Control and status for parts of p4_router other than VNP4
+,LMKCLK,h10000,16384,clk_lmk04828x_ctrl,LMK CTRL,
+,VNP4,h14000,32768,p4_router_vnp4_wrapper,Vitis Networking P4 table and stats interface

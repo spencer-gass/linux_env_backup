@@ -1,0 +1,22 @@
+2024-08-05 10:50:15.270 [info] update#setState idle
+2024-08-05 10:50:35.085 [error] update#isLatestVersion(): failed to check for updates
+2024-08-05 10:50:35.086 [error] Error: net::ERR_SOCKET_NOT_CONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2024-08-05 10:50:45.272 [info] update#setState checking for updates
+2024-08-05 10:50:45.627 [info] update#setState idle
+2024-08-05 11:50:44.688 [info] update#setState checking for updates
+2024-08-05 11:50:45.124 [info] update#setState idle
+2024-08-05 12:59:45.141 [info] update#setState checking for updates
+2024-08-05 12:59:45.418 [info] update#setState idle
+2024-08-05 13:59:45.146 [info] update#setState checking for updates
+2024-08-05 13:59:45.390 [info] update#setState idle
+2024-08-05 14:06:32.783 [warning] No ptyHost heartbeat after 6 seconds
+2024-08-05 15:04:37.470 [info] update#setState checking for updates
+2024-08-05 15:04:37.839 [info] update#setState idle
+2024-08-05 16:04:37.474 [info] update#setState checking for updates
+2024-08-05 16:04:37.895 [info] update#setState idle
+2024-08-05 17:04:37.479 [info] update#setState checking for updates
+2024-08-05 17:04:37.869 [info] update#setState idle
+2024-08-05 18:04:37.483 [info] update#setState checking for updates
+2024-08-05 18:04:38.290 [info] update#setState idle

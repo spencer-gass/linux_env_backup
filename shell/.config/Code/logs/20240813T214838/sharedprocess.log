@@ -1,0 +1,13 @@
+2024-08-14 13:46:18.612 [info] Getting Manifest... mechatroner.rainbow-csv
+2024-08-14 13:46:18.625 [info] Installing extension: mechatroner.rainbow-csv {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/sgass/.vscode/extensions/extensions.json","path":"/home/sgass/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.92.1","date":"2024-08-07T20:16:39.455Z"}}
+2024-08-14 13:46:19.239 [info] Extension signature verification result for mechatroner.rainbow-csv: Success. Executed: true. Duration: 568ms.
+2024-08-14 13:46:19.282 [info] Extracted extension to file:///home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.12.0: mechatroner.rainbow-csv
+2024-08-14 13:46:19.285 [info] Renamed to /home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.12.0
+2024-08-14 13:46:19.295 [info] Extension installed successfully: mechatroner.rainbow-csv vscode-userdata:/home/sgass/.vscode/extensions/extensions.json
+2024-08-14 13:46:19.368 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sgass/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sgass/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19408)
+    at u (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19519)
+    at p.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36714)
+    at p.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29034)
+    at async c.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14940)
+    at async z.ub (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120384)

@@ -1,0 +1,12 @@
+2024-08-02 10:21:51.072 [info] Started local extension host with pid 280861.
+2024-08-02 10:22:09.863 [info] [perf] Render performance baseline is 25ms
+2024-08-02 10:22:33.283 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/sgass/Projects/kepler/proto/kepler/oisl' failed: No such file or directory (EUNKNOWN) (path: /home/sgass/Projects/kepler)
+2024-08-02 10:22:33.283 [error] [File Watcher (universal)] restarting watcher from error in watch request (retrying request): inotify_add_watch on '/home/sgass/Projects/kepler/proto/kepler/oisl' failed: No such file or directory ({"path":"/home/sgass/Projects/kepler","excludes":["**/.git/objects/**","**/.git/subtree-cache/**","**/node_modules/*/**","**/.hg/store/**"],"recursive":true})
+2024-08-02 11:25:55.748 [error] Unable to read file '/home/sgass/Projects/kepler/p4/frr_dplane_0902.p4' (Error: Unable to resolve nonexistent file '/home/sgass/Projects/kepler/p4/frr_dplane_0902.p4'): Error: Unable to read file '/home/sgass/Projects/kepler/p4/frr_dplane_0902.p4' (Error: Unable to resolve nonexistent file '/home/sgass/Projects/kepler/p4/frr_dplane_0902.p4')
+    at o.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19384)
+    at o.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:657:19179)
+    at async d.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2202:35250)
+    at async d.readStream (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2202:35007)
+    at async L.Cb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2191:11348)
+    at async L.resolve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2191:9760)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2202:31053

@@ -1,0 +1,81 @@
+2024-08-02 10:21:51.339 [info] mshr-h.veriloghdl is now active.
+2024-08-02 10:21:51.339 [info] [ExtensionManager] previousVersion: "1.14.1", currentVersion: "1.14.1"
+2024-08-02 10:21:51.339 [info] ctags manager configure
+2024-08-02 10:21:51.339 [warning] [LintManager] Invalid linter name: none
+2024-08-02 10:21:51.339 [info] mshr-h.veriloghdl activation finished.
+2024-08-02 10:21:51.795 [warning] [LintManager] Invalid linter name: none
+2024-08-02 10:21:51.845 [warning] [LintManager] Invalid linter name: none
+2024-08-02 10:21:52.012 [warning] [LintManager] Invalid linter name: none
+2024-08-02 10:21:53.544 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_ipv4_chksum_extern_wrapper.sv
+2024-08-02 10:21:53.544 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_ipv4_chksum_extern_wrapper.sv"
+2024-08-02 10:21:53.544 [info] executing ctags
+2024-08-02 10:21:53.544 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_ipv4_chksum_extern_wrapper.sv"
+2024-08-02 10:21:53.546 [info] building symbols
+2024-08-02 10:21:53.547 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-02 10:21:53.550 [warning] [LintManager] Invalid linter name: none
+2024-08-02 10:22:09.713 [warning] [LintManager] Invalid linter name: none
+2024-08-02 11:22:29.706 [info] on save
+2024-08-02 11:27:32.890 [info] on save
+2024-08-02 11:30:36.089 [info] on save
+2024-08-02 11:35:16.435 [info] on save
+2024-08-02 11:35:41.853 [info] on save
+2024-08-02 11:37:16.361 [info] on save
+2024-08-02 12:29:21.989 [info] on save
+2024-08-02 12:30:32.066 [info] on save
+2024-08-02 12:35:17.760 [info] on save
+2024-08-02 12:35:24.363 [info] on save
+2024-08-02 13:23:38.064 [info] on save
+2024-08-02 13:29:32.472 [info] on save
+2024-08-02 13:30:05.610 [info] on save
+2024-08-02 13:30:50.352 [info] on save
+2024-08-02 13:30:56.463 [info] on save
+2024-08-02 13:31:31.275 [info] on save
+2024-08-02 13:31:57.300 [info] on save
+2024-08-02 13:38:55.090 [info] on save
+2024-08-02 13:40:51.631 [info] on save
+2024-08-02 13:42:41.546 [info] on save
+2024-08-02 13:43:10.179 [info] on save
+2024-08-02 13:43:35.083 [info] on save
+2024-08-02 13:43:38.460 [info] on save
+2024-08-02 13:43:54.602 [info] on save
+2024-08-02 13:44:05.736 [info] on save
+2024-08-02 13:44:25.515 [info] on save
+2024-08-02 13:46:07.604 [info] on save
+2024-08-02 13:46:51.165 [info] on save
+2024-08-02 13:50:15.298 [info] on save
+2024-08-02 13:50:36.886 [info] on save
+2024-08-02 13:51:48.756 [info] on save
+2024-08-02 13:52:14.970 [info] on save
+2024-08-02 13:52:31.510 [info] on save
+2024-08-02 13:54:25.209 [info] on save
+2024-08-02 13:54:36.310 [info] on save
+2024-08-02 13:56:50.625 [info] on save
+2024-08-02 14:01:44.435 [info] on save
+2024-08-02 14:04:06.438 [info] on save
+2024-08-02 14:04:24.207 [info] on save
+2024-08-02 14:04:36.616 [info] on save
+2024-08-02 14:05:26.794 [info] on save
+2024-08-02 14:49:08.995 [info] on save
+2024-08-02 14:49:40.737 [info] on save
+2024-08-02 14:50:56.678 [info] on save
+2024-08-02 14:55:36.007 [info] on save
+2024-08-02 14:55:58.447 [info] on save
+2024-08-02 14:57:22.504 [info] on save
+2024-08-02 14:57:34.435 [info] on save
+2024-08-02 14:59:10.323 [info] on save
+2024-08-02 15:17:55.009 [info] on save
+2024-08-02 15:24:00.846 [info] on save
+2024-08-02 15:25:56.515 [info] on save
+2024-08-02 15:31:58.469 [info] on save
+2024-08-02 15:32:05.310 [info] on save
+2024-08-02 15:35:00.221 [info] on save
+2024-08-02 15:37:29.861 [info] on save
+2024-08-02 15:37:39.341 [info] on save
+2024-08-02 15:47:32.305 [info] on save
+2024-08-02 15:49:39.000 [info] on save
+2024-08-02 15:50:28.885 [info] on save
+2024-08-02 15:51:17.546 [info] on save
+2024-08-02 15:51:56.458 [info] on save
+2024-08-02 15:52:51.696 [info] on save
+2024-08-02 15:53:11.576 [info] on save
+2024-08-02 17:25:26.726 [info] Deactivated
