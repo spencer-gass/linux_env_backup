@@ -1,3 +1,18 @@
-2024/07/27-09:38:37.443 2339 Reusing MANIFEST /home/sgass/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
-2024/07/27-09:38:37.469 2339 Recovering log #28
-2024/07/27-09:38:37.470 2339 Reusing old log /home/sgass/.config/obsidian/Local Storage/leveldb/000028.log 
+2024/08/06-09:09:46.450 cff63 Reusing MANIFEST /home/sgass/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2024/08/06-09:09:46.484 cff63 Recovering log #45
+2024/08/06-09:09:46.484 cff63 Reusing old log /home/sgass/.config/obsidian/Local Storage/leveldb/000045.log 
+2024/08/06-13:10:19.914 cff63 Level-0 table #49: started
+2024/08/06-13:10:19.918 cff63 Level-0 table #49: 12889 bytes OK
+2024/08/06-13:10:19.918 cff63 Delete type=0 #45
+2024/08/06-13:10:19.919 cff63 Compacting 4@0 + 1@1 files
+2024/08/06-13:10:19.920 cff63 Generated table #50@0: 21 keys, 2173 bytes
+2024/08/06-13:10:19.920 cff63 Compacted 4@0 + 1@1 files => 2173 bytes
+2024/08/06-13:10:19.921 cff63 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/06-13:10:19.921 cff63 Delete type=2 #42
+2024/08/06-13:10:19.921 cff63 Delete type=2 #44
+2024/08/06-13:10:19.921 cff63 Delete type=2 #40
+2024/08/06-13:10:19.921 cff63 Delete type=2 #49
+2024/08/06-13:10:19.921 cff63 Delete type=2 #46
+2024/08/07-14:30:55.736 cff63 Level-0 table #52: started
+2024/08/07-14:30:55.739 cff63 Level-0 table #52: 12238 bytes OK
+2024/08/07-14:30:55.740 cff63 Delete type=0 #48
