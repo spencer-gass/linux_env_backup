@@ -75,3 +75,4 @@
 2024-08-16 08:49:56.622 [info] Added views:workbench.panel.repl.view in workbench.panel.repl
 2024-08-16 08:49:56.840 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
 2024-08-16 09:13:10.746 [info] Added views:workbench.view.testing in workbench.view.extension.test
+2024-08-16 17:22:01.384 [info] Removed views:workbench.view.testing from workbench.view.extension.test

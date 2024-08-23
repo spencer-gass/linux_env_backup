@@ -11,22 +11,28 @@ paths:
 tools:
     vivado:
         2019:
+            settings: /opt/Xilinx/Vivado/2019.1/settings64.sh
             executable: /opt/Xilinx/Vivado/2019.1/bin/vivado
             default: true
         2021:
-            executable: /opt/Xilinx/Vivado/2021.2//bin/vivado
+            settings: /opt/Xilinx/Vivado/2021.2/settings64.sh
+            executable: /opt/Xilinx/Vivado/2021.2/bin/vivado
     xsdk:
         2019:
+            settings: /opt/Xilinx/SDK/2019.1/settings64.sh
             executable: /opt/Xilinx/SDK/2019.1/bin/xsct
             default: true
     vitis:
         2021:
+            settings: /opt/Xilinx/Vitis/2021.2/settings64.sh
             executable: /opt/Xilinx/Vitis/2021.2/bin/xsct
             default: true
     bootgen:
         2019:
+            settings: /opt/Xilinx/SDK/2019.1/settings64.sh
             executable: /opt/Xilinx/SDK/2019.1/bin/bootgen
         2021:
+            settings: /opt/Xilinx/Vitis/2021.2/settings64.sh
             executable: /opt/Xilinx/Vitis/2021.2/bin/bootgen
             default: true
     petalinux:

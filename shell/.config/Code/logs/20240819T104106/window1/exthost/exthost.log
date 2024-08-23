@@ -1,0 +1,7 @@
+2024-08-19 10:41:07.876 [info] Extension host with pid 2552604 started
+2024-08-19 10:41:07.876 [info] Skipping acquiring lock for /home/sgass/.config/Code/User/workspaceStorage/be4431b632324a99dd6ba989b491fedf.
+2024-08-19 10:41:07.949 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2024-08-19 10:41:07.956 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-19 10:41:07.968 [info] ExtensionService#_doActivateExtension mshr-h.veriloghdl, startup: false, activationEvent: 'onLanguage:systemverilog'
+2024-08-19 10:41:08.413 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-19 10:41:08.414 [info] Extension host with pid 2552604 exiting with code 0

@@ -1,0 +1,2220 @@
+2024-08-21 16:20:27.630 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "27"
+
+2024-08-21 16:21:45.950 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "54"
+
+2024-08-21 16:23:18.004 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "99"
+
+2024-08-21 16:23:26.480 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "102"
+
+2024-08-21 16:24:12.612 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "121"
+
+2024-08-21 16:24:21.741 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "132"
+
+2024-08-21 16:24:26.101 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "138"
+
+2024-08-21 16:24:35.869 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "146"
+
+2024-08-21 16:24:52.067 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "160"
+
+2024-08-21 16:24:56.861 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "167"
+
+2024-08-21 16:25:37.599 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "202"
+
+2024-08-21 16:25:38.500 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "205"
+
+2024-08-21 16:26:12.245 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "239"
+
+2024-08-21 16:26:14.362 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "244"
+
+2024-08-21 16:26:19.619 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "250"
+
+2024-08-21 16:26:24.617 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "256"
+
+2024-08-21 16:26:40.969 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "261"
+
+2024-08-21 16:26:59.671 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "273"
+
+2024-08-21 16:27:01.339 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "276"
+
+2024-08-21 16:27:04.465 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "278"
+
+2024-08-21 16:27:05.378 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "279"
+
+2024-08-21 16:27:05.392 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "280"
+
+2024-08-21 16:27:05.406 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "281"
+
+2024-08-21 16:28:31.511 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "327"
+
+2024-08-21 16:28:58.843 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "355"
+
+2024-08-21 16:29:01.287 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "360"
+
+2024-08-21 16:31:50.673 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "430"
+
+2024-08-21 16:32:00.406 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "441"
+
+2024-08-21 16:32:00.407 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "442"
+
+2024-08-21 16:32:02.071 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "445"
+
+2024-08-21 16:32:02.823 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "446"
+
+2024-08-21 16:32:03.216 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "447"
+
+2024-08-21 16:32:03.616 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "448"
+
+2024-08-21 16:32:04.009 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "449"
+
+2024-08-21 16:32:32.562 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "487"
+
+2024-08-21 16:32:36.598 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "496"
+
+2024-08-21 16:32:39.043 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "506"
+
+2024-08-21 16:32:43.902 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "516"
+
+2024-08-21 16:32:47.463 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "529"
+
+2024-08-21 16:32:57.548 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "549"
+
+2024-08-21 16:32:59.961 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "558"
+
+2024-08-21 16:33:00.553 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "560"
+
+2024-08-21 16:33:14.546 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "587"
+
+2024-08-21 16:33:41.338 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "602"
+
+2024-08-21 16:36:11.740 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "621"
+
+2024-08-21 16:36:12.158 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "622"
+
+2024-08-21 16:36:12.566 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "623"
+
+2024-08-21 16:36:12.574 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "625"
+
+2024-08-21 16:36:12.981 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "626"
+
+2024-08-21 16:36:12.988 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "627"
+
+2024-08-21 16:36:13.393 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "628"
+
+2024-08-21 16:36:13.400 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "629"
+
+2024-08-21 16:36:13.819 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "632"
+
+2024-08-21 16:36:20.632 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "649"
+
+2024-08-21 16:36:28.740 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "660"
+
+2024-08-21 16:36:28.743 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "661"
+
+2024-08-21 16:36:31.265 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "671"
+
+2024-08-21 16:36:31.268 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "672"
+
+2024-08-21 16:36:39.616 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "685"
+
+2024-08-21 16:36:52.333 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "717"
+
+2024-08-21 16:36:53.768 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "722"
+
+2024-08-21 16:36:54.753 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "729"
+
+2024-08-21 16:36:54.758 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "730"
+
+2024-08-21 16:37:03.729 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "759"
+
+2024-08-21 16:37:04.546 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "762"
+
+2024-08-21 16:37:04.945 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "764"
+
+2024-08-21 16:37:05.394 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "767"
+
+2024-08-21 16:37:06.124 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "772"
+
+2024-08-21 16:37:08.393 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "784"
+
+2024-08-21 16:37:08.394 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "785"
+
+2024-08-21 16:37:36.612 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "818"
+
+2024-08-21 16:38:00.219 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "843"
+
+2024-08-21 16:38:06.448 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "848"
+
+2024-08-21 16:38:21.261 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "869"
+
+2024-08-21 16:38:36.257 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "900"
+
+2024-08-21 16:38:40.465 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "908"
+
+2024-08-21 16:38:40.878 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "910"
+
+2024-08-21 16:38:41.261 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "911"
+
+2024-08-21 16:38:42.734 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "917"
+
+2024-08-21 16:38:43.225 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "920"
+
+2024-08-21 16:39:27.882 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "999"
+
+2024-08-21 16:42:58.844 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1029"
+
+2024-08-21 16:42:59.731 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1031"
+
+2024-08-21 16:42:59.732 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1032"
+
+2024-08-21 16:43:00.271 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1033"
+
+2024-08-21 16:43:03.903 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1040"
+
+2024-08-21 16:43:03.903 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1041"
+
+2024-08-21 16:43:03.907 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1043"
+
+2024-08-21 16:43:04.499 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1045"
+
+2024-08-21 16:43:24.492 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1079"
+
+2024-08-21 16:44:26.026 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1104"
+
+2024-08-21 16:44:34.807 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1110"
+
+2024-08-21 16:44:37.553 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1114"
+
+2024-08-21 16:44:41.530 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1121"
+
+2024-08-21 16:44:42.942 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1126"
+
+2024-08-21 16:44:43.587 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1128"
+
+2024-08-21 16:45:29.716 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1175"
+
+2024-08-21 16:45:53.006 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1223"
+
+2024-08-21 16:46:36.994 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1231"
+
+2024-08-21 16:46:42.786 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1244"
+
+2024-08-21 16:46:50.331 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1259"
+
+2024-08-21 16:46:57.968 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1267"
+
+2024-08-21 16:47:07.031 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1283"
+
+2024-08-21 16:47:08.443 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1286"
+
+2024-08-21 16:47:09.679 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1289"
+
+2024-08-21 16:47:10.087 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1290"
+
+2024-08-21 16:47:10.490 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1292"
+
+2024-08-21 16:47:11.872 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1296"
+
+2024-08-21 16:47:19.648 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1305"
+
+2024-08-21 16:47:20.131 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1307"
+
+2024-08-21 16:47:23.820 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1316"
+
+2024-08-21 16:47:24.218 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1318"
+
+2024-08-21 16:47:25.737 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1322"
+
+2024-08-21 16:47:32.252 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1340"
+
+2024-08-21 16:47:32.641 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1341"
+
+2024-08-21 16:47:33.044 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1342"
+
+2024-08-21 16:47:33.546 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1344"
+
+2024-08-21 16:47:48.230 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1363"
+
+2024-08-21 16:47:52.980 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1370"
+
+2024-08-21 16:47:55.247 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1373"
+
+2024-08-21 16:48:04.133 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1384"
+
+2024-08-21 16:48:05.534 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1387"
+
+2024-08-21 16:48:05.535 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1388"
+
+2024-08-21 16:48:06.865 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1389"
+
+2024-08-21 16:48:13.656 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1396"
+
+2024-08-21 16:48:17.541 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1399"
+
+2024-08-21 16:48:28.977 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1417"
+
+2024-08-21 16:48:36.999 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1431"
+
+2024-08-21 16:48:39.163 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1434"
+
+2024-08-21 16:48:39.564 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1436"
+
+2024-08-21 16:49:31.299 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1444"
+
+2024-08-22 09:13:12.509 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1472"
+
+2024-08-22 09:16:33.411 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1518"
+
+2024-08-22 09:17:33.122 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1527"
+
+2024-08-22 09:17:44.190 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1537"
+
+2024-08-22 09:17:49.907 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1544"
+
+2024-08-22 09:17:49.909 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1543"
+
+2024-08-22 09:17:58.375 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1552"
+
+2024-08-22 09:18:08.811 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1556"
+
+2024-08-22 09:18:51.783 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1581"
+
+2024-08-22 09:18:52.159 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1582"
+
+2024-08-22 09:18:56.787 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1588"
+
+2024-08-22 09:18:57.768 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1589"
+
+2024-08-22 09:18:58.018 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1590"
+
+2024-08-22 09:18:58.273 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1591"
+
+2024-08-22 09:18:59.281 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1592"
+
+2024-08-22 09:19:01.769 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1594"
+
+2024-08-22 09:20:41.980 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1602"
+
+2024-08-22 09:21:45.325 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1610"
+
+2024-08-22 09:23:55.333 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1635"
+
+2024-08-22 09:26:26.961 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1678"
+
+2024-08-22 09:26:49.452 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1682"
+
+2024-08-22 09:26:56.567 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1689"
+
+2024-08-22 09:26:58.274 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1691"
+
+2024-08-22 09:27:00.644 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1694"
+
+2024-08-22 09:27:02.048 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1695"
+
+2024-08-22 09:27:07.388 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1698"
+
+2024-08-22 09:27:07.886 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1699"
+
+2024-08-22 09:27:08.376 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1700"
+
+2024-08-22 09:27:09.780 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1702"
+
+2024-08-22 09:27:10.281 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1703"
+
+2024-08-22 09:27:10.777 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1704"
+
+2024-08-22 09:27:11.272 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1705"
+
+2024-08-22 09:27:18.524 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1708"
+
+2024-08-22 09:27:19.012 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1709"
+
+2024-08-22 09:27:19.498 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1710"
+
+2024-08-22 09:27:19.980 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1711"
+
+2024-08-22 09:27:23.241 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1714"
+
+2024-08-22 09:27:55.174 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1725"
+
+2024-08-22 09:28:39.620 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1758"
+
+2024-08-22 09:28:40.012 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1760"
+
+2024-08-22 09:28:40.430 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1762"
+
+2024-08-22 09:28:50.579 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1783"
+
+2024-08-22 09:28:50.581 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1784"
+
+2024-08-22 09:29:03.615 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1797"
+
+2024-08-22 09:29:04.465 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1799"
+
+2024-08-22 09:29:05.006 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1802"
+
+2024-08-22 09:29:05.409 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1803"
+
+2024-08-22 09:29:07.094 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1808"
+
+2024-08-22 09:29:29.054 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1820"
+
+2024-08-22 09:29:34.661 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1826"
+
+2024-08-22 09:29:38.078 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1829"
+
+2024-08-22 09:29:41.617 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1839"
+
+2024-08-22 09:29:41.617 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1838"
+
+2024-08-22 09:29:41.619 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1840"
+
+2024-08-22 09:30:35.417 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1870"
+
+2024-08-22 09:30:35.426 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1871"
+
+2024-08-22 09:30:36.657 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1873"
+
+2024-08-22 09:30:44.480 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1897"
+
+2024-08-22 09:30:44.482 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1898"
+
+2024-08-22 09:31:18.894 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1957"
+
+2024-08-22 09:31:23.501 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "1973"
+
+2024-08-22 09:31:40.668 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2020"
+
+2024-08-22 09:31:40.669 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2021"
+
+2024-08-22 09:32:14.666 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2043"
+
+2024-08-22 09:32:17.484 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2051"
+
+2024-08-22 09:32:17.943 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2052"
+
+2024-08-22 09:32:33.635 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2081"
+
+2024-08-22 09:32:33.639 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2082"
+
+2024-08-22 09:33:00.089 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2129"
+
+2024-08-22 09:33:00.090 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2130"
+
+2024-08-22 09:33:00.984 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2133"
+
+2024-08-22 09:33:01.000 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2134"
+
+2024-08-22 09:33:02.840 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2139"
+
+2024-08-22 09:33:02.840 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2140"
+
+2024-08-22 09:33:04.185 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2143"
+
+2024-08-22 09:33:04.903 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2147"
+
+2024-08-22 09:33:04.905 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2148"
+
+2024-08-22 09:33:04.906 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2149"
+
+2024-08-22 09:33:49.222 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2187"
+
+2024-08-22 09:33:50.138 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2191"
+
+2024-08-22 09:33:51.306 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2198"
+
+2024-08-22 09:33:56.525 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2212"
+
+2024-08-22 09:33:56.527 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2213"
+
+2024-08-22 09:33:56.529 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2214"
+
+2024-08-22 09:33:56.760 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2215"
+
+2024-08-22 09:34:08.391 [info] ERROR:pygls.protocol:Failed to handle request 2239 textDocument/codeAction CodeActionParams(text_document=TextDocumentIdentifier(uri='file:///home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/p4_router_avmm.py'), range=150:44-150:44, context=CodeActionContext(diagnostics=[], only=None, trigger_kind=<CodeActionTriggerKind.Automatic: 2>), work_done_token=None, partial_result_token=None)
+Traceback (most recent call last):
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 580, in code_action
+    extract_variable_refactoring = jedi_script.extract_variable(
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper
+    return func(self, line, column, *args, **kwargs)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/__init__.py", line 628, in extract_variable
+    return extract_variable(
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 19, in extract_variable
+    nodes = _find_nodes(module_node, pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 87, in _find_nodes
+    nodes = _remove_unwanted_expression_nodes(parent_node, pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 196, in _remove_unwanted_expression_nodes
+    nodes = nodes[start_index:end_index + 1]
+UnboundLocalError: local variable 'end_index' referenced before assignment
+
+2024-08-22 09:34:08.398 [info] [Error - 09:34:08] Request textDocument/codeAction failed.
+2024-08-22 09:34:08.398 [info]   Message: UnboundLocalError: local variable 'end_index' referenced before assignment
+  Code: -32602 
+{'traceback': ['  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 580, in code_action\n    extract_variable_refactoring = jedi_script.extract_variable(\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper\n    return func(self, line, column, *args, **kwargs)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/__init__.py", line 628, in extract_variable\n    return extract_variable(\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 19, in extract_variable\n    nodes = _find_nodes(module_node, pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 87, in _find_nodes\n    nodes = _remove_unwanted_expression_nodes(parent_node, pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 196, in _remove_unwanted_expression_nodes\n    nodes = nodes[start_index:end_index + 1]\n']}
+2024-08-22 09:35:16.223 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2265"
+
+2024-08-22 09:35:16.860 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2267"
+
+2024-08-22 09:35:17.344 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2270"
+
+2024-08-22 09:35:23.144 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2284"
+
+2024-08-22 09:35:23.145 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2286"
+
+2024-08-22 09:35:23.145 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2287"
+
+2024-08-22 09:35:23.147 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2285"
+
+2024-08-22 09:35:32.381 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2297"
+
+2024-08-22 09:35:32.382 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2296"
+
+2024-08-22 09:35:32.389 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2300"
+
+2024-08-22 09:35:32.389 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2299"
+
+2024-08-22 09:35:32.390 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2301"
+
+2024-08-22 09:35:33.005 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2303"
+
+2024-08-22 09:35:39.012 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2328"
+
+2024-08-22 09:36:30.152 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2400"
+
+2024-08-22 09:36:33.044 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2407"
+
+2024-08-22 09:36:33.575 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2409"
+
+2024-08-22 09:36:34.650 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2415"
+
+2024-08-22 09:36:35.690 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2423"
+
+2024-08-22 09:36:37.581 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2427"
+
+2024-08-22 09:36:41.520 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2438"
+
+2024-08-22 09:36:44.231 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2443"
+
+2024-08-22 09:36:44.232 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2445"
+
+2024-08-22 09:36:47.763 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2455"
+
+2024-08-22 09:36:47.763 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2454"
+
+2024-08-22 09:36:47.771 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2457"
+
+2024-08-22 09:36:47.778 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2458"
+
+2024-08-22 09:36:48.387 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2460"
+
+2024-08-22 09:36:50.607 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2467"
+
+2024-08-22 09:36:51.007 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2468"
+
+2024-08-22 09:36:51.593 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2470"
+
+2024-08-22 09:37:01.646 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2494"
+
+2024-08-22 09:37:01.647 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2495"
+
+2024-08-22 09:37:11.285 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2516"
+
+2024-08-22 09:37:12.825 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2521"
+
+2024-08-22 09:37:13.570 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2522"
+
+2024-08-22 09:37:15.247 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2525"
+
+2024-08-22 09:37:16.549 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2529"
+
+2024-08-22 09:37:17.903 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2538"
+
+2024-08-22 09:37:18.927 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2543"
+
+2024-08-22 09:37:22.609 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2552"
+
+2024-08-22 09:37:22.610 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2554"
+
+2024-08-22 09:37:22.610 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2553"
+
+2024-08-22 09:37:27.934 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2566"
+
+2024-08-22 09:37:27.934 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2565"
+
+2024-08-22 09:37:27.947 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2567"
+
+2024-08-22 09:37:27.956 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2569"
+
+2024-08-22 09:37:27.956 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2568"
+
+2024-08-22 09:37:30.780 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2584"
+
+2024-08-22 09:37:31.466 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2586"
+
+2024-08-22 09:37:32.519 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2591"
+
+2024-08-22 09:37:35.262 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2598"
+
+2024-08-22 09:37:37.256 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2604"
+
+2024-08-22 09:37:44.873 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2623"
+
+2024-08-22 09:37:46.530 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2626"
+
+2024-08-22 09:37:47.581 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2629"
+
+2024-08-22 09:37:48.135 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2632"
+
+2024-08-22 09:37:48.547 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2634"
+
+2024-08-22 09:37:49.216 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2637"
+
+2024-08-22 09:37:51.357 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2645"
+
+2024-08-22 09:37:54.140 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2651"
+
+2024-08-22 09:37:54.141 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2653"
+
+2024-08-22 09:37:58.927 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2667"
+
+2024-08-22 09:37:59.174 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2669"
+
+2024-08-22 09:37:59.181 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2670"
+
+2024-08-22 09:38:16.909 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2703"
+
+2024-08-22 09:38:20.388 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2711"
+
+2024-08-22 09:38:20.792 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2714"
+
+2024-08-22 09:38:21.982 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2721"
+
+2024-08-22 09:38:22.480 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2724"
+
+2024-08-22 09:38:22.886 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2726"
+
+2024-08-22 09:38:24.544 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2733"
+
+2024-08-22 09:38:32.352 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2751"
+
+2024-08-22 09:38:34.239 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2756"
+
+2024-08-22 09:38:34.249 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2758"
+
+2024-08-22 09:38:34.264 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2757"
+
+2024-08-22 09:38:34.272 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2760"
+
+2024-08-22 09:38:34.280 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2759"
+
+2024-08-22 09:38:34.289 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2761"
+
+2024-08-22 09:38:35.315 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2766"
+
+2024-08-22 09:38:35.315 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2764"
+
+2024-08-22 09:38:37.365 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2775"
+
+2024-08-22 09:38:37.365 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2774"
+
+2024-08-22 09:38:39.041 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2779"
+
+2024-08-22 09:39:01.067 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2791"
+
+2024-08-22 09:39:01.067 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2790"
+
+2024-08-22 09:39:01.074 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2793"
+
+2024-08-22 09:39:01.075 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2794"
+
+2024-08-22 09:39:01.075 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2795"
+
+2024-08-22 09:39:03.269 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2801"
+
+2024-08-22 09:39:03.667 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2803"
+
+2024-08-22 09:39:17.346 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2840"
+
+2024-08-22 09:39:17.744 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2842"
+
+2024-08-22 09:39:18.892 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2848"
+
+2024-08-22 09:39:19.986 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2853"
+
+2024-08-22 09:39:40.180 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2890"
+
+2024-08-22 09:39:55.664 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2912"
+
+2024-08-22 09:39:57.587 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2915"
+
+2024-08-22 09:39:59.373 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2919"
+
+2024-08-22 09:39:59.373 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2920"
+
+2024-08-22 09:40:02.190 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2924"
+
+2024-08-22 09:40:02.191 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2926"
+
+2024-08-22 09:40:02.191 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2925"
+
+2024-08-22 09:40:03.897 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2927"
+
+2024-08-22 09:40:04.979 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2929"
+
+2024-08-22 09:40:05.788 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2932"
+
+2024-08-22 09:40:07.459 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2935"
+
+2024-08-22 09:40:10.165 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2942"
+
+2024-08-22 09:40:10.167 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2943"
+
+2024-08-22 09:40:11.170 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2946"
+
+2024-08-22 09:40:12.183 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2948"
+
+2024-08-22 09:40:13.142 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2950"
+
+2024-08-22 09:40:13.143 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2951"
+
+2024-08-22 09:40:13.550 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2952"
+
+2024-08-22 09:40:14.520 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2954"
+
+2024-08-22 09:40:15.205 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2958"
+
+2024-08-22 09:40:27.614 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2976"
+
+2024-08-22 09:40:29.661 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2983"
+
+2024-08-22 09:40:30.501 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "2984"
+
+2024-08-22 09:40:37.179 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3001"
+
+2024-08-22 09:40:37.179 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3000"
+
+2024-08-22 09:40:37.186 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3003"
+
+2024-08-22 09:40:37.187 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3004"
+
+2024-08-22 09:40:37.187 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3005"
+
+2024-08-22 09:40:40.264 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3013"
+
+2024-08-22 09:40:42.292 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3023"
+
+2024-08-22 09:40:42.292 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3022"
+
+2024-08-22 09:40:42.300 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3025"
+
+2024-08-22 09:40:42.301 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3026"
+
+2024-08-22 09:40:42.943 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3029"
+
+2024-08-22 09:40:57.559 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3060"
+
+2024-08-22 09:40:58.146 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3064"
+
+2024-08-22 09:40:58.664 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3065"
+
+2024-08-22 09:40:59.247 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3067"
+
+2024-08-22 09:41:05.330 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3083"
+
+2024-08-22 09:41:05.330 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3082"
+
+2024-08-22 09:41:05.339 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3085"
+
+2024-08-22 09:41:07.301 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3090"
+
+2024-08-22 09:41:07.302 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3089"
+
+2024-08-22 09:41:10.722 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3101"
+WARNING:pygls.protocol:Cancel notification for unknown message id "3100"
+
+2024-08-22 09:41:10.729 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3102"
+
+2024-08-22 09:41:10.732 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3103"
+
+2024-08-22 09:41:10.735 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3104"
+
+2024-08-22 09:41:11.543 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3106"
+
+2024-08-22 09:41:11.544 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3109"
+
+2024-08-22 09:42:44.753 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3181"
+
+2024-08-22 09:42:45.162 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3182"
+
+2024-08-22 09:42:45.173 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3184"
+
+2024-08-22 09:42:45.567 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3185"
+
+2024-08-22 09:42:45.578 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3186"
+
+2024-08-22 09:42:45.972 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3187"
+
+2024-08-22 09:42:45.983 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3188"
+
+2024-08-22 09:42:46.378 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3190"
+
+2024-08-22 09:42:46.381 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3183"
+
+2024-08-22 09:42:46.803 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3189"
+
+2024-08-22 09:42:46.814 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3192"
+
+2024-08-22 09:42:47.206 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3194"
+
+2024-08-22 09:42:47.599 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3195"
+
+2024-08-22 09:42:47.994 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3196"
+
+2024-08-22 09:42:48.387 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3197"
+
+2024-08-22 09:42:48.389 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3198"
+
+2024-08-22 09:42:48.390 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3199"
+
+2024-08-22 09:42:48.392 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3200"
+
+2024-08-22 09:42:48.630 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3203"
+
+2024-08-22 09:42:48.631 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3202"
+
+2024-08-22 09:42:48.635 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3205"
+WARNING:pygls.protocol:Cancel notification for unknown message id "3204"
+
+2024-08-22 09:42:48.637 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3206"
+
+2024-08-22 09:42:48.639 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3207"
+
+2024-08-22 09:42:48.640 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3208"
+
+2024-08-22 09:42:49.705 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3210"
+
+2024-08-22 09:43:32.637 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3251"
+
+2024-08-22 09:43:32.637 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3252"
+
+2024-08-22 09:43:46.125 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3277"
+
+2024-08-22 09:44:00.269 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3283"
+
+2024-08-22 09:44:08.314 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3299"
+
+2024-08-22 09:44:08.315 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3300"
+
+2024-08-22 09:44:24.846 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3324"
+
+2024-08-22 09:44:32.477 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3346"
+
+2024-08-22 09:44:41.530 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3348"
+
+2024-08-22 09:44:41.929 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3349"
+
+2024-08-22 09:44:41.940 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3350"
+
+2024-08-22 09:44:42.346 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3351"
+
+2024-08-22 09:44:42.357 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3353"
+
+2024-08-22 09:44:42.766 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3355"
+
+2024-08-22 09:44:43.174 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3356"
+
+2024-08-22 09:44:43.588 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3354"
+
+2024-08-22 09:44:43.599 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3357"
+
+2024-08-22 09:44:43.999 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3358"
+
+2024-08-22 09:44:44.011 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3359"
+
+2024-08-22 09:44:44.018 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3362"
+
+2024-08-22 09:44:44.019 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3361"
+
+2024-08-22 09:44:44.023 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3363"
+
+2024-08-22 09:44:44.026 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3364"
+
+2024-08-22 09:44:44.031 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3366"
+WARNING:pygls.protocol:Cancel notification for unknown message id "3365"
+
+2024-08-22 09:44:44.033 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3367"
+
+2024-08-22 09:44:44.035 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3368"
+
+2024-08-22 09:44:44.036 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3369"
+
+2024-08-22 09:44:45.137 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3371"
+
+2024-08-22 09:44:45.137 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3370"
+
+2024-08-22 09:44:45.139 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3360"
+
+2024-08-22 09:44:45.149 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3373"
+
+2024-08-22 09:44:45.149 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3372"
+
+2024-08-22 09:44:45.152 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3376"
+
+2024-08-22 09:44:45.152 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3352"
+
+2024-08-22 09:44:45.152 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3375"
+
+2024-08-22 09:44:45.155 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3378"
+
+2024-08-22 09:44:45.169 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3377"
+
+2024-08-22 09:44:45.171 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3380"
+
+2024-08-22 09:44:45.175 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3381"
+
+2024-08-22 09:44:45.176 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3382"
+
+2024-08-22 09:44:45.178 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3384"
+
+2024-08-22 09:44:45.178 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3383"
+
+2024-08-22 09:44:45.181 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3385"
+
+2024-08-22 09:44:45.183 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3386"
+
+2024-08-22 09:44:45.185 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3379"
+
+2024-08-22 09:44:45.196 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3387"
+
+2024-08-22 09:44:45.200 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3390"
+
+2024-08-22 09:44:45.200 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3389"
+
+2024-08-22 09:44:45.203 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3391"
+
+2024-08-22 09:44:46.667 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3394"
+WARNING:pygls.protocol:Cancel notification for unknown message id "3393"
+
+2024-08-22 09:44:47.078 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3396"
+WARNING:pygls.protocol:Cancel notification for unknown message id "3395"
+
+2024-08-22 09:44:47.082 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3397"
+
+2024-08-22 09:44:47.085 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3398"
+
+2024-08-22 09:44:47.092 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3399"
+
+2024-08-22 09:44:47.098 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3400"
+
+2024-08-22 09:44:47.101 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3401"
+
+2024-08-22 09:44:47.102 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3402"
+
+2024-08-22 09:44:47.520 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3404"
+WARNING:pygls.protocol:Cancel notification for unknown message id "3403"
+
+2024-08-22 09:44:47.522 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3405"
+
+2024-08-22 09:44:51.380 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3413"
+
+2024-08-22 09:44:51.385 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3414"
+
+2024-08-22 09:47:00.730 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3432"
+
+2024-08-22 09:48:48.421 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3453"
+
+2024-08-22 09:49:21.376 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3499"
+
+2024-08-22 09:49:21.377 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3500"
+
+2024-08-22 09:49:21.378 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3501"
+
+2024-08-22 09:49:31.594 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3528"
+
+2024-08-22 09:49:49.155 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3543"
+
+2024-08-22 09:49:50.620 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3547"
+
+2024-08-22 09:49:51.026 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3549"
+
+2024-08-22 09:49:56.718 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3555"
+
+2024-08-22 09:49:57.560 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3560"
+
+2024-08-22 09:49:58.255 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3563"
+
+2024-08-22 09:49:58.787 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3565"
+
+2024-08-22 09:49:59.744 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3570"
+
+2024-08-22 09:50:07.698 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3587"
+
+2024-08-22 09:50:20.622 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3592"
+
+2024-08-22 09:50:21.029 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3591"
+
+2024-08-22 09:50:21.030 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3594"
+
+2024-08-22 09:50:21.030 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3593"
+
+2024-08-22 09:50:45.184 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3612"
+
+2024-08-22 09:51:00.058 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3639"
+
+2024-08-22 09:51:00.059 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3640"
+
+2024-08-22 09:51:07.550 [info] ERROR:pygls.protocol:Failed to handle request 3655 textDocument/codeAction CodeActionParams(text_document=TextDocumentIdentifier(uri='file:///home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/p4_router_avmm.py'), range=189:32-189:32, context=CodeActionContext(diagnostics=[], only=None, trigger_kind=<CodeActionTriggerKind.Automatic: 2>), work_done_token=None, partial_result_token=None)
+Traceback (most recent call last):
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 580, in code_action
+    extract_variable_refactoring = jedi_script.extract_variable(
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper
+    return func(self, line, column, *args, **kwargs)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/__init__.py", line 628, in extract_variable
+    return extract_variable(
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 19, in extract_variable
+    nodes = _find_nodes(module_node, pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 87, in _find_nodes
+    nodes = _remove_unwanted_expression_nodes(parent_node, pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 196, in _remove_unwanted_expression_nodes
+    nodes = nodes[start_index:end_index + 1]
+UnboundLocalError: local variable 'end_index' referenced before assignment
+
+2024-08-22 09:51:07.551 [info] [Error - 09:51:07] Request textDocument/codeAction failed.
+2024-08-22 09:51:07.551 [info]   Message: UnboundLocalError: local variable 'end_index' referenced before assignment
+  Code: -32602 
+{'traceback': ['  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 580, in code_action\n    extract_variable_refactoring = jedi_script.extract_variable(\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper\n    return func(self, line, column, *args, **kwargs)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/__init__.py", line 628, in extract_variable\n    return extract_variable(\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 19, in extract_variable\n    nodes = _find_nodes(module_node, pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 87, in _find_nodes\n    nodes = _remove_unwanted_expression_nodes(parent_node, pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 196, in _remove_unwanted_expression_nodes\n    nodes = nodes[start_index:end_index + 1]\n']}
+2024-08-22 09:51:32.415 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3681"
+
+2024-08-22 09:51:34.352 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3690"
+
+2024-08-22 09:51:34.744 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3692"
+
+2024-08-22 09:51:35.138 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3693"
+
+2024-08-22 09:51:36.557 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3696"
+
+2024-08-22 09:51:36.954 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3697"
+
+2024-08-22 09:51:36.966 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3699"
+WARNING:pygls.protocol:Cancel notification for unknown message id "3698"
+
+2024-08-22 09:51:37.379 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3702"
+
+2024-08-22 09:51:37.383 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3703"
+
+2024-08-22 09:51:40.755 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3713"
+
+2024-08-22 09:51:40.755 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3715"
+
+2024-08-22 09:51:40.756 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3716"
+
+2024-08-22 09:52:02.631 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3735"
+
+2024-08-22 09:52:02.634 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3736"
+
+2024-08-22 09:52:08.861 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3744"
+
+2024-08-22 09:52:08.861 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3743"
+
+2024-08-22 09:52:08.865 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3745"
+
+2024-08-22 09:52:25.445 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3753"
+
+2024-08-22 09:52:25.686 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3754"
+
+2024-08-22 09:52:25.687 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3755"
+
+2024-08-22 09:52:25.700 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3756"
+
+2024-08-22 09:52:25.702 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3757"
+
+2024-08-22 09:52:25.709 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3758"
+
+2024-08-22 09:52:26.123 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3760"
+
+2024-08-22 09:52:27.483 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3761"
+
+2024-08-22 09:52:28.258 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3763"
+
+2024-08-22 09:52:28.269 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3764"
+
+2024-08-22 09:52:28.280 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3765"
+
+2024-08-22 09:52:50.183 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3788"
+
+2024-08-22 09:52:50.185 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3789"
+
+2024-08-22 09:52:51.487 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3794"
+
+2024-08-22 09:52:51.487 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3793"
+
+2024-08-22 09:52:51.494 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3796"
+
+2024-08-22 09:52:51.496 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3797"
+
+2024-08-22 09:52:53.158 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3803"
+
+2024-08-22 09:52:53.158 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3802"
+
+2024-08-22 09:53:04.016 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3822"
+
+2024-08-22 09:53:05.506 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3824"
+
+2024-08-22 09:53:05.903 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3825"
+
+2024-08-22 09:54:05.306 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3862"
+
+2024-08-22 09:54:05.308 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3863"
+
+2024-08-22 09:54:06.753 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3868"
+
+2024-08-22 09:54:06.753 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3867"
+
+2024-08-22 09:54:06.761 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3870"
+
+2024-08-22 09:54:06.764 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3871"
+
+2024-08-22 09:54:07.982 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3876"
+
+2024-08-22 09:54:09.895 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3882"
+
+2024-08-22 09:54:10.306 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3884"
+
+2024-08-22 09:54:11.038 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3888"
+
+2024-08-22 09:54:11.782 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3891"
+
+2024-08-22 09:54:12.707 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3895"
+
+2024-08-22 09:54:13.107 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3897"
+
+2024-08-22 09:57:02.546 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3905"
+
+2024-08-22 09:57:02.557 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3906"
+
+2024-08-22 09:57:02.559 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3907"
+
+2024-08-22 09:57:35.781 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3955"
+
+2024-08-22 09:57:37.662 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3967"
+
+2024-08-22 09:57:37.662 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3965"
+
+2024-08-22 09:57:37.664 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3966"
+
+2024-08-22 09:57:37.674 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3969"
+
+2024-08-22 09:57:37.674 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3970"
+
+2024-08-22 09:57:37.684 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3971"
+
+2024-08-22 09:57:37.685 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3972"
+
+2024-08-22 09:57:38.254 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "3976"
+
+2024-08-22 09:57:58.437 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4008"
+
+2024-08-22 09:58:01.244 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4022"
+
+2024-08-22 09:58:01.244 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4020"
+
+2024-08-22 09:58:01.250 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4021"
+
+2024-08-22 09:58:01.259 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4023"
+
+2024-08-22 09:58:01.261 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4024"
+
+2024-08-22 09:58:01.270 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4025"
+
+2024-08-22 09:58:01.272 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4026"
+
+2024-08-22 09:58:02.105 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4029"
+
+2024-08-22 09:58:02.105 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4031"
+
+2024-08-22 09:58:02.112 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4033"
+
+2024-08-22 09:58:02.113 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4032"
+
+2024-08-22 09:58:15.656 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4052"
+
+2024-08-22 09:58:17.325 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4054"
+
+2024-08-22 09:58:17.748 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4055"
+
+2024-08-22 09:58:21.097 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4072"
+
+2024-08-22 09:58:21.098 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4073"
+
+2024-08-22 09:58:33.785 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4085"
+
+2024-08-22 09:58:52.758 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4089"
+
+2024-08-22 09:58:54.075 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4090"
+
+2024-08-22 09:58:59.523 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4100"
+
+2024-08-22 09:58:59.526 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4101"
+
+2024-08-22 09:59:00.303 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4103"
+
+2024-08-22 09:59:02.789 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4109"
+
+2024-08-22 09:59:05.085 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4114"
+
+2024-08-22 09:59:07.260 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4123"
+
+2024-08-22 09:59:09.955 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4134"
+
+2024-08-22 09:59:09.957 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4135"
+
+2024-08-22 09:59:10.322 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4138"
+
+2024-08-22 10:00:12.420 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4166"
+
+2024-08-22 10:00:16.008 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4175"
+
+2024-08-22 10:00:16.012 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4176"
+
+2024-08-22 10:00:16.426 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4178"
+
+2024-08-22 10:00:16.426 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4177"
+
+2024-08-22 10:00:16.830 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4180"
+
+2024-08-22 10:00:16.831 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4179"
+
+2024-08-22 10:00:16.834 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4182"
+
+2024-08-22 10:00:16.837 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4183"
+
+2024-08-22 10:00:17.261 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4185"
+
+2024-08-22 10:00:18.388 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4191"
+
+2024-08-22 10:00:22.847 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4205"
+
+2024-08-22 10:00:29.918 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4215"
+
+2024-08-22 10:00:30.160 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4216"
+
+2024-08-22 10:00:30.161 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4217"
+
+2024-08-22 10:00:30.971 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4219"
+
+2024-08-22 10:00:30.972 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4221"
+
+2024-08-22 10:00:30.973 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4222"
+
+2024-08-22 10:00:31.379 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4224"
+
+2024-08-22 10:00:33.056 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4228"
+
+2024-08-22 10:00:34.747 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4237"
+
+2024-08-22 10:00:37.727 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4245"
+
+2024-08-22 10:00:37.730 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4246"
+
+2024-08-22 10:00:40.181 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4255"
+
+2024-08-22 10:00:40.181 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4254"
+
+2024-08-22 10:00:40.578 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4258"
+
+2024-08-22 10:00:40.578 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4257"
+
+2024-08-22 10:00:40.582 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4259"
+
+2024-08-22 10:00:40.585 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4260"
+
+2024-08-22 10:00:40.990 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4262"
+
+2024-08-22 10:00:41.408 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4264"
+
+2024-08-22 11:59:28.724 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4302"
+
+2024-08-22 11:59:28.958 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4303"
+
+2024-08-22 11:59:29.745 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4305"
+
+2024-08-22 11:59:30.633 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4311"
+
+2024-08-22 11:59:30.633 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4310"
+
+2024-08-22 11:59:35.854 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4319"
+
+2024-08-22 11:59:35.855 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4320"
+
+2024-08-22 11:59:41.847 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4331"
+
+2024-08-22 11:59:41.848 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4330"
+
+2024-08-22 11:59:41.860 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4332"
+
+2024-08-22 12:01:00.701 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4372"
+
+2024-08-22 12:01:00.704 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4373"
+
+2024-08-22 12:01:18.008 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4387"
+
+2024-08-22 12:01:18.251 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4388"
+
+2024-08-22 12:01:19.053 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4390"
+
+2024-08-22 12:01:19.053 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4392"
+
+2024-08-22 12:01:19.444 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4394"
+
+2024-08-22 12:01:19.444 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4393"
+
+2024-08-22 12:01:19.445 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4395"
+
+2024-08-22 12:01:19.446 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4396"
+
+2024-08-22 12:01:19.447 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4397"
+
+2024-08-22 12:01:19.854 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4399"
+
+2024-08-22 12:01:19.855 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4401"
+
+2024-08-22 12:01:19.856 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4402"
+
+2024-08-22 12:01:20.492 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4404"
+
+2024-08-22 12:01:22.408 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4409"
+
+2024-08-22 12:01:23.019 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4411"
+
+2024-08-22 12:01:23.747 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4413"
+
+2024-08-22 12:01:54.360 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4461"
+
+2024-08-22 12:02:24.570 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4488"
+
+2024-08-22 12:02:24.850 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4490"
+
+2024-08-22 12:02:24.853 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4491"
+
+2024-08-22 12:02:27.229 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4500"
+
+2024-08-22 12:02:27.467 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4501"
+
+2024-08-22 12:02:29.647 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4506"
+
+2024-08-22 12:02:30.054 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4507"
+
+2024-08-22 12:02:31.096 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4510"
+
+2024-08-22 12:02:32.407 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4515"
+
+2024-08-22 12:02:32.845 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4517"
+
+2024-08-22 12:02:33.429 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4519"
+
+2024-08-22 12:02:38.246 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4526"
+
+2024-08-22 12:02:38.913 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4528"
+
+2024-08-22 12:02:39.921 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4531"
+
+2024-08-22 12:02:39.922 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4532"
+
+2024-08-22 12:02:40.317 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4534"
+
+2024-08-22 12:02:40.317 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4533"
+
+2024-08-22 12:02:40.319 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4535"
+
+2024-08-22 12:02:41.120 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4538"
+
+2024-08-22 12:02:47.352 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4556"
+
+2024-08-22 12:02:47.354 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4557"
+
+2024-08-22 12:02:48.995 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4564"
+
+2024-08-22 12:02:49.784 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4565"
+
+2024-08-22 12:02:50.170 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4567"
+WARNING:pygls.protocol:Cancel notification for unknown message id "4566"
+
+2024-08-22 12:02:50.186 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4568"
+
+2024-08-22 12:02:50.189 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4569"
+
+2024-08-22 12:02:50.190 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4570"
+
+2024-08-22 12:02:50.588 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4572"
+WARNING:pygls.protocol:Cancel notification for unknown message id "4571"
+
+2024-08-22 12:02:50.975 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4573"
+
+2024-08-22 12:02:54.914 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4585"
+
+2024-08-22 12:02:55.478 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4587"
+
+2024-08-22 12:02:55.901 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4589"
+
+2024-08-22 12:02:56.321 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4592"
+
+2024-08-22 12:02:59.881 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4603"
+
+2024-08-22 12:03:01.940 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4609"
+
+2024-08-22 12:03:01.943 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4610"
+
+2024-08-22 12:03:01.946 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4611"
+
+2024-08-22 12:03:01.961 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4612"
+
+2024-08-22 12:03:01.963 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4613"
+
+2024-08-22 12:03:03.762 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4621"
+
+2024-08-22 12:03:04.849 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4624"
+
+2024-08-22 12:03:06.531 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4627"
+
+2024-08-22 12:03:07.099 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4628"
+
+2024-08-22 12:03:07.108 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4630"
+
+2024-08-22 12:03:07.966 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4634"
+
+2024-08-22 12:03:08.896 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4639"
+
+2024-08-22 12:03:09.443 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4641"
+
+2024-08-22 12:03:10.090 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4644"
+
+2024-08-22 12:03:10.491 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4646"
+
+2024-08-22 12:03:10.903 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4647"
+
+2024-08-22 12:03:16.561 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4657"
+
+2024-08-22 12:03:16.564 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4658"
+
+2024-08-22 12:03:18.793 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4665"
+
+2024-08-22 12:03:19.039 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4666"
+
+2024-08-22 12:03:19.432 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4668"
+
+2024-08-22 12:03:19.432 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4667"
+
+2024-08-22 12:03:19.439 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4669"
+
+2024-08-22 12:03:19.440 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4670"
+
+2024-08-22 12:03:19.442 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4671"
+
+2024-08-22 12:03:19.849 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4673"
+
+2024-08-22 12:03:31.774 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4687"
+
+2024-08-22 12:03:33.950 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4699"
+
+2024-08-22 12:03:35.221 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4705"
+
+2024-08-22 12:03:37.368 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4713"
+
+2024-08-22 12:03:37.370 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4714"
+
+2024-08-22 12:03:39.792 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4721"
+
+2024-08-22 12:03:40.031 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4722"
+
+2024-08-22 12:03:40.032 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4723"
+
+2024-08-22 12:03:40.039 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4724"
+
+2024-08-22 12:03:40.446 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4726"
+
+2024-08-22 12:03:40.449 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4728"
+
+2024-08-22 12:03:40.847 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4730"
+
+2024-08-22 12:03:41.245 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4732"
+WARNING:pygls.protocol:Cancel notification for unknown message id "4731"
+
+2024-08-22 12:03:41.247 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4733"
+
+2024-08-22 12:03:41.250 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4734"
+
+2024-08-22 12:03:41.251 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4735"
+
+2024-08-22 12:03:44.567 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4744"
+
+2024-08-22 12:03:46.359 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4746"
+
+2024-08-22 12:03:46.828 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4747"
+
+2024-08-22 12:03:47.432 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4748"
+
+2024-08-22 12:03:49.492 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4752"
+
+2024-08-22 12:03:50.298 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4756"
+
+2024-08-22 12:03:51.490 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4762"
+
+2024-08-22 12:03:53.089 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4772"
+
+2024-08-22 12:03:54.916 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4783"
+
+2024-08-22 12:03:59.828 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4789"
+
+2024-08-22 12:04:11.907 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4799"
+
+2024-08-22 12:04:16.998 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4813"
+
+2024-08-22 12:04:16.999 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4814"
+
+2024-08-22 12:04:17.582 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4815"
+
+2024-08-22 12:07:56.404 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4840"
+
+2024-08-22 12:07:56.404 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4839"
+
+2024-08-22 12:07:56.914 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4841"
+
+2024-08-22 12:08:48.381 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4895"
+
+2024-08-22 12:08:54.412 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4904"
+
+2024-08-22 12:09:01.552 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4908"
+
+2024-08-22 12:09:03.253 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4914"
+
+2024-08-22 12:09:18.220 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4942"
+
+2024-08-22 12:09:18.235 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4944"
+
+2024-08-22 12:09:20.885 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4955"
+
+2024-08-22 12:09:22.553 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4959"
+
+2024-08-22 12:09:30.450 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4970"
+
+2024-08-22 12:09:35.908 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4979"
+
+2024-08-22 12:09:35.911 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4981"
+
+2024-08-22 12:09:35.912 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4982"
+
+2024-08-22 12:09:38.101 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4983"
+
+2024-08-22 12:09:38.101 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4984"
+
+2024-08-22 12:09:38.103 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4987"
+
+2024-08-22 12:09:38.119 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4986"
+
+2024-08-22 12:09:38.120 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4989"
+
+2024-08-22 12:09:38.120 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4988"
+
+2024-08-22 12:09:40.672 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4994"
+
+2024-08-22 12:09:41.107 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4998"
+
+2024-08-22 12:09:41.110 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "4999"
+
+2024-08-22 12:09:44.566 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5008"
+
+2024-08-22 12:10:00.072 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5030"
+
+2024-08-22 12:10:02.943 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5037"
+
+2024-08-22 12:10:03.180 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5038"
+
+2024-08-22 12:10:03.182 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5039"
+
+2024-08-22 12:10:03.187 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5040"
+
+2024-08-22 12:10:03.188 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5041"
+
+2024-08-22 12:10:03.190 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5042"
+
+2024-08-22 12:10:03.601 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5045"
+
+2024-08-22 12:10:03.603 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5046"
+
+2024-08-22 12:10:04.237 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5048"
+
+2024-08-22 12:10:04.640 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5049"
+
+2024-08-22 12:10:05.441 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5051"
+
+2024-08-22 12:10:05.950 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5053"
+
+2024-08-22 12:10:06.375 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5055"
+
+2024-08-22 12:10:07.065 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5057"
+
+2024-08-22 12:10:12.087 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5066"
+
+2024-08-22 12:10:12.102 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5069"
+
+2024-08-22 12:10:12.123 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5068"
+
+2024-08-22 12:10:12.138 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5072"
+
+2024-08-22 12:10:12.138 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5071"
+
+2024-08-22 12:11:27.622 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5107"
+
+2024-08-22 12:11:41.899 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5123"
+
+2024-08-22 12:11:50.441 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5138"
+
+2024-08-22 12:11:51.202 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5139"
+
+2024-08-22 12:11:59.448 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5148"
+
+2024-08-22 12:12:01.131 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5149"
+
+2024-08-22 12:12:01.533 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5150"
+
+2024-08-22 12:12:01.927 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5151"
+
+2024-08-22 12:12:01.939 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5152"
+
+2024-08-22 12:12:28.722 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5193"
+
+2024-08-22 12:12:29.658 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5194"
+
+2024-08-22 12:12:34.564 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5205"
+
+2024-08-22 12:12:35.245 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5206"
+
+2024-08-22 12:12:35.790 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5208"
+
+2024-08-22 12:12:36.232 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5209"
+
+2024-08-22 12:12:36.747 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5211"
+
+2024-08-22 12:12:40.551 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5221"
+
+2024-08-22 12:12:49.620 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5234"
+
+2024-08-22 12:12:57.155 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5248"
+
+2024-08-22 12:12:57.759 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5249"
+
+2024-08-22 12:12:58.736 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5251"
+
+2024-08-22 12:13:04.840 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5259"
+
+2024-08-22 12:13:16.299 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5265"
+
+2024-08-22 12:13:18.681 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5270"
+
+2024-08-22 12:13:19.215 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5272"
+
+2024-08-22 12:13:19.652 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5273"
+
+2024-08-22 12:13:20.055 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5274"
+
+2024-08-22 12:13:20.716 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5276"
+
+2024-08-22 12:13:25.321 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5287"
+
+2024-08-22 12:13:26.521 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5288"
+
+2024-08-22 12:13:31.074 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5297"
+
+2024-08-22 12:13:31.454 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5298"
+
+2024-08-22 12:13:31.455 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5299"
+
+2024-08-22 12:13:43.143 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5316"
+
+2024-08-22 12:13:50.496 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5329"
+
+2024-08-22 12:13:51.879 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5331"
+
+2024-08-22 12:13:52.279 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5332"
+
+2024-08-22 12:13:52.888 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5333"
+
+2024-08-22 12:13:56.131 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5338"
+
+2024-08-22 12:13:56.131 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5339"
+
+2024-08-22 12:14:16.355 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5368"
+
+2024-08-22 12:14:16.780 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5369"
+
+2024-08-22 12:14:17.805 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5371"
+
+2024-08-22 12:14:24.272 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5386"
+
+2024-08-22 12:14:24.786 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5387"
+
+2024-08-22 12:14:25.471 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5389"
+
+2024-08-22 12:14:25.888 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5390"
+
+2024-08-22 12:17:38.473 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5424"
+
+2024-08-22 12:17:38.997 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5426"
+
+2024-08-22 12:17:39.390 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5428"
+
+2024-08-22 12:17:39.797 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5429"
+
+2024-08-22 12:17:40.842 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5433"
+
+2024-08-22 12:17:41.368 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5434"
+
+2024-08-22 12:17:41.833 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5435"
+
+2024-08-22 12:17:41.844 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5436"
+
+2024-08-22 12:17:42.425 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5437"
+
+2024-08-22 12:17:42.435 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5438"
+
+2024-08-22 12:17:43.033 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5439"
+
+2024-08-22 12:17:57.997 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5444"
+
+2024-08-22 12:17:59.135 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5445"
+
+2024-08-22 12:18:22.300 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5466"
+
+2024-08-22 12:18:22.725 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5468"
+
+2024-08-22 12:18:23.314 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5469"
+
+2024-08-22 12:18:23.710 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5470"
+
+2024-08-22 12:18:24.119 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5471"
+
+2024-08-22 12:18:24.684 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5473"
+
+2024-08-22 12:18:34.328 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5480"
+
+2024-08-22 12:18:35.983 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5483"
+
+2024-08-22 12:18:50.874 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5496"
+
+2024-08-22 12:19:09.229 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5508"
+
+2024-08-22 12:19:10.176 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5509"
+
+2024-08-22 12:19:10.946 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5510"
+
+2024-08-22 12:19:11.512 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5512"
+
+2024-08-22 12:19:11.931 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5514"
+
+2024-08-22 12:19:25.925 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5529"
+
+2024-08-22 12:19:32.713 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5549"
+
+2024-08-22 12:19:32.960 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5550"
+
+2024-08-22 12:19:32.962 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5551"
+
+2024-08-22 12:19:34.887 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5556"
+
+2024-08-22 12:19:35.443 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5558"
+
+2024-08-22 12:19:36.147 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5560"
+
+2024-08-22 12:19:38.588 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5565"
+
+2024-08-22 12:19:39.252 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5567"
+
+2024-08-22 12:19:40.849 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5571"
+
+2024-08-22 12:19:41.426 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5573"
+
+2024-08-22 12:19:45.440 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5581"
+
+2024-08-22 12:19:45.441 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5582"
+
+2024-08-22 12:19:46.090 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5583"
+
+2024-08-22 12:19:46.503 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5585"
+
+2024-08-22 12:19:49.092 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5590"
+
+2024-08-22 12:20:00.351 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5597"
+
+2024-08-22 12:20:00.355 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5598"
+
+2024-08-22 12:20:00.835 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5603"
+
+2024-08-22 12:20:04.011 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5610"
+
+2024-08-22 12:20:04.580 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5612"
+
+2024-08-22 12:20:05.003 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5613"
+
+2024-08-22 12:20:07.661 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5619"
+
+2024-08-22 12:20:11.957 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5626"
+
+2024-08-22 12:20:11.960 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5627"
+
+2024-08-22 12:20:14.808 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5635"
+
+2024-08-22 12:20:14.811 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5636"
+
+2024-08-22 12:20:27.028 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5649"
+
+2024-08-22 12:20:27.030 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5650"
+
+2024-08-22 12:20:29.261 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5667"
+
+2024-08-22 12:20:35.228 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5681"
+
+2024-08-22 12:20:36.196 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5682"
+
+2024-08-22 12:20:44.367 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5689"
+
+2024-08-22 12:21:13.666 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5712"
+
+2024-08-22 12:21:14.165 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5714"
+
+2024-08-22 12:21:14.572 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5716"
+
+2024-08-22 12:21:48.745 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5747"
+
+2024-08-22 12:21:49.231 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5749"
+
+2024-08-22 12:21:49.498 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5752"
+
+2024-08-22 12:21:50.460 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5753"
+
+2024-08-22 12:21:58.350 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5766"
+
+2024-08-22 12:26:43.538 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5785"
+
+2024-08-22 12:26:48.098 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5793"
+
+2024-08-22 12:58:15.961 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5819"
+
+2024-08-22 19:26:15.706 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5850"
+
+2024-08-22 19:26:40.741 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5864"
+
+2024-08-22 19:26:43.551 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5871"
+
+2024-08-22 19:26:48.552 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5886"
+
+2024-08-22 19:26:51.154 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5890"
+
+2024-08-22 19:27:15.859 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5927"
+
+2024-08-22 19:27:15.863 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5928"
+
+2024-08-22 19:27:20.727 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5942"
+
+2024-08-22 19:27:21.153 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5945"
+
+2024-08-22 19:27:21.153 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5946"
+
+2024-08-22 19:27:21.743 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5950"
+
+2024-08-22 19:27:22.397 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5953"
+
+2024-08-22 19:27:23.351 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5959"
+
+2024-08-22 19:27:24.116 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5962"
+
+2024-08-22 19:27:24.921 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5963"
+
+2024-08-22 19:27:25.413 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5965"
+
+2024-08-22 19:27:26.847 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5971"
+
+2024-08-22 19:27:28.132 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5978"
+
+2024-08-22 19:27:28.564 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5982"
+
+2024-08-22 19:27:34.661 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "5998"
+
+2024-08-22 19:28:08.094 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6010"
+
+2024-08-22 19:28:19.828 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6030"
+
+2024-08-22 19:28:20.588 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6033"
+
+2024-08-22 19:28:22.702 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6039"
+
+2024-08-22 19:28:27.386 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6053"
+
+2024-08-22 19:29:31.575 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6066"
+
+2024-08-22 19:29:34.108 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6071"
+
+2024-08-22 19:29:34.999 [info] ERROR:pygls.protocol:Failed to handle request 6073 textDocument/codeAction CodeActionParams(text_document=TextDocumentIdentifier(uri='file:///home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/p4_router_avmm.py'), range=283:42-283:42, context=CodeActionContext(diagnostics=[], only=None, trigger_kind=<CodeActionTriggerKind.Automatic: 2>), work_done_token=None, partial_result_token=None)
+Traceback (most recent call last):
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 580, in code_action
+    extract_variable_refactoring = jedi_script.extract_variable(
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper
+    return func(self, line, column, *args, **kwargs)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/__init__.py", line 628, in extract_variable
+    return extract_variable(
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 19, in extract_variable
+    nodes = _find_nodes(module_node, pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 87, in _find_nodes
+    nodes = _remove_unwanted_expression_nodes(parent_node, pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 198, in _remove_unwanted_expression_nodes
+    nodes[0:1] = _remove_unwanted_expression_nodes(nodes[0], pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 196, in _remove_unwanted_expression_nodes
+    nodes = nodes[start_index:end_index + 1]
+UnboundLocalError: local variable 'start_index' referenced before assignment
+
+2024-08-22 19:29:35.000 [info] [Error - 19:29:35] Request textDocument/codeAction failed.
+2024-08-22 19:29:35.000 [info]   Message: UnboundLocalError: local variable 'start_index' referenced before assignment
+  Code: -32602 
+{'traceback': ['  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 580, in code_action\n    extract_variable_refactoring = jedi_script.extract_variable(\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper\n    return func(self, line, column, *args, **kwargs)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/__init__.py", line 628, in extract_variable\n    return extract_variable(\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 19, in extract_variable\n    nodes = _find_nodes(module_node, pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 87, in _find_nodes\n    nodes = _remove_unwanted_expression_nodes(parent_node, pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 198, in _remove_unwanted_expression_nodes\n    nodes[0:1] = _remove_unwanted_expression_nodes(nodes[0], pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 196, in _remove_unwanted_expression_nodes\n    nodes = nodes[start_index:end_index + 1]\n']}
+2024-08-22 19:29:35.735 [info] ERROR:pygls.protocol:Failed to handle request 6074 textDocument/codeAction CodeActionParams(text_document=TextDocumentIdentifier(uri='file:///home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/p4_router_avmm.py'), range=283:41-283:41, context=CodeActionContext(diagnostics=[], only=None, trigger_kind=<CodeActionTriggerKind.Automatic: 2>), work_done_token=None, partial_result_token=None)
+Traceback (most recent call last):
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 580, in code_action
+    extract_variable_refactoring = jedi_script.extract_variable(
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper
+    return func(self, line, column, *args, **kwargs)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/__init__.py", line 628, in extract_variable
+    return extract_variable(
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 19, in extract_variable
+    nodes = _find_nodes(module_node, pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 87, in _find_nodes
+    nodes = _remove_unwanted_expression_nodes(parent_node, pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 198, in _remove_unwanted_expression_nodes
+    nodes[0:1] = _remove_unwanted_expression_nodes(nodes[0], pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 196, in _remove_unwanted_expression_nodes
+    nodes = nodes[start_index:end_index + 1]
+UnboundLocalError: local variable 'start_index' referenced before assignment
+
+2024-08-22 19:29:35.735 [info] [Error - 19:29:35] Request textDocument/codeAction failed.
+2024-08-22 19:29:35.735 [info]   Message: UnboundLocalError: local variable 'start_index' referenced before assignment
+  Code: -32602 
+{'traceback': ['  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 580, in code_action\n    extract_variable_refactoring = jedi_script.extract_variable(\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper\n    return func(self, line, column, *args, **kwargs)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/__init__.py", line 628, in extract_variable\n    return extract_variable(\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 19, in extract_variable\n    nodes = _find_nodes(module_node, pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 87, in _find_nodes\n    nodes = _remove_unwanted_expression_nodes(parent_node, pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 198, in _remove_unwanted_expression_nodes\n    nodes[0:1] = _remove_unwanted_expression_nodes(nodes[0], pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 196, in _remove_unwanted_expression_nodes\n    nodes = nodes[start_index:end_index + 1]\n']}
+2024-08-22 19:29:37.427 [info] ERROR:pygls.protocol:Failed to handle request 6078 textDocument/codeAction CodeActionParams(text_document=TextDocumentIdentifier(uri='file:///home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/p4_router_avmm.py'), range=286:42-286:42, context=CodeActionContext(diagnostics=[], only=None, trigger_kind=<CodeActionTriggerKind.Automatic: 2>), work_done_token=None, partial_result_token=None)
+Traceback (most recent call last):
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 580, in code_action
+    extract_variable_refactoring = jedi_script.extract_variable(
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper
+    return func(self, line, column, *args, **kwargs)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/__init__.py", line 628, in extract_variable
+    return extract_variable(
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 19, in extract_variable
+    nodes = _find_nodes(module_node, pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 87, in _find_nodes
+    nodes = _remove_unwanted_expression_nodes(parent_node, pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 198, in _remove_unwanted_expression_nodes
+    nodes[0:1] = _remove_unwanted_expression_nodes(nodes[0], pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 196, in _remove_unwanted_expression_nodes
+    nodes = nodes[start_index:end_index + 1]
+UnboundLocalError: local variable 'start_index' referenced before assignment
+
+2024-08-22 19:29:37.428 [info] [Error - 19:29:37] Request textDocument/codeAction failed.
+2024-08-22 19:29:37.428 [info]   Message: UnboundLocalError: local variable 'start_index' referenced before assignment
+  Code: -32602 
+{'traceback': ['  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 580, in code_action\n    extract_variable_refactoring = jedi_script.extract_variable(\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper\n    return func(self, line, column, *args, **kwargs)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/__init__.py", line 628, in extract_variable\n    return extract_variable(\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 19, in extract_variable\n    nodes = _find_nodes(module_node, pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 87, in _find_nodes\n    nodes = _remove_unwanted_expression_nodes(parent_node, pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 198, in _remove_unwanted_expression_nodes\n    nodes[0:1] = _remove_unwanted_expression_nodes(nodes[0], pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 196, in _remove_unwanted_expression_nodes\n    nodes = nodes[start_index:end_index + 1]\n']}
+2024-08-22 19:29:38.104 [info] ERROR:pygls.protocol:Failed to handle request 6079 textDocument/codeAction CodeActionParams(text_document=TextDocumentIdentifier(uri='file:///home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/p4_router_avmm.py'), range=286:41-286:41, context=CodeActionContext(diagnostics=[], only=None, trigger_kind=<CodeActionTriggerKind.Automatic: 2>), work_done_token=None, partial_result_token=None)
+Traceback (most recent call last):
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request
+    self._send_response(msg_id, handler(params))
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 580, in code_action
+    extract_variable_refactoring = jedi_script.extract_variable(
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper
+    return func(self, line, column, *args, **kwargs)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/__init__.py", line 628, in extract_variable
+    return extract_variable(
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 19, in extract_variable
+    nodes = _find_nodes(module_node, pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 87, in _find_nodes
+    nodes = _remove_unwanted_expression_nodes(parent_node, pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 198, in _remove_unwanted_expression_nodes
+    nodes[0:1] = _remove_unwanted_expression_nodes(nodes[0], pos, until_pos)
+  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 196, in _remove_unwanted_expression_nodes
+    nodes = nodes[start_index:end_index + 1]
+UnboundLocalError: local variable 'start_index' referenced before assignment
+
+2024-08-22 19:29:38.104 [info] [Error - 19:29:38] Request textDocument/codeAction failed.
+2024-08-22 19:29:38.104 [info]   Message: UnboundLocalError: local variable 'start_index' referenced before assignment
+  Code: -32602 
+{'traceback': ['  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 340, in _handle_request\n    self._execute_request(msg_id, handler, params)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/pygls/protocol.py", line 264, in _execute_request\n    self._send_response(msg_id, handler(params))\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi_language_server/server.py", line 580, in code_action\n    extract_variable_refactoring = jedi_script.extract_variable(\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/helpers.py", line 487, in wrapper\n    return func(self, line, column, *args, **kwargs)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/__init__.py", line 628, in extract_variable\n    return extract_variable(\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 19, in extract_variable\n    nodes = _find_nodes(module_node, pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 87, in _find_nodes\n    nodes = _remove_unwanted_expression_nodes(parent_node, pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 198, in _remove_unwanted_expression_nodes\n    nodes[0:1] = _remove_unwanted_expression_nodes(nodes[0], pos, until_pos)\n', '  File "/home/sgass/.vscode/extensions/ms-python.python-2024.12.3-linux-x64/python_files/lib/jedilsp/jedi/api/refactoring/extract.py", line 196, in _remove_unwanted_expression_nodes\n    nodes = nodes[start_index:end_index + 1]\n']}
+2024-08-22 19:30:16.003 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6088"
+
+2024-08-22 19:30:18.453 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6092"
+
+2024-08-22 19:30:24.179 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6104"
+
+2024-08-22 19:30:34.629 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6122"
+
+2024-08-22 19:30:35.443 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6123"
+
+2024-08-22 19:30:35.875 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6127"
+
+2024-08-22 19:30:38.971 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6133"
+
+2024-08-22 19:30:39.528 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6135"
+
+2024-08-22 19:30:39.948 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6136"
+
+2024-08-22 19:31:07.744 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6175"
+
+2024-08-22 19:31:43.451 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6208"
+
+2024-08-22 19:31:53.756 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6218"
+
+2024-08-22 19:31:56.829 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6222"
+
+2024-08-22 19:31:59.806 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6226"
+
+2024-08-22 19:32:03.843 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6235"
+
+2024-08-22 19:32:11.492 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6247"
+
+2024-08-22 19:32:18.191 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6257"
+
+2024-08-22 19:32:18.622 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6259"
+
+2024-08-22 19:32:21.748 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6265"
+
+2024-08-22 19:32:25.262 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6269"
+
+2024-08-22 19:32:56.061 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6304"
+
+2024-08-22 19:32:57.214 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6305"
+
+2024-08-22 19:32:57.690 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6307"
+
+2024-08-22 19:32:58.424 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6309"
+
+2024-08-22 19:33:12.910 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6319"
+
+2024-08-22 19:33:13.296 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6320"
+
+2024-08-22 19:33:14.240 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6321"
+
+2024-08-22 19:33:14.652 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6322"
+
+2024-08-22 19:33:33.065 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6328"
+
+2024-08-22 19:33:42.391 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6353"
+
+2024-08-22 19:33:50.057 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6368"
+
+2024-08-22 19:34:12.465 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6386"
+
+2024-08-22 19:34:45.477 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6407"
+
+2024-08-22 19:34:45.526 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6408"
+
+2024-08-22 19:34:46.103 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6409"
+
+2024-08-22 19:34:54.641 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6418"
+
+2024-08-22 19:35:59.499 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6426"
+
+2024-08-22 19:36:04.045 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6429"
+
+2024-08-22 19:38:22.266 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6513"
+
+2024-08-22 19:38:22.267 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6514"
+
+2024-08-22 19:38:22.280 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6515"
+
+2024-08-22 19:38:22.693 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6516"
+
+2024-08-22 19:38:22.706 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6518"
+
+2024-08-22 19:38:25.193 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6527"
+
+2024-08-22 19:38:27.526 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6537"
+
+2024-08-22 19:38:28.752 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6540"
+
+2024-08-22 19:38:35.249 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6554"
+
+2024-08-22 19:38:52.980 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6574"
+
+2024-08-22 19:38:52.988 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6575"
+
+2024-08-22 19:38:53.397 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6577"
+
+2024-08-22 19:38:53.397 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6576"
+
+2024-08-22 19:38:53.400 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6578"
+
+2024-08-22 19:39:07.263 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6589"
+
+2024-08-22 19:39:07.264 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6590"
+
+2024-08-22 19:39:10.496 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6601"
+
+2024-08-22 19:39:10.496 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6600"
+
+2024-08-22 19:39:10.504 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6603"
+
+2024-08-22 19:39:10.511 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6604"
+
+2024-08-22 19:39:14.420 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6617"
+
+2024-08-22 19:39:14.751 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6619"
+
+2024-08-22 19:39:26.740 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6630"
+
+2024-08-22 19:39:26.743 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6631"
+
+2024-08-22 19:39:26.755 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6632"
+
+2024-08-22 19:39:26.767 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6634"
+
+2024-08-22 19:39:26.778 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6633"
+
+2024-08-22 19:39:28.984 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6641"
+
+2024-08-22 19:39:29.743 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6644"
+
+2024-08-22 19:39:31.409 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6648"
+
+2024-08-22 19:39:56.649 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6660"
+
+2024-08-22 19:39:57.036 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6661"
+
+2024-08-22 19:39:57.457 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6663"
+
+2024-08-22 19:39:57.844 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6664"
+
+2024-08-22 19:39:57.858 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6665"
+
+2024-08-22 19:39:59.770 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6672"
+
+2024-08-22 19:40:08.249 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6685"
+
+2024-08-22 19:40:11.534 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6694"
+
+2024-08-22 19:40:13.425 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6698"
+
+2024-08-22 19:40:14.099 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6702"
+
+2024-08-22 19:40:15.069 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6704"
+
+2024-08-22 19:40:15.488 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6705"
+
+2024-08-22 19:40:15.495 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6708"
+
+2024-08-22 19:40:16.585 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6713"
+
+2024-08-22 19:40:16.932 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6715"
+
+2024-08-22 19:40:17.921 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6716"
+
+2024-08-22 19:40:18.322 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6717"
+
+2024-08-22 19:40:18.361 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6718"
+
+2024-08-22 19:40:19.536 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6724"
+
+2024-08-22 19:40:20.488 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6727"
+
+2024-08-22 19:44:11.051 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6784"
+
+2024-08-22 19:44:16.149 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6793"
+
+2024-08-22 19:44:17.352 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6797"
+
+2024-08-22 19:44:25.253 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6802"
+
+2024-08-22 19:44:37.536 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6809"
+
+2024-08-22 19:45:34.118 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6841"
+
+2024-08-22 19:46:19.697 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6847"
+
+2024-08-22 19:46:46.799 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6870"
+
+2024-08-22 19:46:51.103 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6877"
+
+2024-08-22 19:46:53.979 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6884"
+
+2024-08-22 19:47:19.370 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6913"
+
+2024-08-22 19:47:21.748 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6918"
+
+2024-08-22 19:47:22.315 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6920"
+
+2024-08-22 19:47:25.176 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6926"
+
+2024-08-22 19:47:29.637 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6934"
+
+2024-08-22 19:47:59.390 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6957"
+
+2024-08-22 19:48:09.458 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6962"
+
+2024-08-22 19:48:15.731 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6969"
+
+2024-08-22 19:48:18.145 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6972"
+
+2024-08-22 19:55:04.428 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6987"
+
+2024-08-22 19:56:39.050 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "6999"
+
+2024-08-22 19:57:26.949 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7024"
+
+2024-08-22 19:57:49.434 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7035"
+
+2024-08-22 19:57:51.782 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7040"
+
+2024-08-22 19:57:52.338 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7041"
+
+2024-08-22 19:57:59.262 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7054"
+
+2024-08-22 19:59:41.221 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7099"
+
+2024-08-22 20:00:16.339 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7114"
+
+2024-08-22 20:02:34.279 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7146"
+
+2024-08-22 20:03:38.231 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7178"
+
+2024-08-22 20:03:41.288 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7185"
+
+2024-08-22 20:03:42.504 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7186"
+
+2024-08-22 20:04:25.881 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7195"
+
+2024-08-22 20:04:26.861 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7196"
+
+2024-08-22 20:04:26.867 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7197"
+
+2024-08-22 20:04:43.832 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7212"
+
+2024-08-22 20:04:53.173 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7219"
+
+2024-08-22 20:04:53.758 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7221"
+
+2024-08-22 20:04:54.183 [info] WARNING:pygls.protocol:Cancel notification for unknown message id "7223"
+
