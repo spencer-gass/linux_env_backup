@@ -1,6 +1,24 @@
 <monitors version="2">
   <configuration>
     <logicalmonitor>
+      <x>1920</x>
+      <y>0</y>
+      <scale>1</scale>
+      <monitor>
+        <monitorspec>
+          <connector>DP-4</connector>
+          <vendor>DEL</vendor>
+          <product>DELL P2419H</product>
+          <serial>4R03QF3</serial>
+        </monitorspec>
+        <mode>
+          <width>1920</width>
+          <height>1080</height>
+          <rate>60</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+    <logicalmonitor>
       <x>0</x>
       <y>0</y>
       <scale>1</scale>
@@ -11,24 +29,6 @@
           <vendor>DEL</vendor>
           <product>DELL P2419H</product>
           <serial>J5F4RD3</serial>
-        </monitorspec>
-        <mode>
-          <width>1920</width>
-          <height>1080</height>
-          <rate>60</rate>
-        </mode>
-      </monitor>
-    </logicalmonitor>
-    <logicalmonitor>
-      <x>1920</x>
-      <y>0</y>
-      <scale>1</scale>
-      <monitor>
-        <monitorspec>
-          <connector>DP-4</connector>
-          <vendor>DEL</vendor>
-          <product>DELL P2419H</product>
-          <serial>4R03QF3</serial>
         </monitorspec>
         <mode>
           <width>1920</width>

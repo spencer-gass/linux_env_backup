@@ -1,0 +1,888 @@
+2024-08-20 09:41:23.140 [info] mshr-h.veriloghdl is now active.
+2024-08-20 09:41:23.140 [info] [ExtensionManager] previousVersion: "1.14.3", currentVersion: "1.14.3"
+2024-08-20 09:41:23.140 [info] ctags manager configure
+2024-08-20 09:41:23.140 [warning] [LintManager] Invalid linter name: none
+2024-08-20 09:41:23.140 [info] mshr-h.veriloghdl activation finished.
+2024-08-20 09:41:23.140 [warning] [LintManager] Invalid linter name: none
+2024-08-20 09:41:23.140 [warning] [LintManager] Invalid linter name: none
+2024-08-20 09:41:23.140 [warning] [LintManager] Invalid linter name: none
+2024-08-20 09:41:23.217 [warning] [LintManager] Invalid linter name: none
+2024-08-20 09:41:25.100 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2024-08-20 09:41:25.100 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv"
+2024-08-20 09:41:25.100 [info] executing ctags
+2024-08-20 09:41:25.100 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv"
+2024-08-20 09:41:25.108 [warning] [LintManager] Invalid linter name: none
+2024-08-20 09:41:25.110 [info] building symbols
+2024-08-20 09:41:25.115 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2024-08-20 09:41:28.464 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_egress_port_array_adapt.sv
+2024-08-20 09:41:28.464 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_egress_port_array_adapt.sv"
+2024-08-20 09:41:28.464 [info] executing ctags
+2024-08-20 09:41:28.464 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_egress_port_array_adapt.sv"
+2024-08-20 09:41:28.466 [info] building symbols
+2024-08-20 09:41:28.466 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:41:31.430 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:41:31.430 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv"
+2024-08-20 09:41:31.430 [info] executing ctags
+2024-08-20 09:41:31.430 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv"
+2024-08-20 09:41:31.433 [info] building symbols
+2024-08-20 09:41:31.433 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:41:31.957 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/vivado/workspace/15eglv_pcuecp/pcuecp.gen/sources_1/ip/vitis_net_p4_frr_t1_ecp/src/verilog/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:41:31.957 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/15eglv_pcuecp/pcuecp.gen/sources_1/ip/vitis_net_p4_frr_t1_ecp/src/verilog/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:41:31.957 [info] executing ctags
+2024-08-20 09:41:31.957 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/15eglv_pcuecp/pcuecp.gen/sources_1/ip/vitis_net_p4_frr_t1_ecp/src/verilog/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:41:31.961 [info] building symbols
+2024-08-20 09:41:31.973 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:41:41.651 [warning] [LintManager] Invalid linter name: none
+2024-08-20 09:42:36.151 [info] on save
+2024-08-20 09:46:56.686 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:46:56.686 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv"
+2024-08-20 09:46:56.686 [info] executing ctags
+2024-08-20 09:46:56.686 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv"
+2024-08-20 09:46:56.690 [info] building symbols
+2024-08-20 09:46:56.695 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:47:02.763 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:47:02.763 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:47:02.763 [info] executing ctags
+2024-08-20 09:47:02.763 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:47:02.771 [info] building symbols
+2024-08-20 09:47:02.785 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:47:04.506 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:47:04.708 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:47:26.474 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:47:29.065 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:47:29.264 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:47:29.519 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:48:10.870 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:48:10.891 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:48:12.946 [info] on save
+2024-08-20 09:48:13.286 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:48:13.286 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:48:13.286 [info] executing ctags
+2024-08-20 09:48:13.286 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:48:13.289 [info] building symbols
+2024-08-20 09:48:13.290 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:48:19.172 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:48:19.369 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:48:22.467 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:48:25.501 [info] on save
+2024-08-20 09:48:25.585 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:48:25.585 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:48:25.585 [info] executing ctags
+2024-08-20 09:48:25.585 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:48:25.595 [info] building symbols
+2024-08-20 09:48:25.609 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:48:25.629 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:48:25.643 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:48:25.659 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:48:25.898 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:48:25.911 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:48:25.926 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:48:25.944 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:48:26.012 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:48:26.975 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:48:27.186 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:48:28.069 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:48:29.424 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:48:30.724 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:48:30.935 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:48:35.398 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:48:35.590 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:48:35.943 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:48:36.143 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:48:36.652 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:48:36.656 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:48:37.329 [info] on save
+2024-08-20 09:48:37.682 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:48:37.682 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv"
+2024-08-20 09:48:37.682 [info] executing ctags
+2024-08-20 09:48:37.682 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv"
+2024-08-20 09:48:37.687 [info] building symbols
+2024-08-20 09:48:37.687 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:48:58.194 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:48:58.426 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:49:43.649 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:49:43.649 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv"
+2024-08-20 09:49:43.649 [info] executing ctags
+2024-08-20 09:49:43.649 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv"
+2024-08-20 09:49:43.651 [info] building symbols
+2024-08-20 09:49:43.651 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:49:47.177 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:49:47.384 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:49:47.773 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:49:47.987 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:49:48.032 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:49:48.309 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:49:49.076 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:49:49.117 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:49:49.150 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:49:49.251 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:49:49.286 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:49:49.311 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:49:49.389 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:49:49.456 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:49:49.515 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:49:49.567 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:49:50.868 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:49:51.253 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:49:53.090 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:49:53.091 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:49:54.013 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:49:54.013 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:49:55.256 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:49:55.256 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:50:04.712 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:50:04.714 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:50:05.895 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:50:05.899 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:50:06.194 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:50:06.397 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:50:07.084 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:50:07.088 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:50:07.960 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:50:08.161 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:50:08.677 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:50:08.826 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:50:08.845 [info] on save
+2024-08-20 09:50:08.859 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:50:08.859 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:50:08.859 [info] executing ctags
+2024-08-20 09:50:08.859 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:50:08.866 [info] building symbols
+2024-08-20 09:50:08.885 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:50:09.001 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:50:09.033 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:50:09.042 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:50:09.087 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:50:09.234 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:50:09.264 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:50:13.961 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:50:13.977 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:50:13.986 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:50:14.196 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:50:14.207 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:50:14.233 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/ipv4/ipv4_checksum_update.sv"
+2024-08-20 09:50:14.233 [info] executing ctags
+2024-08-20 09:50:14.233 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/ipv4/ipv4_checksum_update.sv"
+2024-08-20 09:50:14.235 [info] building symbols
+2024-08-20 09:50:14.235 [info] [VerilogDefinitionProvider] 1 definitions returned
+2024-08-20 09:50:19.564 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:50:19.564 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:50:20.512 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:50:20.512 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:50:21.844 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:50:21.845 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:50:23.124 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:50:23.162 [info] on save
+2024-08-20 09:50:23.179 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:50:23.179 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv"
+2024-08-20 09:50:23.179 [info] executing ctags
+2024-08-20 09:50:23.179 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv"
+2024-08-20 09:50:23.184 [info] building symbols
+2024-08-20 09:50:23.189 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:50:23.284 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:50:23.373 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:50:23.401 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:50:23.449 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:50:23.537 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:50:28.843 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:50:28.844 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:50:29.873 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:50:29.875 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:50:31.338 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:50:31.342 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:50:35.426 [info] on save
+2024-08-20 09:51:03.561 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:51:04.463 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:51:09.381 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:51:09.381 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:51:09.381 [info] executing ctags
+2024-08-20 09:51:09.381 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:51:09.383 [info] building symbols
+2024-08-20 09:51:09.384 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:51:10.441 [info] on save
+2024-08-20 09:51:10.656 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:51:10.656 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:51:10.656 [info] executing ctags
+2024-08-20 09:51:10.656 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:51:10.661 [info] building symbols
+2024-08-20 09:51:10.852 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:52:05.593 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:52:05.616 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:52:08.294 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:52:08.307 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:52:09.618 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:52:09.769 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:52:09.812 [info] [VerilogDefinitionProvider] 1 definitions returned
+2024-08-20 09:52:09.978 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:52:10.062 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:52:10.262 [info] [VerilogDefinitionProvider] 1 definitions returned
+2024-08-20 09:52:10.331 [info] on save
+2024-08-20 09:52:10.671 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:52:10.671 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:52:10.671 [info] executing ctags
+2024-08-20 09:52:10.671 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:52:10.674 [info] building symbols
+2024-08-20 09:52:10.683 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:52:14.495 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:52:14.708 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:52:15.120 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:52:15.322 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:52:21.241 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:52:21.254 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:52:21.690 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:52:21.714 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:52:22.993 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:52:23.015 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:52:32.406 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:52:32.616 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:52:33.129 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:52:33.140 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:52:33.347 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:52:33.348 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:52:33.607 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:52:33.727 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:52:33.810 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:52:33.931 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:52:35.821 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:52:36.023 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:52:38.059 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:52:38.072 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:52:38.951 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:52:38.963 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:52:40.083 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:52:40.100 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:52:40.249 [info] on save
+2024-08-20 09:53:34.010 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:53:34.010 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:53:34.010 [info] executing ctags
+2024-08-20 09:53:34.010 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:53:34.018 [info] building symbols
+2024-08-20 09:53:34.036 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:53:49.350 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_pkg.sv
+2024-08-20 09:53:49.350 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_pkg.sv"
+2024-08-20 09:53:49.350 [info] executing ctags
+2024-08-20 09:53:49.350 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_pkg.sv"
+2024-08-20 09:53:49.352 [info] building symbols
+2024-08-20 09:53:49.352 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:54:01.558 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:54:03.374 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:54:03.576 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:54:06.588 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:54:06.588 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:54:08.699 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:54:18.901 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:54:18.952 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 09:54:19.095 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:54:19.153 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:54:23.542 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_pkg.sv
+2024-08-20 09:54:23.734 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 09:54:25.580 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:54:25.590 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:54:28.513 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-20 09:54:28.514 [info] [VerilogCompletionItemProvider] 305 items requested
+2024-08-20 09:54:28.850 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:54:28.859 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:54:33.265 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:54:33.265 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:54:35.787 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:54:35.984 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:54:35.995 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:54:36.170 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:54:37.486 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:54:37.710 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:54:43.907 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:54:43.908 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:54:44.297 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:54:44.297 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:54:47.346 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:54:47.346 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:54:48.853 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:54:48.854 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:54:49.276 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:54:49.276 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:54:50.203 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:54:50.203 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:54:50.597 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:54:50.597 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:54:55.313 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:54:55.314 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:54:57.194 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:54:57.194 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:00.002 [info] on save
+2024-08-20 09:55:07.347 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:07.347 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv"
+2024-08-20 09:55:07.347 [info] executing ctags
+2024-08-20 09:55:07.347 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv"
+2024-08-20 09:55:07.349 [info] building symbols
+2024-08-20 09:55:07.349 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:08.806 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:08.806 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:12.109 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:12.110 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:14.026 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:14.026 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:19.018 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:19.019 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:19.978 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:19.979 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:21.874 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:21.875 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:23.980 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:23.980 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:25.077 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:25.078 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:26.562 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:26.562 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:28.672 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:28.672 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:33.254 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:33.255 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:33.877 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:33.878 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:35.421 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:35.421 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:38.616 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:38.616 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:39.459 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:39.460 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:41.235 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:41.235 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:41.888 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:41.888 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:44.315 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:44.316 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:44.738 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:44.738 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:46.460 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:46.460 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:47.126 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:47.127 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:47.886 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:47.887 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:48.559 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:48.559 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:51.104 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:51.105 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:53.563 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:53.563 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:54.255 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:54.255 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:55:56.912 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:55:56.912 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:00.925 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:00.925 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:02.547 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:02.547 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:03.580 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:03.581 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:12.667 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:12.668 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:13.397 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:13.397 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:17.068 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:17.069 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:17.654 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:17.654 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:19.213 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:19.214 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:20.291 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:20.291 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:21.109 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:21.110 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:22.150 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:22.150 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:22.996 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:22.996 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:24.088 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:24.089 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:25.573 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:25.574 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:28.445 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:28.445 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:29.933 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:29.933 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:32.460 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:32.460 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:33.181 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:33.182 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:34.013 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:34.013 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:36.685 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:36.686 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:38.206 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:38.206 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:38.686 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:38.686 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:38.735 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-20 09:56:38.735 [info] [VerilogCompletionItemProvider] 32 items requested
+2024-08-20 09:56:39.054 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 09:56:39.054 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:43.827 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:56:44.026 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:56:44.602 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:56:44.820 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/p4_2021/p4_2021.gen/sources_1/ip/vitis_net_p4_phys_port_echo/src/verilog/vitis_net_p4_phys_port_echo_pkg.sv"
+2024-08-20 09:56:44.820 [info] executing ctags
+2024-08-20 09:56:44.820 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/p4_2021/p4_2021.gen/sources_1/ip/vitis_net_p4_phys_port_echo/src/verilog/vitis_net_p4_phys_port_echo_pkg.sv"
+2024-08-20 09:56:44.822 [info] building symbols
+2024-08-20 09:56:44.823 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:56:55.271 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:56:55.295 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:56:57.436 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:56:57.649 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:56:57.819 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:56:58.026 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:56:58.997 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:56:59.243 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:56:59.409 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:56:59.609 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:57:00.139 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:57:00.339 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:57:04.214 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:57:04.244 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:57:04.596 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:57:04.612 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:57:07.183 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:57:07.195 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:57:08.264 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:57:08.280 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:57:09.348 [info] on save
+2024-08-20 09:57:09.696 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:57:09.696 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:57:09.696 [info] executing ctags
+2024-08-20 09:57:09.696 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:57:09.703 [info] building symbols
+2024-08-20 09:57:09.720 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:57:12.128 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:57:12.332 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:57:12.827 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:57:13.023 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:57:14.080 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-20 09:57:14.080 [info] [VerilogCompletionItemProvider] 305 items requested
+2024-08-20 09:57:14.493 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:57:14.506 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:57:15.792 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:57:15.805 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:57:16.191 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:57:16.206 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:57:17.911 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:57:17.923 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:57:19.614 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:57:19.627 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:57:22.790 [info] on save
+2024-08-20 09:57:31.638 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:57:31.638 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:57:31.638 [info] executing ctags
+2024-08-20 09:57:31.638 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 09:57:31.647 [info] building symbols
+2024-08-20 09:57:31.666 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:57:32.408 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:57:32.422 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:57:36.479 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:57:36.689 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:57:37.630 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:57:37.837 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:57:38.163 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:57:38.379 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:57:40.189 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:57:40.391 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:57:43.239 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:57:43.447 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:57:43.627 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:57:43.825 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:57:45.526 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:57:45.743 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:57:46.419 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:57:46.631 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:57:47.069 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:57:47.274 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:57:58.323 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:57:58.532 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 09:58:03.680 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:58:03.688 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:58:04.952 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:58:04.961 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:58:06.229 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:58:06.250 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:58:06.817 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:58:06.825 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:58:07.908 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:58:07.917 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:58:09.253 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:58:09.277 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:58:21.136 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-20 09:58:21.137 [info] [VerilogCompletionItemProvider] 305 items requested
+2024-08-20 09:58:21.468 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:58:21.479 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:58:22.253 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:58:22.268 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:58:22.794 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:58:22.807 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:58:25.356 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:58:25.373 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:59:21.827 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:59:21.851 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:59:22.484 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:59:22.506 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:59:23.764 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:59:23.777 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:59:30.167 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:59:30.184 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:59:30.612 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:59:30.639 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:59:33.673 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:59:33.685 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:59:35.065 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:59:35.074 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:59:37.774 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:59:37.787 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:59:39.079 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:59:39.101 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:59:45.977 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:59:46.179 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:59:46.818 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:59:47.022 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:59:52.262 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 09:59:52.275 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 09:59:54.235 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:59:54.435 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 09:59:54.623 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 09:59:54.831 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 10:00:05.887 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:00:11.639 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:00:11.844 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 10:00:14.813 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:14.813 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:18.069 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:00:18.267 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 10:00:18.363 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:00:18.638 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 10:00:18.800 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:00:18.993 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 10:00:22.273 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:22.273 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:22.646 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:22.646 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:24.543 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:24.544 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:30.965 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:30.965 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:32.314 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:32.314 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:32.860 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:32.860 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:34.532 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:34.532 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:40.563 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:40.563 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:41.906 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:41.906 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:44.775 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:44.775 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:45.877 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:45.877 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:50.518 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:50.519 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:52.015 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:52.015 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:52.439 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:52.440 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:53.447 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:53.448 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:00:54.431 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:00:54.432 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:01:04.728 [info] on save
+2024-08-20 10:01:05.077 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:01:05.077 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv"
+2024-08-20 10:01:05.077 [info] executing ctags
+2024-08-20 10:01:05.077 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv"
+2024-08-20 10:01:05.082 [info] building symbols
+2024-08-20 10:01:05.082 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:01:07.753 [info] on save
+2024-08-20 10:01:08.088 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 10:01:08.088 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 10:01:08.088 [info] executing ctags
+2024-08-20 10:01:08.088 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 10:01:08.096 [info] building symbols
+2024-08-20 10:01:08.112 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:01:10.755 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:01:10.948 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 10:01:11.106 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:01:11.312 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 10:01:11.603 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:01:11.826 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 10:01:13.826 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 10:01:13.846 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:01:17.570 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:01:17.774 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 10:01:19.087 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:01:19.087 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:01:37.997 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:01:38.256 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:01:38.717 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:01:40.665 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:01:40.859 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 10:01:40.862 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:01:41.059 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 10:01:44.713 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:01:44.714 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:01:45.346 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:01:45.347 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:01:46.026 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:01:46.026 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:01:46.877 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-20 10:01:46.878 [info] [VerilogCompletionItemProvider] 32 items requested
+2024-08-20 10:01:47.227 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:01:47.227 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:02:16.057 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:02:16.251 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:02:16.451 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:02:17.769 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-20 10:02:17.769 [info] [VerilogCompletionItemProvider] 32 items requested
+2024-08-20 10:02:18.364 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:02:18.364 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:02:18.891 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:02:18.892 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:02:20.073 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:02:20.073 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:02:20.514 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:02:20.514 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:02:22.729 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:02:22.729 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:02:23.912 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:02:23.912 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:02:49.201 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 10:02:49.210 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:02:49.911 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 10:02:49.920 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:02:51.404 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 10:02:51.419 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:02:52.381 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 10:02:52.392 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:02:55.554 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 10:02:55.574 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:03:08.240 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:03:08.450 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:03:08.517 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:03:08.731 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:03:13.866 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:03:32.469 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:03:33.204 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:03:33.419 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:03:47.450 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 10:03:47.464 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:03:51.804 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 10:03:51.817 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:03:53.420 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 10:03:53.432 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:03:55.760 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:04:00.133 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 10:04:00.146 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:04:00.603 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 10:04:00.616 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:04:01.230 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 10:04:01.243 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:04:01.949 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_frr_t1_ecp_pkg.sv
+2024-08-20 10:04:01.962 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:04:09.764 [info] on save
+2024-08-20 10:04:33.096 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:04:33.097 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:04:33.483 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:04:33.483 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:04:33.935 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/vitis_net_p4_phys_port_echo_pkg.sv
+2024-08-20 10:04:33.935 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:08:03.438 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv
+2024-08-20 10:08:03.438 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv"
+2024-08-20 10:08:03.438 [info] executing ctags
+2024-08-20 10:08:03.438 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv"
+2024-08-20 10:08:03.440 [info] building symbols
+2024-08-20 10:08:03.441 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:08:04.503 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_pkg.sv
+2024-08-20 10:08:04.503 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_pkg.sv"
+2024-08-20 10:08:04.503 [info] executing ctags
+2024-08-20 10:08:04.503 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_pkg.sv"
+2024-08-20 10:08:04.506 [info] building symbols
+2024-08-20 10:08:04.508 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:08:12.651 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:08:12.879 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/p4_2021/p4_2021.gen/sources_1/ip/vitis_net_p4_phys_port_echo/src/verilog/vitis_net_p4_phys_port_echo_pkg.sv"
+2024-08-20 10:08:12.879 [info] executing ctags
+2024-08-20 10:08:12.879 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/p4_2021/p4_2021.gen/sources_1/ip/vitis_net_p4_phys_port_echo/src/verilog/vitis_net_p4_phys_port_echo_pkg.sv"
+2024-08-20 10:08:12.881 [info] building symbols
+2024-08-20 10:08:12.882 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:08:13.077 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:08:13.276 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:08:13.319 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:08:13.610 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:08:15.074 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-20 10:08:15.074 [info] [VerilogCompletionItemProvider] 32 items requested
+2024-08-20 10:08:15.559 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv
+2024-08-20 10:08:15.560 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:08:16.842 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv
+2024-08-20 10:08:16.842 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:08:17.370 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv
+2024-08-20 10:08:17.370 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:08:18.842 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv
+2024-08-20 10:08:18.842 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:08:20.453 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv
+2024-08-20 10:08:20.453 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:08:21.602 [info] on save
+2024-08-20 10:08:31.393 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv
+2024-08-20 10:08:31.393 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv"
+2024-08-20 10:08:31.393 [info] executing ctags
+2024-08-20 10:08:31.393 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv"
+2024-08-20 10:08:31.398 [info] building symbols
+2024-08-20 10:08:31.398 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:08:38.125 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:08:38.312 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 10:08:38.350 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:08:38.554 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 10:08:39.275 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:08:39.399 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv
+2024-08-20 10:08:39.471 [warning] [VerilogHoverProvider] Hover object not found
+2024-08-20 10:08:39.557 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv
+2024-08-20 10:08:39.592 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv
+2024-08-20 10:08:39.611 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 10:08:39.711 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv
+2024-08-20 10:08:39.778 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 10:08:39.823 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 10:08:39.929 [info] [VerilogDefinitionProvider] 0 definitions returned
+2024-08-20 10:08:41.554 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv
+2024-08-20 10:08:41.554 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:08:50.654 [info] on save
+2024-08-20 10:09:16.937 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:09:25.255 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:09:25.255 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv"
+2024-08-20 10:09:25.255 [info] executing ctags
+2024-08-20 10:09:25.255 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv"
+2024-08-20 10:09:25.265 [info] building symbols
+2024-08-20 10:09:25.455 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:09:26.702 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_pkg.sv
+2024-08-20 10:09:26.904 [info] [VerilogDefinitionProvider] 1 definitions returned
+2024-08-20 10:09:31.889 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_wrapper.sv
+2024-08-20 10:09:31.889 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_wrapper.sv"
+2024-08-20 10:09:31.889 [info] executing ctags
+2024-08-20 10:09:31.889 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_wrapper.sv"
+2024-08-20 10:09:31.891 [info] building symbols
+2024-08-20 10:09:31.891 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:09:33.899 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:09:34.151 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:09:37.947 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:09:38.165 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:09:40.036 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_wrapper.sv
+2024-08-20 10:09:40.036 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:09:41.565 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_wrapper.sv
+2024-08-20 10:09:41.565 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:09:42.516 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-20 10:09:42.516 [info] [VerilogCompletionItemProvider] 21 items requested
+2024-08-20 10:09:42.855 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_wrapper.sv
+2024-08-20 10:09:42.855 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:09:44.893 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_wrapper.sv
+2024-08-20 10:09:44.893 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:09:45.286 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_wrapper.sv
+2024-08-20 10:09:45.286 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:09:48.000 [info] on save
+2024-08-20 10:09:50.425 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:09:50.425 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_wrapper.sv"
+2024-08-20 10:09:50.425 [info] executing ctags
+2024-08-20 10:09:50.425 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_phys_port_echo_wrapper.sv"
+2024-08-20 10:09:50.434 [info] building symbols
+2024-08-20 10:09:50.625 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:09:51.089 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:09:51.287 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:09:51.748 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:09:51.957 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:10:17.044 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_top_tb.sv
+2024-08-20 10:10:17.044 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_top_tb.sv"
+2024-08-20 10:10:17.044 [info] executing ctags
+2024-08-20 10:10:17.044 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_top_tb.sv"
+2024-08-20 10:10:17.047 [info] building symbols
+2024-08-20 10:10:17.049 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:10:21.122 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:10:21.322 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:10:22.272 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:10:22.479 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:10:23.320 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_top_tb.sv
+2024-08-20 10:10:23.526 [info] [VerilogDefinitionProvider] 1 definitions returned
+2024-08-20 10:10:32.044 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_top_tb.sv
+2024-08-20 10:10:32.046 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:10:33.454 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_top_tb.sv
+2024-08-20 10:10:33.456 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:10:35.094 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-20 10:10:35.094 [info] [VerilogCompletionItemProvider] 140 items requested
+2024-08-20 10:10:36.981 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_top_tb.sv
+2024-08-20 10:10:36.987 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:10:37.634 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_top_tb.sv
+2024-08-20 10:10:37.635 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:10:43.594 [info] on save
+2024-08-20 10:11:27.911 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 10:11:27.911 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv"
+2024-08-20 10:11:27.911 [info] executing ctags
+2024-08-20 10:11:27.911 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv"
+2024-08-20 10:11:27.913 [info] building symbols
+2024-08-20 10:11:27.914 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:11:31.384 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:11:31.619 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/15eglv_pcuecp/pcuecp.gen/sources_1/ip/vitis_net_p4_frr_t1_ecp/src/verilog/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 10:11:31.619 [info] executing ctags
+2024-08-20 10:11:31.619 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/15eglv_pcuecp/pcuecp.gen/sources_1/ip/vitis_net_p4_frr_t1_ecp/src/verilog/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 10:11:31.622 [info] building symbols
+2024-08-20 10:11:31.622 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:11:32.003 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:11:32.210 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:11:33.766 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 10:11:33.766 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:11:35.059 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 10:11:35.060 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:11:36.293 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-20 10:11:36.293 [info] [VerilogCompletionItemProvider] 40 items requested
+2024-08-20 10:11:37.892 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 10:11:37.893 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:11:38.360 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+2024-08-20 10:11:38.360 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 10:11:45.574 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv
+2024-08-20 10:11:45.574 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv"
+2024-08-20 10:11:45.574 [info] executing ctags
+2024-08-20 10:11:45.574 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv"
+2024-08-20 10:11:45.577 [info] building symbols
+2024-08-20 10:11:45.577 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2024-08-20 10:11:47.500 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:11:47.706 [info] indexing "/home/sgass/Projects/kepler/hdl/vivado/workspace/p4_2021/p4_2021.gen/sources_1/ip/vitis_net_p4_frr_t1_ecp/src/verilog/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 10:11:47.706 [info] executing ctags
+2024-08-20 10:11:47.706 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/vivado/workspace/p4_2021/p4_2021.gen/sources_1/ip/vitis_net_p4_frr_t1_ecp/src/verilog/vitis_net_p4_frr_t1_ecp_pkg.sv"
+2024-08-20 10:11:47.710 [info] building symbols
+2024-08-20 10:11:47.710 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:11:48.333 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:11:51.990 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv
+2024-08-20 10:11:51.990 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2024-08-20 10:11:52.408 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv
+2024-08-20 10:11:52.409 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2024-08-20 10:11:53.656 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv
+2024-08-20 10:11:53.656 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2024-08-20 10:11:54.838 [info] [VerilogCompletionItemProvider] Completion items requested
+2024-08-20 10:11:54.838 [info] [VerilogCompletionItemProvider] 23 items requested
+2024-08-20 10:11:55.329 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv
+2024-08-20 10:11:55.329 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2024-08-20 10:11:56.513 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv
+2024-08-20 10:11:56.513 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2024-08-20 10:11:56.890 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv
+2024-08-20 10:11:56.890 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2024-08-20 10:11:59.124 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:11:59.925 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:12:02.584 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv
+2024-08-20 10:12:02.585 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2024-08-20 10:12:05.538 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv
+2024-08-20 10:12:05.539 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2024-08-20 10:12:06.022 [info] on save
+2024-08-20 10:12:14.099 [info] on save
+2024-08-20 10:12:22.081 [info] [VerilogHoverProvider] Hover requested
+2024-08-20 10:12:22.081 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_top_tb.sv"
+2024-08-20 10:12:22.081 [info] executing ctags
+2024-08-20 10:12:22.081 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_top_tb.sv"
+2024-08-20 10:12:22.092 [info] building symbols
+2024-08-20 10:12:22.289 [info] [VerilogHoverProvider] Hover object returned
+2024-08-20 10:13:19.357 [info] on save
+2024-08-20 10:22:49.708 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_wrapper_select.sv
+2024-08-20 10:22:49.708 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_wrapper_select.sv"
+2024-08-20 10:22:49.708 [info] executing ctags
+2024-08-20 10:22:49.708 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_vnp4_wrapper_select.sv"
+2024-08-20 10:22:49.713 [info] building symbols
+2024-08-20 10:22:49.713 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2024-08-20 17:02:03.805 [info] Deactivated

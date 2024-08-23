@@ -18,12 +18,6 @@
         "folders": [
             {
                 "folderUri": "file:///home/sgass/Projects/kepler"
-            },
-            {
-                "folderUri": "file:///home/sgass/Projects/kepler2"
-            },
-            {
-                "folderUri": "file:///home/sgass/Projects/kepler/python/kepler"
             }
         ],
         "emptyWindows": []
@@ -1873,11 +1867,11 @@
             "folder": "file:///home/sgass/Projects/kepler",
             "backupPath": "/home/sgass/.config/Code/Backups/10566ef0b6ffef7b7db389978e66e713",
             "uiState": {
-                "mode": 1,
+                "mode": 0,
                 "x": 70,
                 "y": 64,
                 "width": 1850,
-                "height": 1016
+                "height": 1136
             }
         },
         "openedWindows": []

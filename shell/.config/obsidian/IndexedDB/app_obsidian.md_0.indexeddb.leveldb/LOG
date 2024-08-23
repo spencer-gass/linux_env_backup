@@ -1,39 +1,48 @@
-2024/08/11-10:14:19.065 17b7 Reusing MANIFEST /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/11-10:14:19.066 17b7 Recovering log #144
-2024/08/11-10:14:19.080 17b7 Reusing old log /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000144.log 
-2024/08/11-14:14:19.063 1789 Level-0 table #149: started
-2024/08/11-14:14:19.076 1789 Level-0 table #149: 1801705 bytes OK
-2024/08/11-14:14:19.078 1789 Delete type=0 #144
-2024/08/11-15:15:57.975 1789 Compacting 1@1 + 1@2 files
-2024/08/11-15:15:57.987 1789 Generated table #150@1: 3749 keys, 948578 bytes
-2024/08/11-15:15:57.987 1789 Compacted 1@1 + 1@2 files => 948578 bytes
-2024/08/11-15:15:57.988 1789 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/08/11-15:15:57.988 1789 Delete type=2 #146
-2024/08/11-15:15:57.988 1789 Delete type=2 #149
-2024/08/13-10:15:34.460 1789 Level-0 table #152: started
-2024/08/13-10:15:34.480 1789 Level-0 table #152: 1663848 bytes OK
-2024/08/13-10:15:34.482 1789 Delete type=0 #148
-2024/08/13-10:18:42.566 1788 Compacting 1@1 + 1@2 files
-2024/08/13-10:18:42.585 1788 Generated table #153@1: 3969 keys, 1035539 bytes
-2024/08/13-10:18:42.585 1788 Compacted 1@1 + 1@2 files => 1035539 bytes
-2024/08/13-10:18:42.586 1788 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/08/13-10:18:42.586 1788 Delete type=2 #150
-2024/08/13-10:18:42.586 1788 Delete type=2 #152
-2024/08/14-12:33:29.437 1789 Level-0 table #155: started
-2024/08/14-12:33:29.450 1789 Level-0 table #155: 1750901 bytes OK
-2024/08/14-12:33:29.452 1789 Delete type=0 #151
-2024/08/14-13:38:59.382 1789 Compacting 1@1 + 1@2 files
-2024/08/14-13:38:59.398 1789 Generated table #156@1: 3906 keys, 1068591 bytes
-2024/08/14-13:38:59.398 1789 Compacted 1@1 + 1@2 files => 1068591 bytes
-2024/08/14-13:38:59.399 1789 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/08/14-13:38:59.399 1789 Delete type=2 #155
-2024/08/14-13:38:59.399 1789 Delete type=2 #153
-2024/08/15-12:04:32.459 1788 Level-0 table #158: started
-2024/08/15-12:04:32.468 1788 Level-0 table #158: 1789346 bytes OK
-2024/08/15-12:04:32.469 1788 Delete type=0 #154
-2024/08/15-14:44:32.454 1789 Compacting 1@1 + 1@2 files
-2024/08/15-14:44:32.468 1789 Generated table #159@1: 3858 keys, 1022854 bytes
-2024/08/15-14:44:32.468 1789 Compacted 1@1 + 1@2 files => 1022854 bytes
-2024/08/15-14:44:32.469 1789 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/08/15-14:44:32.469 1789 Delete type=2 #156
-2024/08/15-14:44:32.469 1789 Delete type=2 #158
+2024/08/20-08:54:29.908 31831a Reusing MANIFEST /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/20-08:54:29.908 31831a Recovering log #160
+2024/08/20-08:54:29.925 31831a Reusing old log /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000160.log 
+2024/08/20-11:48:10.613 3182eb Level-0 table #165: started
+2024/08/20-11:48:10.626 3182eb Level-0 table #165: 1719357 bytes OK
+2024/08/20-11:48:10.627 3182eb Delete type=0 #160
+2024/08/20-11:50:07.388 3182eb Compacting 1@1 + 1@2 files
+2024/08/20-11:50:07.424 3182eb Generated table #166@1: 3901 keys, 943158 bytes
+2024/08/20-11:50:07.424 3182eb Compacted 1@1 + 1@2 files => 943158 bytes
+2024/08/20-11:50:07.425 3182eb compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/20-11:50:07.425 3182eb Delete type=2 #162
+2024/08/20-11:50:07.425 3182eb Delete type=2 #165
+2024/08/20-12:08:58.173 3182ec Level-0 table #168: started
+2024/08/20-12:08:58.194 3182ec Level-0 table #168: 1856350 bytes OK
+2024/08/20-12:08:58.196 3182ec Delete type=0 #164
+2024/08/20-12:10:54.237 3182ec Compacting 1@1 + 1@2 files
+2024/08/20-12:10:54.262 3182ec Generated table #169@1: 4036 keys, 1434881 bytes
+2024/08/20-12:10:54.263 3182ec Compacted 1@1 + 1@2 files => 1434881 bytes
+2024/08/20-12:10:54.264 3182ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/20-12:10:54.264 3182ec Delete type=2 #168
+2024/08/20-12:10:54.264 3182ec Delete type=2 #166
+2024/08/20-13:54:29.923 3182ec Level-0 table #171: started
+2024/08/20-13:54:29.933 3182ec Level-0 table #171: 1836501 bytes OK
+2024/08/20-13:54:29.935 3182ec Delete type=0 #167
+2024/08/20-14:01:39.998 3182ec Compacting 1@1 + 1@2 files
+2024/08/20-14:01:40.020 3182ec Generated table #172@1: 3949 keys, 1106551 bytes
+2024/08/20-14:01:40.020 3182ec Compacted 1@1 + 1@2 files => 1106551 bytes
+2024/08/20-14:01:40.020 3182ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/20-14:01:40.020 3182ec Delete type=2 #169
+2024/08/20-14:01:40.020 3182ec Delete type=2 #171
+2024/08/21-10:38:32.107 3182ec Level-0 table #174: started
+2024/08/21-10:38:32.118 3182ec Level-0 table #174: 1809013 bytes OK
+2024/08/21-10:38:32.119 3182ec Delete type=0 #170
+2024/08/21-11:05:57.965 3182ec Compacting 1@1 + 1@2 files
+2024/08/21-11:05:57.988 3182ec Generated table #175@1: 4026 keys, 1259622 bytes
+2024/08/21-11:05:57.988 3182ec Compacted 1@1 + 1@2 files => 1259622 bytes
+2024/08/21-11:05:57.989 3182ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/21-11:05:57.989 3182ec Delete type=2 #174
+2024/08/21-11:05:57.989 3182ec Delete type=2 #172
+2024/08/21-15:09:01.060 3182ec Level-0 table #177: started
+2024/08/21-15:09:01.069 3182ec Level-0 table #177: 1827458 bytes OK
+2024/08/21-15:09:01.073 3182ec Delete type=0 #173
+2024/08/21-15:30:34.356 3182eb Compacting 1@1 + 1@2 files
+2024/08/21-15:30:34.383 3182eb Generated table #178@1: 4048 keys, 1298470 bytes
+2024/08/21-15:30:34.383 3182eb Compacted 1@1 + 1@2 files => 1298470 bytes
+2024/08/21-15:30:34.384 3182eb compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/21-15:30:34.384 3182eb Delete type=2 #177
+2024/08/21-15:30:34.384 3182eb Delete type=2 #175

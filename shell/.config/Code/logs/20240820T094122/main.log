@@ -1,0 +1,22 @@
+2024-08-20 09:41:22.157 [info] update#setState idle
+2024-08-20 09:41:41.229 [error] update#isLatestVersion(): failed to check for updates
+2024-08-20 09:41:41.229 [error] Error: net::ERR_SOCKET_NOT_CONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:114352)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2024-08-20 09:41:52.159 [info] update#setState checking for updates
+2024-08-20 09:41:52.409 [info] update#setState idle
+2024-08-20 10:41:52.160 [info] update#setState checking for updates
+2024-08-20 10:41:52.515 [info] update#setState idle
+2024-08-20 11:41:52.163 [info] update#setState checking for updates
+2024-08-20 11:41:52.614 [info] update#setState idle
+2024-08-20 12:41:52.167 [info] update#setState checking for updates
+2024-08-20 12:41:52.615 [info] update#setState idle
+2024-08-20 13:41:52.171 [info] update#setState checking for updates
+2024-08-20 13:41:52.796 [info] update#setState idle
+2024-08-20 14:41:52.178 [info] update#setState checking for updates
+2024-08-20 14:41:52.554 [info] update#setState idle
+2024-08-20 15:41:52.180 [info] update#setState checking for updates
+2024-08-20 15:41:52.590 [info] update#setState idle
+2024-08-20 16:41:52.182 [info] update#setState checking for updates
+2024-08-20 16:41:52.552 [info] update#setState idle
+2024-08-20 17:02:03.812 [info] Extension host with pid 3281953 exited with code: 0, signal: unknown.
