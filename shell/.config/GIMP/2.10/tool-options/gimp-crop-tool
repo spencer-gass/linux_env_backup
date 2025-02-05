@@ -2,5 +2,6 @@
 
 (aspect-denominator 551)
 (aspect-numerator 558)
+(pattern "Pine")
 
 # end of gimp-crop-tool options

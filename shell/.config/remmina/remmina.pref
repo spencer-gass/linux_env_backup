@@ -78,6 +78,9 @@ grab_color=#00ff00
 grab_color_switch=false
 vte_allow_bold_text=true
 vte_lines=512
+lock_view_passwords=false
+always_show_notes=false
+shortcutkey_clipboard=98
 
 [ssh_colors]
 background=#d5ccba
@@ -113,3 +116,10 @@ periodic_rmnews_uuid_prefix=UZ5KMIBP
 [remmina]
 name=
 ignore-tls-errors=1
+
+[remmina_info]
+periodic_news_permitted=false
+periodic_news_last_checksum=
+periodic_usage_stats_permitted=false
+info_uid_prefix=9BXK5I7MI6MOXB
+disable_tip=true

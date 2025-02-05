@@ -1,10 +1,11 @@
 # GIMP gimp-airbrush-tool options
 
-(brush "2. Hardness 050")
+(brush "2. Block 03")
 (dynamics "Dynamics Off")
 (gradient "FG to BG (RGB)")
 (palette "Color History")
 (brush-size 51)
-(brush-hardness 0.5)
+(brush-aspect-ratio 20)
+(brush-hardness 0.94999998807907104)
 
 # end of gimp-airbrush-tool options
