@@ -4,9 +4,9 @@
         "workspaces": {
             "file:///home/sgass/Projects/reference": "__default__profile__",
             "file:///home/sgass/Projects/kepler_fpga_build1": "__default__profile__",
-            "file:///home/sgass/Projects/kepler2": "__default__profile__",
             "file:///home/sgass/Projects/kepler/python/kepler": "__default__profile__",
-            "file:///home/sgass/Projects/kepler": "__default__profile__"
+            "file:///home/sgass/Projects/kepler": "__default__profile__",
+            "file:///home/sgass/Projects/kepler2": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -18,6 +18,9 @@
         "folders": [
             {
                 "folderUri": "file:///home/sgass/Projects/kepler"
+            },
+            {
+                "folderUri": "file:///home/sgass/Projects/kepler2"
             }
         ],
         "emptyWindows": []
@@ -72,10 +75,22 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sgass/Projects/kepler2",
+                                        "path": "/home/sgass/Projects/kepler2",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/kepler2"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -103,17 +118,6 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/sgass/Projects/kepler2",
-                                        "path": "/home/sgass/Projects/kepler2",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Projects/kepler2"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
                                         "external": "file:///home/sgass/Projects/kepler_fpga_build1",
                                         "path": "/home/sgass/Projects/kepler_fpga_build1",
                                         "scheme": "file"
@@ -134,6 +138,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sgass/Projects/p4_router_merge_plan.txt",
+                                        "path": "/home/sgass/Projects/p4_router_merge_plan.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/p4_router_merge_plan.txt"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -278,10 +293,6 @@
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
-                                },
-                                {
-                                    "id": "workbench.profiles.actions.importProfile",
-                                    "label": "Import Profile..."
                                 }
                             ]
                         }
@@ -299,47 +310,8 @@
                         "submenu": {
                             "items": [
                                 {
-                                    "id": "submenuitem.Profiles",
-                                    "label": "Profile (Default)",
-                                    "submenu": {
-                                        "items": [
-                                            {
-                                                "id": "workbench.profiles.actions.profileEntry.__default__profile__",
-                                                "label": "Default",
-                                                "checked": true
-                                            },
-                                            {
-                                                "id": "vscode.menubar.separator"
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.showProfileContents",
-                                                "label": "Show Profile Contents"
-                                            },
-                                            {
-                                                "id": "vscode.menubar.separator"
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.createProfile",
-                                                "label": "New Profile..."
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.deleteProfile",
-                                                "label": "Delete Profile...",
-                                                "enabled": false
-                                            },
-                                            {
-                                                "id": "vscode.menubar.separator"
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.exportProfile",
-                                                "label": "Export Profile..."
-                                            },
-                                            {
-                                                "id": "workbench.profiles.actions.importProfile",
-                                                "label": "Import Profile..."
-                                            }
-                                        ]
-                                    }
+                                    "id": "workbench.profiles.actions.manageProfiles",
+                                    "label": "&&Profiles"
                                 },
                                 {
                                     "id": "workbench.action.openSettings",
@@ -902,10 +874,6 @@
                     {
                         "id": "workbench.view.extensions",
                         "label": "E&&xtensions"
-                    },
-                    {
-                        "id": "workbench.view.extension.test",
-                        "label": "T&&esting"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1864,14 +1832,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/sgass/Projects/kepler",
-            "backupPath": "/home/sgass/.config/Code/Backups/10566ef0b6ffef7b7db389978e66e713",
+            "folder": "file:///home/sgass/Projects/kepler2",
+            "backupPath": "/home/sgass/.config/Code/Backups/dea674ff77990ce485fdf2ec52eddfc0",
             "uiState": {
                 "mode": 0,
-                "x": 70,
-                "y": 64,
-                "width": 1850,
-                "height": 1136
+                "x": 605,
+                "y": 69,
+                "width": 960,
+                "height": 1043
             }
         },
         "openedWindows": []

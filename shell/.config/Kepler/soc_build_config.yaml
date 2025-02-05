@@ -37,12 +37,12 @@ tools:
             default: true
     petalinux:
         2019:
-            executable: /home/sgass/Projects/kepler/Docker/petalinux/scripts/settings-2019.1.sh
+            settings: /home/sgass/Projects/kepler/Docker/petalinux/scripts/settings-2019.1.sh
             downloads: /home/sgass/petalinux/2019.1/downloads/
             sstate-cache: /home/sgass/petalinux/2019.1/sstate-cache/
             default: true
         2021:
-            executable: /home/sgass/Projects/kepler/Docker/petalinux/scripts/settings-2021.2.sh
+            settings: /home/sgass/Projects/kepler/Docker/petalinux/scripts/settings-2021.2.sh
             downloads: /home/sgass/petalinux/2021.2/downloads/
             sstate-cache: /home/sgass/petalinux/2021.2/sstate-cache/
 tool-config:

@@ -17,6 +17,7 @@ export PATH=$PATH:/opt/Aldec/ALINT-PRO-2023.05-EA17.6-x64/bin/
 export PATH=$PATH:/home/sgass/.local/bin
 export PATH=$PATH:/opt/IntelFPGA_lite/20.1/modelsim_ase/linux
 
+source ~/.cd_kepler.sh
 source ~/.source-vivado.sh
 source ~/.config/p4c-vitisnet/2021.2/settings64.sh
 
@@ -39,17 +40,19 @@ fi
 export DIRENV_LOG_FORMAT=
 
 export WALLE=walle.lab.e.kepler.gdn
+#export LICENCE_SERVER=$WALLE
+export LICENCE_SERVER=fpga-license.lab.e.kepler.gdn
 
 export VUNIT_MODELSIM_PATH=/opt/IntelFPGA_lite/20.1/modelsim_ase/linux
-export XILINXD_LICENSE_FILE=2100@walle.lab.e.kepler.gdn
+export XILINXD_LICENSE_FILE=2100@$LICENCE_SERVER
 export XILINX_SIMLIB=${HOME}/Xilinx_sim_libraries
 
 export DVT_HOME=${HOME}/dvt_eclipse
 export PATH=$PATH:${DVT_HOME}/bin
 export DVT_LICENSE_FILE=flexlm
-export DVTLMD_LICENSE_FILE=27000@walle.lab.e.kepler.gdn
+export DVTLMD_LICENSE_FILE=27000@$LICENCE_SERVER
 
-export ALDEC_LICENSE_FILE=27009@walle.lab.e.kepler.gdn
+export ALDEC_LICENSE_FILE=27009@$LICENCE_SERVER
 #export ALDEC_LICENSE_FILE=27009@10.0.5.16
 
 export KEPLER_MONOREPO_PYTHON_VIRTUALENV_PATH=/home/sgass/.venvs/kepler/bin/activate
@@ -57,8 +60,8 @@ export CMAKE=/home/sgass/bin/cmake
 
 alias ssh='ssh -X'
 alias vim='vim -O'
-alias cdk='cd ~/Projects/kepler'
-alias cdk2='cd ~/Projects/kepler2'
+#alias cdk='cd ~/Projects/kepler'
+#alias cdk2='cd ~/Projects/kepler2'
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"

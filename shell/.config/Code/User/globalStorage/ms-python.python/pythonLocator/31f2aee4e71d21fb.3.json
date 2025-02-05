@@ -6,7 +6,8 @@
     "is64Bit": true,
     "symlinks": [
       "/usr/bin/python3",
-      "/usr/bin/python3.10"
+      "/usr/bin/python3.10",
+      "/usr/bin/python3.12"
     ]
   },
   "symlinks": []

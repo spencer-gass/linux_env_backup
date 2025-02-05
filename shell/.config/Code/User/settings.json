@@ -8,5 +8,7 @@
     "editor.stickyScroll.enabled": false,
     "editor.find.seedSearchStringFromSelection": "never",
     "terminal.integrated.lineHeight": 1.1,
-    "search.useIgnoreFiles": false
+    "search.useIgnoreFiles": false,
+    "python.languageServer": "None",
+    "workbench.startupEditor": "none"
 }

@@ -55,7 +55,7 @@
   <resource identifier="${gimp_data_dir}/brushes/Media/Acrylic-04.gih" checksum="11311bde958533f3b7ada598af5c6d46">
   </resource>
 
-  <resource identifier="${gimp_data_dir}/brushes/Media/Acrylic-05.gih" checksum="69d6b269dffc2db6a6f44b380aaf1e5e">
+  <resource identifier="${gimp_data_dir}/brushes/Media/Acrylic-05.gih" checksum="50cfa85464d38b04c719770e045f4e3c">
   </resource>
 
   <resource identifier="${gimp_data_dir}/brushes/Legacy/confetti.gih" checksum="d136b60fdd9cf41693a485a329b32e95">
@@ -646,7 +646,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="4300733c988ab7a654c2a070416998ec">
+  <resource identifier="gimp-palette-color-history" checksum="66ae23d8fc6d78d56233616b3a590606">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
@@ -853,6 +853,9 @@
   <resource identifier="DejaVu Serif Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Dhurjati" checksum="(null)">
+  </resource>
+
   <resource identifier="Droid Sans Fallback" checksum="(null)">
   </resource>
 
@@ -919,7 +922,13 @@
   <resource identifier="Gayathri Thin" checksum="(null)">
   </resource>
 
+  <resource identifier="Gidugu" checksum="(null)">
+  </resource>
+
   <resource identifier="Gubbi" checksum="(null)">
+  </resource>
+
+  <resource identifier="Gurajada" checksum="(null)">
   </resource>
 
   <resource identifier="Jamrul Medium Semi-Expanded" checksum="(null)">
@@ -1007,6 +1016,9 @@
   </resource>
 
   <resource identifier="Kinnari Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="LakkiReddy" checksum="(null)">
   </resource>
 
   <resource identifier="Laksaman" checksum="(null)">
@@ -1123,6 +1135,12 @@
   <resource identifier="Loma Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="Mallanna" checksum="(null)">
+  </resource>
+
+  <resource identifier="Mandali" checksum="(null)">
+  </resource>
+
   <resource identifier="Manjari" checksum="(null)">
   </resource>
 
@@ -1147,7 +1165,7 @@
   <resource identifier="MesloLGS NF Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Mitra Mono" checksum="(null)">
+  <resource identifier="Mitra" checksum="(null)">
   </resource>
 
   <resource identifier="Monospace" checksum="(null)">
@@ -1165,13 +1183,16 @@
   <resource identifier="mry_KacstQurn" checksum="(null)">
   </resource>
 
-  <resource identifier="Mukti Narrow" checksum="(null)">
+  <resource identifier="Mukti Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Mukti Narrow Bold" checksum="(null)">
+  <resource identifier="Mukti Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Nakula" checksum="(null)">
+  </resource>
+
+  <resource identifier="NATS" checksum="(null)">
   </resource>
 
   <resource identifier="Navilu" checksum="(null)">
@@ -1291,6 +1312,12 @@
   <resource identifier="Noto Sans CJK TC Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Bold" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Mono CJK HK" checksum="(null)">
   </resource>
 
@@ -1321,6 +1348,12 @@
   <resource identifier="Noto Sans Mono CJK TC Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Serif CJK HK" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif CJK HK Bold" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Serif CJK JP" checksum="(null)">
   </resource>
 
@@ -1343,6 +1376,9 @@
   </resource>
 
   <resource identifier="Noto Serif CJK TC Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="NTR" checksum="(null)">
   </resource>
 
   <resource identifier="OpenSymbol" checksum="(null)">
@@ -1390,10 +1426,19 @@
   <resource identifier="Pagul" checksum="(null)">
   </resource>
 
+  <resource identifier="Peddana" checksum="(null)">
+  </resource>
+
   <resource identifier="Phetsarath OT" checksum="(null)">
   </resource>
 
+  <resource identifier="Ponnala" checksum="(null)">
+  </resource>
+
   <resource identifier="Pothana2000" checksum="(null)">
+  </resource>
+
+  <resource identifier="Potti Sreeramulu" checksum="(null)">
   </resource>
 
   <resource identifier="Purisa" checksum="(null)">
@@ -1417,6 +1462,12 @@
   <resource identifier="RaghuMalayalamSans" checksum="(null)">
   </resource>
 
+  <resource identifier="Ramabhadra" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ramaraja" checksum="(null)">
+  </resource>
+
   <resource identifier="Rasa" checksum="(null)">
   </resource>
 
@@ -1430,6 +1481,9 @@
   </resource>
 
   <resource identifier="Rasa Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="RaviPrakash" checksum="(null)">
   </resource>
 
   <resource identifier="Rekha Medium" checksum="(null)">
@@ -1501,13 +1555,31 @@
   <resource identifier="Serif Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Sree Krushnadevaraya" checksum="(null)">
+  </resource>
+
   <resource identifier="Standard Symbols PS" checksum="(null)">
+  </resource>
+
+  <resource identifier="Suranna" checksum="(null)">
+  </resource>
+
+  <resource identifier="Suravaram" checksum="(null)">
   </resource>
 
   <resource identifier="Suruma Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="Syamala Ramana" checksum="(null)">
+  </resource>
+
+  <resource identifier="TenaliRamakrishna" checksum="(null)">
+  </resource>
+
   <resource identifier="Tibetan Machine Uni" checksum="(null)">
+  </resource>
+
+  <resource identifier="Timmana Heavy" checksum="(null)">
   </resource>
 
   <resource identifier="Tlwg Mono" checksum="(null)">
@@ -1672,13 +1744,28 @@
   <resource identifier="Yrsa Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Yrsa Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Yrsa Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Yrsa Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Yrsa Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Yrsa Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="Yrsa Medium Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Yrsa Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Yrsa Semi-Bold Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Z003 Medium Italic" checksum="(null)">

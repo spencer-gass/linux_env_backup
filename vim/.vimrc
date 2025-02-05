@@ -32,7 +32,8 @@ nnoremap <leader>a :wqa!<CR>
 nnoremap <leader>n :noh<CR>
 
 " Color Scheme (Add your preferred color scheme here)
-colorscheme elflord
+" colorscheme desert
+colorscheme industry
 
 set clipboard=unnamedplus
 
