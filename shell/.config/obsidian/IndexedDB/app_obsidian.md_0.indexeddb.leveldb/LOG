@@ -1,39 +1,42 @@
-2025/01/26-20:50:43.296 155a Reusing MANIFEST /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
-2025/01/26-20:50:43.296 155a Recovering log #434
-2025/01/26-20:50:43.313 155a Reusing old log /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000434.log 
-2025/01/27-13:03:25.862 155a Level-0 table #439: started
-2025/01/27-13:03:25.886 155a Level-0 table #439: 1541733 bytes OK
-2025/01/27-13:03:25.888 155a Delete type=0 #434
-2025/01/27-13:04:15.161 155a Compacting 1@1 + 1@2 files
-2025/01/27-13:04:15.175 155a Generated table #440@1: 7995 keys, 732524 bytes
-2025/01/27-13:04:15.175 155a Compacted 1@1 + 1@2 files => 732524 bytes
-2025/01/27-13:04:15.176 155a compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/01/27-13:04:15.176 155a Delete type=2 #436
-2025/01/27-13:04:15.176 155a Delete type=2 #439
-2025/01/31-09:18:41.149 155a Level-0 table #442: started
-2025/01/31-09:18:41.168 155a Level-0 table #442: 1734152 bytes OK
-2025/01/31-09:18:41.169 155a Delete type=0 #438
-2025/01/31-09:20:01.585 155a Compacting 1@1 + 1@2 files
-2025/01/31-09:20:01.605 155a Generated table #443@1: 7985 keys, 663019 bytes
-2025/01/31-09:20:01.605 155a Compacted 1@1 + 1@2 files => 663019 bytes
-2025/01/31-09:20:01.606 155a compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/01/31-09:20:01.606 155a Delete type=2 #440
-2025/01/31-09:20:01.606 155a Delete type=2 #442
-2025/02/03-11:30:51.912 155a Level-0 table #445: started
-2025/02/03-11:30:51.938 155a Level-0 table #445: 1516163 bytes OK
-2025/02/03-11:30:51.941 155a Delete type=0 #441
-2025/02/03-11:32:05.871 155a Compacting 1@1 + 1@2 files
-2025/02/03-11:32:05.900 155a Generated table #446@1: 8267 keys, 759795 bytes
-2025/02/03-11:32:05.900 155a Compacted 1@1 + 1@2 files => 759795 bytes
-2025/02/03-11:32:05.902 155a compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/02/03-11:32:05.902 155a Delete type=2 #445
-2025/02/03-11:32:05.902 155a Delete type=2 #443
-2025/02/04-09:05:24.221 155a Level-0 table #448: started
-2025/02/04-09:05:24.236 155a Level-0 table #448: 1483324 bytes OK
-2025/02/04-09:05:24.237 155a Delete type=0 #444
-2025/02/04-09:07:00.297 155a Compacting 1@1 + 1@2 files
-2025/02/04-09:07:00.313 155a Generated table #449@1: 8226 keys, 673825 bytes
-2025/02/04-09:07:00.314 155a Compacted 1@1 + 1@2 files => 673825 bytes
-2025/02/04-09:07:00.314 155a compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/02/04-09:07:00.314 155a Delete type=2 #446
-2025/02/04-09:07:00.314 155a Delete type=2 #448
+2025/02/27-11:14:24.318 1ae3 Reusing MANIFEST /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/27-11:14:24.318 1ae3 Recovering log #492
+2025/02/27-11:14:24.344 1ae3 Reusing old log /home/sgass/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000492.log 
+2025/02/27-16:55:19.525 1ae4 Level-0 table #497: started
+2025/02/27-16:55:19.553 1ae4 Level-0 table #497: 1671245 bytes OK
+2025/02/27-16:55:19.556 1ae4 Delete type=0 #492
+2025/02/27-16:57:37.740 1ae3 Compacting 1@1 + 1@2 files
+2025/02/27-16:57:37.759 1ae3 Generated table #498@1: 9292 keys, 1346169 bytes
+2025/02/27-16:57:37.759 1ae3 Compacted 1@1 + 1@2 files => 1346169 bytes
+2025/02/27-16:57:37.760 1ae3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/27-16:57:37.760 1ae3 Delete type=2 #494
+2025/02/27-16:57:37.760 1ae3 Delete type=2 #497
+2025/02/27-18:26:42.644 1ae4 Level-0 table #500: started
+2025/02/27-18:26:42.658 1ae4 Level-0 table #500: 1827259 bytes OK
+2025/02/27-18:26:42.659 1ae4 Delete type=0 #496
+2025/02/27-18:28:52.395 1ae3 Compacting 1@1 + 1@2 files
+2025/02/27-18:28:52.414 1ae3 Generated table #501@1: 9336 keys, 1531811 bytes
+2025/02/27-18:28:52.414 1ae3 Compacted 1@1 + 1@2 files => 1531811 bytes
+2025/02/27-18:28:52.415 1ae3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/27-18:28:52.415 1ae3 Delete type=2 #498
+2025/02/27-18:28:52.415 1ae3 Delete type=2 #500
+2025/02/28-16:17:18.419 1ae4 Level-0 table #503: started
+2025/02/28-16:17:18.430 1ae4 Level-0 table #503: 1798153 bytes OK
+2025/02/28-16:17:18.433 1ae4 Delete type=0 #499
+2025/02/28-16:30:10.231 1ae3 Compacting 1@1 + 1@2 files
+2025/02/28-16:30:10.246 1ae3 Generated table #504@1: 9356 keys, 1536569 bytes
+2025/02/28-16:30:10.246 1ae3 Compacted 1@1 + 1@2 files => 1536569 bytes
+2025/02/28-16:30:10.247 1ae3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/28-16:30:10.247 1ae3 Delete type=2 #503
+2025/02/28-16:30:10.248 1ae3 Delete type=2 #501
+2025/03/01-09:11:27.588 1ae4 Level-0 table #506: started
+2025/03/01-09:11:27.599 1ae4 Level-0 table #506: 1854515 bytes OK
+2025/03/01-09:11:27.602 1ae4 Delete type=0 #502
+2025/03/01-09:13:33.814 1ae4 Compacting 1@1 + 1@2 files
+2025/03/01-09:13:33.830 1ae4 Generated table #507@1: 9418 keys, 1988666 bytes
+2025/03/01-09:13:33.830 1ae4 Compacted 1@1 + 1@2 files => 1988666 bytes
+2025/03/01-09:13:33.832 1ae4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/01-09:13:33.832 1ae4 Delete type=2 #506
+2025/03/01-09:13:33.832 1ae4 Delete type=2 #504
+2025/03/01-10:38:40.591 1ae4 Level-0 table #509: started
+2025/03/01-10:38:40.598 1ae4 Level-0 table #509: 1810065 bytes OK
+2025/03/01-10:38:40.599 1ae4 Delete type=0 #505
