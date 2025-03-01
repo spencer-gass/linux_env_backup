@@ -17,9 +17,6 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/sgass/Projects/kepler"
-            },
-            {
                 "folderUri": "file:///home/sgass/Projects/kepler2"
             }
         ],
@@ -75,8 +72,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1836,10 +1832,10 @@
             "backupPath": "/home/sgass/.config/Code/Backups/dea674ff77990ce485fdf2ec52eddfc0",
             "uiState": {
                 "mode": 0,
-                "x": 605,
+                "x": 530,
                 "y": 69,
-                "width": 960,
-                "height": 1043
+                "width": 1390,
+                "height": 839
             }
         },
         "openedWindows": []
