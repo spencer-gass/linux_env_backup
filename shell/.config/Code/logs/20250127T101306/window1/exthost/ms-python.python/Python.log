@@ -1,0 +1,77 @@
+2025-01-27 13:28:46.617 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-27 13:28:46.617 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-27 13:28:46.617 [info] Experiment 'pythonTestAdapter' is active
+2025-01-27 13:28:46.617 [info] Native locator: Refresh started
+2025-01-27 13:28:46.617 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler
+2025-01-27 13:28:46.657 [info] > pyenv which python
+2025-01-27 13:28:46.657 [info] cwd: .
+2025-01-27 13:28:46.761 [info] Python interpreter path: /bin/python3
+2025-01-27 13:28:46.761 [info] Editor support is inactive since language server is set to None.
+2025-01-27 13:28:46.855 [info] Native locator: Refresh finished in 291 ms
+2025-01-27 13:28:47.693 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-01-27 13:28:47.700 [info] > pixi --version
+2025-01-27 13:28:47.700 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-01-27 13:28:47.703 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-01-27 13:32:00.396 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/network_packet_generator_avmm.py
+2025-01-27 13:54:15.307 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/network_packet_generator_avmm.py
+2025-01-27 13:56:14.893 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/network_packet_generator_avmm.py
+2025-01-27 16:32:19.226 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/network_packet_generator_avmm.py
+2025-01-27 16:32:37.174 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/network_packet_generator_avmm.py
+2025-01-28 10:03:18.889 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-28 10:03:43.883 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-28 10:03:55.683 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-28 10:04:55.125 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-28 10:05:20.952 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-28 10:05:47.271 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-28 10:08:58.938 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-28 10:10:17.579 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-28 10:11:08.037 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-28 10:13:25.267 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-28 10:17:32.643 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-28 10:24:39.876 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-29 09:37:23.048 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-29 09:48:14.881 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-29 09:48:44.330 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-29 09:49:00.292 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-29 12:39:40.887 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-29 12:40:08.417 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-29 12:42:16.804 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-29 12:46:02.744 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-01-30 11:26:06.474 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-30 11:26:06.474 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-30 11:26:06.474 [info] Experiment 'pythonTestAdapter' is active
+2025-01-30 11:26:06.474 [info] Native locator: Refresh started
+2025-01-30 11:26:06.474 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler2
+2025-01-30 11:26:06.518 [info] > pyenv which python
+2025-01-30 11:26:06.518 [info] cwd: .
+2025-01-30 11:26:06.573 [info] Python interpreter path: /bin/python3
+2025-01-30 11:26:06.574 [info] Editor support is inactive since language server is set to None.
+2025-01-30 11:26:06.625 [info] Native locator: Refresh finished in 189 ms
+2025-01-30 11:26:07.535 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-01-30 11:26:07.545 [info] > pixi --version
+2025-01-30 11:26:07.546 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-01-30 11:26:07.551 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-01-31 16:13:10.585 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-31 16:13:10.585 [info] Experiment 'pythonTestAdapter' is active
+2025-01-31 16:13:10.585 [info] Native locator: Refresh started
+2025-01-31 16:13:10.585 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler2
+2025-01-31 16:13:10.599 [info] > pyenv which python
+2025-01-31 16:13:10.599 [info] cwd: .
+2025-01-31 16:13:10.661 [info] Python interpreter path: /bin/python3
+2025-01-31 16:13:10.661 [info] Editor support is inactive since language server is set to None.
+2025-01-31 16:13:10.710 [info] Native locator: Refresh finished in 157 ms
+2025-01-31 16:13:11.608 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-01-31 16:13:11.617 [info] > pixi --version
+2025-01-31 16:13:11.619 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-01-31 16:13:11.623 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-02-01 10:54:18.101 [info] Discover tests for workspace name: kepler2 - uri: /home/sgass/Projects/kepler2/python/kepler/kepler/afsw/integration_test/pytest.ini
+2025-02-03 10:17:41.357 [info] Discover tests for workspace name: undefined - uri: /home/sgass/.config/Code/User/settings.json
+2025-02-03 10:18:18.817 [info] Discover tests for workspace name: undefined - uri: /home/sgass/.config/Code/User/settings.json
+2025-02-03 10:18:24.530 [info] Discover tests for workspace name: undefined - uri: /home/sgass/.config/Code/User/settings.json
+2025-02-03 10:18:29.575 [info] Discover tests for workspace name: undefined - uri: /home/sgass/.config/Code/User/settings.json
+2025-02-03 10:18:34.441 [info] Discover tests for workspace name: undefined - uri: /home/sgass/.config/Code/User/settings.json
+2025-02-03 10:18:38.897 [info] Discover tests for workspace name: undefined - uri: /home/sgass/.config/Code/User/settings.json
+2025-02-03 10:18:43.446 [info] Discover tests for workspace name: undefined - uri: /home/sgass/.config/Code/User/settings.json
+2025-02-03 10:18:47.647 [info] Discover tests for workspace name: undefined - uri: /home/sgass/.config/Code/User/settings.json
+2025-02-03 10:18:51.625 [info] Discover tests for workspace name: undefined - uri: /home/sgass/.config/Code/User/settings.json
+2025-02-03 10:18:56.367 [info] Discover tests for workspace name: undefined - uri: /home/sgass/.config/Code/User/settings.json

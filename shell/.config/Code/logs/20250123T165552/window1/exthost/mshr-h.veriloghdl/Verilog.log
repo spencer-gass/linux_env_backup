@@ -1,0 +1,197 @@
+2025-01-23 16:55:54.030 [info] mshr-h.veriloghdl is now active.
+2025-01-23 16:55:54.030 [info] [ExtensionManager] previousVersion: "1.15.5", currentVersion: "1.16.0"
+2025-01-23 16:55:54.030 [info] [ExtensionManager] previousVersion: "1.16.0", currentVersion: "1.16.0"
+2025-01-23 16:55:54.030 [info] ctags manager configure
+2025-01-23 16:55:54.030 [warning] [LintManager] Invalid linter name: none
+2025-01-23 16:55:54.030 [info] mshr-h.veriloghdl activation finished.
+2025-01-23 16:55:54.357 [warning] [LintManager] Invalid linter name: none
+2025-01-23 16:55:54.388 [warning] [LintManager] Invalid linter name: none
+2025-01-23 16:55:54.452 [warning] [LintManager] Invalid linter name: none
+2025-01-23 16:55:54.545 [warning] [LintManager] Invalid linter name: none
+2025-01-23 16:55:55.446 [warning] [LintManager] Invalid linter name: none
+2025-01-23 16:55:55.982 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_ingress_tb.sv
+2025-01-23 16:55:55.982 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_ingress_tb.sv"
+2025-01-23 16:55:55.982 [info] executing ctags
+2025-01-23 16:55:55.982 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_ingress_tb.sv"
+2025-01-23 16:55:55.991 [warning] [LintManager] Invalid linter name: none
+2025-01-23 16:55:55.993 [info] building symbols
+2025-01-23 16:55:55.998 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-01-24 09:34:34.634 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 09:34:35.031 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 10:10:55.297 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-01-24 10:10:55.297 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv"
+2025-01-24 10:10:55.297 [info] executing ctags
+2025-01-24 10:10:55.297 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv"
+2025-01-24 10:10:55.560 [info] building symbols
+2025-01-24 10:10:55.573 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-01-24 10:10:57.400 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/network_packet_generator/network_packet_generator_tb.sv
+2025-01-24 10:10:57.400 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/network_packet_generator/network_packet_generator_tb.sv"
+2025-01-24 10:10:57.400 [info] executing ctags
+2025-01-24 10:10:57.400 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/network_packet_generator/network_packet_generator_tb.sv"
+2025-01-24 10:10:57.651 [info] building symbols
+2025-01-24 10:10:57.655 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-01-24 10:11:06.566 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 10:11:06.820 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 10:11:07.127 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 10:11:07.229 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 10:52:12.126 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 10:52:12.457 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 10:52:12.590 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 10:52:12.867 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 10:54:54.947 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 10:54:55.344 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 10:54:55.389 [warning] [VerilogHoverProvider] Hover object not found
+2025-01-24 10:54:55.762 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 11:58:29.342 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 11:58:29.691 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 11:58:29.774 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 11:58:30.115 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:01:24.448 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-01-24 12:01:24.448 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv"
+2025-01-24 12:01:24.448 [info] executing ctags
+2025-01-24 12:01:24.448 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv"
+2025-01-24 12:01:24.614 [info] building symbols
+2025-01-24 12:01:24.618 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-01-24 12:01:27.201 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv
+2025-01-24 12:01:27.201 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv"
+2025-01-24 12:01:27.201 [info] executing ctags
+2025-01-24 12:01:27.201 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv"
+2025-01-24 12:01:27.337 [info] building symbols
+2025-01-24 12:01:27.337 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-01-24 12:01:30.869 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:01:31.313 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:01:31.674 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:01:32.404 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv
+2025-01-24 12:01:32.450 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:01:32.467 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:01:32.823 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:01:33.290 [info] [VerilogDefinitionProvider] 1 definitions returned
+2025-01-24 12:01:40.361 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:01:40.802 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:01:40.910 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:02:17.744 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:02:18.188 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:02:19.744 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:02:20.191 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:02:20.865 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-01-24 12:02:20.992 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:02:21.355 [info] [VerilogDefinitionProvider] 1 definitions returned
+2025-01-24 12:02:21.390 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:02:36.346 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:02:36.793 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:02:39.429 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:02:39.900 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:02:41.162 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:02:41.579 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:02:42.471 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:02:42.897 [warning] [VerilogHoverProvider] Hover object not found
+2025-01-24 12:02:44.195 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:02:50.313 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:02:51.929 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:02:52.104 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:02:52.387 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:02:52.513 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:03:58.498 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:03:58.813 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:03:58.907 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:03:59.207 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:04:00.457 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:04:00.778 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:04:00.893 [warning] [VerilogHoverProvider] Hover object not found
+2025-01-24 12:04:01.173 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:04:11.994 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:05:09.090 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:05:10.227 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:05:10.480 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:05:10.716 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:05:10.876 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:05:12.259 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:05:12.679 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:05:13.354 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:05:13.798 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:05:14.196 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:05:14.603 [warning] [VerilogHoverProvider] Hover object not found
+2025-01-24 12:05:14.612 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:05:14.997 [warning] [VerilogHoverProvider] Hover object not found
+2025-01-24 12:05:15.061 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:05:15.493 [warning] [VerilogHoverProvider] Hover object not found
+2025-01-24 12:05:24.680 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:05:25.147 [warning] [VerilogHoverProvider] Hover object not found
+2025-01-24 12:05:25.646 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:05:26.131 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:05:32.231 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:05:32.562 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:05:32.681 [warning] [VerilogHoverProvider] Hover object not found
+2025-01-24 12:05:32.931 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:05:33.398 [warning] [VerilogHoverProvider] Hover object not found
+2025-01-24 12:05:34.099 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:05:34.603 [warning] [VerilogHoverProvider] Hover object not found
+2025-01-24 12:08:43.620 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:08:48.466 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:08:48.894 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:08:50.024 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:08:50.470 [warning] [VerilogHoverProvider] Hover object not found
+2025-01-24 12:08:52.566 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:08:53.016 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:08:53.759 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:08:54.068 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:08:54.156 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:08:54.467 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:08:55.483 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:08:55.914 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:08:55.925 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:08:56.351 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:08:56.497 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:08:56.697 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:08:56.933 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:08:57.093 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:08:57.948 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:08:58.392 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:08:58.481 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:08:58.888 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:08:59.046 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:08:59.491 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:09:00.948 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:09:01.359 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:09:01.365 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:09:01.983 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:09:03.148 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:09:03.568 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:09:03.987 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:09:04.552 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:09:06.854 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:09:19.796 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:09:20.242 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:09:21.063 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:09:21.446 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:09:21.512 [warning] [VerilogHoverProvider] Hover object not found
+2025-01-24 12:09:21.856 [warning] [VerilogHoverProvider] Hover object not found
+2025-01-24 12:09:22.615 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:09:23.062 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:09:29.116 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:09:29.543 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:09:31.050 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:09:31.487 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:09:31.892 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-01-24 12:09:32.282 [info] [VerilogDefinitionProvider] 1 definitions returned
+2025-01-24 12:09:33.094 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:09:33.560 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:09:34.515 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:09:55.769 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:09:56.201 [info] [VerilogHoverProvider] Hover object returned
+2025-01-24 12:09:58.150 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:11:07.512 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 12:11:23.800 [info] on save
+2025-01-24 12:21:18.208 [info] on save
+2025-01-24 12:23:25.498 [info] on save
+2025-01-24 12:24:50.545 [info] on save
+2025-01-24 14:47:28.347 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 14:47:28.713 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 14:47:28.940 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 14:47:29.979 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 14:47:30.432 [warning] [VerilogHoverProvider] Hover object not found
+2025-01-24 14:47:34.079 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 14:47:35.695 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 14:47:36.090 [warning] [VerilogHoverProvider] Hover object not found
+2025-01-24 14:47:41.197 [info] [VerilogHoverProvider] Hover requested
+2025-01-24 14:50:22.128 [info] Deactivated

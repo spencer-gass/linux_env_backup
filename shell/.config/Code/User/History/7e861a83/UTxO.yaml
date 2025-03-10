@@ -1,0 +1,817 @@
+#
+# Example config for VNP4 with TinyBCAM/TCAM tables
+#
+#
+
+intf_map:
+  - keys:
+    - name: ingres_port
+      value: 0
+      bits: 10
+    action_id:
+      value : 0
+      bits: 2
+    action_params:
+    - name: vrf_id
+      value: 0x00000000
+      bits: 32
+    - name: vlan_id
+      value: 0x064
+      bits: 12
+  - keys:
+    - name: ingres_port
+      value: 1
+      bits: 10
+    action_id:
+      value : 0
+      bits: 2
+    action_params:
+    - name: vrf_id
+      value: 0x00000001
+      bits: 32
+    - name: vlan_id
+      value: 0x065
+      bits: 12
+  - keys:
+    - name: ingres_port
+      value: 2
+      bits: 10
+    action_id:
+      value : 0
+      bits: 2
+    action_params:
+    - name: vrf_id
+      value: 0x00000002
+      bits: 32
+    - name: vlan_id
+      value: 0x066
+      bits: 12
+  - keys:
+    - name: ingres_port
+      value: 3
+      bits: 10
+    action_id:
+      value : 0
+      bits: 2
+    action_params:
+    - name: vrf_id
+      value: 0x00000003
+      bits: 32
+    - name: vlan_id
+      value: 0x067
+      bits: 12
+  - keys:
+    - name: ingres_port
+      value: 4
+      bits: 10
+    action_id:
+      value : 0
+      bits: 2
+    action_params:
+    - name: vrf_id
+      value: 0x00000004
+      bits: 32
+    - name: vlan_id
+      value: 0x068
+      bits: 12
+  - keys:
+    - name: ingres_port
+      value: 5
+      bits: 10
+    action_id:
+      value : 0
+      bits: 2
+    action_params:
+    - name: vrf_id
+      value: 0x00000005
+      bits: 32
+    - name: vlan_id
+      value: 0x069
+      bits: 12
+  - keys:
+    - name: ingres_port
+      value: 6
+      bits: 10
+    action_id:
+      value : 0
+      bits: 2
+    action_params:
+    - name: vrf_id
+      value: 0x00000006
+      bits: 32
+    - name: vlan_id
+      value: 0x06A
+      bits: 12
+  - keys:
+    - name: ingres_port
+      value: 7
+      bits: 10
+    action_id:
+      value : 0
+      bits: 2
+    action_params:
+    - name: vrf_id
+      value: 0x00000007
+      bits: 32
+    - name: vlan_id
+      value: 0x06B
+      bits: 12
+  - keys:
+    - name: ingres_port
+      value: 8
+      bits: 10
+    action_id:
+      value : 0
+      bits: 2
+    action_params:
+    - name: vrf_id
+      value: 0x00000008
+      bits: 32
+    - name: vlan_id
+      value: 0x06C
+      bits: 12
+  - keys:
+    - name: ingres_port
+      value: 9
+      bits: 10
+    action_id:
+      value : 0
+      bits: 2
+    action_params:
+    - name: vrf_id
+      value: 0x00000009
+      bits: 32
+    - name: vlan_id
+      value: 0x06D
+      bits: 12
+lfib:
+  - keys:
+    - name: mpls_label
+      value: 0x12345
+      bits: 20
+    action_id:
+      value: 1
+      bits: 3
+    action_params:
+    - name: mpls_label
+      value: 0xAABBC
+      bits: 20
+    - name: mac_sa
+      value: 0x303030303030
+      bits: 48
+    - name: mac_da
+      value: 0x404040404040
+      bits: 48
+    - name: vrf_id
+      value: 0x00000001
+      bits: 32
+    - name: egress_port
+      value: 1
+      bits: 10
+  - keys:
+    - name: mpls_label
+      value: 0x6789A
+      bits: 20
+    action_id:
+      value: 0
+      bits: 3
+    action_params:
+    - name: mpls_label
+      value: 0x11223
+      bits: 20
+    - name: mac_sa
+      value: 0x505050505050
+      bits: 48
+    - name: mac_da
+      value: 0x606060606060
+      bits: 48
+    - name: vrf_id
+      value: 0x00000002
+      bits: 32
+    - name: egress_port
+      value: 2
+      bits: 10
+ipv4_fib_ingress:
+  - keys:
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf_id
+      value: 0x00000000
+      bits: 32
+    action_id:
+      value: 0
+      bits: 3
+    action_params:
+    - name: mac_sa
+      value: 0x303030303030
+      bits: 48
+    - name: mac_da
+      value: 0x404040404040
+      bits: 48
+    - name: egress_port
+      value: 0
+      bits: 10
+  - keys:
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf_id
+      value: 0x00000000
+      bits: 32
+    action_id:
+      value: 0
+      bits: 3
+    action_params:
+    - name: mac_sa
+      value: 0x303030303030
+      bits: 48
+    - name: mac_da
+      value: 0x404040404040
+      bits: 48
+    - name: egress_port
+      value: 1
+      bits: 10
+  - keys:
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf_id
+      value: 0x00000002
+      bits: 32
+    action_id:
+      value: 0
+      bits: 3
+    action_params:
+    - name: mac_sa
+      value: 0x303030303030
+      bits: 48
+    - name: mac_da
+      value: 0x404040404040
+      bits: 48
+    - name: egress_port
+      value: 2
+      bits: 10
+  - keys:
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf_id
+      value: 0x00000003
+      bits: 32
+    action_id:
+      value: 0
+      bits: 3
+    action_params:
+    - name: mac_sa
+      value: 0x303030303030
+      bits: 48
+    - name: mac_da
+      value: 0x404040404040
+      bits: 48
+    - name: egress_port
+      value: 3
+      bits: 10
+  - keys:
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf_id
+      value: 0x00000004
+      bits: 32
+    action_id:
+      value: 0
+      bits: 3
+    action_params:
+    - name: mac_sa
+      value: 0x303030303030
+      bits: 48
+    - name: mac_da
+      value: 0x404040404040
+      bits: 48
+    - name: egress_port
+      value: 4
+      bits: 10
+  - keys:
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf_id
+      value: 0x00000005
+      bits: 32
+    action_id:
+      value: 0
+      bits: 3
+    action_params:
+    - name: mac_sa
+      value: 0x303030303030
+      bits: 48
+    - name: mac_da
+      value: 0x404040404040
+      bits: 48
+    - name: egress_port
+      value: 5
+      bits: 10
+  - keys:
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf_id
+      value: 0x00000006
+      bits: 32
+    action_id:
+      value: 0
+      bits: 3
+    action_params:
+    - name: mac_sa
+      value: 0x303030303030
+      bits: 48
+    - name: mac_da
+      value: 0x404040404040
+      bits: 48
+    - name: egress_port
+      value: 6
+      bits: 10
+  - keys:
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf_id
+      value: 0x00000007
+      bits: 32
+    action_id:
+      value: 0
+      bits: 3
+    action_params:
+    - name: mac_sa
+      value: 0x303030303030
+      bits: 48
+    - name: mac_da
+      value: 0x404040404040
+      bits: 48
+    - name: egress_port
+      value: 7
+      bits: 10
+  - keys:
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf_id
+      value: 0x00000008
+      bits: 32
+    action_id:
+      value: 0
+      bits: 3
+    action_params:
+    - name: mac_sa
+      value: 0x303030303030
+      bits: 48
+    - name: mac_da
+      value: 0x404040404040
+      bits: 48
+    - name: egress_port
+      value: 8
+      bits: 10
+  - keys:
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf_id
+      value: 0x00000009
+      bits: 32
+    action_id:
+      value: 0
+      bits: 3
+    action_params:
+    - name: mac_sa
+      value: 0x303030303030
+      bits: 48
+    - name: mac_da
+      value: 0x404040404040
+      bits: 48
+    - name: egress_port
+      value: 9
+      bits: 10
+cmp_ipv4_fib:
+  - keys:
+    - name: ingress_port
+      value: 0
+      bits: 10
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf
+      value: 0x00000000
+      bits: 32
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x064
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 1
+      bits: 10
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf
+      value: 0x00000001
+      bits: 32
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x065
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 2
+      bits: 10
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf
+      value: 0x00000002
+      bits: 32
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x066
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 3
+      bits: 10
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf
+      value: 0x00000003
+      bits: 32
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x067
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 4
+      bits: 10
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf
+      value: 0x00000004
+      bits: 32
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x068
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 5
+      bits: 10
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf
+      value: 0x00000005
+      bits: 32
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x069
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 6
+      bits: 10
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf
+      value: 0x00000006
+      bits: 32
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x06A
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 7
+      bits: 10
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf
+      value: 0x00000007
+      bits: 32
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x06B
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 8
+      bits: 10
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf
+      value: 0x00000008
+      bits: 32
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x06C
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 9
+      bits: 10
+    - name: ip_da
+      value: 0xC0A80001
+      bits: 32
+    - name: vrf
+      value: 0x00000009
+      bits: 32
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x06D
+      bits: 12
+cmp_mac_fib:
+  - keys:
+    - name: ingress_port
+      value: 1
+      bits: 10
+    - name: mac_da
+      value: 0x101111111111
+      bits: 48
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x064
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 1
+      bits: 10
+    - name: mac_da
+      value: 0x101111111111
+      bits: 48
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x065
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 2
+      bits: 10
+    - name: mac_da
+      value: 0x101111111111
+      bits: 48
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x066
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 3
+      bits: 10
+    - name: mac_da
+      value: 0x101111111111
+      bits: 48
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x067
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 4
+      bits: 10
+    - name: mac_da
+      value: 0x101111111111
+      bits: 48
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x068
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 5
+      bits: 10
+    - name: mac_da
+      value: 0x101111111111
+      bits: 48
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x069
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 6
+      bits: 10
+    - name: mac_da
+      value: 0x101111111111
+      bits: 48
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x06A
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 7
+      bits: 10
+    - name: mac_da
+      value: 0x101111111111
+      bits: 48
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x06B
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 8
+      bits: 10
+    - name: mac_da
+      value: 0x101111111111
+      bits: 48
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x06C
+      bits: 12
+  - keys:
+    - name: ingress_port
+      value: 9
+      bits: 10
+    - name: mac_da
+      value: 0x101111111111
+      bits: 48
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: vlan_id
+      value: 0x06D
+      bits: 12
+vlan_map:
+  - keys:
+    - name: vlan_id
+      value: 0x064
+      bits: 12
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: egress_port
+      value: 0
+      bits: 10
+  - keys:
+    - name: vlan_id
+      value: 0x065
+      bits: 12
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: egress_port
+      value: 1
+      bits: 10
+  - keys:
+    - name: vlan_id
+      value: 0x066
+      bits: 12
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: egress_port
+      value: 2
+      bits: 10
+  - keys:
+    - name: vlan_id
+      value: 0x067
+      bits: 12
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: egress_port
+      value: 3
+      bits: 10
+  - keys:
+    - name: vlan_id
+      value: 0x068
+      bits: 12
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: egress_port
+      value: 4
+      bits: 10
+  - keys:
+    - name: vlan_id
+      value: 0x069
+      bits: 12
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: egress_port
+      value: 5
+      bits: 10
+  - keys:
+    - name: vlan_id
+      value: 0x06A
+      bits: 12
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: egress_port
+      value: 6
+      bits: 10
+  - keys:
+    - name: vlan_id
+      value: 0x06B
+      bits: 12
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: egress_port
+      value: 7
+      bits: 10
+  - keys:
+    - name: vlan_id
+      value: 0x06C
+      bits: 12
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: egress_port
+      value: 8
+      bits: 10
+  - keys:
+    - name: vlan_id
+      value: 0x06D
+      bits: 12
+    action_id:
+      value: 0
+      bits: 2
+    action_params:
+    - name: egress_port
+      value: 9
+      bits: 10

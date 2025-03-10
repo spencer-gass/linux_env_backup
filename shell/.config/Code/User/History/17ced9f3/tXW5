@@ -1,0 +1,11 @@
+hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv
+hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+hdl/rtl/p4_router/p4_router.sv
+hdl/rtl/p4_router/p4_router_avmm_regs.sv
+hdl/rtl/p4_router/p4_router_congestion_manager.sv
+hdl/rtl/p4_router/p4_router_ingress.sv
+hdl/rtl/p4_router/p4_router_pkg.sv
+hdl/rtl/p4_router/p4_router_queue_system.sv
+hdl/sim/p4_router/p4_router_avmm_regs_tb.sv
+
+python/kepler/kepler/fpga/devices/p4_router_avmm.py

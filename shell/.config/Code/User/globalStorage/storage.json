@@ -5,8 +5,10 @@
             "file:///home/sgass/Projects/reference": "__default__profile__",
             "file:///home/sgass/Projects/kepler_fpga_build1": "__default__profile__",
             "file:///home/sgass/Projects/kepler/python/kepler": "__default__profile__",
+            "file:///home/sgass/Projects/Personal/resume": "__default__profile__",
+            "file:///home/sgass/Projects/kepler2": "__default__profile__",
             "file:///home/sgass/Projects/kepler": "__default__profile__",
-            "file:///home/sgass/Projects/kepler2": "__default__profile__"
+            "file:///home/sgass/Projects/kepler3": "__default__profile__"
         },
         "emptyWindows": {}
     },
@@ -17,7 +19,10 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/sgass/Projects/kepler2"
+                "folderUri": "file:///home/sgass/Projects/kepler"
+            },
+            {
+                "folderUri": "file:///home/sgass/Projects/kepler3"
             }
         ],
         "emptyWindows": []
@@ -72,10 +77,33 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sgass/Projects/kepler3",
+                                        "path": "/home/sgass/Projects/kepler3",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/kepler3"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sgass/Projects/kepler",
+                                        "path": "/home/sgass/Projects/kepler",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/kepler"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -92,12 +120,12 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/sgass/Projects/kepler",
-                                        "path": "/home/sgass/Projects/kepler",
+                                        "external": "file:///home/sgass/Projects/Personal/resume",
+                                        "path": "/home/sgass/Projects/Personal/resume",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/kepler"
+                                    "label": "~/Projects/Personal/resume"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -588,8 +616,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel",
-                                    "checked": true
+                                    "label": "&&Panel"
                                 },
                                 {
                                     "id": "toggle.toggleCustomTitleBar",
@@ -1828,14 +1855,14 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/sgass/Projects/kepler2",
-            "backupPath": "/home/sgass/.config/Code/Backups/dea674ff77990ce485fdf2ec52eddfc0",
+            "folder": "file:///home/sgass/Projects/kepler3",
+            "backupPath": "/home/sgass/.config/Code/Backups/175f03752ccaca18a40b131aa740e93b",
             "uiState": {
                 "mode": 0,
-                "x": 530,
-                "y": 69,
+                "x": 2093,
+                "y": 37,
                 "width": 1390,
-                "height": 839
+                "height": 1011
             }
         },
         "openedWindows": []

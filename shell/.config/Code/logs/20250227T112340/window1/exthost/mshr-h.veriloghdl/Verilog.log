@@ -1,0 +1,370 @@
+2025-02-27 11:26:09.216 [info] mshr-h.veriloghdl is now active.
+2025-02-27 11:26:09.216 [info] [ExtensionManager] previousVersion: "1.16.0", currentVersion: "1.16.0"
+2025-02-27 11:26:09.216 [info] ctags manager configure
+2025-02-27 11:26:09.216 [warning] [LintManager] Invalid linter name: none
+2025-02-27 11:26:09.216 [info] mshr-h.veriloghdl activation finished.
+2025-02-27 11:26:09.216 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_echo_phys_port_sim_netlist.v
+2025-02-27 11:26:09.216 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_echo_phys_port_sim_netlist.v"
+2025-02-27 11:26:09.216 [info] executing ctags
+2025-02-27 11:26:09.216 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_echo_phys_port_sim_netlist.v"
+2025-02-27 11:26:09.216 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_echo_phys_port_sim_netlist.v
+2025-02-27 11:26:09.216 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_echo_phys_port_sim_netlist.v"
+2025-02-27 11:26:09.216 [info] executing ctags
+2025-02-27 11:26:09.216 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_echo_phys_port_sim_netlist.v"
+2025-02-27 11:26:09.216 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_echo_phys_port_sim_netlist.v
+2025-02-27 11:26:09.216 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_echo_phys_port_sim_netlist.v"
+2025-02-27 11:26:09.216 [info] executing ctags
+2025-02-27 11:26:09.216 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_echo_phys_port_sim_netlist.v"
+2025-02-27 11:26:09.216 [info] building symbols
+2025-02-27 11:26:09.216 [error] No output from ctags
+2025-02-27 11:26:09.216 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2025-02-27 11:26:09.216 [info] building symbols
+2025-02-27 11:26:09.216 [error] No output from ctags
+2025-02-27 11:26:09.216 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2025-02-27 11:26:09.216 [info] building symbols
+2025-02-27 11:26:09.216 [error] No output from ctags
+2025-02-27 11:26:09.216 [info] [VerilogDocumentSymbolProvider] 0 top-level symbols returned
+2025-02-27 11:32:40.767 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_echo_phys_port_sim_netlist.v
+2025-02-27 11:32:40.767 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_echo_phys_port_sim_netlist.v"
+2025-02-27 11:32:40.767 [info] executing ctags
+2025-02-27 11:32:40.767 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/vitis_net_p4_echo_phys_port_sim_netlist.v"
+2025-02-27 11:32:40.779 [info] building symbols
+2025-02-27 11:32:40.782 [info] [VerilogDocumentSymbolProvider] 84 top-level symbols returned
+2025-02-27 11:32:45.504 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 11:32:45.954 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 11:32:45.994 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-27 11:32:46.374 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-27 11:33:27.063 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 11:33:27.519 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-27 11:34:32.918 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router.sv
+2025-02-27 11:34:32.918 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router.sv"
+2025-02-27 11:34:32.918 [info] executing ctags
+2025-02-27 11:34:32.918 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router.sv"
+2025-02-27 11:34:32.923 [info] building symbols
+2025-02-27 11:34:32.923 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-27 13:33:43.699 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:33:43.699 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv"
+2025-02-27 13:33:43.699 [info] executing ctags
+2025-02-27 13:33:43.699 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv"
+2025-02-27 13:33:43.826 [info] building symbols
+2025-02-27 13:33:43.830 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:33:51.567 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:33:52.206 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:33:52.422 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:33:52.631 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:33:52.837 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:33:53.319 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:33:53.706 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:33:53.741 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:33:54.027 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:33:54.091 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:33:54.437 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:33:54.463 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:33:54.669 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:33:54.841 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:33:55.120 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:34:02.118 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:34:02.610 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:34:02.666 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:34:06.431 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:34:06.444 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:07.885 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:35:09.620 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:09.634 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:10.920 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:35:11.368 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv"
+2025-02-27 13:35:11.368 [info] executing ctags
+2025-02-27 13:35:11.368 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv"
+2025-02-27 13:35:11.371 [info] building symbols
+2025-02-27 13:35:11.371 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:35:14.382 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:35:15.908 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:15.920 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:16.344 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-27 13:35:16.345 [info] [VerilogCompletionItemProvider] 198 items requested
+2025-02-27 13:35:17.140 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:17.148 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:18.211 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:18.219 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:19.496 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:19.508 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:21.838 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:21.849 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:24.083 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:24.091 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:24.491 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:24.499 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:27.743 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:27.755 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:30.686 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-27 13:35:30.687 [info] [VerilogCompletionItemProvider] 198 items requested
+2025-02-27 13:35:31.189 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:31.198 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:31.812 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-27 13:35:31.813 [info] [VerilogCompletionItemProvider] 198 items requested
+2025-02-27 13:35:32.162 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:32.174 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:33.741 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:33.749 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:34.961 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:34.970 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:36.511 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:36.522 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:36.542 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-27 13:35:36.543 [info] [VerilogCompletionItemProvider] 198 items requested
+2025-02-27 13:35:36.670 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-27 13:35:36.671 [info] [VerilogCompletionItemProvider] 198 items requested
+2025-02-27 13:35:37.020 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:37.032 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:37.558 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:37.567 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:38.639 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:38.651 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:39.581 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-27 13:35:39.582 [info] [VerilogCompletionItemProvider] 198 items requested
+2025-02-27 13:35:40.457 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:40.469 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:42.438 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:42.450 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:43.773 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:43.785 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:43.949 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-27 13:35:43.949 [info] [VerilogCompletionItemProvider] 198 items requested
+2025-02-27 13:35:44.702 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:44.710 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:46.304 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:46.312 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:47.724 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:47.733 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:48.691 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:48.704 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:49.553 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:49.563 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:50.425 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-27 13:35:50.426 [info] [VerilogCompletionItemProvider] 198 items requested
+2025-02-27 13:35:51.083 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:51.090 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:51.460 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-27 13:35:51.460 [info] [VerilogCompletionItemProvider] 198 items requested
+2025-02-27 13:35:52.385 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:52.397 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:52.831 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:52.840 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:54.473 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:54.485 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:55.485 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:55.496 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:55.976 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:55.984 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:35:58.669 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:35:58.681 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:36:03.189 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:36:03.198 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:36:03.546 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:36:03.557 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:36:04.076 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:36:04.584 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-27 13:36:05.946 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:36:06.513 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:36:07.301 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:36:07.313 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:36:07.749 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:36:08.216 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-27 13:37:58.747 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:37:58.758 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:38:00.130 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:38:05.450 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:38:05.458 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:38:06.444 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:38:06.453 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:38:07.296 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:38:09.548 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:38:09.556 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:38:11.709 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:38:12.154 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:38:12.963 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:38:13.377 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:38:15.220 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:38:15.631 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:38:18.074 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:38:18.551 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:38:22.575 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:38:27.020 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:38:27.031 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:38:32.525 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:38:32.536 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:38:34.252 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:38:34.453 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:38:34.696 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-27 13:38:34.861 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-27 13:38:38.326 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:38:38.774 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:38:38.823 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:38:39.249 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:38:40.708 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:38:41.037 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:38:41.136 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:38:41.383 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:38:41.446 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:38:41.738 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:38:41.785 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:38:42.141 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:38:43.485 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:38:43.697 [info] on save
+2025-02-27 13:38:43.935 [info] [VerilogDefinitionProvider] 1 definitions returned
+2025-02-27 13:38:44.708 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:38:44.708 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv"
+2025-02-27 13:38:44.708 [info] executing ctags
+2025-02-27 13:38:44.708 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv"
+2025-02-27 13:38:44.719 [info] building symbols
+2025-02-27 13:38:45.139 [info] [VerilogDefinitionProvider] 1 definitions returned
+2025-02-27 13:42:32.163 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:42:32.627 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/axis/axis_connect.sv"
+2025-02-27 13:42:32.627 [info] executing ctags
+2025-02-27 13:42:32.627 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/axis/axis_connect.sv"
+2025-02-27 13:42:32.629 [info] building symbols
+2025-02-27 13:42:32.629 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 13:43:13.491 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 13:43:17.800 [info] Deactivated
+2025-02-27 13:58:54.969 [info] mshr-h.veriloghdl is now active.
+2025-02-27 13:58:54.969 [info] [ExtensionManager] previousVersion: "1.16.0", currentVersion: "1.16.0"
+2025-02-27 13:58:54.969 [info] ctags manager configure
+2025-02-27 13:58:54.969 [warning] [LintManager] Invalid linter name: none
+2025-02-27 13:58:54.969 [info] mshr-h.veriloghdl activation finished.
+2025-02-27 13:58:55.204 [warning] [LintManager] Invalid linter name: none
+2025-02-27 13:58:55.226 [warning] [LintManager] Invalid linter name: none
+2025-02-27 13:58:55.430 [warning] [LintManager] Invalid linter name: none
+2025-02-27 13:58:55.484 [warning] [LintManager] Invalid linter name: none
+2025-02-27 13:58:56.439 [warning] [LintManager] Invalid linter name: none
+2025-02-27 13:58:56.922 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 13:58:56.922 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv"
+2025-02-27 13:58:56.922 [info] executing ctags
+2025-02-27 13:58:56.922 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv"
+2025-02-27 13:58:56.941 [info] building symbols
+2025-02-27 13:58:56.949 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 13:58:56.956 [warning] [LintManager] Invalid linter name: none
+2025-02-27 14:08:04.197 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-27 14:08:04.211 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-27 14:11:20.753 [info] on save
+2025-02-28 09:03:38.037 [info] Deactivated
+2025-02-28 12:11:15.201 [info] mshr-h.veriloghdl is now active.
+2025-02-28 12:11:15.202 [info] [ExtensionManager] previousVersion: "1.16.0", currentVersion: "1.16.0"
+2025-02-28 12:11:15.202 [info] ctags manager configure
+2025-02-28 12:11:15.202 [warning] [LintManager] Invalid linter name: none
+2025-02-28 12:11:15.202 [info] mshr-h.veriloghdl activation finished.
+2025-02-28 12:11:15.202 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_config.svh
+2025-02-28 12:11:15.202 [info] indexing "/home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_config.svh"
+2025-02-28 12:11:15.202 [info] executing ctags
+2025-02-28 12:11:15.202 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_config.svh"
+2025-02-28 12:11:15.202 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_config.svh
+2025-02-28 12:11:15.202 [info] indexing "/home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_config.svh"
+2025-02-28 12:11:15.202 [info] executing ctags
+2025-02-28 12:11:15.202 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_config.svh"
+2025-02-28 12:11:15.202 [info] building symbols
+2025-02-28 12:11:15.202 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-28 12:11:15.202 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-28 12:12:50.329 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/rtl/util/util_constraints.svh
+2025-02-28 12:12:50.329 [info] indexing "/home/sgass/Projects/kepler2/hdl/rtl/util/util_constraints.svh"
+2025-02-28 12:12:50.329 [info] executing ctags
+2025-02-28 12:12:50.329 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler2/hdl/rtl/util/util_constraints.svh"
+2025-02-28 12:12:50.331 [info] building symbols
+2025-02-28 12:12:50.332 [info] [VerilogDocumentSymbolProvider] 6 top-level symbols returned
+2025-02-28 12:12:52.020 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:12:52.235 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-28 12:12:52.857 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:12:53.066 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-28 12:13:11.049 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:13:11.253 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-28 12:20:20.673 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:20:20.910 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-28 12:20:32.531 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_top.sv
+2025-02-28 12:20:32.531 [info] indexing "/home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_top.sv"
+2025-02-28 12:20:32.531 [info] executing ctags
+2025-02-28 12:20:32.531 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_top.sv"
+2025-02-28 12:20:32.662 [info] building symbols
+2025-02-28 12:20:32.663 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-28 12:20:34.629 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-28 12:20:34.629 [info] indexing "/home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_system.sv"
+2025-02-28 12:20:34.629 [info] executing ctags
+2025-02-28 12:20:34.629 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_system.sv"
+2025-02-28 12:20:34.634 [info] building symbols
+2025-02-28 12:20:34.640 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-28 12:20:44.884 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:20:45.127 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:20:45.840 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:20:46.074 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:20:46.156 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:20:46.346 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:20:46.815 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:20:47.020 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:20:49.133 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:20:49.417 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:20:49.764 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:20:50.035 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-28 12:20:50.077 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+2025-02-28 12:20:50.276 [info] [VerilogDefinitionProvider] 0 definitions returned
+2025-02-28 12:21:00.213 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:21:00.417 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:21:07.770 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:21:08.025 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:21:10.568 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:21:10.777 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-28 12:21:47.080 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:21:47.298 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-28 12:21:55.596 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:21:55.789 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:21:56.399 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:21:56.680 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:21:56.713 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:21:56.906 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:21:57.616 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:21:57.833 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:22:08.341 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:22:08.564 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:22:08.640 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:22:08.921 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:22:16.667 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_zynq_wrapper.sv
+2025-02-28 12:22:16.667 [info] indexing "/home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_zynq_wrapper.sv"
+2025-02-28 12:22:16.667 [info] executing ctags
+2025-02-28 12:22:16.667 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler2/hdl/rtl/board/pcuecp/board_pcuecp_zynq_wrapper.sv"
+2025-02-28 12:22:16.671 [info] building symbols
+2025-02-28 12:22:16.671 [info] [VerilogDocumentSymbolProvider] 2 top-level symbols returned
+2025-02-28 12:22:17.631 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:22:22.814 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:22:25.046 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:22:25.259 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:22:26.312 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:22:26.531 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:22:27.186 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:22:27.398 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:22:27.434 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:22:27.705 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:22:31.188 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:23:13.743 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:23:13.960 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:23:14.030 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-28 12:23:14.157 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:23:14.342 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:23:14.525 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:23:14.560 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:23:14.719 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:23:15.742 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:23:22.905 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:23:23.115 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-28 12:23:23.724 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:23:23.944 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:23:25.673 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:23:25.870 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:23:27.359 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 12:23:27.574 [info] [VerilogHoverProvider] Hover object returned
+2025-02-28 12:25:03.046 [info] on save
+2025-02-28 12:25:03.050 [info] on save
+2025-02-28 13:45:54.010 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 13:45:54.211 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-28 13:45:54.762 [info] [VerilogHoverProvider] Hover requested
+2025-02-28 13:46:04.424 [info] on save
+2025-02-28 13:48:20.882 [info] on save
+2025-02-28 14:10:49.372 [info] on save
+2025-02-28 17:11:38.631 [info] on save
+2025-02-28 17:12:15.660 [info] on save
+2025-02-28 17:58:09.503 [info] Deactivated

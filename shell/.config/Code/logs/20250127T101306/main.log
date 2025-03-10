@@ -1,0 +1,14 @@
+2025-01-27 10:13:06.408 [info] update#setState idle
+2025-01-27 10:13:36.410 [info] update#setState checking for updates
+2025-01-27 10:13:36.414 [info] update#setState available for download
+2025-01-30 09:24:34.432 [info] Extension host with pid 37784 exited with code: 0, signal: unknown.
+2025-01-30 09:24:34.451 [error] [UtilityProcessWorker]: terminated unexpectedly with code 834016368, signal: unknown
+2025-01-30 22:35:08.346 [warning] No ptyHost heartbeat after 6 seconds
+2025-01-31 10:05:37.983 [info] Extension host with pid 883358 exited with code: 0, signal: unknown.
+2025-01-31 10:24:14.918 [info] Extension host with pid 999094 exited with code: 0, signal: unknown.
+2025-01-31 10:33:06.593 [info] Extension host with pid 1003453 exited with code: 0, signal: unknown.
+2025-01-31 11:01:12.434 [warning] No ptyHost heartbeat after 6 seconds
+2025-01-31 11:26:03.759 [info] Extension host with pid 1018506 exited with code: 0, signal: unknown.
+2025-01-31 12:12:09.967 [info] Extension host with pid 1025687 exited with code: 0, signal: unknown.
+2025-01-31 15:40:29.072 [info] Extension host with pid 1040624 exited with code: 0, signal: unknown.
+2025-02-03 10:19:25.625 [info] Extension host with pid 1081541 exited with code: 0, signal: unknown.

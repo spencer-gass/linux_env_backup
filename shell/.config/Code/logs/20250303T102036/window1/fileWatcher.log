@@ -1,0 +1,5 @@
+2025-03-03 10:37:23.693 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/sgass/Projects/kepler/petalinux/layers/meta-kepler-mpcu/recipes-apps/hdr-pri-pa-shutdown' failed: No such file or directory (EUNKNOWN) (path: /home/sgass/Projects/kepler)
+2025-03-03 10:37:23.694 [error] [File Watcher (universal)] inotify_add_watch on '/home/sgass/Projects/kepler/petalinux/layers/meta-kepler-mpcu/recipes-apps/hdr-pri-pa-shutdown' failed: No such file or directory
+2025-03-03 11:23:01.067 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/sgass/Projects/kepler2/c/petalinux_tools/afsw_blade_spi' failed: No such file or directory (EUNKNOWN) (path: /home/sgass/Projects/kepler2)
+2025-03-03 11:23:01.067 [error] [File Watcher (universal)] inotify_add_watch on '/home/sgass/Projects/kepler2/c/petalinux_tools/afsw_blade_spi' failed: No such file or directory
+2025-03-03 12:18:12.138 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/sgass/Projects/kepler)

@@ -1,0 +1,52 @@
+2025-02-12 10:54:13.312 [info] Starting Python Locator /home/sgass/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python-env-tools/bin/pet server
+2025-02-12 10:54:13.314 [info] Discovered env: /home/sgass/.venvs/kepler2/bin/python
+2025-02-12 10:54:13.317 [info] Discovered env: /home/sgass/.venvs/kepler/bin/python
+2025-02-12 10:54:13.369 [info] Discovered env: /usr/bin/python3
+2025-02-12 10:54:13.370 [info] Discovered env: /bin/python3
+2025-02-12 10:54:13.371 [info] Discovered env: /usr/bin/python3.8
+2025-02-12 10:54:13.372 [info] Discovered env: /bin/python3.8
+2025-02-12 10:54:13.388 [info] Resolved Python Environment /bin/python3
+2025-02-12 10:54:13.440 [info] Locator Conda took 64.381755ms
+2025-02-12 10:54:13.440 [info] Locator Homebrew took 326.686µs
+2025-02-12 10:54:13.440 [info] Locator LinuxGlobal took 81.760901ms
+2025-02-12 10:54:13.440 [info] Locator PipEnv took 111.939µs
+2025-02-12 10:54:13.440 [info] Locator Poetry took 1.649897ms
+2025-02-12 10:54:13.440 [info] Locator PyEnv took 1.685189ms
+2025-02-12 10:54:13.440 [info] Locator Venv took 458.248µs
+2025-02-12 10:54:13.440 [info] Locator VirtualEnv took 111.032µs
+2025-02-12 10:54:13.440 [info] Locator VirtualEnvWrapper took 147.249µs
+2025-02-12 10:54:13.440 [info] Locator GlobalVirtualEnvs took 45.174151ms
+2025-02-12 10:54:13.440 [info] Locator Locators took 82.870496ms
+2025-02-12 10:54:13.440 [info] Locator Path took 172.553428ms
+2025-02-12 10:54:13.440 [info] Locator Workspaces took 18.670878ms
+2025-02-12 10:54:13.440 [info] Refresh completed in 172ms
+2025-02-12 10:57:37.607 [info] Resolved Python Environment /bin/python3
+2025-02-12 11:00:03.457 [info] Resolved Python Environment /bin/python3
+2025-02-12 11:00:34.067 [info] Resolved Python Environment /bin/python3
+2025-02-12 11:04:02.734 [info] Resolved Python Environment /bin/python3
+2025-02-12 11:13:28.293 [info] Resolved Python Environment /bin/python3
+2025-02-12 11:25:07.753 [info] Resolved Python Environment /bin/python3
+2025-02-12 11:26:08.918 [info] Resolved Python Environment /bin/python3
+2025-02-12 11:30:02.635 [info] Resolved Python Environment /bin/python3
+2025-02-12 11:30:49.489 [info] Resolved Python Environment /bin/python3
+2025-02-12 11:31:26.242 [info] Resolved Python Environment /bin/python3
+2025-02-12 11:32:01.557 [info] Resolved Python Environment /bin/python3
+2025-02-12 11:35:41.387 [info] Resolved Python Environment /bin/python3
+2025-02-12 11:36:36.149 [info] Resolved Python Environment /bin/python3
+2025-02-12 14:14:32.193 [info] Resolved Python Environment /bin/python3
+2025-02-12 14:15:30.218 [info] Resolved Python Environment /bin/python3
+2025-02-12 14:16:27.214 [info] Resolved Python Environment /bin/python3
+2025-02-12 14:29:05.813 [info] Resolved Python Environment /bin/python3
+2025-02-12 14:31:46.067 [info] Resolved Python Environment /bin/python3
+2025-02-12 14:33:00.866 [info] Resolved Python Environment /bin/python3
+2025-02-12 14:36:52.717 [info] Resolved Python Environment /bin/python3
+2025-02-12 14:44:40.382 [info] Resolved Python Environment /bin/python3
+2025-02-12 14:48:31.832 [info] Resolved Python Environment /bin/python3
+2025-02-12 14:49:28.585 [info] Resolved Python Environment /bin/python3
+2025-02-12 14:58:32.189 [info] Resolved Python Environment /bin/python3
+2025-02-12 15:21:14.451 [info] Resolved Python Environment /bin/python3
+2025-02-12 16:16:18.241 [info] Resolved Python Environment /bin/python3
+2025-02-12 16:23:43.886 [info] Resolved Python Environment /bin/python3
+2025-02-13 11:34:02.968 [info] Resolved Python Environment /bin/python3
+2025-02-13 14:52:46.266 [info] Resolved Python Environment /bin/python3
+2025-02-13 15:46:26.484 [info] Resolved Python Environment /bin/python3

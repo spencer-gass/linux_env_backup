@@ -1,0 +1,5 @@
+2025-02-27 11:25:30.342 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/sgass/Projects/kepler)
+2025-02-27 13:44:21.225 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/sgass/Projects/kepler2/petalinux/pcu-mpcu-2021/project-spec/meta-user/recipes-apps/pmboss' failed: No such file or directory (EUNKNOWN) (path: /home/sgass/Projects/kepler2)
+2025-02-27 13:44:21.225 [error] [File Watcher (universal)] inotify_add_watch on '/home/sgass/Projects/kepler2/petalinux/pcu-mpcu-2021/project-spec/meta-user/recipes-apps/pmboss' failed: No such file or directory
+2025-02-27 14:00:30.366 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/sgass/Projects/kepler)
+2025-02-28 09:04:29.688 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/sgass/Projects/kepler2)

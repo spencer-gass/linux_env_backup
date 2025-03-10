@@ -1,0 +1,24 @@
+2025-03-04 15:37:14.177 [info] Revived process, old id 1b02da70b95d5728e57cba9834078f06-1 -> new id 1
+2025-03-04 15:37:14.204 [info] Expanding terminal instance, old id 1b02da70b95d5728e57cba9834078f06-1 -> new id 1
+2025-03-04 15:37:14.559 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2025-03-04 15:37:14.559 [info] Persistent process reconnection "1"
+2025-03-04 15:37:14.661 [info] Persistent process "1": Replaying 9969 chars and 1 size events
+2025-03-06 14:36:55.236 [info] Expanding terminal instance, old id 1b02da70b95d5728e57cba9834078f06-1 -> new id undefined
+2025-03-06 14:36:55.682 [info] Persistent process reconnection "1"
+2025-03-06 14:36:55.699 [info] Persistent process "1": Replaying 13075 chars and 1 size events
+2025-03-06 16:05:19.924 [info] Revived process, old id 1b02da70b95d5728e57cba9834078f06-1 -> new id 4
+2025-03-06 16:05:20.021 [info] Expanding terminal instance, old id 1b02da70b95d5728e57cba9834078f06-1 -> new id 4
+2025-03-06 16:05:20.775 [warning] Persistent process "4": Process had no disconnect runners but was an orphan
+2025-03-06 16:05:20.775 [info] Persistent process reconnection "4"
+2025-03-06 16:05:20.810 [info] Persistent process "4": Replaying 11426 chars and 1 size events
+2025-03-07 10:35:10.968 [info] Revived process, old id be4431b632324a99dd6ba989b491fedf-5 -> new id 6
+2025-03-07 10:35:11.003 [info] Expanding terminal instance, old id be4431b632324a99dd6ba989b491fedf-5 -> new id 6
+2025-03-07 10:35:11.310 [warning] Persistent process "6": Process had no disconnect runners but was an orphan
+2025-03-07 10:35:11.310 [info] Persistent process reconnection "6"
+2025-03-07 10:35:11.369 [info] Persistent process "6": Replaying 18319 chars and 1 size events
+2025-03-07 16:25:19.174 [info] Expanding terminal instance, old id be4431b632324a99dd6ba989b491fedf-6 -> new id undefined
+2025-03-07 16:25:19.514 [info] Persistent process reconnection "6"
+2025-03-07 16:25:19.521 [info] Persistent process "6": Replaying 13736 chars and 1 size events
+2025-03-07 16:25:47.752 [info] Expanding terminal instance, old id be4431b632324a99dd6ba989b491fedf-6 -> new id undefined
+2025-03-07 16:25:48.224 [info] Persistent process reconnection "6"
+2025-03-07 16:25:48.259 [info] Persistent process "6": Replaying 12247 chars and 1 size events

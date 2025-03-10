@@ -1,0 +1,11 @@
+2025-02-03 10:25:39.493 [info] update#setState idle
+2025-02-03 10:26:09.494 [info] update#setState checking for updates
+2025-02-03 10:26:09.497 [info] update#setState available for download
+2025-02-03 13:28:35.098 [info] Extension host with pid 1410682 exited with code: 0, signal: unknown.
+2025-02-03 13:28:53.442 [info] Extension host with pid 1443970 exited with code: 0, signal: unknown.
+2025-02-03 14:18:59.072 [info] Extension host with pid 1444430 exited with code: 0, signal: unknown.
+2025-02-03 14:18:59.082 [error] [UtilityProcessWorker]: terminated unexpectedly with code 1732723824, signal: unknown
+2025-02-03 15:16:50.631 [info] Extension host with pid 1452479 exited with code: 0, signal: unknown.
+2025-02-04 10:51:40.649 [info] Extension host with pid 1466999 exited with code: 0, signal: unknown.
+2025-02-04 10:51:44.891 [error] Extension host with pid 1466999 still exists, forcefully killing it...
+2025-02-04 10:51:44.892 [warning] No ptyHost heartbeat after 6 seconds

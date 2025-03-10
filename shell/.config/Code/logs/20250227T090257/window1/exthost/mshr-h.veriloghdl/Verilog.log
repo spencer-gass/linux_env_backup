@@ -1,0 +1,28 @@
+2025-02-27 09:03:10.434 [info] mshr-h.veriloghdl is now active.
+2025-02-27 09:03:10.434 [info] [ExtensionManager] previousVersion: "1.16.0", currentVersion: "1.16.0"
+2025-02-27 09:03:10.434 [info] ctags manager configure
+2025-02-27 09:03:10.434 [warning] [LintManager] Invalid linter name: none
+2025-02-27 09:03:10.434 [info] mshr-h.veriloghdl activation finished.
+2025-02-27 09:03:10.549 [warning] [LintManager] Invalid linter name: none
+2025-02-27 09:03:10.556 [warning] [LintManager] Invalid linter name: none
+2025-02-27 09:03:11.309 [warning] [LintManager] Invalid linter name: none
+2025-02-27 09:03:11.558 [warning] [LintManager] Invalid linter name: none
+2025-02-27 09:03:12.021 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-27 09:03:12.021 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv"
+2025-02-27 09:03:12.021 [info] executing ctags
+2025-02-27 09:03:12.021 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv"
+2025-02-27 09:03:12.033 [info] building symbols
+2025-02-27 09:03:12.041 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-27 09:03:12.083 [warning] [LintManager] Invalid linter name: none
+2025-02-27 09:03:14.613 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 09:38:57.426 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router.sv
+2025-02-27 09:38:57.426 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router.sv"
+2025-02-27 09:38:57.426 [info] executing ctags
+2025-02-27 09:38:57.426 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router.sv"
+2025-02-27 09:38:57.429 [info] building symbols
+2025-02-27 09:38:57.430 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-27 09:38:58.463 [info] [VerilogHoverProvider] Hover requested
+2025-02-27 09:38:58.911 [info] [VerilogHoverProvider] Hover object returned
+2025-02-27 09:40:01.733 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router.sv
+2025-02-27 09:40:01.735 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-27 11:05:58.249 [info] Deactivated

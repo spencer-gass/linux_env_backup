@@ -1,0 +1,20 @@
+2025-02-03 10:25:06.440 [info] mshr-h.veriloghdl is now active.
+2025-02-03 10:25:06.440 [info] [ExtensionManager] previousVersion: "1.16.0", currentVersion: "1.16.0"
+2025-02-03 10:25:06.440 [info] ctags manager configure
+2025-02-03 10:25:06.440 [warning] [LintManager] Invalid linter name: none
+2025-02-03 10:25:06.440 [info] mshr-h.veriloghdl activation finished.
+2025-02-03 10:25:06.908 [warning] [LintManager] Invalid linter name: none
+2025-02-03 10:25:06.951 [warning] [LintManager] Invalid linter name: none
+2025-02-03 10:25:07.003 [warning] [LintManager] Invalid linter name: none
+2025-02-03 10:25:07.021 [warning] [LintManager] Invalid linter name: none
+2025-02-03 10:25:07.051 [warning] [LintManager] Invalid linter name: none
+2025-02-03 10:25:09.386 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_pkg.sv
+2025-02-03 10:25:09.386 [info] indexing "/home/sgass/Projects/kepler2/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_pkg.sv"
+2025-02-03 10:25:09.386 [info] executing ctags
+2025-02-03 10:25:09.386 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler2/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_pkg.sv"
+2025-02-03 10:25:09.390 [info] building symbols
+2025-02-03 10:25:09.392 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-03 10:25:09.402 [warning] [LintManager] Invalid linter name: none
+2025-02-03 10:25:35.214 [info] on save
+2025-02-03 10:25:35.235 [warning] [LintManager] Invalid linter name: none
+2025-02-03 10:25:37.528 [info] Deactivated

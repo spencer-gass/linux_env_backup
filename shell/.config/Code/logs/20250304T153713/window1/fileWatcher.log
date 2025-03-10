@@ -1,0 +1,6 @@
+2025-03-04 15:38:31.231 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/sgass/Projects/kepler2)
+2025-03-06 14:38:13.991 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/sgass/Projects/kepler2)
+2025-03-06 16:07:41.136 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/sgass/Projects/kepler2)
+2025-03-07 10:36:59.746 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/sgass/Projects/kepler/Docker/flight-dynamics' failed: No such file or directory (EUNKNOWN) (path: /home/sgass/Projects/kepler)
+2025-03-07 10:36:59.749 [error] [File Watcher (universal)] inotify_add_watch on '/home/sgass/Projects/kepler/Docker/flight-dynamics' failed: No such file or directory
+2025-03-07 16:27:23.979 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/sgass/Projects/kepler)

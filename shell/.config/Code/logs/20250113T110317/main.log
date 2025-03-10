@@ -1,0 +1,8 @@
+2025-01-13 11:03:17.754 [info] update#setState idle
+2025-01-13 11:03:47.755 [info] update#setState checking for updates
+2025-01-13 11:03:47.759 [info] update#setState available for download
+2025-01-15 08:49:28.353 [warning] No ptyHost heartbeat after 6 seconds
+2025-01-17 14:53:34.437 [warning] No ptyHost heartbeat after 6 seconds
+2025-01-20 08:22:09.835 [warning] No ptyHost heartbeat after 6 seconds
+2025-01-20 20:09:54.648 [info] Extension host with pid 741047 exited with code: 0, signal: unknown.
+2025-01-20 20:09:54.685 [error] [UtilityProcessWorker]: terminated unexpectedly with code 1995756656, signal: unknown

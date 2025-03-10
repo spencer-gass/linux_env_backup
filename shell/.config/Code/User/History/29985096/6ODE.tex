@@ -1,0 +1,226 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% One Page Two Column Resume
+% LaTeX Template
+% Version 1.4 (17/12/2023)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+%
+% v1.3 author:
+% Zachary Taylor
+%
+% v1.3 repository:
+% https://github.com/ZDTaylor/Deedy-Resume
+%
+% v1.4 author:
+% Spencer Gass
+%
+% v1.4 repo:
+% https://github.com/spencer-gass/resume
+%
+% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
+%
+% This template uses several fonts not included with Windows/Linux by
+% default. If you get compilation errors saying a font is missing, find the line
+% on which the font is used and either change it to a font included with your
+% operating system or comment the line out to use the default font.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% TODO:
+% 1. Add various styling and section options and allow for multiple pages smoothly.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% CHANGELOG:
+%
+% v1.3:
+% 1. Removed MacFonts version as I have no desire to maintain it nor access to macOS
+% 2. Switched column ordering
+% 3. Changed font styles/colors for easier human readability
+% 4. Added, removed, and rearranged sections to reflect my own experience
+% 5. Hid last updated
+%
+% v1.2:
+% 1. Added publications in place of societies.
+% 2. Collapsed a portion of education.
+% 3. Fixed a bug with alignment of overflowing long last updated dates on the top right.
+%
+% v1.1:
+% 1. Fixed several compilation bugs with \renewcommand
+% 2. Got Open-source fonts (Windows/Linux support)
+% 3. Added Last Updated
+% 4. Move Title styling into .sty
+% 5. Commented .sty file.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Known Issues:
+% 1. Overflows onto second page if any column's contents are more than the vertical limit
+% 2. Hacky space on the first bullet point on the second column.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[10pt]{deedy-resume-reversed}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \lastupdated
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     TITLE NAME
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\namesection{Spencer Gass}{ %\urlstyle{same}\href{http://example.com}{example.com}| \href{http://example2.co}{example2.co}\\
+\href{mailto:spencer.gass@gmail.com}{spencer.gass@gmail.com} | \href{tel:12565413116}{256.541.3116} | \href{https://www.linkedin.com/in/spencer-gass/}{LinkedIn: spencer-gass} | \href{https://github.com/spencer-gass}{GitHub: spencer-gass}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{1.0\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Experience}
+\runsubsection{FPGA Digital Design Engineer}
+\descript{| Kepler Communications | May 2024 – Present | Toronto, ON (Remote)}
+%   IC3 May 2024 - Present
+Current Responsibilities:
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Collaborating with network software, product hardware, and product management to integrate
+the FPGA based MPLS router I designed into Kepler's satellites.
+\item Subject matter expert on network hardware.
+\end{tightemize}
+Past Accomplishments:
+\begin{tightemize}
+\item Specified and designed an MPLS router with 100+Gbps throughput, and a high level of parametrization in SystemVerilog.
+The design includes ingress, classification, forwarding, queuing, and egress subsystems.
+Created a full automated test bench suite for verification.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Senior FPGA Engineer}
+\descript{| Adtran | June 2016 – April 2024 | Huntsville, AL (Remote 2020-2024)}
+%   Untitled June 2016 - Oct 2019
+%   II Oct 2019 - Oct 2020
+%   Senior Oct 2020 - Jan 2024
+%   Avanced Jan 2024 - present
+Past Accomplishments:
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+%\item Contributed to the design specification for a telecom ASIC.
+\item Created FPGA designs which implement key features for broadband access networking equipment and
+supported those designs through their life cycle (design specification, RTL design, simulation,
+synthesis/implementation, timing closure, on-target testing, and customer support).
+\item Designs include: HSPON/XGS-PON/GPON DBA engines, 10G/100G Ethernet traffic generators/analyzers,
+1G/10G/100G Ethernet MAC and SerDes, PCIe DMA, SyncE and board management.
+%\item Collaborated with product management, engineers, and research staff to facilitate product development.
+\item Lead the FPGA team's co-op program. Mentored and supervised 7 co-ops over a 2 year period.
+%Co-ops start the semester with minimal RTL/FPGA knowledge and leave with a strong grasp of
+%the fundamentals. By the end of the semester they are often able to contribute to a production FPGA design.
+\item Inherited ownership of a 100 Gbps Ethernet traffic generator/analyzer and advanced it from minimum viable product to full function by refactoring RTL to close timing,
+implementing technically difficult features like 100 Gbps packet capture, and DWRR scheduling, and implementing UI, application,
+and driver features in Javascript, Python, and C. This is a ubiquitous internal product with over 250 units manufactured, saving the company 10s of millions of dollars.
+%\item Contributed to the development of the 518F1 Adtran’s bestselling line card. Approximately  36,000 units sold, generating \$250M in revenue as of Q4 2023.
+%Collaborated with a staff researcher to develop 25G Ethernet MAC and SerDes IP.
+%Integrated and verified back plane Ethernet links.
+\item Supported a principal engineer in the development of a multi-100G broadband Ethernet switch generating two awarded patents.
+\item Resolved a critical customer issue shortly after inheriting ownership of the relevant IP which I was previously unfamiliar with.
+Communicated progress to my VP and resolved the issue in time to salvage the relationship with the customer.
+\item Recognized the limitations of the PCIe DMA engine used for FPGA register access and exception traffic,
+and proactively created a higher performance, lower resource utilizing replacement. The new design is used in 14 FPGA designs on 8 product lines.
+%\item Independently created and maintained 3 FPGA designs which perform SyncE, and board management functions on Adtran's SDX OLTs and aggregation switches.
+%\item Inherited Ownership of Adtran’s Ethernet MAC and SerDes IP, used by nearly all FPGAs in Adtran’s product portfolio.
+%Maintained existing IP and extended functionality.
+%\item Created an FPGA based workaround for a rev A clock generator silicon bug which allowed us to ship hardware while waiting for rev B silicon.
+%\item Collaborated with a cross functional team to develop a method for configuring large FPGAs to allow for faster boot times and more reliable FPGA initialization.
+%\item Implemented a dynamic queue memory allocation system for Adtran’s Ethernet switch IP.
+%This allows queues to increase in size in proportion to free memory before becoming full and discarding incoming packets,
+%rather than assigning fixed memory sizes to queues.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Engineering Co-op}
+\descript{| Adtran | May 2013 – Dec 2014 | Huntsville, AL}
+\begin{tightemize}
+\item Worked for one semester each, three semester total, with DVT, hardware, and FPGA engineering groups.
+\end{tightemize}
+\sectionsep
+
+%\runsubsection{Undergraduate Researcher}
+%\descript{| CAVS | Aug 2015 – Dec 2015 | Starkville, MS}
+%\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education}
+\textbf{Georgia Institute of Technology} MS ECE | Aug 2019 | GPA: 3.4 / 4.0 \\
+\textbf{Mississippi State University} BS EE | May 2016 | GPA: 3.8 / 4.0 \\
+\sectionsep
+
+\end{minipage}
+\begin{minipage}[t]{1.0\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LEADERSHIP and MENTORSHIP
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%\section{Leadership and Mentorship}
+%%\vspace{\topsep} % Hacky fix for awkward extra vertical space
+%%\begin{tightemize}
+%%\item Led the FPGA group's co-op program since June 2022. Supervised/mentored 7 co-ops.
+%%
+%%\item Interviewed 26 co-ops/interns from 2016 to 2019.
+%%\end{tightemize}
+%%\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+\textbf{RTL Design:} VHDL | Verilog | System Verilog | Modelsim | Questasim | Vunit \\
+\textbf{FPGA Design:} AMD | Xilinx | Vivado | Petalinux | Ultrascale+ | Versal | P4 \\
+\textbf{Programming and Scripting:} Python | C++ | C | Javascript | Bash \\
+\textbf{Relevant Technologies and Standards:} Ethernet | PCIe | AXI | DDR | HBM | TCP | MPLS \\
+\textbf{Remote Collaboration:} Microsoft Teams | Git | GitHub | GitLab | Jira | Confluence \\
+\textbf{Knowledge of:} UVM \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PATENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Patents}
+\href{https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11588821}{US 11,588,821 B1}
+– Systems and Methods for Access Control List (ACL) Filtering – 2023-2-21 \\
+\href{https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/12174748}{US 12,174,748 B1}
+- Systems and Methods for Translating Memory Addresses – 2024-12-24 \\
+\sectionsep
+
+\end{minipage}
+
+\end{document}  \documentclass[]{article}

@@ -1,0 +1,2 @@
+2025-02-11 08:37:42.564 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/sgass/Projects/kepler2)
+2025-02-11 09:29:34.283 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/sgass/Projects/kepler)
