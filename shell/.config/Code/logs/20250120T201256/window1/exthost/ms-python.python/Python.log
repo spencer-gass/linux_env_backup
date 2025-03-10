@@ -1,0 +1,66 @@
+2025-01-20 20:12:57.604 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-20 20:12:57.604 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-20 20:12:57.604 [info] Experiment 'pythonTestAdapter' is active
+2025-01-20 20:12:57.604 [info] Native locator: Refresh started
+2025-01-20 20:12:57.696 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler
+2025-01-20 20:12:57.740 [info] > pyenv which python
+2025-01-20 20:12:57.740 [info] cwd: .
+2025-01-20 20:12:57.752 [info] Native locator: Refresh finished in 166 ms
+2025-01-20 20:12:57.763 [info] Python interpreter path: /usr/bin/python3
+2025-01-20 20:12:57.779 [info] Editor support is inactive since language server is set to None.
+2025-01-20 20:12:58.770 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-01-20 20:12:58.776 [info] > pixi --version
+2025-01-20 20:12:58.776 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-01-20 20:12:58.785 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-01-20 20:15:22.080 [info] Python interpreter path: /bin/python3
+2025-01-22 09:22:51.785 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-22 09:22:51.786 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-22 09:22:51.786 [info] Experiment 'pythonTestAdapter' is active
+2025-01-22 09:22:51.786 [info] Native locator: Refresh started
+2025-01-22 09:22:51.786 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler
+2025-01-22 09:22:51.988 [info] > pyenv which python
+2025-01-22 09:22:51.988 [info] cwd: .
+2025-01-22 09:22:53.567 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-01-22 09:22:53.799 [info] Native locator: Refresh finished in 2417 ms
+2025-01-22 09:22:54.171 [info] Python interpreter path: /bin/python3
+2025-01-22 09:22:54.171 [info] Editor support is inactive since language server is set to None.
+2025-01-22 09:22:54.265 [info] > pixi --version
+2025-01-22 09:22:54.266 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-01-22 09:22:54.635 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-01-22 10:04:57.982 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 10:05:34.680 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 10:06:19.189 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 10:06:45.675 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 10:08:32.629 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 10:10:47.714 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 10:20:47.091 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 10:22:28.515 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 10:32:03.531 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 10:37:59.520 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 10:38:18.857 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 10:38:53.592 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 10:51:05.651 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 11:17:47.759 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 11:30:07.186 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 11:36:29.284 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 11:41:14.097 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 13:53:32.080 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 15:25:29.251 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-01-22 15:35:13.632 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 15:35:54.456 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/sdr_platform/sdr_factory_pcuecp.py
+2025-01-22 15:43:25.672 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/sdr_platform/sdr_factory_pcuecp.py
+2025-01-22 15:56:48.018 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 16:02:02.599 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 16:08:40.222 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 16:14:41.927 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/sdr_platform/sdr_factory_pcuecp.py
+2025-01-22 16:24:41.019 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 16:25:49.527 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-01-22 16:26:51.334 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-01-22 16:27:29.496 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-01-22 16:27:44.007 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-01-22 16:28:43.428 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 16:28:51.074 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 16:29:02.722 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 16:29:33.014 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/sdr_platform/sdr_factory_pcuecp.py
+2025-01-22 16:30:51.600 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/vnp4_avmm.py
+2025-01-22 16:31:31.374 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py

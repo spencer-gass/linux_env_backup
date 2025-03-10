@@ -1,0 +1,5 @@
+2025-02-04 10:52:19.185 [info] update#setState idle
+2025-02-04 10:52:49.186 [info] update#setState checking for updates
+2025-02-04 10:52:49.190 [info] update#setState available for download
+2025-02-04 17:43:40.504 [info] Extension host with pid 1650358 exited with code: 0, signal: unknown.
+2025-02-04 17:43:40.536 [error] [UtilityProcessWorker]: terminated unexpectedly with code 18446744072107993000, signal: unknown

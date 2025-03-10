@@ -1,0 +1,24 @@
+2025-03-03 14:11:55.161 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-03-03 14:11:55.161 [info] Experiment 'pythonTestAdapter' is active
+2025-03-03 14:11:55.161 [info] Native locator: Refresh started
+2025-03-03 14:11:55.161 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler
+2025-03-03 14:11:55.168 [info] > pyenv which python
+2025-03-03 14:11:55.168 [info] cwd: .
+2025-03-03 14:11:55.238 [info] Python interpreter path: /bin/python3
+2025-03-03 14:11:55.238 [info] Editor support is inactive since language server is set to None.
+2025-03-03 14:11:55.282 [info] Native locator: Refresh finished in 161 ms
+2025-03-03 14:11:56.177 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-03-03 14:11:56.193 [info] > pixi --version
+2025-03-03 14:11:56.194 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-03-03 14:11:56.199 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-03-03 14:13:47.542 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/p4_router_avmm.py
+2025-03-03 14:14:13.647 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/p4_router_avmm.py
+2025-03-03 14:18:56.386 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/network_packet_generator_avmm.py
+2025-03-03 15:58:33.406 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/network_packet_generator_avmm.py
+2025-03-03 17:01:29.324 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-03-03 17:07:08.858 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-03-03 17:07:25.304 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-03-03 17:07:47.209 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-03-03 17:17:21.749 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-03-03 18:00:35.565 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py
+2025-03-03 18:16:24.379 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/p4_router/p4_router_vnp4_tiny_bcam_tb.py

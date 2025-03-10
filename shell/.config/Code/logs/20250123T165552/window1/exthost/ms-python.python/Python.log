@@ -1,0 +1,18 @@
+2025-01-24 09:34:46.453 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-24 09:34:46.453 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-24 09:34:46.453 [info] Experiment 'pythonTestAdapter' is active
+2025-01-24 09:34:46.453 [info] Native locator: Refresh started
+2025-01-24 09:34:46.453 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler
+2025-01-24 09:34:46.475 [info] > pyenv which python
+2025-01-24 09:34:46.475 [info] cwd: .
+2025-01-24 09:34:46.540 [info] Python interpreter path: /bin/python3
+2025-01-24 09:34:46.540 [info] Editor support is inactive since language server is set to None.
+2025-01-24 09:34:46.587 [info] Native locator: Refresh finished in 169 ms
+2025-01-24 09:34:47.486 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-01-24 09:34:47.493 [info] > pixi --version
+2025-01-24 09:34:47.493 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-01-24 09:34:47.496 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-01-24 12:11:24.051 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/sdr_platform/sdr_factory_pcuecp.py
+2025-01-24 12:21:18.461 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/sdr_platform/sdr_factory_pcuecp.py
+2025-01-24 12:23:25.749 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-01-24 12:24:50.796 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py

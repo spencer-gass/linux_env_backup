@@ -1,0 +1,71 @@
+2025-02-04 10:52:20.454 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-02-04 10:52:20.454 [info] Experiment 'pythonTestAdapter' is active
+2025-02-04 10:52:20.454 [info] Native locator: Refresh started
+2025-02-04 10:52:20.454 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler
+2025-02-04 10:52:20.506 [info] > pyenv which python
+2025-02-04 10:52:20.506 [info] cwd: .
+2025-02-04 10:52:20.530 [info] Python interpreter path: /bin/python3
+2025-02-04 10:52:20.587 [info] Editor support is inactive since language server is set to None.
+2025-02-04 10:52:20.616 [info] Native locator: Refresh finished in 212 ms
+2025-02-04 10:52:21.574 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-02-04 10:52:21.579 [info] > pixi --version
+2025-02-04 10:52:21.580 [warning] could not find a pixi interpreter for the interpreter at /usr/bin/python3
+2025-02-04 10:52:21.594 [warning] could not find a pixi interpreter for the interpreter at /usr/bin/python3
+2025-02-04 10:57:29.638 [info] Python interpreter path: /usr/bin/python3
+2025-02-04 11:08:12.618 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 11:23:20.798 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 11:33:14.395 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/sdr_platform/sdr_factory_pcuecp.py
+2025-02-04 11:49:37.177 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/temp.py
+2025-02-04 11:51:09.025 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/temp.py
+2025-02-04 11:51:38.111 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/temp.py
+2025-02-04 11:51:50.998 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/temp.py
+2025-02-04 11:54:50.803 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/temp.py
+2025-02-04 11:54:58.401 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/temp.py
+2025-02-04 11:55:10.091 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/temp.py
+2025-02-04 11:56:51.200 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 11:59:09.030 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 12:03:12.993 [info] > /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/normalizeSelection.py
+2025-02-04 12:03:13.129 [info] Send text to terminal: /usr/bin/python3
+2025-02-04 12:03:13.595 [info] Shell integration status changed, can confirm it's working.
+2025-02-04 12:03:13.596 [warning] could not find a pixi interpreter for the interpreter at /usr/bin/python3
+2025-02-04 12:03:13.598 [warning] could not find a pixi interpreter for the interpreter at /usr/bin/python3
+2025-02-04 12:03:17.558 [info] Selected file contains invalid Python or Deprecated Python 2 code
+2025-02-04 12:03:51.190 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 12:04:05.499 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/temp.py
+2025-02-04 12:04:16.810 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/temp.py
+2025-02-04 12:27:56.458 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 12:28:08.690 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 12:30:10.648 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/network_packet_generator_avmm.py
+2025-02-04 12:30:14.089 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 12:31:02.483 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 12:38:00.395 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 12:42:30.621 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 12:54:39.605 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 13:58:00.277 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/network_packet_generator_avmm.py
+2025-02-04 14:04:59.427 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:05:36.900 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:07:05.104 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:08:32.456 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:08:43.185 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:09:44.392 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:09:58.819 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:10:52.438 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:11:17.988 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:11:53.288 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:12:09.189 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:12:28.244 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:12:57.126 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:14:33.565 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:15:42.616 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:16:16.030 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 14:16:46.660 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 15:05:04.352 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/sdr_platform/sdr_factory_pcuecp.py
+2025-02-04 15:05:21.200 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/sdr_platform/sdr_factory_pcuecp.py
+2025-02-04 15:08:34.677 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 15:21:57.695 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 15:22:01.363 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 15:26:41.262 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 15:40:58.078 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 15:43:50.036 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 17:09:26.005 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-02-04 17:41:11.194 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py

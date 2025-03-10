@@ -1,0 +1,223 @@
+2025-02-25 19:27:30.676 [info] mshr-h.veriloghdl is now active.
+2025-02-25 19:27:30.676 [info] [ExtensionManager] previousVersion: "1.16.0", currentVersion: "1.16.0"
+2025-02-25 19:27:30.676 [info] ctags manager configure
+2025-02-25 19:27:30.676 [warning] [LintManager] Invalid linter name: none
+2025-02-25 19:27:30.676 [info] mshr-h.veriloghdl activation finished.
+2025-02-25 19:27:30.676 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_avmm_regs.sv
+2025-02-25 19:27:30.676 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_avmm_regs.sv"
+2025-02-25 19:27:30.676 [info] executing ctags
+2025-02-25 19:27:30.676 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_avmm_regs.sv"
+2025-02-25 19:27:30.676 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_avmm_regs.sv
+2025-02-25 19:27:30.676 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_avmm_regs.sv"
+2025-02-25 19:27:30.676 [info] executing ctags
+2025-02-25 19:27:30.676 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_avmm_regs.sv"
+2025-02-25 19:27:30.676 [info] building symbols
+2025-02-25 19:27:30.676 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:27:30.676 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:27:51.680 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:27:51.680 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv"
+2025-02-25 19:27:51.680 [info] executing ctags
+2025-02-25 19:27:51.680 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv"
+2025-02-25 19:27:51.865 [info] building symbols
+2025-02-25 19:27:51.870 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:28:42.843 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:28:42.843 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:28:46.597 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:28:46.609 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:28:47.217 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:28:47.218 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:28:50.855 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:28:50.866 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:28:50.888 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:28:50.889 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:28:51.038 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:28:51.039 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:28:51.274 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:28:51.274 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:28:51.616 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:28:51.623 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:28:51.734 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:28:51.734 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:28:51.976 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:28:51.977 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:28:52.108 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:28:52.109 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:28:52.449 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:28:52.457 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:28:52.808 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:28:52.818 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:28:54.733 [info] [VerilogHoverProvider] Hover requested
+2025-02-25 19:28:55.209 [info] [VerilogHoverProvider] Hover object returned
+2025-02-25 19:28:58.246 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:28:58.254 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:28:59.054 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:28:59.055 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:00.522 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:00.527 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:29:00.821 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:00.821 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:00.968 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:00.968 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:01.144 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:01.144 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:01.261 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:01.261 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:01.387 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:01.388 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:01.526 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:01.526 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:01.865 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:01.873 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:29:02.889 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:02.901 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:29:03.284 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:03.285 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:03.633 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:03.640 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:29:04.003 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:04.010 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:29:04.998 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:04.999 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:05.339 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:05.349 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:29:05.949 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:05.956 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:29:06.550 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:06.550 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:07.124 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:07.134 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:29:16.339 [info] [VerilogHoverProvider] Hover requested
+2025-02-25 19:29:18.529 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:18.529 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:19.635 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:19.644 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:29:20.011 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:20.021 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:29:24.776 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:24.776 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:24.896 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:24.896 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:25.249 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:25.249 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:25.384 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:25.384 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:25.510 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:25.510 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:25.678 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:29:25.679 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:29:26.018 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:26.026 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:29:28.012 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:28.019 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:29:48.909 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:48.920 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:29:49.829 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:49.836 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:29:51.395 [info] [VerilogHoverProvider] Hover requested
+2025-02-25 19:29:54.275 [info] [VerilogHoverProvider] Hover requested
+2025-02-25 19:29:54.658 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:54.706 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:55.105 [info] [VerilogDefinitionProvider] 0 definitions returned
+2025-02-25 19:29:55.121 [info] [VerilogDefinitionProvider] 1 definitions returned
+2025-02-25 19:29:55.672 [info] [VerilogHoverProvider] Hover requested
+2025-02-25 19:29:57.030 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:57.040 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:29:57.741 [info] [VerilogHoverProvider] Hover requested
+2025-02-25 19:29:58.204 [info] [VerilogHoverProvider] Hover object returned
+2025-02-25 19:29:58.309 [info] [VerilogHoverProvider] Hover requested
+2025-02-25 19:29:58.659 [info] [VerilogHoverProvider] Hover requested
+2025-02-25 19:29:58.733 [info] [VerilogHoverProvider] Hover object returned
+2025-02-25 19:29:59.047 [info] [VerilogHoverProvider] Hover object returned
+2025-02-25 19:29:59.434 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:29:59.442 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:30:00.766 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:30:00.774 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:30:01.414 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:30:01.421 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:30:08.310 [info] [VerilogHoverProvider] Hover requested
+2025-02-25 19:30:08.592 [info] [VerilogHoverProvider] Hover requested
+2025-02-25 19:30:08.805 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-25 19:30:09.005 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-25 19:30:09.177 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:30:09.583 [info] [VerilogDefinitionProvider] 0 definitions returned
+2025-02-25 19:30:14.474 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:30:14.481 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:30:15.211 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:30:15.211 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:30:15.717 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:30:15.727 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:30:16.854 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:30:16.862 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:30:17.849 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:30:17.857 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:30:18.484 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:30:18.484 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:30:18.562 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:30:18.562 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:30:18.763 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:30:18.764 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:30:18.898 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:30:18.898 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:30:19.018 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:30:19.018 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:30:19.163 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:30:19.163 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:30:19.840 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:30:19.848 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:30:20.592 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:30:20.602 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:30:21.037 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:30:21.038 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:30:21.530 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:30:21.536 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:30:22.464 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:30:22.471 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:30:22.907 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:30:22.907 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:30:24.088 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:30:24.096 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:30:25.114 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:30:25.123 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:30:25.398 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:30:25.398 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:30:25.541 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:30:25.542 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:30:25.690 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:30:25.690 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:30:25.819 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:30:25.820 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:30:25.914 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:30:25.915 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:30:26.051 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-02-25 19:30:26.051 [info] [VerilogCompletionItemProvider] 160 items requested
+2025-02-25 19:30:26.391 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:30:26.402 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:30:26.832 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-02-25 19:30:26.840 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-25 19:30:36.962 [info] on save
+2025-02-26 13:56:03.924 [info] Deactivated
+2025-02-26 13:56:05.550 [info] mshr-h.veriloghdl is now active.
+2025-02-26 13:56:05.550 [info] [ExtensionManager] previousVersion: "1.16.0", currentVersion: "1.16.0"
+2025-02-26 13:56:05.550 [info] ctags manager configure
+2025-02-26 13:56:05.550 [warning] [LintManager] Invalid linter name: none
+2025-02-26 13:56:05.550 [info] mshr-h.veriloghdl activation finished.
+2025-02-26 13:56:05.977 [warning] [LintManager] Invalid linter name: none
+2025-02-26 13:56:06.060 [warning] [LintManager] Invalid linter name: none
+2025-02-26 13:56:06.287 [warning] [LintManager] Invalid linter name: none
+2025-02-26 13:56:06.456 [warning] [LintManager] Invalid linter name: none
+2025-02-26 13:56:06.709 [warning] [LintManager] Invalid linter name: none
+2025-02-26 13:56:07.288 [warning] [LintManager] Invalid linter name: none
+2025-02-26 14:37:03.582 [info] on save
+2025-02-26 14:37:16.032 [info] on save
+2025-02-26 14:44:09.656 [info] on save
+2025-02-26 14:44:51.863 [info] on save
+2025-02-26 14:49:51.715 [info] on save
+2025-02-26 14:59:06.495 [info] on save
+2025-02-26 14:59:42.686 [info] on save
+2025-02-26 14:59:49.413 [info] on save
+2025-02-26 15:01:22.522 [info] on save
+2025-02-26 15:02:04.343 [info] on save
+2025-02-26 15:04:18.882 [info] on save
+2025-02-26 15:05:36.055 [info] on save
+2025-02-26 15:06:29.993 [info] on save
+2025-02-26 15:14:39.471 [info] Deactivated

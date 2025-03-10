@@ -1,0 +1,71 @@
+2025-03-04 15:47:43.354 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-03-04 15:47:43.354 [info] Experiment 'pythonTestAdapter' is active
+2025-03-04 15:47:43.354 [info] Native locator: Refresh started
+2025-03-04 15:47:43.354 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler2
+2025-03-04 15:47:43.362 [info] > pyenv which python
+2025-03-04 15:47:43.362 [info] cwd: .
+2025-03-04 15:47:43.419 [info] Python interpreter path: /bin/python3
+2025-03-04 15:47:43.419 [info] Editor support is inactive since language server is set to None.
+2025-03-04 15:47:43.463 [info] Native locator: Refresh finished in 153 ms
+2025-03-04 15:47:44.369 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-03-04 15:47:44.377 [info] > pixi --version
+2025-03-04 15:47:44.379 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-03-04 15:47:44.383 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-03-06 09:33:09.185 [info] Discover tests for workspace name: kepler2 - uri: /home/sgass/Projects/kepler2/python/kepler/kepler/soc_build/build_vivado.py
+2025-03-06 14:25:30.871 [info] Discover tests for workspace name: kepler2 - uri: /home/sgass/Projects/kepler2/python/kepler/kepler/soc_build/build_vivado.py
+2025-03-06 14:25:58.681 [info] Discover tests for workspace name: kepler2 - uri: /home/sgass/Projects/kepler2/python/kepler/kepler/soc_build/build_vivado.py
+2025-03-06 16:10:48.652 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-03-06 16:10:48.652 [info] Experiment 'pythonTestAdapter' is active
+2025-03-06 16:10:48.652 [info] Native locator: Refresh started
+2025-03-06 16:10:48.652 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler2
+2025-03-06 16:10:48.712 [info] > pyenv which python
+2025-03-06 16:10:48.712 [info] cwd: .
+2025-03-06 16:10:48.846 [info] Python interpreter path: /bin/python3
+2025-03-06 16:10:48.847 [info] Editor support is inactive since language server is set to None.
+2025-03-06 16:10:48.970 [info] Native locator: Refresh finished in 429 ms
+2025-03-06 16:10:49.777 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-03-06 16:10:49.789 [info] > pixi --version
+2025-03-06 16:10:49.790 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-03-06 16:10:49.793 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-03-07 10:35:15.100 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-03-07 10:35:15.100 [info] Experiment 'pythonTestAdapter' is active
+2025-03-07 10:35:15.100 [info] Native locator: Refresh started
+2025-03-07 10:35:15.100 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler
+2025-03-07 10:35:15.124 [info] > pyenv which python
+2025-03-07 10:35:15.124 [info] cwd: .
+2025-03-07 10:35:15.197 [info] Python interpreter path: /bin/python3
+2025-03-07 10:35:15.198 [info] Editor support is inactive since language server is set to None.
+2025-03-07 10:35:15.263 [info] Native locator: Refresh finished in 193 ms
+2025-03-07 10:35:16.143 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-03-07 10:35:16.148 [info] > pixi --version
+2025-03-07 10:35:16.149 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-03-07 10:35:16.152 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-03-07 16:25:19.957 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-03-07 16:25:19.957 [info] Experiment 'pythonTestAdapter' is active
+2025-03-07 16:25:19.957 [info] Native locator: Refresh started
+2025-03-07 16:25:19.957 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler
+2025-03-07 16:25:19.973 [info] > pyenv which python
+2025-03-07 16:25:19.973 [info] cwd: .
+2025-03-07 16:25:20.020 [info] Python interpreter path: /bin/python3
+2025-03-07 16:25:20.020 [info] Editor support is inactive since language server is set to None.
+2025-03-07 16:25:20.083 [info] Native locator: Refresh finished in 192 ms
+2025-03-07 16:25:21.007 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-03-07 16:25:21.013 [info] > pixi --version
+2025-03-07 16:25:21.013 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-03-07 16:25:21.016 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-03-07 16:25:48.670 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-03-07 16:25:48.670 [info] Experiment 'pythonTestAdapter' is active
+2025-03-07 16:25:48.670 [info] Native locator: Refresh started
+2025-03-07 16:25:48.722 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler
+2025-03-07 16:25:48.768 [info] > pyenv which python
+2025-03-07 16:25:48.768 [info] cwd: .
+2025-03-07 16:25:48.865 [info] Python interpreter path: /bin/python3
+2025-03-07 16:25:48.866 [info] Editor support is inactive since language server is set to None.
+2025-03-07 16:25:48.998 [info] Native locator: Refresh finished in 344 ms
+2025-03-07 16:25:49.821 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-03-07 16:25:49.828 [info] > pixi --version
+2025-03-07 16:25:49.829 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-03-07 16:25:49.839 [warning] could not find a pixi interpreter for the interpreter at /bin/python3
+2025-03-07 17:43:02.842 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py
+2025-03-07 17:43:37.952 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/network_packet_generator_avmm.py
+2025-03-07 17:43:42.415 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/kepler/fpga/devices/tiny_bcam_avmm.py

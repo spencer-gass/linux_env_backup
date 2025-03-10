@@ -1,0 +1,2 @@
+2025-01-23 16:57:29.246 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/sgass/Projects/kepler/sysscripts/linux_ops/aether_fsw/services/afsw-demo-1' failed: No such file or directory (EUNKNOWN) (path: /home/sgass/Projects/kepler)
+2025-01-23 16:57:29.246 [error] [File Watcher (universal)] inotify_add_watch on '/home/sgass/Projects/kepler/sysscripts/linux_ops/aether_fsw/services/afsw-demo-1' failed: No such file or directory

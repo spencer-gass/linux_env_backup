@@ -1,0 +1,606 @@
+2025-03-03 10:41:18.018 [info] mshr-h.veriloghdl is now active.
+2025-03-03 10:41:18.018 [info] [ExtensionManager] previousVersion: "1.16.0", currentVersion: "1.16.0"
+2025-03-03 10:41:18.018 [info] ctags manager configure
+2025-03-03 10:41:18.018 [warning] [LintManager] Invalid linter name: none
+2025-03-03 10:41:18.018 [info] mshr-h.veriloghdl activation finished.
+2025-03-03 10:41:18.018 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 10:41:18.018 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv"
+2025-03-03 10:41:18.018 [info] executing ctags
+2025-03-03 10:41:18.018 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv"
+2025-03-03 10:41:18.018 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 10:41:18.018 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv"
+2025-03-03 10:41:18.018 [info] executing ctags
+2025-03-03 10:41:18.018 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv"
+2025-03-03 10:41:18.018 [info] building symbols
+2025-03-03 10:41:18.018 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 10:41:18.018 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 10:41:39.743 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 10:41:40.352 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 10:41:40.547 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 10:41:41.155 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 10:41:42.807 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 10:41:43.339 [info] [VerilogDefinitionProvider] 0 definitions returned
+2025-03-03 10:41:43.816 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 10:41:44.407 [info] [VerilogDefinitionProvider] 0 definitions returned
+2025-03-03 10:42:35.557 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 10:42:36.378 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 10:42:36.598 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 10:42:37.449 [info] [VerilogDefinitionProvider] 0 definitions returned
+2025-03-03 10:42:37.906 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 10:42:38.932 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 10:42:51.213 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 10:42:52.242 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 10:43:05.780 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 10:50:35.724 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 10:50:36.372 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 10:50:37.473 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 10:50:38.175 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 10:50:38.753 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 10:50:39.306 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 10:50:39.335 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 10:50:40.049 [info] on save
+2025-03-03 10:53:34.416 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 10:53:34.416 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv"
+2025-03-03 10:53:34.416 [info] executing ctags
+2025-03-03 10:53:34.416 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv"
+2025-03-03 10:53:34.440 [info] building symbols
+2025-03-03 10:53:35.003 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 10:53:37.915 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 10:53:37.940 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 10:53:44.879 [info] on save
+2025-03-03 10:54:33.540 [info] on save
+2025-03-03 10:54:42.283 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 10:56:45.063 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 10:56:45.063 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv"
+2025-03-03 10:56:45.063 [info] executing ctags
+2025-03-03 10:56:45.063 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv"
+2025-03-03 10:56:45.082 [info] building symbols
+2025-03-03 10:56:45.640 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 11:18:01.315 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 11:18:20.982 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 11:22:00.365 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 11:22:00.964 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 11:22:08.261 [info] Deactivated
+2025-03-03 12:16:14.259 [info] mshr-h.veriloghdl is now active.
+2025-03-03 12:16:14.259 [info] [ExtensionManager] previousVersion: "1.16.0", currentVersion: "1.16.0"
+2025-03-03 12:16:14.259 [info] ctags manager configure
+2025-03-03 12:16:14.259 [warning] [LintManager] Invalid linter name: none
+2025-03-03 12:16:14.259 [info] mshr-h.veriloghdl activation finished.
+2025-03-03 12:16:14.536 [warning] [LintManager] Invalid linter name: none
+2025-03-03 12:16:14.593 [warning] [LintManager] Invalid linter name: none
+2025-03-03 12:16:14.728 [warning] [LintManager] Invalid linter name: none
+2025-03-03 12:16:14.814 [warning] [LintManager] Invalid linter name: none
+2025-03-03 12:16:15.726 [warning] [LintManager] Invalid linter name: none
+2025-03-03 12:16:16.223 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 12:16:16.223 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv"
+2025-03-03 12:16:16.223 [info] executing ctags
+2025-03-03 12:16:16.223 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv"
+2025-03-03 12:16:16.252 [info] building symbols
+2025-03-03 12:16:16.266 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 12:16:16.286 [warning] [LintManager] Invalid linter name: none
+2025-03-03 12:16:41.324 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 12:58:34.696 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 12:58:34.708 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 12:58:38.030 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 12:58:49.653 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 12:58:51.090 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 12:59:01.165 [info] on save
+2025-03-03 14:11:45.213 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_avmm_regs.sv
+2025-03-03 14:11:45.213 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_avmm_regs.sv"
+2025-03-03 14:11:45.213 [info] executing ctags
+2025-03-03 14:11:45.213 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_avmm_regs.sv"
+2025-03-03 14:11:45.226 [info] building symbols
+2025-03-03 14:11:45.228 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 14:11:46.991 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_avmm_regs_tb.sv
+2025-03-03 14:11:46.991 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_avmm_regs_tb.sv"
+2025-03-03 14:11:46.991 [info] executing ctags
+2025-03-03 14:11:46.991 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_avmm_regs_tb.sv"
+2025-03-03 14:11:46.997 [info] building symbols
+2025-03-03 14:11:47.000 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 14:12:33.258 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:12:33.716 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 14:12:39.510 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:12:39.939 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 14:12:40.361 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:12:40.849 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 14:12:41.106 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:12:41.607 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 14:12:43.942 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_avmm_regs.sv
+2025-03-03 14:12:43.947 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 14:12:45.790 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:12:46.288 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 14:12:46.555 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:12:47.035 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 14:12:47.541 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:12:48.023 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 14:12:49.505 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:12:50.049 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 14:13:47.290 [info] on save
+2025-03-03 14:14:13.394 [info] on save
+2025-03-03 14:14:16.654 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:14:33.877 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:14:34.420 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 14:14:35.889 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:14:36.333 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 14:14:43.893 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:14:44.323 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 14:14:53.027 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:14:53.459 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:14:53.524 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 14:14:53.859 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 14:14:54.640 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:14:54.853 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_avmm_regs_tb.sv
+2025-03-03 14:14:55.087 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 14:14:55.249 [info] [VerilogDefinitionProvider] 1 definitions returned
+2025-03-03 14:15:01.116 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:15:05.173 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_avmm_regs.sv
+2025-03-03 14:15:05.178 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 14:18:26.545 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/p4_router/p4_router_avmm_regs.sv
+2025-03-03 14:18:26.550 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 14:18:56.134 [info] on save
+2025-03-03 14:50:19.279 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 14:50:19.279 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv"
+2025-03-03 14:50:19.279 [info] executing ctags
+2025-03-03 14:50:19.279 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv"
+2025-03-03 14:50:19.308 [info] building symbols
+2025-03-03 14:50:19.312 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 14:51:19.551 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:51:20.047 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 14:51:23.585 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:51:24.059 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 14:51:24.771 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:51:25.259 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 14:52:23.664 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:52:24.194 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 14:52:24.417 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:52:34.966 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:52:35.499 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 14:55:36.717 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/network_packet_generator/network_packet_generator_tb.sv
+2025-03-03 14:55:36.717 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/network_packet_generator/network_packet_generator_tb.sv"
+2025-03-03 14:55:36.717 [info] executing ctags
+2025-03-03 14:55:36.717 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/network_packet_generator/network_packet_generator_tb.sv"
+2025-03-03 14:55:36.773 [info] building symbols
+2025-03-03 14:55:36.777 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 14:55:50.950 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:56:02.417 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:56:02.886 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 14:56:14.758 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:56:15.287 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 14:56:15.390 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 14:56:15.411 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:56:15.825 [info] [VerilogDefinitionProvider] 1 definitions returned
+2025-03-03 14:56:15.849 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 14:56:16.281 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 14:56:16.293 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 14:56:16.718 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:56:17.191 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 14:56:17.248 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:56:17.665 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 14:56:17.699 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:56:17.982 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 14:56:18.137 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 14:56:18.449 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 14:56:22.415 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-03-03 14:56:22.416 [info] [VerilogCompletionItemProvider] 161 items requested
+2025-03-03 14:56:23.757 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 14:56:23.767 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 14:56:24.959 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 14:56:24.970 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 14:56:25.142 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-03-03 14:56:25.142 [info] [VerilogCompletionItemProvider] 161 items requested
+2025-03-03 14:56:25.370 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-03-03 14:56:25.372 [info] [VerilogCompletionItemProvider] 161 items requested
+2025-03-03 14:56:25.710 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 14:56:25.720 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 14:56:25.779 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-03-03 14:56:25.780 [info] [VerilogCompletionItemProvider] 161 items requested
+2025-03-03 14:56:26.013 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-03-03 14:56:26.014 [info] [VerilogCompletionItemProvider] 161 items requested
+2025-03-03 14:56:26.203 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-03-03 14:56:26.204 [info] [VerilogCompletionItemProvider] 161 items requested
+2025-03-03 14:56:26.305 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-03-03 14:56:26.305 [info] [VerilogCompletionItemProvider] 161 items requested
+2025-03-03 14:56:26.645 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 14:56:26.653 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 14:56:28.606 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 14:56:28.614 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 14:56:30.855 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 14:56:30.863 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 14:56:31.974 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 14:56:31.982 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:50:34.003 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:52:19.629 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:52:19.829 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:52:20.131 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 15:52:20.248 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 15:52:33.114 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:52:33.555 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 15:52:34.148 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:52:34.312 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:52:34.567 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:52:34.667 [info] [VerilogDefinitionProvider] 0 definitions returned
+2025-03-03 15:52:34.751 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 15:52:35.021 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 15:52:35.429 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:52:35.905 [info] [VerilogDefinitionProvider] 1 definitions returned
+2025-03-03 15:52:40.153 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:52:40.161 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:52:40.411 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-03-03 15:52:40.411 [info] [VerilogCompletionItemProvider] 161 items requested
+2025-03-03 15:52:41.380 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:52:41.391 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:52:43.572 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:52:43.583 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:52:44.365 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:52:44.373 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:52:44.829 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:52:44.838 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:52:46.081 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:52:46.472 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:52:46.600 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:52:46.904 [info] [VerilogDefinitionProvider] 1 definitions returned
+2025-03-03 15:52:48.451 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:52:48.965 [info] [VerilogDefinitionProvider] 1 definitions returned
+2025-03-03 15:53:15.783 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:16.298 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:53:16.447 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:16.862 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:53:20.946 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:22.181 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:23.180 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:26.126 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:53:26.135 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:53:29.019 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:29.378 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:29.472 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:53:29.814 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:53:32.631 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:32.847 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:33.047 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:33.065 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:53:33.270 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:53:33.485 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:53:33.983 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:34.445 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:53:34.850 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:35.337 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:53:38.659 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:39.131 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:39.169 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:53:39.561 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:53:44.132 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:44.654 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:53:49.266 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:53:51.650 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:53:51.659 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:53:54.231 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:53:54.238 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:53:57.431 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:53:57.441 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:53:58.868 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-03-03 15:53:58.869 [info] [VerilogCompletionItemProvider] 161 items requested
+2025-03-03 15:53:59.326 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:53:59.338 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:03.134 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:03.144 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:05.244 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:05.255 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:10.285 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:10.296 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:12.327 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:12.339 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:15.504 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:15.515 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:19.714 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:19.722 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:23.297 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:23.307 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:26.288 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:26.296 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:27.194 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:27.201 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:35.576 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:35.586 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:40.651 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:40.662 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:42.198 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:42.208 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:43.110 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:43.121 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:45.405 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:45.416 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:46.526 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:46.537 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:47.389 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:47.400 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:50.815 [info] on save
+2025-03-03 15:54:51.164 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:54:51.164 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv"
+2025-03-03 15:54:51.164 [info] executing ctags
+2025-03-03 15:54:51.164 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv"
+2025-03-03 15:54:51.172 [info] building symbols
+2025-03-03 15:54:51.181 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:54:52.351 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:54:52.534 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:54:52.749 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:55:15.235 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:55:15.703 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:55:16.253 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:55:16.485 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:55:16.703 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:55:16.916 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:55:18.034 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:55:18.046 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:55:18.952 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:55:18.961 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:55:19.174 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-03-03 15:55:19.174 [info] [VerilogCompletionItemProvider] 162 items requested
+2025-03-03 15:55:19.851 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:55:19.859 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:55:21.757 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:55:21.768 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:55:23.059 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:55:23.072 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:55:23.647 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:55:23.659 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:55:26.601 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:55:26.608 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:55:27.229 [info] on save
+2025-03-03 15:55:35.332 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:55:35.332 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv"
+2025-03-03 15:55:35.332 [info] executing ctags
+2025-03-03 15:55:35.332 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv"
+2025-03-03 15:55:35.348 [info] building symbols
+2025-03-03 15:55:35.810 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:58:33.152 [info] on save
+2025-03-03 15:59:06.206 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:59:06.681 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:59:13.491 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:59:13.955 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:59:14.041 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:59:14.241 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:59:14.522 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:59:14.647 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 15:59:16.909 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 15:59:17.386 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 15:59:18.471 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:59:18.481 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:59:19.589 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 15:59:19.599 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 15:59:20.890 [info] on save
+2025-03-03 16:06:10.015 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv
+2025-03-03 16:06:10.015 [info] indexing "/home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv"
+2025-03-03 16:06:10.015 [info] executing ctags
+2025-03-03 16:06:10.015 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/rtl/network_packet_generator/network_packet_generator.sv"
+2025-03-03 16:06:10.023 [info] building symbols
+2025-03-03 16:06:10.033 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:42:57.328 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/network_packet_generator/network_packet_generator_tb.sv
+2025-03-03 16:42:57.332 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:43:24.071 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:43:24.071 [info] indexing "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv"
+2025-03-03 16:43:24.071 [info] executing ctags
+2025-03-03 16:43:24.071 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv"
+2025-03-03 16:43:24.080 [info] building symbols
+2025-03-03 16:43:24.093 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:43:26.227 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:43:27.024 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:43:39.790 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:43:39.807 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:43:53.957 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:43:53.968 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:43:56.040 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:43:56.052 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:43:56.786 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:43:56.799 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:43:57.498 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:43:57.521 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:43:58.979 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:43:58.999 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:00.547 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:44:00.560 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:03.082 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:44:03.091 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:05.242 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:44:05.255 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:06.628 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:44:06.654 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:08.890 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:44:08.903 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:13.651 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:44:13.660 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:15.365 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:44:15.398 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:17.173 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:44:17.197 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:17.374 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-03-03 16:44:17.375 [info] [VerilogCompletionItemProvider] 321 items requested
+2025-03-03 16:44:17.836 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:44:17.848 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:20.765 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:44:20.782 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:26.827 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:44:26.836 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:31.259 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:44:31.268 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:32.603 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:44:32.627 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:35.683 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:44:35.706 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:35.815 [info] [VerilogCompletionItemProvider] Completion items requested
+2025-03-03 16:44:35.815 [info] [VerilogCompletionItemProvider] 321 items requested
+2025-03-03 16:44:36.164 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:44:36.197 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:44:37.011 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:44:37.720 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 16:44:39.815 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:44:42.259 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:44:43.764 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:44:44.688 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:45:02.269 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:45:03.059 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:45:04.820 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:45:05.641 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:45:07.494 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:45:08.317 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:45:12.268 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:45:12.279 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:45:13.036 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:45:13.047 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:45:14.972 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:45:14.986 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:45:15.693 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:45:15.703 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:45:24.929 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:45:24.955 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:45:28.108 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:45:28.123 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:45:31.229 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:45:31.245 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:45:34.990 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:45:35.005 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:45:39.246 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:45:39.265 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:45:40.995 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:45:41.007 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:45:41.708 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:45:41.717 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:45:42.636 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:45:42.645 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:45:44.412 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:45:44.421 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:45:45.316 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:45:45.325 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:45:47.596 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:45:48.291 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:46:29.489 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:46:30.389 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:46:33.081 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:46:33.961 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:46:43.583 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:46:44.283 [info] [VerilogDefinitionProvider] 3 definitions returned
+2025-03-03 16:46:47.269 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:46:47.287 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:46:51.535 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:46:52.468 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:50:44.014 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:50:44.883 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:50:45.036 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 16:50:45.837 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 16:50:57.306 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:50:58.051 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:50:59.094 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:50:59.690 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:50:59.869 [info] [VerilogDefinitionProvider] 1 definitions returned
+2025-03-03 16:51:00.539 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:01.101 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:51:01.110 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:51:02.622 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:02.942 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:03.605 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:03.641 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:03.947 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:04.602 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:11.631 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:11.801 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:12.487 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:12.689 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:14.044 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:51:14.053 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:51:15.033 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:51:15.043 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:51:16.257 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:17.041 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:19.934 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:20.868 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:20.890 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 16:51:21.785 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:21.787 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 16:51:22.708 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:23.342 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:23.562 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:24.536 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:24.747 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:31.741 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:51:31.765 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:51:32.441 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:51:32.453 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:51:36.766 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:37.183 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:37.627 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:38.100 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:39.405 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:40.347 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:40.631 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:51:40.650 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:41.634 [info] [VerilogDefinitionProvider] 1 definitions returned
+2025-03-03 16:51:41.647 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:42.462 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:51:42.483 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:51:42.754 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:43.769 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:44.734 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:51:44.769 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:51:45.394 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:46.339 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:51:46.958 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:55.132 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:51:55.142 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:51:57.874 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:51:58.643 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:52:02.576 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:52:03.305 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:52:04.496 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:52:05.410 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:52:10.404 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:52:11.426 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:52:11.967 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:52:12.002 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:52:12.207 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:52:13.276 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:52:14.613 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:52:14.638 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:52:38.602 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:52:39.298 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:52:47.882 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:52:48.714 [warning] [VerilogHoverProvider] Hover object not found
+2025-03-03 16:52:52.862 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:52:52.879 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:52:55.710 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:52:55.728 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:52:56.391 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:52:57.224 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:52:58.159 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:52:58.981 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 16:53:00.858 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:53:01.308 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 16:53:04.613 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:53:04.623 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:53:46.693 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:53:46.702 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:53:51.647 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:53:51.680 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:53:52.335 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:53:52.353 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:53:53.007 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:53:53.039 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:53:55.160 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:53:55.192 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:53:57.104 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:53:57.122 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:53:58.060 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:53:58.086 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:53:59.655 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:53:59.667 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:54:02.750 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler/hdl/sim/p4_router/p4_router_vnp4_tiny_bcam_tb.sv
+2025-03-03 16:54:02.761 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-03-03 16:54:30.338 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 17:01:29.072 [info] on save
+2025-03-03 17:07:08.606 [info] on save
+2025-03-03 17:07:25.052 [info] on save
+2025-03-03 17:07:46.958 [info] on save
+2025-03-03 17:17:21.498 [info] on save
+2025-03-03 17:59:28.762 [info] [VerilogHoverProvider] Hover requested
+2025-03-03 17:59:29.744 [info] [VerilogHoverProvider] Hover object returned
+2025-03-03 18:00:35.313 [info] on save
+2025-03-03 18:16:24.129 [info] on save
+2025-03-03 19:54:53.372 [info] Deactivated

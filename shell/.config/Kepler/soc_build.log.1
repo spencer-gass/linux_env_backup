@@ -1,0 +1,199 @@
+2024-12-02 13:14:15.012  INFO [db] sqlalchemy.engine : PRAGMA foreign_keys=ON
+2024-12-02 13:14:15.013  INFO [db] sqlalchemy.engine : PRAGMA journal_mode=TRUNCATE
+2024-12-02 13:14:15.014  INFO [db] sqlalchemy.engine : PRAGMA automatic_index=true
+2024-12-02 13:14:15.014  INFO [db] sqlalchemy.engine.base.Engine : BEGIN (implicit)
+2024-12-02 13:14:15.014  INFO [db] sqlalchemy.engine.base.Engine : SELECT build.build_id 
+FROM build 
+WHERE build.build_id = ?
+ LIMIT ? OFFSET ?
+2024-12-02 13:14:15.015  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 1, 0)
+2024-12-02 13:14:15.015  INFO [db] sqlalchemy.engine.base.Engine : UPDATE build SET build_id=?, build_type=?, build_state=?, build_stage=?, build_host_uid=? WHERE build.build_id = ?
+2024-12-02 13:14:15.015  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', '15eg_pcuecp_ssds_v1', 'stage_running', 'petalinux', 'pid://KC-PF4YW3SN-LAP:2587338', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8')
+2024-12-02 13:14:15.016  INFO [db] sqlalchemy.engine.base.Engine : COMMIT
+2024-12-02 13:14:15.029  INFO [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : Creating Petalinux project for '15eg_pcuecp_ssds_v1' with petalinux-2021.
+2024-12-02 13:14:15.029  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : Executing source /home/sgass/Projects/kepler/Docker/petalinux/scripts/settings-2021.2.sh && ./soc_create_project.sh ../../hdl/vivado/workspace/15eglv_pcuecp/ ../../hdl/vivado/ipsrcs/tcl-managed/pcuecp/15eglv/vitis_net_p4_frr_t1_ecp.xcix > ../../../../../../../soc_build_logs/soc_build_petalinux_create.log
+2024-12-02 13:14:15.030  INFO [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : 🗐 [/home/sgass/Projects/kepler/soc_build_logs/soc_build_petalinux_create.log]
+2024-12-02 13:14:15.031  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : Writing helper script '/home/sgass/Projects/kepler/soc_build_logs/soc_build_petalinux_create_project.sh'.
+2024-12-02 13:14:15.031  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : Executing helper script /home/sgass/Projects/kepler/soc_build_logs/soc_build_petalinux_create_project.sh
+2024-12-02 13:14:30.936  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : Result = 0
+2024-12-02 13:14:30.936  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : Updating petalinux/pcu-ecp-2021/project-spec/meta-user/conf/petalinuxbsp.conf: DL_DIR=/home/sgass/petalinux/2021.2/downloads
+2024-12-02 13:14:30.937  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : Updating petalinux/pcu-ecp-2021/project-spec/meta-user/conf/petalinuxbsp.conf: SSTATE_DIR=/home/sgass/petalinux/2021.2/sstate-cache
+2024-12-02 13:14:30.937  INFO [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : Created Petalinux project at 'petalinux/pcu-ecp-2021'.
+2024-12-02 13:14:30.937  INFO [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : Building Linux for '15eg_pcuecp_ssds_v1' with petalinux-2021.
+2024-12-02 13:14:30.937  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : Executing source /home/sgass/Projects/kepler/Docker/petalinux/scripts/settings-2021.2.sh && petalinux-build > ../../../../../../../soc_build_logs/soc_build_petalinux_build.log
+2024-12-02 13:14:30.937  INFO [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : 🗐 [/home/sgass/Projects/kepler/soc_build_logs/soc_build_petalinux_build.log]
+2024-12-02 13:14:30.938  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : Writing helper script '/home/sgass/Projects/kepler/soc_build_logs/soc_build_petalinux_build.sh'.
+2024-12-02 13:14:30.938  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : Executing helper script /home/sgass/Projects/kepler/soc_build_logs/soc_build_petalinux_build.sh
+2024-12-02 13:17:45.421  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : Result = 0
+2024-12-02 13:17:45.423  INFO [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : Built Petalinux in 'petalinux/pcu-ecp-2021'.
+2024-12-02 13:17:45.424  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : No post-build script set for projects/15eg_pcuecp_ssds_v1/petalinux-build
+2024-12-02 13:17:45.426  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : parsed: build_time = 0:00:15.905627
+2024-12-02 13:17:45.426  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : parsed: build_time = 0:03:14.483309
+2024-12-02 13:17:45.427  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : parsed: post-build exit code 0
+2024-12-02 13:17:45.427  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : parsed: post-build exit code 0
+2024-12-02 13:17:45.428  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : parsed: no exit code log file '/home/sgass/Projects/kepler/soc_build_logs/soc_build_petalinux_sdk_exit.log'
+2024-12-02 13:17:45.428  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : parsed: no post-build script run
+2024-12-02 13:17:45.441  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_petalinux.15eg_pcuecp_ssds_v1 : parsed task summary: attempted='4721', skipped='4308', failed='None'
+2024-12-02 13:17:45.442  INFO [db] sqlalchemy.engine : PRAGMA foreign_keys=ON
+2024-12-02 13:17:45.443  INFO [db] sqlalchemy.engine : PRAGMA journal_mode=TRUNCATE
+2024-12-02 13:17:45.445  INFO [db] sqlalchemy.engine : PRAGMA automatic_index=true
+2024-12-02 13:17:45.446  INFO [db] sqlalchemy.engine.base.Engine : BEGIN (implicit)
+2024-12-02 13:17:45.450  INFO [db] sqlalchemy.engine.base.Engine : SELECT petalinux.build_id 
+FROM petalinux 
+WHERE petalinux.build_id = ?
+ LIMIT ? OFFSET ?
+2024-12-02 13:17:45.451  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 1, 0)
+2024-12-02 13:17:45.455  INFO [db] sqlalchemy.engine.base.Engine : INSERT INTO petalinux (build_id, build_ok, build_time, proj_create_time, proj_created, proj_build_time, proj_build_ok, tasks_attempted, tasks_skipped, tasks_failed, sdk_build_time, sdk_build_ok, post_build_time, post_build_ok) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+2024-12-02 13:17:45.455  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 1, '1970-01-01 00:03:30.388936', '1970-01-01 00:00:15.905627', 1, '1970-01-01 00:03:14.483309', 1, 4721, 4308, 0, None, None, None, None)
+2024-12-02 13:17:45.456  INFO [db] sqlalchemy.engine.base.Engine : COMMIT
+2024-12-02 13:17:45.476  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Duplicate artifact entry found. Ignoring 'BuildArtifact(source_rel_path=PosixPath('petalinux/pcu-ecp-2021/images/linux/image.ub'), extension=None, is_log=False, top_level=True, is_optional=False, rename_suffix='.ub')'.
+2024-12-02 13:17:45.477  INFO [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Copying petalinux artifacts.
+2024-12-02 13:17:45.477  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Copying 'petalinux/pcu-ecp-2021/images/linux/image.ub' -> output as '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8.ub'
+2024-12-02 13:17:45.501  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Copying 'petalinux/pcu-ecp-2021/images/linux/u-boot.elf' -> output as '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_u-boot.elf'
+2024-12-02 13:17:45.511  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Copying 'petalinux/pcu-ecp-2021/images/linux/bl31.elf' -> output as '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_bl31.elf'
+2024-12-02 13:17:45.512  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Copying 'petalinux/pcu-ecp-2021/images/linux/boot.scr' -> output as '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_boot.scr'
+2024-12-02 13:17:45.513  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Copying 'petalinux/pcu-ecp-2021/images/linux/system.dtb' -> output as '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8.dtb'
+2024-12-02 13:17:45.513  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Copying 'petalinux/pcu-ecp-2021/images/linux/pmufw.elf' -> output as '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_pmufw.elf'
+2024-12-02 13:17:45.515  DEBUG [] kepler.util.fs_util : zipfs_update(/home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip): creating new zipfile at /home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip.tmp
+2024-12-02 13:17:45.625  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Zipping log 'soc_build_logs/soc_build_petalinux_build_exit.log' into '/home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip'
+2024-12-02 13:17:45.626  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Zipping log 'soc_build_logs/soc_build_petalinux_post_build_exit.log' into '/home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip'
+2024-12-02 13:17:45.626  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Zipping log 'soc_build_logs/soc_build_petalinux_create.log' into '/home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip'
+2024-12-02 13:17:45.627  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Zipping log 'soc_build_logs/soc_build_petalinux_create_time.log' into '/home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip'
+2024-12-02 13:17:45.627  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Zipping log 'soc_build_logs/soc_build_petalinux_create_exit.log' into '/home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip'
+2024-12-02 13:17:45.627  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Zipping log 'soc_build_logs/soc_build_petalinux_build.log' into '/home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip'
+2024-12-02 13:17:45.628  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Zipping log 'soc_build_logs/soc_build_petalinux_build_time.log' into '/home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip'
+2024-12-02 13:17:45.628  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Zipping log 'petalinux/pcu-ecp-2021/images/linux/rootfs.manifest' into '/home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip'
+2024-12-02 13:17:45.783  DEBUG [] kepler.util.fs_util : zipfs_update(/home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip): overwriting with /home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip.tmp
+2024-12-02 13:17:45.784  INFO [db] sqlalchemy.engine : PRAGMA foreign_keys=ON
+2024-12-02 13:17:45.784  INFO [db] sqlalchemy.engine : PRAGMA journal_mode=TRUNCATE
+2024-12-02 13:17:45.784  INFO [db] sqlalchemy.engine : PRAGMA automatic_index=true
+2024-12-02 13:17:45.784  INFO [db] sqlalchemy.engine.base.Engine : BEGIN (implicit)
+2024-12-02 13:17:45.784  INFO [db] sqlalchemy.engine.base.Engine : DELETE FROM artifacts WHERE artifacts.build_id = ? AND artifacts.from_stage = ?
+2024-12-02 13:17:45.784  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'petalinux')
+2024-12-02 13:17:45.785  INFO [db] sqlalchemy.engine.base.Engine : INSERT INTO artifacts (build_id, from_stage, output_name, orig_name, is_container, top_level, is_optional) VALUES (?, ?, ?, ?, ?, ?, ?)
+2024-12-02 13:17:45.785  INFO [db] sqlalchemy.engine.base.Engine : (('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'petalinux', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8.ub', 'petalinux/pcu-ecp-2021/images/linux/image.ub', 0, 0, 0), ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'petalinux', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_u-boot.elf', 'petalinux/pcu-ecp-2021/images/linux/u-boot.elf', 0, 1, 0), ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'petalinux', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_bl31.elf', 'petalinux/pcu-ecp-2021/images/linux/bl31.elf', 0, 1, 0), ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'petalinux', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_boot.scr', 'petalinux/pcu-ecp-2021/images/linux/boot.scr', 0, 1, 0), ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'petalinux', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8.dtb', 'petalinux/pcu-ecp-2021/images/linux/system.dtb', 0, 0, 0), ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'petalinux', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_pmufw.elf', 'petalinux/pcu-ecp-2021/images/linux/pmufw.elf', 0, 1, 0), ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'petalinux', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip:soc_build_logs/soc_build_petalinux_build_exit.log', 'soc_build_logs/soc_build_petalinux_build_exit.log', 1, 0, 0), ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'petalinux', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip:soc_build_logs/soc_build_petalinux_post_build_exit.log', 'soc_build_logs/soc_build_petalinux_post_build_exit.log', 1, 0, 0)  ... displaying 10 of 14 total bound parameter sets ...  ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'petalinux', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip:soc_build_logs/soc_build_petalinux_build_time.log', 'soc_build_logs/soc_build_petalinux_build_time.log', 1, 0, 0), ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'petalinux', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip:petalinux/pcu-ecp-2021/images/linux/rootfs.manifest', 'petalinux/pcu-ecp-2021/images/linux/rootfs.manifest', 1, 0, 0))
+2024-12-02 13:17:45.796  INFO [db] sqlalchemy.engine.base.Engine : COMMIT
+2024-12-02 13:17:45.808  INFO [db] sqlalchemy.engine : PRAGMA foreign_keys=ON
+2024-12-02 13:17:45.808  INFO [db] sqlalchemy.engine : PRAGMA journal_mode=TRUNCATE
+2024-12-02 13:17:45.808  INFO [db] sqlalchemy.engine : PRAGMA automatic_index=true
+2024-12-02 13:17:45.808  INFO [db] sqlalchemy.engine.base.Engine : BEGIN (implicit)
+2024-12-02 13:17:45.809  INFO [db] sqlalchemy.engine.base.Engine : SELECT build.build_id 
+FROM build 
+WHERE build.build_id = ?
+ LIMIT ? OFFSET ?
+2024-12-02 13:17:45.809  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 1, 0)
+2024-12-02 13:17:45.809  INFO [db] sqlalchemy.engine.base.Engine : UPDATE build SET build_id=?, build_type=?, build_state=?, build_stage=?, build_host_uid=? WHERE build.build_id = ?
+2024-12-02 13:17:45.809  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', '15eg_pcuecp_ssds_v1', 'stage_succeeded', 'petalinux', '', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8')
+2024-12-02 13:17:45.809  INFO [db] sqlalchemy.engine.base.Engine : COMMIT
+2024-12-02 13:17:45.857  INFO [db] sqlalchemy.engine : PRAGMA foreign_keys=ON
+2024-12-02 13:17:45.858  INFO [db] sqlalchemy.engine : PRAGMA journal_mode=TRUNCATE
+2024-12-02 13:17:45.859  INFO [db] sqlalchemy.engine : PRAGMA automatic_index=true
+2024-12-02 13:17:45.859  INFO [db] sqlalchemy.engine.base.Engine : BEGIN (implicit)
+2024-12-02 13:17:45.860  INFO [db] sqlalchemy.engine.base.Engine : SELECT build.build_id 
+FROM build 
+WHERE build.build_id = ?
+ LIMIT ? OFFSET ?
+2024-12-02 13:17:45.860  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 1, 0)
+2024-12-02 13:17:45.861  INFO [db] sqlalchemy.engine.base.Engine : UPDATE build SET build_id=?, build_type=?, build_state=?, build_stage=?, build_host_uid=? WHERE build.build_id = ?
+2024-12-02 13:17:45.862  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', '15eg_pcuecp_ssds_v1', 'stage_running', 'bootgen', 'pid://KC-PF4YW3SN-LAP:2587338', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8')
+2024-12-02 13:17:45.862  INFO [db] sqlalchemy.engine.base.Engine : COMMIT
+2024-12-02 13:17:45.873  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_bootgen.15eg_pcuecp_ssds_v1 : Creating 'petalinux/pcu-ecp-2021/15eg_pcuecp.bif'.
+2024-12-02 13:17:45.874  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_bootgen.15eg_pcuecp_ssds_v1 : No pre-bootgen build script.
+2024-12-02 13:17:45.875  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_bootgen.15eg_pcuecp_ssds_v1 : Executing source /opt/Xilinx/Vitis/2021.2/settings64.sh && ['bootgen', '-w', 'on', '-o', '15eg_pcuecp.boot', '-image', '15eg_pcuecp.bif', '-arch', 'zynqmp'] > ../../soc_build_logs/soc_build_bootgen.log
+2024-12-02 13:17:45.875  INFO [15eg_pcuecp_ssds_v1] kepler.soc_build.build_bootgen.15eg_pcuecp_ssds_v1 : 🗐 [/home/sgass/Projects/kepler/soc_build_logs/soc_build_bootgen.log]
+2024-12-02 13:17:45.875  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_bootgen.15eg_pcuecp_ssds_v1 : Writing helper script '/home/sgass/Projects/kepler/soc_build_logs/soc_build_bootgen_build.sh'.
+2024-12-02 13:17:45.876  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_bootgen.15eg_pcuecp_ssds_v1 : Executing helper script /home/sgass/Projects/kepler/soc_build_logs/soc_build_bootgen_build.sh
+2024-12-02 13:17:47.190  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_bootgen.15eg_pcuecp_ssds_v1 : Result = 0
+2024-12-02 13:17:47.191  INFO [15eg_pcuecp_ssds_v1] kepler.soc_build.build_bootgen.15eg_pcuecp_ssds_v1 : Created boot image at 'petalinux/pcu-ecp-2021/15eg_pcuecp.boot'.
+2024-12-02 13:17:47.191  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_bootgen.15eg_pcuecp_ssds_v1 : Executing source /opt/Xilinx/Vitis/2021.2/settings64.sh && ['annotate_boot', '--force', '--override', '15eg_pcuecp_ssds_v1', '15eg_pcuecp.boot'] > ../../soc_build_logs/soc_build_bootgen_post_script.log
+2024-12-02 13:17:47.191  INFO [15eg_pcuecp_ssds_v1] kepler.soc_build.build_bootgen.15eg_pcuecp_ssds_v1 : 🗐 [/home/sgass/Projects/kepler/soc_build_logs/soc_build_bootgen_post_script.log]
+2024-12-02 13:17:47.191  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_bootgen.15eg_pcuecp_ssds_v1 : Writing helper script '/home/sgass/Projects/kepler/soc_build_logs/soc_build_bootgen_post_scriptd.sh'.
+2024-12-02 13:17:47.192  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_bootgen.15eg_pcuecp_ssds_v1 : Executing helper script /home/sgass/Projects/kepler/soc_build_logs/soc_build_bootgen_post_scriptd.sh
+2024-12-02 13:17:47.533  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_bootgen.15eg_pcuecp_ssds_v1 : Result = 0
+2024-12-02 13:17:47.533  INFO [15eg_pcuecp_ssds_v1] kepler.soc_build.build_bootgen.15eg_pcuecp_ssds_v1 : Completed post-bootgen script.
+2024-12-02 13:17:47.534  INFO [db] sqlalchemy.engine : PRAGMA foreign_keys=ON
+2024-12-02 13:17:47.534  INFO [db] sqlalchemy.engine : PRAGMA journal_mode=TRUNCATE
+2024-12-02 13:17:47.534  INFO [db] sqlalchemy.engine : PRAGMA automatic_index=true
+2024-12-02 13:17:47.534  INFO [db] sqlalchemy.engine.base.Engine : BEGIN (implicit)
+2024-12-02 13:17:47.535  INFO [db] sqlalchemy.engine.base.Engine : SELECT bootgen.build_id 
+FROM bootgen 
+WHERE bootgen.build_id = ?
+ LIMIT ? OFFSET ?
+2024-12-02 13:17:47.535  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 1, 0)
+2024-12-02 13:17:47.535  INFO [db] sqlalchemy.engine.base.Engine : INSERT INTO bootgen (build_id, build_ok, build_time, create_bif_ok, pre_bootgen_ok, bootgen_ok, post_bootgen_ok) VALUES (?, ?, ?, ?, ?, ?, ?)
+2024-12-02 13:17:47.535  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 1, '1970-01-01 00:00:01.676278', 1, 1, 1, 1)
+2024-12-02 13:17:47.536  INFO [db] sqlalchemy.engine.base.Engine : COMMIT
+2024-12-02 13:17:47.547  INFO [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Copying bootgen artifacts.
+2024-12-02 13:17:47.547  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Copying 'petalinux/pcu-ecp-2021/15eg_pcuecp.bif' -> output as '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8.bif'
+2024-12-02 13:17:47.548  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Copying 'petalinux/pcu-ecp-2021/15eg_pcuecp.boot' -> output as '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8.boot'
+2024-12-02 13:17:47.555  DEBUG [] kepler.util.fs_util : zipfs_update(/home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip): creating new zipfile at /home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip.tmp
+2024-12-02 13:17:47.624  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Zipping log 'soc_build_logs/soc_build_bootgen.log' into '/home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip'
+2024-12-02 13:17:47.625  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.build_base.15eg_pcuecp_ssds_v1 : Zipping log 'soc_build_logs/soc_build_bootgen_post_script.log' into '/home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip'
+2024-12-02 13:17:47.763  DEBUG [] kepler.util.fs_util : zipfs_update(/home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip): overwriting with /home/sgass/Projects/soc_builds/output/2024/12/15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip.tmp
+2024-12-02 13:17:47.763  INFO [db] sqlalchemy.engine : PRAGMA foreign_keys=ON
+2024-12-02 13:17:47.764  INFO [db] sqlalchemy.engine : PRAGMA journal_mode=TRUNCATE
+2024-12-02 13:17:47.764  INFO [db] sqlalchemy.engine : PRAGMA automatic_index=true
+2024-12-02 13:17:47.764  INFO [db] sqlalchemy.engine.base.Engine : BEGIN (implicit)
+2024-12-02 13:17:47.764  INFO [db] sqlalchemy.engine.base.Engine : DELETE FROM artifacts WHERE artifacts.build_id = ? AND artifacts.from_stage = ?
+2024-12-02 13:17:47.764  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'bootgen')
+2024-12-02 13:17:47.764  INFO [db] sqlalchemy.engine.base.Engine : INSERT INTO artifacts (build_id, from_stage, output_name, orig_name, is_container, top_level, is_optional) VALUES (?, ?, ?, ?, ?, ?, ?)
+2024-12-02 13:17:47.765  INFO [db] sqlalchemy.engine.base.Engine : (('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'bootgen', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8.bif', 'petalinux/pcu-ecp-2021/15eg_pcuecp.bif', 0, 0, 0), ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'bootgen', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8.boot', 'petalinux/pcu-ecp-2021/15eg_pcuecp.boot', 0, 1, 0), ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'bootgen', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip:soc_build_logs/soc_build_bootgen.log', 'soc_build_logs/soc_build_bootgen.log', 1, 0, 0), ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 'bootgen', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8_logs.zip:soc_build_logs/soc_build_bootgen_post_script.log', 'soc_build_logs/soc_build_bootgen_post_script.log', 1, 0, 0))
+2024-12-02 13:17:47.765  INFO [db] sqlalchemy.engine.base.Engine : COMMIT
+2024-12-02 13:17:47.781  INFO [db] sqlalchemy.engine : PRAGMA foreign_keys=ON
+2024-12-02 13:17:47.781  INFO [db] sqlalchemy.engine : PRAGMA journal_mode=TRUNCATE
+2024-12-02 13:17:47.781  INFO [db] sqlalchemy.engine : PRAGMA automatic_index=true
+2024-12-02 13:17:47.781  INFO [db] sqlalchemy.engine.base.Engine : BEGIN (implicit)
+2024-12-02 13:17:47.781  INFO [db] sqlalchemy.engine.base.Engine : SELECT build.build_id 
+FROM build 
+WHERE build.build_id = ?
+ LIMIT ? OFFSET ?
+2024-12-02 13:17:47.782  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 1, 0)
+2024-12-02 13:17:47.782  INFO [db] sqlalchemy.engine.base.Engine : UPDATE build SET build_id=?, build_type=?, build_state=?, build_stage=?, build_host_uid=? WHERE build.build_id = ?
+2024-12-02 13:17:47.782  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', '15eg_pcuecp_ssds_v1', 'stage_succeeded', 'bootgen', '', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8')
+2024-12-02 13:17:47.782  INFO [db] sqlalchemy.engine.base.Engine : COMMIT
+2024-12-02 13:17:47.793  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.task_full.15eg_pcuecp_ssds_v1 : No after-build defined for 15eg_pcuecp_ssds_v1.
+2024-12-02 13:17:47.793  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.task_util.15eg_pcuecp_ssds_v1 : Updating overall build_ok for 15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8
+2024-12-02 13:17:47.793  INFO [db] sqlalchemy.engine : PRAGMA foreign_keys=ON
+2024-12-02 13:17:47.793  INFO [db] sqlalchemy.engine : PRAGMA journal_mode=TRUNCATE
+2024-12-02 13:17:47.794  INFO [db] sqlalchemy.engine : PRAGMA automatic_index=true
+2024-12-02 13:17:47.794  INFO [db] sqlalchemy.engine.base.Engine : BEGIN (implicit)
+2024-12-02 13:17:47.795  INFO [db] sqlalchemy.engine.base.Engine : SELECT vivado.build_ok 
+FROM vivado 
+WHERE vivado.build_id = ?
+ LIMIT ? OFFSET ?
+2024-12-02 13:17:47.795  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 1, 0)
+2024-12-02 13:17:47.795  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.task_util.15eg_pcuecp_ssds_v1 :     Status of vivado: True
+2024-12-02 13:17:47.795  INFO [db] sqlalchemy.engine.base.Engine : SELECT petalinux.build_ok 
+FROM petalinux 
+WHERE petalinux.build_id = ?
+ LIMIT ? OFFSET ?
+2024-12-02 13:17:47.795  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 1, 0)
+2024-12-02 13:17:47.796  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.task_util.15eg_pcuecp_ssds_v1 :     Status of petalinux: True
+2024-12-02 13:17:47.796  INFO [db] sqlalchemy.engine.base.Engine : SELECT bootgen.build_ok 
+FROM bootgen 
+WHERE bootgen.build_id = ?
+ LIMIT ? OFFSET ?
+2024-12-02 13:17:47.796  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 1, 0)
+2024-12-02 13:17:47.796  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.task_util.15eg_pcuecp_ssds_v1 :     Status of bootgen: True
+2024-12-02 13:17:47.796  INFO [db] sqlalchemy.engine.base.Engine : COMMIT
+2024-12-02 13:17:47.797  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.task_util.15eg_pcuecp_ssds_v1 : Overall build_ok for 15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8 = True
+2024-12-02 13:17:47.797  INFO [db] sqlalchemy.engine : PRAGMA foreign_keys=ON
+2024-12-02 13:17:47.797  INFO [db] sqlalchemy.engine : PRAGMA journal_mode=TRUNCATE
+2024-12-02 13:17:47.797  INFO [db] sqlalchemy.engine : PRAGMA automatic_index=true
+2024-12-02 13:17:47.797  INFO [db] sqlalchemy.engine.base.Engine : BEGIN (implicit)
+2024-12-02 13:17:47.798  INFO [db] sqlalchemy.engine.base.Engine : SELECT build.build_id 
+FROM build 
+WHERE build.build_id = ?
+ LIMIT ? OFFSET ?
+2024-12-02 13:17:47.798  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', 1, 0)
+2024-12-02 13:17:47.798  INFO [db] sqlalchemy.engine.base.Engine : UPDATE build SET build_id=?, build_type=?, build_state=?, build_stage=?, build_host_uid=? WHERE build.build_id = ?
+2024-12-02 13:17:47.798  INFO [db] sqlalchemy.engine.base.Engine : ('15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8', '15eg_pcuecp_ssds_v1', 'build_succeeded', '', '', '15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8')
+2024-12-02 13:17:47.799  INFO [db] sqlalchemy.engine.base.Engine : COMMIT
+2024-12-02 13:17:47.810  INFO [15eg_pcuecp_ssds_v1] kepler.soc_build.task_full.15eg_pcuecp_ssds_v1 : 15eg_pcuecp_ssds_v1-20241202_122916-c02c3f9e8: Succeeded
+2024-12-02 13:17:47.810  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.task_full.15eg_pcuecp_ssds_v1 : rmwork = 'never', build_ok = True
+2024-12-02 13:17:47.812  INFO [db] sqlalchemy.engine : PRAGMA foreign_keys=ON
+2024-12-02 13:17:47.813  INFO [db] sqlalchemy.engine : PRAGMA journal_mode=TRUNCATE
+2024-12-02 13:17:47.813  INFO [db] sqlalchemy.engine : PRAGMA automatic_index=true
+2024-12-02 13:17:47.813  INFO [db] sqlalchemy.engine.base.Engine : PRAGMA optimize
+2024-12-02 13:17:47.813  INFO [db] sqlalchemy.engine.base.Engine : ()
+2024-12-02 13:17:47.814  DEBUG [15eg_pcuecp_ssds_v1] kepler.soc_build.task_manager.15eg_pcuecp_ssds_v1 : Full build process ending. ok=True

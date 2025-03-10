@@ -1,0 +1,212 @@
+2025-03-03 10:20:37.422 [info] Started local extension host with pid 975082.
+2025-03-03 10:20:37.528 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.13.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 10:20:37.529 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.14.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 10:20:37.529 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.15.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 10:20:37.529 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.15.1]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 10:20:37.530 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.16.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 10:20:37.538 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.17.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 10:20:37.568 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:20:37.570 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:20:37.578 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:20:37.578 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:20:37.578 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:20:37.578 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:20:37.582 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:20:37.582 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:20:37.583 [error] [/home/sgass/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:20:40.082 [info] [perf] Render performance baseline is 19ms
+2025-03-03 10:21:08.570 [error] Cannot read the extension from /home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.17.0: ScanningExtension: Cannot read the extension from /home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.17.0
+    at _.scanLocalExtension (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:127494)
+2025-03-03 10:21:08.579 [error] Cannot read the extension from /home/sgass/.vscode/extensions/ms-python.python-2025.0.0-linux-x64: ScanningExtension: Cannot read the extension from /home/sgass/.vscode/extensions/ms-python.python-2025.0.0-linux-x64
+    at _.scanLocalExtension (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:127494)
+2025-03-03 10:35:45.997 [info] Started local extension host with pid 976766.
+2025-03-03 10:35:46.191 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.13.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 10:35:46.191 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.14.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 10:35:46.191 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.15.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 10:35:46.191 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.15.1]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 10:35:46.191 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.16.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 10:35:46.192 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.17.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 10:35:46.222 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:35:46.223 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:35:46.225 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:35:46.226 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:35:46.227 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:35:46.228 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:35:46.228 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:35:46.229 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:35:46.245 [error] [/home/sgass/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 10:35:48.888 [info] [perf] Render performance baseline is 39ms
+2025-03-03 10:37:23.692 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/sgass/Projects/kepler/petalinux/layers/meta-kepler-mpcu/recipes-apps/hdr-pri-pa-shutdown' failed: No such file or directory (EUNKNOWN) (path: /home/sgass/Projects/kepler)
+2025-03-03 10:37:23.692 [error] [File Watcher (universal)] inotify_add_watch on '/home/sgass/Projects/kepler/petalinux/layers/meta-kepler-mpcu/recipes-apps/hdr-pri-pa-shutdown' failed: No such file or directory
+2025-03-03 10:43:05.824 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 10:50:37.475 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 10:54:42.284 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 11:18:01.316 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 11:18:20.984 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 11:22:09.182 [info] Started local extension host with pid 997703.
+2025-03-03 11:22:12.166 [info] [perf] Render performance baseline is 17ms
+2025-03-03 11:22:12.441 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.13.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 11:22:12.441 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.14.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 11:22:12.442 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.15.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 11:22:12.443 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.15.1]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 11:22:12.443 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.16.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 11:22:12.443 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.17.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 11:22:12.452 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 11:22:12.453 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 11:22:12.454 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 11:22:12.455 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 11:22:12.456 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 11:22:12.456 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 11:22:12.457 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 11:22:12.457 [error] [/home/sgass/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 11:22:12.458 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 11:23:01.066 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/sgass/Projects/kepler2/c/petalinux_tools/afsw_blade_spi' failed: No such file or directory (EUNKNOWN) (path: /home/sgass/Projects/kepler2)
+2025-03-03 11:23:01.067 [error] [File Watcher (universal)] inotify_add_watch on '/home/sgass/Projects/kepler2/c/petalinux_tools/afsw_blade_spi' failed: No such file or directory
+2025-03-03 11:26:39.911 [error] Soft Assertion Failed: Error: Soft Assertion Failed
+    at k (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:12:8999)
+    at new l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:710:66180)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:710:60071
+    at Array.map (<anonymous>)
+    at M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:710:60009)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:710:63061
+    at b (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:17108)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:710:63056
+2025-03-03 11:32:30.237 [error] Soft Assertion Failed: Error: Soft Assertion Failed
+    at k (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:12:8999)
+    at new l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:710:66180)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:710:58589
+    at Array.map (<anonymous>)
+    at b._runFn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:710:58558)
+    at b.j (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:14903)
+    at b.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:15324)
+    at c.finish (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:17664)
+    at b (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:95:17123)
+    at d.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:710:69329)
+    at l.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:100:732)
+    at l.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:100:802)
+    at l.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:100:1018)
+    at d.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:17889)
+    at l.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:100:732)
+    at l.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:100:949)
+    at v.s (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:131:86800)
+    at v.endEmitViewEvents (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:131:87301)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:779:28095
+    at d.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:765:3680)
+    at l.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:100:732)
+    at l.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:100:949)
+    at oe.endDeferredEmit (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:774:17185)
+    at K.xb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:774:907)
+    at K._applyUndo (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:774:431)
+    at b.undo (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:764:13563)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:801:5678
+    at o.n (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:801:3033)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:801:5661
+    at o.p (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:801:3417)
+    at o.x (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:801:5630)
+    at o.A (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:801:6452)
+    at o.undo (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:801:6104)
+    at K.undo (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:774:2683)
+    at T.runEditorCommand (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:710:41595)
+    at T._runEditorCommand (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:710:12164)
+    at Object.implementation (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:710:11773)
+    at r.runCommand (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:710:2856)
+    at handler (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:710:2109)
+    at f.invokeFunction (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:666:684)
+    at w.n (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1745:32236)
+    at w.executeCommand (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1745:31824)
+    at U.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:670:19960)
+    at U.J (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:670:17559)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2321:45527
+2025-03-03 12:16:13.742 [info] Started local extension host with pid 1032470.
+2025-03-03 12:16:16.625 [info] [perf] Render performance baseline is 18ms
+2025-03-03 12:16:16.771 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.13.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 12:16:16.772 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.14.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 12:16:16.772 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.15.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 12:16:16.773 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.15.1]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 12:16:16.773 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.16.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 12:16:16.773 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.17.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 12:16:16.779 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 12:16:16.779 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 12:16:16.781 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 12:16:16.781 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 12:16:16.782 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 12:16:16.782 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 12:16:16.783 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 12:16:16.784 [error] [/home/sgass/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 12:16:16.784 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 12:16:41.330 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 12:18:12.131 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/sgass/Projects/kepler)
+2025-03-03 12:58:38.053 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 14:14:16.658 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 14:15:01.119 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 14:52:24.420 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 14:55:50.953 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 15:50:34.004 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 15:53:20.980 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 15:53:22.183 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 15:53:49.267 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 15:54:52.352 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 16:44:39.816 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 16:44:42.261 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 16:51:46.961 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 16:53:00.859 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 16:54:30.365 [error] n is not iterable: TypeError: n is not iterable
+	at K_.provideHover (/home/sgass/.vscode/extensions/mshr-h.veriloghdl-1.16.0/dist/main.js:588:7681)
+	at async C.provideHover (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:161:106493)
+2025-03-03 19:54:54.077 [info] Started local extension host with pid 1429862.
+2025-03-03 19:54:57.120 [info] [perf] Render performance baseline is 16ms
+2025-03-03 19:54:57.129 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.13.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 19:54:57.129 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.14.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 19:54:57.130 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.15.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 19:54:57.130 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.15.1]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 19:54:57.130 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.16.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 19:54:57.130 [error] [/home/sgass/.vscode/extensions/mechatroner.rainbow-csv-3.17.0]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.95.0.
+2025-03-03 19:54:57.134 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.16.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 19:54:57.136 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.18.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 19:54:57.136 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.16.1-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 19:54:57.140 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.18.1-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 19:54:57.140 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.20.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 19:54:57.141 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.22.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 19:54:57.142 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.22.2-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 19:54:57.143 [error] [/home/sgass/.vscode/extensions/ms-python.python-2025.0.0-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.
+2025-03-03 19:54:57.143 [error] [/home/sgass/.vscode/extensions/ms-python.python-2024.22.1-linux-x64]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0-20240918.

@@ -1,3 +1,6 @@
-2025/02/26-15:21:42.511 1e0d Reusing MANIFEST /home/sgass/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
-2025/02/26-15:21:42.542 1e0d Recovering log #109
-2025/02/26-15:21:42.542 1e0d Reusing old log /home/sgass/.config/obsidian/Local Storage/leveldb/000109.log 
+2025/03/09-21:08:32.027 1c41 Reusing MANIFEST /home/sgass/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2025/03/09-21:08:32.057 1c41 Recovering log #134
+2025/03/09-21:08:32.057 1c41 Reusing old log /home/sgass/.config/obsidian/Local Storage/leveldb/000134.log 
+2025/03/09-21:22:24.306 1c41 Level-0 table #139: started
+2025/03/09-21:22:24.316 1c41 Level-0 table #139: 15400 bytes OK
+2025/03/09-21:22:24.320 1c41 Delete type=0 #134

@@ -1,0 +1,23 @@
+2025-01-06 09:40:17.433 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-01-06 09:40:17.433 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-01-06 09:40:17.433 [info] Experiment 'pythonTestAdapter' is active
+2025-01-06 09:40:17.433 [info] Native locator: Refresh started
+2025-01-06 09:40:17.433 [info] Default formatter is set to null for workspace /home/sgass/Projects/kepler
+2025-01-06 09:40:17.473 [info] > pyenv which python
+2025-01-06 09:40:17.473 [info] cwd: .
+2025-01-06 09:40:17.512 [info] Python interpreter path: /usr/bin/python3
+2025-01-06 09:40:17.513 [info] Editor support is inactive since language server is set to None.
+2025-01-06 09:40:17.534 [info] Native locator: Refresh finished in 189 ms
+2025-01-06 09:40:18.493 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-01-06 09:40:18.498 [info] > pixi --version
+2025-01-06 09:40:18.500 [warning] could not find a pixi interpreter for the interpreter at /usr/bin/python3
+2025-01-06 09:40:18.506 [warning] could not find a pixi interpreter for the interpreter at /usr/bin/python3
+2025-01-10 13:39:48.000 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/network_packet_generator/network_packet_generator_tb.py
+2025-01-10 13:40:28.755 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/network_packet_generator/network_packet_generator_tb.py
+2025-01-10 13:40:33.616 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/network_packet_generator/network_packet_generator_tb.py
+2025-01-10 13:40:48.553 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/network_packet_generator/network_packet_generator_tb.py
+2025-01-10 13:41:53.912 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/network_packet_generator/network_packet_generator_tb.py
+2025-01-10 13:43:52.623 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/network_packet_generator/network_packet_generator_tb.py
+2025-01-10 13:47:22.645 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/network_packet_generator/network_packet_generator_tb.py
+2025-01-10 13:49:00.441 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/network_packet_generator/network_packet_generator_tb.py
+2025-01-10 13:49:24.837 [info] Discover tests for workspace name: kepler - uri: /home/sgass/Projects/kepler/python/kepler/tests/rtlsim/network_packet_generator/network_packet_generator_tb.py

@@ -1,0 +1,41 @@
+2025-02-03 10:23:35.707 [info] mshr-h.veriloghdl is now active.
+2025-02-03 10:23:35.707 [info] [ExtensionManager] previousVersion: "1.16.0", currentVersion: "1.16.0"
+2025-02-03 10:23:35.707 [info] ctags manager configure
+2025-02-03 10:23:35.707 [warning] [LintManager] Invalid linter name: none
+2025-02-03 10:23:35.707 [info] mshr-h.veriloghdl activation finished.
+2025-02-03 10:23:35.711 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/sim/p4_router/p4_router_top_tb.sv
+2025-02-03 10:23:35.711 [info] indexing "/home/sgass/Projects/kepler2/hdl/sim/p4_router/p4_router_top_tb.sv"
+2025-02-03 10:23:35.711 [info] executing ctags
+2025-02-03 10:23:35.711 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler2/hdl/sim/p4_router/p4_router_top_tb.sv"
+2025-02-03 10:23:35.719 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/sim/p4_router/p4_router_top_tb.sv
+2025-02-03 10:23:35.719 [info] indexing "/home/sgass/Projects/kepler2/hdl/sim/p4_router/p4_router_top_tb.sv"
+2025-02-03 10:23:35.719 [info] executing ctags
+2025-02-03 10:23:35.719 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler2/hdl/sim/p4_router/p4_router_top_tb.sv"
+2025-02-03 10:23:35.725 [info] building symbols
+2025-02-03 10:23:35.731 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-03 10:23:35.738 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-03 10:23:45.131 [info] [VerilogHoverProvider] Hover requested
+2025-02-03 10:23:45.496 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-03 10:23:45.749 [info] [VerilogHoverProvider] Hover requested
+2025-02-03 10:23:46.080 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-03 10:23:46.516 [info] [VerilogHoverProvider] Hover requested
+2025-02-03 10:23:46.872 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-03 10:23:47.576 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/sim/p4_router/p4_router_top_tb.sv
+2025-02-03 10:23:47.580 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-03 10:23:51.948 [info] on save
+2025-02-03 10:23:53.453 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_pkg.sv
+2025-02-03 10:23:53.453 [info] indexing "/home/sgass/Projects/kepler2/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_pkg.sv"
+2025-02-03 10:23:53.453 [info] executing ctags
+2025-02-03 10:23:53.453 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler2/hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_pkg.sv"
+2025-02-03 10:23:53.458 [info] building symbols
+2025-02-03 10:23:53.461 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-03 10:24:02.977 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/sim/p4_router/p4_router_top_tb.sv
+2025-02-03 10:24:02.977 [info] indexing "/home/sgass/Projects/kepler2/hdl/sim/p4_router/p4_router_top_tb.sv"
+2025-02-03 10:24:02.977 [info] executing ctags
+2025-02-03 10:24:02.977 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler2/hdl/sim/p4_router/p4_router_top_tb.sv"
+2025-02-03 10:24:02.981 [info] building symbols
+2025-02-03 10:24:02.985 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-03 10:24:03.731 [info] on save
+2025-02-03 10:25:00.157 [info] on save
+2025-02-03 10:25:00.175 [warning] [LintManager] Invalid linter name: none
+2025-02-03 10:25:01.807 [info] Deactivated

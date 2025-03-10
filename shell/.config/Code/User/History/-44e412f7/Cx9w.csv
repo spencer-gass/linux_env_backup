@@ -1,0 +1,32 @@
+ADDRLEN,28,,,,,
+DATALEN,32,,,,,
+ADDRESSING,byte,,,,,
+#,enum name,base addr,words,Verilog module,comment (written to headers),comment (not written to headers)
+,ADDRS_ROM,h0000,19,avmm_rom,AVMM device address map ROM,
+,SGMII_PHY_MDIO,h0200,20,mdio_mmi,MDIO controller for PL-side SGMII PHY on Blade Tester,
+,DDR_CTRL,h0280,30,ddr4_ctrl,DDR controller,
+,PS_MASTER,h1900,20,avmm_to_avmm,Avalon Memory-Mapped adapter,
+,SGMII_MAC_DRP,h2000,24,drp_mmi,SGMII MAC DRP,
+,SEM,h2100,20,sem_ultrascale_avmm,Zynq Ultrascale SEM,
+,SGMII_MAC_MDIO,h2F00,20,mdio_mmi,MDIO controller for PL-side SGMII MAC on FPGA for PHY on Blade Tester,
+,PPL_CTRL,h3C00,36,ppl_ctrl,PPL multiplexing controller,
+,PPL_PRBS,h3D00,40,prbs_axis_src_sink_mmi,two PRBS sources and sinks for each side of the PPL,
+,PPL_AUR_CTRL,h3E00,36,aurora_ctrl_mmi,PCU-PCU Link Aurora control,
+,PPL_AUR_DRP,h3F00,22,drp_mmi,DRP to MMI for Aurora xcvr,
+,SATA_INIT_CTRL,h4100,23,sata_ctrl_mmi,Multiple SATA stack init control,
+,SATA0_CTRL,h4200,48,sata,SATA SSD interface,"max(block_mmi.MMI_NWORDS, block_byte_mmi.MMI_NWORDS)"
+,SATA1_CTRL,h4300,48,sata,SATA SSD interface,"max(block_mmi.MMI_NWORDS, block_byte_mmi.MMI_NWORDS)"
+,SATA2_CTRL,h4400,48,sata,SATA SSD interface,"max(block_mmi.MMI_NWORDS, block_byte_mmi.MMI_NWORDS)"
+,SATA0_DRP,h4600,24,sata_drp_mmi,DRP to MMI for SATA xcvr,
+,SATA1_DRP,h4700,24,sata_drp_mmi,DRP to MMI for SATA xcvr,
+,SATA2_DRP,h4800,24,sata_drp_mmi,DRP to MMI for SATA xcvr,
+,SATA0_PERF,h4A00,22,mmi_roregfile,SATA performance counters,"64-bit wide data channels (1: busy, 31: count, 32: time)"
+,SATA1_PERF,h4B00,22,mmi_roregfile,SATA performance counters,"64-bit wide data channels (1: busy, 31: count, 32: time)"
+,SATA2_PERF,h4C00,22,mmi_roregfile,SATA performance counters,"64-bit wide data channels (1: busy, 31: count, 32: time)"
+,SATA0_BLOCK_TRAFFIC,h4E00,38,block_traffic_gen_mmi,SATA block-layer traffic generator,
+,SATA0_BYTE_TRAFFIC,h5000,38,bb_traffic_gen_mmi,SATA byte-layer traffic generator,
+,GIT_INFO,h6100,22,avmm_rom,Git Commit Hash and Date Info,
+,P4_ROUTER,h6200,38,p4_router_avmm_regs, Control and status for parts of p4_router other than VNP4
+,PKT_GEN,h6300,43,network_packet_generator, Generates Eth/VLAN/MPLS/IPv4 packets for throughput testing.
+,LMKCLK,h10000,16384,clk_lmk04828x_ctrl,LMK CTRL,
+,VNP4,h20000,32768,p4_router_vnp4_wrapper,Vitis Networking P4 table and stats interface

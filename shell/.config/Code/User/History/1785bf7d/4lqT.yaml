@@ -1,0 +1,2659 @@
+dict-fragments:
+    source-config:
+        gen_addrs:
+            post-config-script: soc_build/post-source-config.sh
+    vivado-build:
+        hsd_artifacts:
+            artifact-config:
+                toplevel-extensions: [.bit, .hdf, .xsa]
+                renames:
+                - ["*/board_pch_top.bit", .bit]
+                - ["*/board_pch_top.bin", .bin]
+                - ["*/board_pch_top.hdf", .hdf]
+                - ["*/board_pch_top.xsa", .xsa]
+                files:
+                - ["{proj_dir}/hsd.runs/*/runme.log", log]
+                - ["{proj_dir}/hsd.runs/impl_1/board_hsd_top.ltx", optional]
+        mpcu_artifacts:
+            artifact-config:
+                toplevel-extensions: [.bit, .hdf, .xsa]
+                renames:
+                - ["*/board_mpcu_top.bit", .bit]
+                - ["*/board_mpcu_top.bin", .bin]
+                - ["*/board_mpcu_top.hdf", .hdf]
+                - ["*/board_mpcu_top.xsa", .xsa]
+                files:
+                - ["{proj_dir}/mpcu.runs/*/runme.log", log]
+                - ["{proj_dir}/mpcu.runs/impl_1/board_mpcu_top.ltx", optional]
+        mpcut1_artifacts:
+            artifact-config:
+                toplevel-extensions: [.bit, .hdf, .xsa]
+                renames:
+                - ["*/board_mpcut1_top.bit", .bit]
+                - ["*/board_mpcut1_top.bin", .bin]
+                - ["*/board_mpcut1_top.hdf", .hdf]
+                - ["*/board_mpcut1_top.xsa", .xsa]
+                files:
+                - ["{proj_dir}/mpcut1.runs/*/runme.log", log]
+                - ["{proj_dir}/mpcut1.runs/impl_1/board_mpcut1_top.ltx", optional]
+        pch_artifacts:
+            artifact-config:
+                toplevel-extensions: [.bit, .hdf, .xsa]
+                renames:
+                - ["*/board_pch_top.bit", .bit]
+                - ["*/board_pch_top.bin", .bin]
+                - ["*/board_pch_top.hdf", .hdf]
+                - ["*/board_pch_top.xsa", .xsa]
+                files:
+                - ["{proj_dir}/pch.runs/*/runme.log", log]
+                - ["{proj_dir}/pch.runs/impl_1/board_pch_top.ltx", optional]
+                # if list, filename, then one or more of "top", "log"
+                # if not list, then assume non-log, non-top
+        pcuecp_artifacts:
+            artifact-config:
+                toplevel-extensions: [.bit, .hdf, .xsa]
+                renames:
+                - ["*/board_pcuecp_top.bit", .bit]
+                - ["*/board_pcuecp_top.bin", .bin]
+                - ["*/board_pcuecp_top.hdf", .hdf]
+                - ["*/board_pcuecp_top.xsa", .xsa]
+                files:
+                - ["{proj_dir}/pcuecp.runs/*/runme.log", log]
+                - ["{proj_dir}/pcuecp.runs/impl_1/board_pcuecp_top.ltx", optional]
+        pcuecp_v1_artifacts:
+            artifact-config:
+                toplevel-extensions: [.bit, .hdf, .xsa]
+                renames:
+                - ["*/board_pcuecp_top.bit", .bit]
+                - ["*/board_pcuecp_top.bin", .bin]
+                - ["*/board_pcuecp_top.hdf", .hdf]
+                - ["*/board_pcuecp_top.xsa", .xsa]
+                files:
+                - ["{proj_dir}/pcuecp.runs/*/runme.log", log]
+                - ["{proj_dir}/pcuecp.runs/impl_1/board_pcuecp_top.ltx", optional]
+                - ["hdl/vivado/ipsrcs/tcl-managed/pcuecp/15eglv/vitis_net_p4_frr_t1_ecp.xcix"]
+        pcugse_artifacts:
+            artifact-config:
+                toplevel-extensions: [.bit, .hdf, .xsa]
+                renames:
+                - ["*/board_pcugse_top.bit", .bit]
+                - ["*/board_pcugse_top.bin", .bin]
+                - ["*/board_pcugse_top.hdf", .hdf]
+                - ["*/board_pcugse_top.xsa", .xsa]
+                files:
+                - ["{proj_dir}/pcugse.runs/*/runme.log", log]
+                - ["{proj_dir}/pcugse.runs/impl_1/board_pcugse_top.ltx", optional]
+        pcuhdr_artifacts:
+            artifact-config:
+                toplevel-extensions: [.bit, .hdf, .xsa]
+                renames:
+                - ["*/board_pcuhdr_top.bit", .bit]
+                - ["*/board_pcuhdr_top.bin", .bin]
+                - ["*/board_pcuhdr_top.hdf", .hdf]
+                - ["*/board_pcuhdr_top.xsa", .xsa]
+                files:
+                - ["{proj_dir}/pcuhdr.runs/*/runme.log", log]
+                - ["{proj_dir}/pcuhdr.runs/impl_1/board_pcuhdr_top.ltx", optional]
+        rsmpcu_artifacts:
+            artifact-config:
+                toplevel-extensions: [.bit, .hdf, .xsa]
+                renames:
+                - ["*/board_rsmpcu_top.bit", .bit]
+                - ["*/board_rsmpcu_top.bin", .bin]
+                - ["*/board_rsmpcu_top.hdf", .hdf]
+                - ["*/board_rsmpcu_top.xsa", .xsa]
+                files:
+                - ["{proj_dir}/rsmpcu.runs/*/runme.log", log]
+                - ["{proj_dir}/rsmpcu.runs/impl_1/board_rsmpcu_top.ltx", optional]
+        sue_artifacts:
+            artifact-config:
+                toplevel-extensions: [.bit, .hdf, .xsa]
+                renames:
+                - ["*/board_sue_top.bit", .bit]
+                - ["*/board_sue_top.bin", .bin]
+                - ["*/board_sue_top.hdf", .hdf]
+                - ["*/board_sue_top.xsa", .xsa]
+                files:
+                - ["{proj_dir}/sue.runs/*/runme.log", log]
+                - ["{proj_dir}/sue.runs/impl_1/board_sue_top.ltx", optional]
+        sug_artifacts:
+            artifact-config:
+                toplevel-extensions: [.bit, .hdf, .xsa]
+                renames:
+                - ["*/board_sug_top.bit", .bit]
+                - ["*/board_sug_top.bin", .bin]
+                - ["*/board_sug_top.hdf", .hdf]
+                - ["*/board_sug_top.xsa", .xsa]
+                files:
+                - ["{proj_dir}/sug.runs/*/runme.log", log]
+                - ["{proj_dir}/sug.runs/impl_1/board_sug_top.ltx", optional]
+        zcu111_artifacts:
+            artifact-config:
+                toplevel-extensions: [.bit, .xsa]
+                renames:
+                - ["*/board_zcu111_top.bit", .bit]
+                - ["*/board_zcu111_top.bin", .bin]
+                - ["*/board_zcu111_top.xsa", .xsa]
+                files:
+                - ["{proj_dir}/zcu111.runs/*/runme.log", log]
+                - ["{proj_dir}/zcu111.runs/impl_1/board_zcu111_top.ltx", optional]
+        trenz_rfsoc_carrier_artifacts:
+            artifact-config:
+                toplevel-extensions: [.bit, .xsa]
+                renames:
+                - ["*/board_trenz_rfsoc_carrier_top.bit", .bit]
+                - ["*/board_trenz_rfsoc_carrier_top.bin", .bin]
+                - ["*/board_trenz_rfsoc_carrier_top.xsa", .xsa]
+                files:
+                - ["{proj_dir}/trenz_rfsoc_carrier.runs/*/runme.log", log]
+                - ["{proj_dir}/trenz_rfsoc_carrier.runs/impl_1/board_trenz_rfsoc_carrier_top.ltx", optional]
+        6cg_pch:
+            builder-version: 2019
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [6cg, pch]
+            created-project: hdl/vivado/workspace/6cg_pch/pch.xpr
+            export-hardware: true
+        9cg_pch:
+            builder-version: 2019
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [9cg, pch]
+            created-project: hdl/vivado/workspace/9cg_pch/pch.xpr
+            export-hardware: true
+        9eg_hsd:
+            builder-version: 2019
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [9eg, hsd]
+            created-project: hdl/vivado/workspace/9eg_hsd/hsd.xpr
+            upgrade-ips: true # defaults to True
+            export-hardware: true
+        9eg_pch:
+            builder-version: 2019
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [9eg, pch]
+            created-project: hdl/vivado/workspace/9eg_pch/pch.xpr
+            upgrade-ips: true # defaults to True
+            export-hardware: true
+        9eg_pch_2021:
+            builder-version: 2021
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [9eg, pch]
+            created-project: hdl/vivado/workspace/9eg_pch/pch.xpr
+            upgrade-ips: true # defaults to True
+            export-hardware: true
+        9eglv_rsmpcu:
+            builder-version: 2019
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [9eglv, rsmpcu]
+            created-project: hdl/vivado/workspace/9eglv_rsmpcu/rsmpcu.xpr
+            upgrade-ips: true # defaults to True
+            export-hardware: true
+        9eglv_sue:
+            builder-version: 2019
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [9eglv, sue]
+            created-project: hdl/vivado/workspace/9eglv_sue/sue.xpr
+            upgrade-ips: true # defaults to True
+            export-hardware: true
+        15eglv_mpcu:
+            builder-version: 2019
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [15eglv, mpcu]
+            created-project: hdl/vivado/workspace/15eglv_mpcu/mpcu.xpr
+            upgrade-ips: true # defaults to True
+            export-hardware: true
+        15eglv_mpcut1:
+            builder-version: 2019
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [15eglv, mpcut1]
+            created-project: hdl/vivado/workspace/15eglv_mpcut1/mpcut1.xpr
+            upgrade-ips: true # defaults to True
+            export-hardware: true
+        15eglv_pcuecp:
+            builder-version: 2019
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [15eglv, pcuecp]
+            created-project: hdl/vivado/workspace/15eglv_pcuecp/pcuecp.xpr
+            export-hardware: true
+        15eglv_pcuecp_v1:
+            builder-version: 2021
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [15eglv, pcuecp]
+            created-project: hdl/vivado/workspace/15eglv_pcuecp/pcuecp.xpr
+            export-hardware: true
+        15eglv_pcugse:
+            builder-version: 2021
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [15eglv, pcugse]
+            created-project: hdl/vivado/workspace/15eglv_pcugse/pcugse.xpr
+            export-hardware: true
+        15eglv_pcuhdr:
+            builder-version: 2021
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [15eglv, pcuhdr]
+            created-project: hdl/vivado/workspace/15eglv_pcuhdr/pcuhdr.xpr
+            export-hardware: true
+        15eglv_sug:
+            builder-version: 2019
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [15eglv, sug]
+            created-project: hdl/vivado/workspace/15eglv_sug/sug.xpr
+            export-hardware: true
+        28dr_zcu111:
+            builder-version: 2021
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [28dr, zcu111]
+            created-project: hdl/vivado/workspace/28dr_zcu111/zcu111.xpr
+            export-hardware: true
+        47dr_trenz_rfsoc_carrier:
+            builder-version: 2021
+            create-script: hdl/vivado/scripts/project_create.tcl
+            create-script-args: [47dr, trenz_rfsoc_carrier]
+            created-project: hdl/vivado/workspace/47dr_trenz_rfsoc_carrier/trenz_rfsoc_carrier.xpr
+            export-hardware: true
+    xsdk-build:
+        hsd_artifacts:
+            artifact-config:
+                toplevel-extensions: []  # placeholder
+        mpcu_artifacts:
+            artifact-config:
+                toplevel-extensions: []  # placeholder
+                files:
+                  - ["{ws_dir}/mpcu_fsbl_a53/{xsdk_build_config}/mpcu_fsbl_a53.elf"]
+        mpcut1_artifacts:
+            artifact-config:
+                toplevel-extensions: []  # placeholder
+                files:
+                  - ["{ws_dir}/mpcut1_fsbl_a53/{xsdk_build_config}/mpcut1_fsbl_a53.elf"]
+        pch_artifacts:
+            artifact-config:
+                toplevel-extensions: []  # placeholder
+        rsmpcu_artifacts:
+            artifact-config:
+                toplevel-extensions: []  # placeholder
+        sue_artifacts:
+            artifact-config:
+                toplevel-extensions: []  # placeholder
+                files:
+                - ["c/sue_firmware/**/*.keep", optional]
+                - ["{ws_dir}/sue_firmware_r5/*/sue_firmware_r5.elf.manifest.yaml", optional]
+        sue_on_pch_artifacts:
+            artifact-config:
+                toplevel-extensions: []  # placeholder
+                files:
+                - ["c/sue_firmware/**/*.keep", optional]
+                - ["{ws_dir}/sue_firmware_r5/*/sue_firmware_r5.elf.manifest.yaml", optional]
+        sug_artifacts:
+            artifact-config:
+                toplevel-extensions: []  # placeholder
+                files:
+                - ["c/sue_firmware/**/*.keep", optional]
+                - ["{ws_dir}/sue_firmware_r5/*/sue_firmware_r5.elf.manifest.yaml", optional]
+        6cg_pch:
+            builder-version: 2019
+            workspace-dir: c/zynqmp_baremetal/workspaces/6cg_pch
+            create-script: c/zynqmp_baremetal/scripts/create_pch_workspace.tcl
+            create-script-args: [6cg_pch, hdl/vivado/workspace/6cg_pch/pch.sdk/board_pch_top.hdf, hdl/vivado/workspace/6cg_pch/pch.runs/impl_1/board_pch_top.bit, --buildConfig, "{xsdk_build_config}"]
+        9cg_pch:
+            builder-version: 2019
+            workspace-dir: c/zynqmp_baremetal/workspaces/9cg_pch
+            create-script: c/zynqmp_baremetal/scripts/create_pch_workspace.tcl
+            create-script-args: [9cg_pch, hdl/vivado/workspace/9cg_pch/pch.sdk/board_pch_top.hdf, hdl/vivado/workspace/9cg_pch/pch.runs/impl_1/board_pch_top.bit, --buildConfig, "{xsdk_build_config}"]
+        9eg_hsd:
+            builder-version: 2019
+            workspace-dir: c/zynqmp_baremetal/workspaces/9eg_hsd
+            create-script: c/zynqmp_baremetal/scripts/create_pch_workspace.tcl
+            create-script-args: [9eg_hsd, hdl/vivado/workspace/9eg_hsd/hsd.sdk/board_hsd_top.hdf, hdl/vivado/workspace/9eg_hsd/hsd.runs/impl_1/board_hsd_top.bit, --buildConfig, "{xsdk_build_config}"]
+        9eg_pch:
+            builder-version: 2019
+            workspace-dir: c/zynqmp_baremetal/workspaces/9eg_pch
+            create-script: c/zynqmp_baremetal/scripts/create_pch_workspace.tcl
+            create-script-args: [9eg_pch, hdl/vivado/workspace/9eg_pch/pch.sdk/board_pch_top.hdf, hdl/vivado/workspace/9eg_pch/pch.runs/impl_1/board_pch_top.bit, --buildConfig, "{xsdk_build_config}"]
+        9eg_rsmpcu:
+            builder-version: 2019
+            workspace-dir: c/zynqmp_baremetal/workspaces/9eg_rsmpcu
+            create-script: c/zynqmp_baremetal/scripts/create_rsmpcu_workspace.tcl
+            create-script-args: [9eg_rsmpcu, hdl/vivado/workspace/9eglv_rsmpcu/rsmpcu.sdk/board_rsmpcu_top.hdf, hdl/vivado/workspace/9eglv_rsmpcu/rsmpcu.runs/impl_1/board_rsmpcu_top.bit, --buildConfig, "{xsdk_build_config}"]
+        9eg_sue:
+            builder-version: 2019
+            workspace-dir: c/zynqmp_baremetal/workspaces/9eg_sue
+            create-script: c/zynqmp_baremetal/scripts/create_sue_workspace.tcl
+            create-script-args: [9eg_sue, hdl/vivado/workspace/9eglv_sue/sue.sdk/board_sue_top.hdf, hdl/vivado/workspace/9eglv_sue/sue.runs/impl_1/board_sue_top.bit, --buildConfig, "{xsdk_build_config}"]
+        9eg_sue_on_pch:
+            builder-version: 2019
+            workspace-dir: c/zynqmp_baremetal/workspaces/9eg_sue
+            create-script: c/zynqmp_baremetal/scripts/create_sue_workspace.tcl
+            create-script-args: [9eg_sue, hdl/vivado/workspace/9eg_pch/pch.sdk/board_pch_top.hdf, hdl/vivado/workspace/9eg_pch/pch.runs/impl_1/board_pch_top.bit, --buildConfig, "{xsdk_build_config}"]
+        15eg_mpcu:
+            builder-version: 2019
+            workspace-dir: c/zynqmp_baremetal/workspaces/15eg_mpcu
+            create-script: c/zynqmp_baremetal/scripts/create_mpcu_workspace.tcl
+            create-script-args: [15eg_mpcu, hdl/vivado/workspace/15eglv_mpcu/mpcu.sdk/board_mpcu_top.hdf, hdl/vivado/workspace/15eglv_mpcu/mpcu.runs/impl_1/board_mpcu_top.bit, --buildConfig, "{xsdk_build_config}"]
+        15eg_mpcut1:
+            builder-version: 2019
+            workspace-dir: c/zynqmp_baremetal/workspaces/15eg_mpcut1
+            create-script: c/zynqmp_baremetal/scripts/create_mpcut1_workspace.tcl
+            create-script-args: [15eg_mpcut1, hdl/vivado/workspace/15eglv_mpcut1/mpcut1.sdk/board_mpcut1_top.hdf, hdl/vivado/workspace/15eglv_mpcut1/mpcut1.runs/impl_1/board_mpcut1_top.bit, --buildConfig, "{xsdk_build_config}"]
+        15eg_sug:
+            # This is used when building SUE firmware on SUG. If you use this, exclude Linux.
+            builder-version: 2019
+            workspace-dir: c/zynqmp_baremetal/workspaces/15eg_sug
+            create-script: c/zynqmp_baremetal/scripts/create_sue_workspace.tcl
+            create-script-args: [15eg_sug, hdl/vivado/workspace/15eglv_sug/sug.sdk/board_sug_top.hdf, hdl/vivado/workspace/15eglv_sug/sug.runs/impl_1/board_sug_top.bit, --buildConfig, "{xsdk_build_config}"]
+    vitis-build:
+        mpcu_artifacts:
+            artifact-config:
+                toplevel-extensions: []  # placeholder
+                files:
+                  - ["{ws_dir}/mpcu_fsbl_a53/{vitis_build_config}/mpcu_fsbl_a53.elf"]
+                  - ["{ws_dir}/mpcu_adcs_r5/{vitis_build_config}/mpcu_adcs_r5.elf"]
+        mpcut1_2021_artifacts:
+            artifact-config:
+                toplevel-extensions: []  # placeholder
+                files:
+                  - ["{ws_dir}/mpcut1_fsbl_a53/{vitis_build_config}/mpcut1_fsbl_a53.elf"]
+                  - ["{ws_dir}/mpcut1_adcs_r5/{vitis_build_config}/mpcut1_adcs_r5.elf"]
+        15eg_mpcu:
+            builder-version: 2021
+            workspace-dir: c/zynqmp_baremetal/workspaces/15eg_mpcu
+            create-script: c/zynqmp_baremetal/scripts/create_vitis_workspace.tcl
+            create-script-args: [15eg_mpcu, hdl/vivado/workspace/15eglv_mpcu/board_mpcu_top.xsa, --buildConfig, "{vitis_build_config}"]
+        15eg_mpcut1:
+            builder-version: 2021
+            workspace-dir: c/zynqmp_baremetal/workspaces/15eg_mpcut1
+            create-script: c/zynqmp_baremetal/scripts/create_vitis_workspace.tcl
+            create-script-args: [15eg_mpcut1, hdl/vivado/workspace/15eglv_mpcut1/board_mpcut1_top.xsa, --buildConfig, "{vitis_build_config}"]
+    petalinux-build:
+        standard_petalinux_artifacts:
+            artifact-config:
+                toplevel-extension: [.elf, .ub]
+                renames:
+                - ["images/linux/*.ub", .ub]
+                - ["images/linux/*.dtb", .dtb]
+                - ["images/linux/bl31.elf", _bl31.elf]
+                - ["images/linux/boot.scr", _boot.scr]
+                - ["images/linux/rootfs.manifest", _rootfs.manifest]
+                files:
+                - ["{proj_dir}/images/linux/image.ub", top]
+                - ["{proj_dir}/images/linux/u-boot.elf", top]
+                - ["{proj_dir}/images/linux/bl31.elf", top]
+                - ["{proj_dir}/images/linux/boot.scr", top]
+                - "{proj_dir}/images/linux/system.dtb"
+                - ["{proj_dir}/images/linux/rootfs.manifest", log]
+                auto_elfs: false
+        petalinux_2021_artifacts:
+            artifact-config:
+                renames:
+                - ["images/linux/pmufw.elf", _pmufw.elf]
+                files:
+                - ["{proj_dir}/images/linux/pmufw.elf", top]
+        6cg_pch:
+            builder-version: 2019
+            project-dir: petalinux/pch
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/6cg_pch/pch.sdk/"]
+        9cg_pch:
+            builder-version: 2019
+            project-dir: petalinux/pch
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/9cg_pch/pch.sdk/"]
+        9eg_hsd_kas:
+            builder-version: 2019
+            project-dir: petalinux/pch-kas
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/9eg_hsd/hsd.sdk/"]
+        9eg_hsd_ku:
+            builder-version: 2019
+            project-dir: petalinux/pch-ku
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/9eg_hsd/hsd.sdk/"]
+        9eg_pch:
+            builder-version: 2019
+            project-dir: petalinux/pch
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/9eg_pch/pch.sdk/"]
+        9eg_pch_sateliot_prim:
+            builder-version: 2019
+            project-dir: petalinux/pch-sateliot-prim
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/9eg_pch/pch.sdk/"]
+        9eg_pch_sateliot_sec:
+            builder-version: 2021
+            project-dir: petalinux/pch-sateliot-sec
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/9eg_pch/"]
+        15eg_mpcu:
+            builder-version: 2019
+            project-dir: petalinux/pcu-mpcu
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/15eglv_mpcu/mpcu.sdk/", "../../c/zynqmp_baremetal/workspaces/15eg_mpcu/mpcu_adcs_r5/{xsdk_build_config}/mpcu_adcs_r5.elf"]
+        15eg_mpcu_2021:
+            builder-version: 2021
+            project-dir: petalinux/pcu-mpcu-2021
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/15eglv_mpcu/", "../../c/zynqmp_baremetal/workspaces/15eg_mpcu/mpcu_adcs_r5/{vitis_build_config}/mpcu_adcs_r5.elf"]
+        15eg_mpcut1:
+            builder-version: 2019
+            project-dir: petalinux/pcu-mpcut1
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/15eglv_mpcut1/mpcut1.sdk/", "../../c/zynqmp_baremetal/workspaces/15eg_mpcut1/mpcut1_adcs_r5/{xsdk_build_config}/mpcut1_adcs_r5.elf"]
+        15eg_mpcut1_2021:
+            builder-version: 2021
+            project-dir: petalinux/pcu-mpcut1-2021
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/15eglv_mpcut1/", "../../c/zynqmp_baremetal/workspaces/15eg_mpcut1/mpcut1_adcs_r5/{vitis_build_config}/mpcut1_adcs_r5.elf"]
+        15eg_pcuecp:
+            builder-version: 2019
+            project-dir: petalinux/pcu-ecp
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/15eglv_pcuecp/pcuecp.sdk/"]
+        15eg_pcuecp_v1:
+            builder-version: 2021
+            project-dir: petalinux/pcu-ecp-2021
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/15eglv_pcuecp/", "../../hdl/vivado/ipsrcs/tcl-managed/pcuecp/15eglv/vitis_net_p4_frr_t1_ecp.xcix"]
+        15eg_pcugse:
+            builder-version: 2021
+            project-dir: petalinux/pcu-gse
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/15eglv_pcugse/"]
+        15eg_pcuhdr:
+            builder-version: 2021
+            project-dir: petalinux/pcu-hdr
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/15eglv_pcuhdr/"]
+        15eg_sug:
+            # This is used when building Petalinux for SUG. If you use this, exclude the SUE firmware.
+            builder-version: 2019
+            project-dir: petalinux/pcu-sug
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/15eglv_sug/sug.sdk/"]
+        28dr_zcu111:
+            builder-version: 2021
+            project-dir: petalinux/zcu111
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/28dr_zcu111/"]
+        47dr_trenz_rfsoc_carrier:
+            builder-version: 2021
+            project-dir: petalinux/trenz_rfsoc_carrier
+            create-script: "./soc_create_project.sh"
+            create-script-args: ["../../hdl/vivado/workspace/47dr_trenz_rfsoc_carrier/"]
+    bootgen-build:
+        standard_bootgen_artifacts:
+            artifact-config:
+                toplevel-extensions: [.boot]
+                renames:
+                - ["*/*.boot", .boot]
+                - ["*/*.bif", .bif]
+        6cg_pch:
+            builder-version: 2019
+            dest: "{ws_dir}/6cg_pch.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "{ws_dir}/pch_fsbl_r5/{xsdk_build_config}/pch_fsbl_r5.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            - file: "{ws_dir}/pch_pmufw/{xsdk_build_config}/pch_pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/6cg_pch/pch.runs/impl_1/board_pch_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "{ws_dir}/pch_r2d2_r5/{xsdk_build_config}/pch_r2d2_r5.elf"
+              attributes:
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "6cg_pch.boot"]
+        9cg_pch:
+            builder-version: 2019
+            dest: "{ws_dir}/9cg_pch.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "{ws_dir}/pch_fsbl_r5/{xsdk_build_config}/pch_fsbl_r5.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            - file: "{ws_dir}/pch_pmufw/{xsdk_build_config}/pch_pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/9cg_pch/pch.runs/impl_1/board_pch_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "{ws_dir}/pch_r2d2_r5/{xsdk_build_config}/pch_r2d2_r5.elf"
+              attributes:
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "9cg_pch.boot"]
+        9eg_hsd_kas:
+            builder-version: 2019
+            dest: "{ws_dir}/9eg_hsd_linux.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "{ws_dir}/pch_fsbl_r5/{xsdk_build_config}/pch_fsbl_r5.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            - file: "{ws_dir}/pch_pmufw/{xsdk_build_config}/pch_pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/9eg_hsd/hsd.runs/impl_1/board_hsd_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "{ws_dir}/pch_r2d2_r5/{xsdk_build_config}/pch_r2d2_r5.elf"
+              attributes:
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            - file: "petalinux/pch-kas/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/pch-kas/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "9eg_hsd_linux.boot"]
+        9eg_hsd_ku:
+            builder-version: 2019
+            dest: "{ws_dir}/9eg_hsd_linux.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "{ws_dir}/pch_fsbl_r5/{xsdk_build_config}/pch_fsbl_r5.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            - file: "{ws_dir}/pch_pmufw/{xsdk_build_config}/pch_pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/9eg_hsd/hsd.runs/impl_1/board_hsd_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "{ws_dir}/pch_r2d2_r5/{xsdk_build_config}/pch_r2d2_r5.elf"
+              attributes:
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            - file: "petalinux/pch-ku/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/pch-ku/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "9eg_hsd_linux.boot"]
+        9eg_pch:
+            builder-version: 2019
+            dest: "{ws_dir}/9eg_pch_linux.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "{ws_dir}/pch_fsbl_r5/{xsdk_build_config}/pch_fsbl_r5.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            - file: "{ws_dir}/pch_pmufw/{xsdk_build_config}/pch_pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/9eg_pch/pch.runs/impl_1/board_pch_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "{ws_dir}/pch_r2d2_r5/{xsdk_build_config}/pch_r2d2_r5.elf"
+              attributes:
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            - file: "petalinux/pch/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/pch/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "9eg_pch_linux.boot"]
+        9eg_pch_sateliot_prim:
+            builder-version: 2019
+            dest: "{ws_dir}/9eg_pch_sateliot_prim_linux.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "{ws_dir}/pch_fsbl_r5/{xsdk_build_config}/pch_fsbl_r5.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            - file: "{ws_dir}/pch_pmufw/{xsdk_build_config}/pch_pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/9eg_pch/pch.runs/impl_1/board_pch_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "{ws_dir}/pch_r2d2_r5/{xsdk_build_config}/pch_r2d2_r5.elf"
+              attributes:
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            - file: "petalinux/pch-sateliot-prim/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/pch-sateliot-prim/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "9eg_pch_sateliot_prim_linux.boot"]
+        9eg_pch_sateliot_sec:
+            # No Vitis/firmware build, so bundle everything from Petalinux.
+            builder-version: 2021
+            dest: "petalinux/pch-sateliot-sec/9eg_pch.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "petalinux/pch-sateliot-sec/images/linux/zynqmp_fsbl.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: a53-0
+                checksum: sha3
+            - file: "petalinux/pch-sateliot-sec/images/linux/pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/9eg_pch/pch.runs/impl_1/board_pch_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "petalinux/pch-sateliot-sec/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/pch-sateliot-sec/images/linux/system.dtb"
+              attributes:
+                destination_cpu: a53-0
+                load: "0x00100000"
+                checksum: sha3
+            - file: "petalinux/pch-sateliot-sec/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "9eg_pch.boot"]
+        9eg_sue:
+            builder-version: 2019
+            dest: "{ws_dir}/9eg_sue.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "{ws_dir}/sue_fsbl_r5/{xsdk_build_config}/sue_fsbl_r5.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            - file: "{ws_dir}/sue_pmufw/{xsdk_build_config}/sue_pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/9eglv_sue/sue.runs/impl_1/board_sue_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "{ws_dir}/sue_firmware_r5/{xsdk_build_config}/sue_firmware_r5.elf"
+              attributes:
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "9eg_sue.boot"]
+        9eg_rsmpcu:
+            builder-version: 2019
+            dest: "{ws_dir}/9eg_rsmpcu.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "{ws_dir}/rsmpcu_fsbl_r5/{xsdk_build_config}/rsmpcu_fsbl_r5.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            - file: "{ws_dir}/rsmpcu_pmufw/{xsdk_build_config}/rsmpcu_pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/9eglv_rsmpcu/rsmpcu.runs/impl_1/board_rsmpcu_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "{ws_dir}/rsmpcu_adcs_r5/{xsdk_build_config}/rsmpcu_adcs_r5.elf"
+              attributes:
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "9eg_rsmpcu.boot"]
+        9eg_sue_on_pch:
+            builder-version: 2019
+            dest: "{ws_dir}/9eg_pch.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "{ws_dir}/sue_fsbl_r5/{xsdk_build_config}/sue_fsbl_r5.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            - file: "{ws_dir}/sue_pmufw/{xsdk_build_config}/sue_pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/9eg_pch/pch.runs/impl_1/board_pch_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "{ws_dir}/sue_firmware_r5/{xsdk_build_config}/sue_firmware_r5.elf"
+              attributes:
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "9eg_pch.boot"]
+        15eg_mpcu:
+            builder-version: 2019
+            dest: "{ws_dir}/15eg_mpcu.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "{ws_dir}/mpcu_fsbl_a53/{xsdk_build_config}/mpcu_fsbl_a53.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: a53-0
+                checksum: sha3
+            - file: "{ws_dir}/mpcu_pmufw/{xsdk_build_config}/mpcu_pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/15eglv_mpcu/mpcu.runs/impl_1/board_mpcu_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            # mpcu_adcs_r5.elf gets loaded by petalinux, rather than the bootloader
+            - file: "petalinux/pcu-mpcu/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/pcu-mpcu/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "15eg_mpcu.boot"]
+        15eg_mpcu_2021:
+            builder-version: 2021
+            dest: "{ws_dir}/15eg_mpcu.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "{ws_dir}/mpcu_fsbl_a53/{vitis_build_config}/mpcu_fsbl_a53.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: a53-0
+                checksum: sha3
+            # We're not modifying PMU-FW, so we don't bother building it with Vitis.
+            - file: "petalinux/pcu-mpcu-2021/images/linux/pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/15eglv_mpcu/mpcu.runs/impl_1/board_mpcu_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            # mpcu_adcs_r5.elf gets loaded by petalinux, rather than the bootloader
+            - file: "petalinux/pcu-mpcu-2021/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/pcu-mpcu-2021/images/linux/system.dtb"
+              attributes:
+                destination_cpu: a53-0
+                load: "0x00100000"
+                checksum: sha3
+            - file: "petalinux/pcu-mpcu-2021/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "15eg_mpcu.boot"]
+        15eg_mpcut1:
+            builder-version: 2019
+            dest: "{ws_dir}/15eg_mpcut1.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "{ws_dir}/mpcut1_fsbl_a53/{xsdk_build_config}/mpcut1_fsbl_a53.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: a53-0
+                checksum: sha3
+            - file: "{ws_dir}/mpcut1_pmufw/{xsdk_build_config}/mpcut1_pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/15eglv_mpcut1/mpcut1.runs/impl_1/board_mpcut1_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            # mpcu_adcs_r5.elf gets loaded by petalinux, rather than the bootloader
+            - file: "petalinux/pcu-mpcut1/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/pcu-mpcut1/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "15eg_mpcut1.boot"]
+        15eg_mpcut1_2021:
+            builder-version: 2021
+            dest: "{ws_dir}/15eg_mpcut1.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "{ws_dir}/mpcut1_fsbl_a53/{vitis_build_config}/mpcut1_fsbl_a53.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: a53-0
+                checksum: sha3
+            # We're not modifying PMU-FW, so we don't bother building it with Vitis.
+            - file: "petalinux/pcu-mpcut1-2021/images/linux/pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/15eglv_mpcut1/mpcut1.runs/impl_1/board_mpcut1_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            # mpcut1_adcs_r5.elf gets loaded by petalinux, rather than the bootloader
+            - file: "petalinux/pcu-mpcut1-2021/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/pcu-mpcut1-2021/images/linux/system.dtb"
+              attributes:
+                destination_cpu: a53-0
+                load: "0x00100000"
+                checksum: sha3
+            - file: "petalinux/pcu-mpcut1-2021/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "15eg_mpcut1.boot"]
+        15eg_pcuecp:
+            # No XSDK/firmware build, so bundle everything from Petalinux.
+            builder-version: 2019
+            dest: "petalinux/pcu-ecp/15eg_pcuecp.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "petalinux/pcu-ecp/images/linux/zynqmp_fsbl.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: a53-0
+                checksum: sha3
+            - file: "petalinux/pcu-ecp/images/linux/pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/15eglv_pcuecp/pcuecp.runs/impl_1/board_pcuecp_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "petalinux/pcu-ecp/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/pcu-ecp/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "15eg_pcuecp.boot"]
+        15eg_pcuecp_v1:
+            # No XSDK/firmware build, so bundle everything from Petalinux.
+            builder-version: 2021
+            dest: "petalinux/pcu-ecp-2021/15eg_pcuecp.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "petalinux/pcu-ecp-2021/images/linux/zynqmp_fsbl.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: a53-0
+                checksum: sha3
+            - file: "petalinux/pcu-ecp-2021/images/linux/pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/15eglv_pcuecp/pcuecp.runs/impl_1/board_pcuecp_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "petalinux/pcu-ecp-2021/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/pcu-ecp-2021/images/linux/system.dtb"
+              attributes:
+                destination_cpu: a53-0
+                load: "0x00100000"
+                checksum: sha3
+            - file: "petalinux/pcu-ecp-2021/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "15eg_pcuecp.boot"]
+        15eg_pcugse:
+            # No Vitis/firmware build, so bundle everything from Petalinux.
+            builder-version: 2021
+            dest: "petalinux/pcu-gse/15eg_pcugse.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "petalinux/pcu-gse/images/linux/zynqmp_fsbl.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: a53-0
+                checksum: sha3
+            - file: "petalinux/pcu-gse/images/linux/pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/15eglv_pcugse/pcugse.runs/impl_1/board_pcugse_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "petalinux/pcu-gse/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/pcu-gse/images/linux/system.dtb"
+              attributes:
+                destination_cpu: a53-0
+                load: "0x00100000"
+                checksum: sha3
+            - file: "petalinux/pcu-gse/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "15eg_pcugse.boot"]
+        15eg_pcuhdr:
+            # No Vitis/firmware build, so bundle everything from Petalinux.
+            builder-version: 2021
+            dest: "petalinux/pcu-hdr/15eg_pcuhdr.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "petalinux/pcu-hdr/images/linux/zynqmp_fsbl.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: a53-0
+                checksum: sha3
+            - file: "petalinux/pcu-hdr/images/linux/pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/15eglv_pcuhdr/pcuhdr.runs/impl_1/board_pcuhdr_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "petalinux/pcu-hdr/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/pcu-hdr/images/linux/system.dtb"
+              attributes:
+                destination_cpu: a53-0
+                load: "0x00100000"
+                checksum: sha3
+            - file: "petalinux/pcu-hdr/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "15eg_pcuhdr.boot"]
+        15eg_sug_firmware:
+            # Bundle SUE firmware on SUG without Petalinux.
+            builder-version: 2019
+            dest: "{ws_dir}/15eg_sug_firmware.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "{ws_dir}/sue_fsbl_r5/{xsdk_build_config}/sue_fsbl_r5.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            - file: "{ws_dir}/sue_pmufw/{xsdk_build_config}/sue_pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/15eglv_sug/sug.runs/impl_1/board_sug_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "{ws_dir}/sue_firmware_r5/{xsdk_build_config}/sue_firmware_r5.elf"
+              attributes:
+                destination_cpu: r5-lockstep
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "15eg_sug_firmware.boot"]
+        15eg_sug_linux:
+            # No XSDK/firmware build, so bundle everything from Petalinux.
+            builder-version: 2019
+            dest: "petalinux/pcu-sug/15eg_sug_linux.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "petalinux/pcu-sug/images/linux/zynqmp_fsbl.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: a53-0
+                checksum: sha3
+            - file: "petalinux/pcu-sug/images/linux/pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/15eglv_sug/sug.runs/impl_1/board_sug_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "petalinux/pcu-sug/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/pcu-sug/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "15eg_sug_linux.boot"]
+        28dr_zcu111:
+            builder-version: 2021
+            dest: "{ws_dir}/28dr_zcu111.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "{ws_dir}/kepler_fsbl/{vitis_build_config}/kepler_fsbl.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: a53-0
+                checksum: sha3
+            - file: "{ws_dir}/standalone_a53_platform/zynqmp_pmufw/pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/28dr_zcu111/zcu111.runs/impl_1/board_zcu111_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "petalinux/zcu111/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/zcu111/images/linux/system.dtb"
+              attributes:
+                destination_cpu: a53-0
+                load: "0x00100000"
+                checksum: sha3
+            - file: "petalinux/zcu111/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "28dr_zcu111.boot"]
+        47dr_trenz_rfsoc_carrier:
+            builder-version: 2021
+            dest: "petalinux/trenz_rfsoc_carrier/images/linux/47dr_trenz_rfsoc_carrier.boot"
+            bootgen-args:
+                arch: zynqmp
+            partitions:
+            - file: "petalinux/trenz_rfsoc_carrier/images/linux/zynqmp_fsbl.elf"
+              attributes:
+                bootloader: null
+                destination_cpu: a53-0
+                checksum: sha3
+            - file: "petalinux/trenz_rfsoc_carrier/images/linux/pmufw.elf"
+              attributes:
+                pmufw_image: null
+            - file: "hdl/vivado/workspace/47dr_trenz_rfsoc_carrier/trenz_rfsoc_carrier.runs/impl_1/board_trenz_rfsoc_carrier_top.bit"
+              attributes:
+                destination_device: pl
+                checksum: sha3
+            - file: "petalinux/trenz_rfsoc_carrier/images/linux/bl31.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-3
+                trustzone: null
+                checksum: sha3
+            - file: "petalinux/trenz_rfsoc_carrier/images/linux/system.dtb"
+              attributes:
+                destination_cpu: a53-0
+                load: "0x00100000"
+                checksum: sha3
+            - file: "petalinux/trenz_rfsoc_carrier/images/linux/u-boot.elf"
+              attributes:
+                destination_cpu: a53-0
+                exception_level: el-2
+                checksum: sha3
+            post-build-script: annotate_boot
+            post-build-script-args: ["--force", "--override", "{build_type}", "47dr_trenz_rfsoc_carrier.boot"]
+    after-build:
+        after_common:
+            after-script: soc_build/after-build.sh
+            after-script-args: ["{build_type}", "{build_id}", "{build_ok}"]
+            write-artifact-sources:
+                filename: "finite-state/artifact_list.txt"
+list-fragments:
+    source-config:
+        ald1.0:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ALDERAAN_1_0, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, R2D2_BRAM_256KB, true]
+            - [define-value, c, c/devices/include/kepler/kc_bram.inc, KC_BRAM_PSRAM_SIZE_KB, 256]
+            - [define-value, mk, c/pch_r2d2/soc_build.mk, SET_FEATURE_FPGA_RECONFIG, "true"]
+        ald1.3:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ALDERAAN_1_3, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, R2D2_BRAM_256KB, true]
+            - [define-value, c, c/devices/include/kepler/kc_bram.inc, KC_BRAM_PSRAM_SIZE_KB, 256]
+            - [define-value, mk, c/pch_r2d2/soc_build.mk, SET_FEATURE_FPGA_RECONFIG, "true"]
+        git_info:
+            - [source-info, sv, hdl/rtl/sdr/git_info.sv]
+            - [source-info, c,c/devices/include/kepler/kc_build_info.h]
+            - [source-info, py, python/kepler/kepler/fpga/generators/write_git_info_hex.py]
+            - [source-info, mk, petalinux/layers/meta-kepler-common/recipes-apps/kepler-build-info/files/gen_version_file.mk]
+        hsd:
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, R2D2_BRAM_256KB, true]
+            - [define-value, c, c/devices/include/kepler/kc_bram.inc, KC_BRAM_PSRAM_SIZE_KB, 256]
+        hsd_standard:
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, FORCE_MMI_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_CLK_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_CPM_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_IRQ_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_MMI_FIREWALL, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_MON_ALARM_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_TEMP_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_ZYNQ_FIREWALL, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_BACKPLANE, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_RGMII, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_SSD_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, RGMII_PL_DDR_RX_BUFFER, true]
+        hsd_sdr:
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_RX0_SDR, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_RXDSP, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_RXFIFO, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_TX_SDR, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_TXFIFO, true]
+        hsd_rxdvbs2:
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_RXDVBS2, true]
+        hsd_rxdsss:
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_DSSS_RX, true]
+        hsd_txdvbs2:
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_TXDVBS2, true]
+        hsd_txdvbs2x:
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_TXDVBS2X, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, TXDAC_1200MSPS, true]
+        hsd_hdr:
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_HDR, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_PA, true]
+        hsd_kas:
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_KAS, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ETHERNET_PL_RGMII_MODEM, true]
+        hsd_non_mpls:
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_QSPI_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ETHERNET_DIRECT_PS, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_NIC_CTRL, true]
+        hsd_mpls:
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ENABLE_MPLS_NIC, true]
+            - [define-uncomment, sv, hdl/rtl/board/hsd/board_hsd_config.svh, ETHERNET_MPLS_ROUTER, true]
+        mpcu_standard:
+            - [define-uncomment, sv, hdl/rtl/board/mpcu/board_mpcu_config.svh, ENABLE_MSU_SATA, true]
+            - [define-uncomment, sv, hdl/rtl/board/mpcu/board_mpcu_config.svh, ENABLE_MPCU_MVP_PLUS_BLADE_CONFIGURATION, true]
+        mpcu_bringup:
+            - [define-uncomment, sv, hdl/rtl/board/mpcu/board_mpcu_config.svh, ENABLE_PPL_BG2_SLOT1, true]
+        mpcut1:
+            - [source-info, sv, hdl/rtl/sdr/git_info.sv]
+            - [source-info, c, c/devices/include/kepler/kc_build_info.h]
+        mpcut1_bringup:
+            - [define-uncomment, sv, hdl/rtl/board/mpcut1/board_mpcut1_config.svh, ENABLE_MSU_SATA, true]
+            - [define-uncomment, sv, hdl/rtl/board/mpcut1/board_mpcut1_config.svh, ENABLE_MPCU_T1_FULL_CONFIGURATION, true]
+        mpcut1_2lane_ppl_bringup:
+            - [define-uncomment, sv, hdl/rtl/board/mpcut1/board_mpcut1_config.svh, ENABLE_MSU_SATA, true]
+            - [define-uncomment, sv, hdl/rtl/board/mpcut1/board_mpcut1_config.svh, ENABLE_MPCU_T1_FULL_2LANE_PPL_CONFIGURATION, true]
+        pch:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, FORCE_MMI_CTRL, true]
+        pch_backplane:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_BACKPLANE, true]
+        pch_hdr:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_HDR, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PA, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RX0_SDR, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RXDSP, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RXDVBS2, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RXFIFO, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_TXDVBS2, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_TX_SDR, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_TXFIFO, true]
+        pch_dsss:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_DSSS_RX, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_DSSS_TX, true]
+        pch_l_dsss:
+            # for L/DSSS modems
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, LBAND, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_HDR, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PA, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RX0_SDR, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RXDSP, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_TX_SDR, true]
+        pch_horizon:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_HRZN, true]
+        pch_kamino:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_ISL_KAMINO, true]
+        pch_isl_sue:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_ISL_SUE, true]
+        pch_ldr:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_LDR, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PA, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RXFIFO, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_TXFIFO, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_TX_SDR, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_UPPER_SSDS, true]
+        pch_ldr_capture_replay:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, LDR_CAPTURE, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PL_DDR, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, TXREPLAY, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, TXREPLAY_BUF, true]
+        pch_nic_ethernet:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_NIC_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RGMII, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PL_DDR, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_SSD_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ETHERNET_HUB, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_UPPER_SSDS, true]
+        pch_ppl:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PCH_PCH_LINK, true]
+        ald_secondary:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, USE_SECONDARY_CONFIG, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_NIC_TO_PPL, true]
+        pch_ssd:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_SSD_CTRL, true]
+        pch_standard:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_CLK_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_CPM_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_IRQ_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_MMI_FIREWALL, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_MON_ALARM_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_QSPI_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_TEMP_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_ZYNQ_FIREWALL, true]
+        pcuecp_ppl:
+            - [define-uncomment, sv, hdl/rtl/board/pcuecp/board_pcuecp_config.svh, ENABLE_PPL, true]
+            - [define-uncomment, sv, hdl/rtl/board/pcuecp/board_pcuecp_config.svh, ENABLE_PL_SSDS, true]
+        pcugse_standard:
+            - [define-uncomment, sv, hdl/rtl/board/pcugse/board_pcugse_config.svh, ENABLE_B128, true]
+            - [define-uncomment, sv, hdl/rtl/board/pcugse/board_pcugse_config.svh, ENABLE_B129, true]
+            - [define-uncomment, sv, hdl/rtl/board/pcugse/board_pcugse_config.svh, ENABLE_B130, true]
+            - [define-uncomment, sv, hdl/rtl/board/pcugse/board_pcugse_config.svh, ENABLE_B228, true]
+            - [define-uncomment, sv, hdl/rtl/board/pcugse/board_pcugse_config.svh, ENABLE_B229, true]
+            - [define-uncomment, sv, hdl/rtl/board/pcugse/board_pcugse_config.svh, ENABLE_B230, true]
+            - [define-uncomment, sv, hdl/rtl/board/pcugse/board_pcugse_config.svh, ENABLE_MEASURE_REFCLOCKS, true]
+        pcuhdr: []
+        pcuhdr_ppl:
+            - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, ENABLE_PPL, true]
+        pcuhdr_ps_to_dvbs2x:
+            - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, ENABLE_PS_TO_DVBS2X, true]
+        pcuhdr_tx:
+            - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, ENABLE_TX, true]
+            - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, ENABLE_TX_REPLAY_BUFFER, true]
+            # Note that the NCO signal source is *not* enabled by default
+        pcuhdr_rx:
+            - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, ENABLE_RX, true]
+            - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, ENABLE_RX_CAPTURE_BUFFER, true]
+        pcuhdr_dvbs2x_tx:
+            - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, ENABLE_TX_MOD, true]
+            - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, ENABLE_TX_MOD_DUMMY_FRAMES, true]
+        pcuhdr_dvbs2x_rx:
+            - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, ENABLE_RX_DEMOD, true]
+            # We may end up needing to disable this to save on BRAM
+            - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, ENABLE_RX_DEMOD_CAPTURE, true]
+            - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, ENABLE_RX_DECODER, true]
+            # TODO: Currently only disabled for routing-congestion purposes; Enable when possible
+            # - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, ENABLE_RX_BB_FRAME_COUNTER, true]
+            # - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, ENABLE_RX_BB_ERROR_COUNTER, true]
+        rsmpcu_standard:
+            - [define-uncomment, sv, hdl/rtl/board/rsmpcu/board_rsmpcu_config.svh, ENABLE_MMI_FIREWALL, true]
+            - [define-uncomment, sv, hdl/rtl/board/rsmpcu/board_rsmpcu_config.svh, ENABLE_CLK_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/rsmpcu/board_rsmpcu_config.svh, ENABLE_PL_DDR, true]
+            - [define-uncomment, sv, hdl/rtl/board/rsmpcu/board_rsmpcu_config.svh, ENABLE_FORCE_MMI_CTRL, true]
+            - [define-uncomment, sv, hdl/rtl/board/rsmpcu/board_rsmpcu_config.svh, CLK_HEARTBEAT_BLINK, true]
+            # This is a fixed value: the RS-MPCU project does not provide BRAM.
+            - [define-value, c, c/devices/include/kepler/kc_bram.inc, KC_BRAM_PSRAM_SIZE_KB, 0]
+        sue_standard:
+            # Do not turn off ENABLE_AD9361, tie-offs don't work properly for S-UE.
+            - [define-uncomment, sv, hdl/rtl/board/sue/board_sue_config.svh, ENABLE_AD9361, true]
+            - [define-uncomment, sv, hdl/rtl/board/sue/board_sue_config.svh, ENABLE_DSSS_RX, true]
+            - [define-uncomment, sv, hdl/rtl/board/sue/board_sue_config.svh, ENABLE_DSSS_TX, true]
+            - [define-uncomment, sv, hdl/rtl/board/sue/board_sue_config.svh, ENABLE_R2D2_BRAM_ECC, false]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, R2D2_BRAM_0KB, false]
+            - [define-uncomment, sv, hdl/rtl/board/sue/board_sue_config.svh, R2D2_BRAM_2048KB, true]
+            - [define-value, c, c/devices/include/kepler/kc_bram.inc, KC_BRAM_PSRAM_SIZE_KB, 2048]
+        sue_on_pch:
+            # S-UE firmware should run either from DDR or from 2048 KB of BRAM, and PCH can't provide that much.
+            # Include this fragment last, so it can override the BRAM changes from the standard PCH fragments.
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, R2D2_BRAM_0KB, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, R2D2_BRAM_256KB, false]
+            - [define-value, c, c/devices/include/kepler/kc_bram.inc, KC_BRAM_PSRAM_SIZE_KB, 0]
+            - [define-value, mk, c/sue_firmware/soc_build.mk, SET_KC_BOARD, "PCH"]
+        sug_standard:
+            - [define-uncomment, sv, hdl/rtl/board/sug/board_sug_config.svh, ENABLE_AD9361, true]
+            - [define-uncomment, sv, hdl/rtl/board/sug/board_sug_config.svh, ENABLE_DSSS_RX, true]
+            - [define-uncomment, sv, hdl/rtl/board/sug/board_sug_config.svh, ENABLE_DSSS_TX, true]
+            - [define-uncomment, sv, hdl/rtl/board/sug/board_sug_config.svh, ENABLE_BLADE_TESTER_SGMII, true]
+            # We run SUE firmware on SUG.
+            - [define-value, c, c/devices/include/kepler/kc_bram.inc, KC_BRAM_PSRAM_SIZE_KB, 0]
+            - [define-value, mk, c/sue_firmware/soc_build.mk, SET_KC_BOARD, "SUG"]
+        tars:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, TARS, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, PCH_PRE_V3, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_OBC_REQ, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, R2D2_BRAM_0KB, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, R2D2_BRAM_256KB, false]
+            - [define-value, c, c/devices/include/kepler/kc_bram.inc, KC_BRAM_PSRAM_SIZE_KB, 0]
+            - [define-value, mk, c/pch_r2d2/soc_build.mk, SET_FEATURE_FORCE_DDR, "true"]
+        ut2:
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, UTMO, true]
+            - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, R2D2_BRAM_256KB, true]
+            - [define-value, c, c/devices/include/kepler/kc_bram.inc, KC_BRAM_PSRAM_SIZE_KB, 256]
+            - [define-value, mk, c/pch_r2d2/soc_build.mk, SET_FEATURE_FPGA_RECONFIG, "true"]
+        zcu111_dvbs2x:
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_TX_NCO_SIGNAL_SOURCE, true]
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_TX_REPLAY, true]
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_TX_POWER_DETECTOR, true]
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_TX_CAPTURE, true]
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_TX_DVBS2X, true]
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_RX_CAPTURE, true]
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_RX_POWER_DETECTOR, true]
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_RX_AGC_DIGITAL, true]
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_RX_DVBS2X, true]
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_RX_BB_FRAME_COUNTER, true]
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_RX_BB_ERROR_COUNTER, true]
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_DEMOD_CAPTURE, true]
+            # SFP0 and SFP2 are register configurable and switchable for both DVB-S2X and DSSS
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_SFP0, true]
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_SFP2, true]
+        zcu111_dsss:
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_DSSS_RX, true]
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_DSSS_TX, true]
+            # SFP0 and SFP2 are register configurable and switchable for both DVB-S2X and DSSS
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_SFP0, true]
+            - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_SFP2, true]
+        trenz_rfsoc_carrier_test:
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_JTAG_AXI, true]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_TX0_NCO_SIGNAL_SOURCE, true]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_TX0_REPLAY, true]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_TX0_POWER_DETECTOR, true]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_TX0_CAPTURE, true]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_TX0_DVBS2X, true]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_TX1_NCO_SIGNAL_SOURCE, false]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_TX1_REPLAY, false]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_TX1_POWER_DETECTOR, false]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_TX1_CAPTURE, false]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_TX1_DVBS2X, false]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_RX_CAPTURE, true]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_RX_POWER_DETECTOR, true]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_RX_AGC_DIGITAL, true]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_RX_DVBS2X, true]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_RX_BB_FRAME_COUNTER, true]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_RX_BB_ERROR_COUNTER, true]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_DEMOD_CAPTURE, true]
+            - [define-uncomment, sv, hdl/rtl/board/trenz_rfsoc_carrier/board_trenz_rfsoc_carrier_config.svh, ENABLE_FFA_SFP0, true]
+
+projects:
+
+    #
+    # TARS "Gen 0.5" projects
+    #
+    9cg_pch_sdk:
+        enabled: false
+        description: "Zynq-only build with Vivado 2019. For software hand-off, not for general use."
+        # Almost everything is disabled. We enable CLK_CTRL because it allows us to blink an LED.
+        # This also has FORCE_MMI_CTRL disabled, so it starts blinking automatically.
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, PCH_ONLY, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, R2D2_BRAM_0KB, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, R2D2_BRAM_256KB, false]
+                - [define-value, c, c/devices/include/kepler/kc_bram.inc, KC_BRAM_PSRAM_SIZE_KB, 0]
+                - [define-value, mk, c/pch_r2d2/soc_build.mk, SET_FEATURE_FORCE_DDR, "true"]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CLK_HEARTBEAT_BLINK, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, FORCE_MMI_CTRL, false]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_CLK_CTRL, true]
+        vivado-config:
+            strategy:
+                synth: Flow_RuntimeOptimized
+                impl: Flow_RuntimeOptimized
+        vivado-build:
+            dict-fragments: [9cg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9cg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9cg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9cg_pch, standard_petalinux_artifacts]
+            sdk: true
+    9cg_tars_ku_hdr:
+        enabled: true
+        description: "TARS PCH for Ku-band HDR frontend."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, tars, pch_standard, pch_backplane, pch_hdr, pch_ssd, pch_horizon]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_NIC_CTRL, true]
+        vivado-config:
+            strategy:
+                impl: Congestion_SpreadLogic_low
+        vivado-build:
+            dict-fragments: [9cg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9cg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9cg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9cg_pch, standard_petalinux_artifacts]
+    9cg_tars_ldr:
+        enabled: true
+        description: "TARS PCH for S-Band LDR."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, tars, pch_standard, pch_backplane, pch_ldr, pch_ldr_capture_replay, pch_ssd, pch_horizon]
+        vivado-build:
+            dict-fragments: [9cg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9cg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9cg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9cg_pch, standard_petalinux_artifacts]
+    9cg_tars_nic_ethernet:
+        enabled: false
+        description: "TARS PCH for NIC Ethernet."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, tars, pch_standard, pch_backplane, pch_nic_ethernet, pch_horizon]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, PCH_PRE_V3, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_RGMII_TO_NIC, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ETHERNET_HUB, false]
+        vivado-build:
+            dict-fragments: [9cg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9cg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9cg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9cg_pch, standard_petalinux_artifacts]
+
+    #
+    # Alderaan/UT/HSD "Gen 1" projects
+    #
+    9eg_ald1.3_ku_hdr:
+        enabled: true
+        description: "Alderaan Gen 1.3 Primary PCH for Ku-band HDR frontend."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.3, pch_standard, pch_backplane, pch_hdr, pch_ppl, pch_ssd, pch_kamino]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_NIC_CTRL, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ETHERNET_HUB, true]
+        vivado-config:
+            strategy:
+                impl: Congestion_SpreadLogic_low
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald1.3_ku_hdr_sue:
+        enabled: false
+        description: "Alderaan Gen 1.3 Primary PCH for Ku-band HDR frontend, with SUE on the AUX/ISL connector.."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.3, pch_standard, pch_backplane, pch_hdr, pch_ppl, pch_ssd, pch_isl_sue]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_NIC_CTRL, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RXSDR_SSD_CAPTURE_DATA, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ETHERNET_HUB, true]
+        vivado-config:
+            strategy:
+                impl: Congestion_SpreadLogic_low
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald1.3_ldr:
+        enabled: true
+        description: "Alderaan Gen 1.3 Secondary PCH for S-Band LDR."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.3, pch_standard, pch_backplane, pch_ldr, pch_ldr_capture_replay, pch_ppl, pch_ssd]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, USE_SECONDARY_CONFIG, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_NIC_TO_PPL, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_NIC_CTRL, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RFOE, true]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald1.3_nic_ethernet:
+        enabled: true
+        description: "Alderaan Gen 1.3 Primary PCH for NIC Ethernet."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.3, pch_standard, pch_backplane, pch_ppl, pch_nic_ethernet, pch_kamino]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald1.3_nic_ethernet_sue:
+        enabled: false
+        description: "Alderaan Gen 1.3 Primary PCH for NIC Ethernet, with SUE on the AUX/ISL connector.."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.3, pch_standard, pch_backplane, pch_ppl, pch_nic_ethernet, pch_isl_sue]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald1.3_sec_nic_ethernet:
+        enabled: false
+        description: "Alderaan Gen 1.3 Secondary PCH for NIC Ethernet."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.3, pch_standard, pch_backplane, pch_ppl, pch_nic_ethernet]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_RGMII_TO_NIC, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ETHERNET_HUB, false]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, PCH_PRE_V3, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, USE_SECONDARY_CONFIG, true]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald1.3_sec_nic_ppl:
+        enabled: true
+        description: "Alderaan Gen 1.3 Secondary PCH with NIC attached to PPL."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.3, pch_standard, pch_backplane, pch_ppl, pch_nic_ethernet]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_NIC_TO_PPL, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ETHERNET_HUB, false]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RGMII, false]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, PCH_PRE_V3, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, USE_SECONDARY_CONFIG, true]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald1.3_sec_s_ue_fe_nic_ppl:
+        enabled: false
+        description: "Alderaan Gen 1.3 Secondary PCH with S-UE-FE and NIC attached to PPL."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.3, pch_standard, pch_backplane, pch_ppl, pch_dsss, sue_on_pch]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_NIC_TO_PPL, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_NIC_CTRL, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, PCH_PRE_V3, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, USE_SECONDARY_CONFIG, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_SUE_FE, true]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_sue_on_pch, sue_on_pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_sue_on_pch, standard_bootgen_artifacts]
+    9eg_ald1.3_sec_s_ue_fe_rgmii:
+        enabled: false
+        description: "Alderaan Gen 1.3 Secondary PCH S-UE-FE with DSSS attached to RGMII."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.3, pch_standard, pch_backplane, pch_dsss, sue_on_pch]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_RGMII_TO_DSSS, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RGMII, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_SUE_FE, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, PCH_PRE_V3, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, USE_SECONDARY_CONFIG, true]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_sue_on_pch, sue_on_pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_sue_on_pch, standard_bootgen_artifacts]
+    9eg_ald_ku_ethernet:
+        enabled: false
+        description: "Alderaan PCH for Ku-band HDR frontend, with RGMII and no NIC."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.0, pch_standard, pch_backplane, pch_hdr, pch_ppl, pch_ssd, pch_kamino]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PL_DDR, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RGMII, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, RGMII_PL_DDR_RX_BUFFER, true]
+        vivado-config:
+            strategy:
+                impl: Congestion_SpreadLogic_low
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald_ku_hdr:
+        enabled: true
+        description: "Alderaan PCH for Ku-band HDR frontend."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.0, pch_standard, pch_backplane, pch_hdr, pch_ppl, pch_ssd, pch_kamino]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_NIC_CTRL, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ETHERNET_HUB, true]
+        vivado-config:
+            strategy:
+                impl: Congestion_SpreadLogic_low
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald_sateliot_ku_hdr:
+        enabled: false
+        description: "Alderaan PCH for Ku-band HDR frontend for Sateliot primary."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.0, pch_standard, pch_backplane, pch_hdr, pch_ppl, pch_ssd]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_NIC_CTRL, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ETHERNET_HUB, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_PPL_TO_PSPLETH_BRIDGE_1, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, SATELIOT_PRIMARY, true]
+        vivado-config:
+            strategy:
+                impl: Congestion_SpreadLogic_low
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch_sateliot_prim, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch_sateliot_prim, standard_petalinux_artifacts]
+    9eg_ald_sateliot_ku_hdr_no_pl_nic:
+        enabled: false
+        description: "Alderaan PCH for Ku-band HDR frontend for Sateliot primary, with PL NIC and hub disabled for debug."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.0, pch_standard, pch_backplane, pch_hdr, pch_ppl, pch_ssd]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_DVBS2_TO_PSPLETH_BRIDGE_0, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_PPL_TO_PSPLETH_BRIDGE_1, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, SATELIOT_PRIMARY, true]
+        vivado-config:
+            strategy:
+                impl: Congestion_SpreadLogic_low
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch_sateliot_prim, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch_sateliot_prim, standard_petalinux_artifacts]
+    9eg_ald_ku_hdr_sue:
+        enabled: false
+        description: "Alderaan PCH for Ku-band HDR frontend, with SUE on the AUX/ISL connector.."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.0, pch_standard, pch_backplane, pch_hdr, pch_ppl, pch_ssd, pch_isl_sue]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_NIC_CTRL, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RXSDR_SSD_CAPTURE_DATA, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ETHERNET_HUB, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PS_RGMII_PHY, true]
+        vivado-config:
+            strategy:
+                impl: Congestion_SpreadLogic_low
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald_l_ethernet:
+        enabled: false
+        # Temporary enabling this build during PCH-LBFE bring-up. This is not a typical configuration.
+        description: "Alderaan PCH for L-band HDR frontend, with RGMII and no NIC."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.0, pch_standard, pch_backplane, pch_hdr, pch_ppl, pch_ssd, pch_kamino]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, LBAND, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PL_DDR, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RGMII, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, RGMII_PL_DDR_RX_BUFFER, true]
+        vivado-config:
+            strategy:
+                impl: Congestion_SpreadLogic_low
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald_ldr:
+        enabled: true
+        description: "Alderaan PCH for S-Band LDR."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.0, pch_standard, pch_backplane, pch_ldr, pch_ldr_capture_replay, pch_ppl, pch_ssd, pch_kamino]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald_sateliot_ldr:
+        enabled: false
+        description: "Primary Alderaan PCH for Sateliot S-Band LDR."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.0, pch_standard, pch_backplane, pch_ldr, pch_ldr_capture_replay, pch_ppl, pch_ssd]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PPL_IQ_TUNNEL, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_PPL_TO_PSPLETH_BRIDGE_1, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, SATELIOT_PRIMARY, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, LDR_DEFAULT_TX_EN, false]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch_sateliot_prim, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch_sateliot_prim, standard_petalinux_artifacts]
+    9eg_ald_nic_ethernet:
+        enabled: true
+        description: "Alderaan PCH for NIC Ethernet."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.0, pch_standard, pch_backplane, pch_ppl, pch_nic_ethernet, pch_kamino]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, PCH_PRE_V3, true]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald_sateliot_nic_ethernet:
+        enabled: false
+        description: "Alderaan PCH for NIC Ethernet for Sateliot."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.0, pch_standard, pch_backplane, pch_ppl, pch_nic_ethernet, pch_kamino]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, PCH_PRE_V3, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_PPL_TO_PSPLETH_BRIDGE_1, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, SATELIOT_PRIMARY, true]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch_sateliot_prim, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch_sateliot_prim, standard_petalinux_artifacts]
+    9eg_ald_nic_ethernet_sue:
+        enabled: true
+        description: "Alderaan PCH for NIC Ethernet, with SUE on the AUX/ISL connector.."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.0, pch_standard, pch_backplane, pch_ppl, pch_nic_ethernet, pch_isl_sue]
+            # Note: the SUE build is run on Gen 1.4, and should NOT have PCH_PRE_V3 enabled.
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald_sec_l_hdr_rx:
+        enabled: false
+        description: "Alderaan secondary PCH for L-band HDR front-end, RX SSD capture via PPL."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.0, pch_standard, ald_secondary, pch_ppl]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RX0_SDR, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RXDSP, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RXFIFO, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_SSD_CTRL, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, LBAND, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_HDR, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, SECONDARY_HDR, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RXSDR_SSD_CAPTURE_DSP, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_NIC_TO_PPL, false]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald_secondary:
+        enabled: true
+        description: "Alderaan secondary PCH image."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.0, pch_standard, ald_secondary, pch_ssd, pch_ppl]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PL_DDR, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_NIC_CTRL, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_UPPER_SSDS, true]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ald_sateliot_sec:
+        enabled: false
+        description: "Alderaan secondary PCH image for Sateliot."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ald1.0, pch_standard, pch_ppl]
+            list:
+                # Disable FORCE_MMI_CTRL, so this image will go to state 5 on its own
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, FORCE_MMI_CTRL, false]
+                # Disable QSPI, since the Sateliot images do not have R2D2
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_QSPI_CTRL, false]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PL_DDR, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PS_RGMII_PHY, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, SATELIOT_SECONDARY, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, USE_SECONDARY_CONFIG, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PS_SSD, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_PS_TO_PPL, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PPL_IQ_TUNNEL, true]
+        vivado-build:
+            dict-fragments: [9eg_pch_2021, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch_sateliot_sec, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch_sateliot_sec, standard_petalinux_artifacts, petalinux_2021_artifacts]
+    9eg_hsd_hdr:
+        enabled: true
+        description: "Ku Terminal: PCH Ku-band User Terminal with Ku-band HDR frontend."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, hsd, hsd_standard, hsd_sdr, hsd_txdvbs2, hsd_rxdvbs2, hsd_hdr, hsd_non_mpls]
+        vivado-config:
+            strategy:
+                impl: Congestion_SpreadLogic_low
+        vivado-build:
+            dict-fragments: [9eg_hsd, hsd_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_hsd, hsd_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_hsd_ku, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_hsd_ku, standard_petalinux_artifacts]
+    9eg_hsd_kas:
+        enabled: true
+        description: "Ka/S Terminal: PCH Ka-band User Terminal with Ka-band frontend."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, hsd, hsd_standard, hsd_sdr, hsd_txdvbs2x, hsd_rxdsss, hsd_kas]
+        vivado-config:
+            strategy:
+                impl: Congestion_SpreadLogic_low
+        vivado-build:
+            dict-fragments: [9eg_hsd, hsd_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_hsd, hsd_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_hsd_kas, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_hsd_kas, standard_petalinux_artifacts]
+    9eg_hsd_mpls_hdr:
+        enabled: true
+        description: "Ku Terminal: PCH Ku-band User Terminal with Ku-band HDR frontend and MPLS packet routing."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, hsd, hsd_standard, hsd_sdr, hsd_txdvbs2, hsd_rxdvbs2, hsd_hdr, hsd_mpls]
+        vivado-config:
+            strategy:
+                impl: Congestion_SpreadLogic_low
+        vivado-build:
+            dict-fragments: [9eg_hsd, hsd_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_hsd, hsd_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_hsd_ku, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_hsd_ku, standard_petalinux_artifacts]
+    9eg_hsd_nic_ethernet:
+        enabled: true
+        description: "Ku Terminal: PCH Ku-band User Terminal, bypassing RF front-end."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, hsd, hsd_standard, hsd_non_mpls]
+        vivado-config:
+            strategy:
+                impl: Congestion_SpreadLogic_low
+        vivado-build:
+            dict-fragments: [9eg_hsd, hsd_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_hsd, hsd_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_hsd_ku, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_hsd_ku, standard_petalinux_artifacts]
+    9eg_pch_sdk:
+        enabled: true
+        description: "Zynq-only build with Vivado 2019. For software hand-off, not for general use."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, PCH_ONLY, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, R2D2_BRAM_0KB, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, R2D2_BRAM_256KB, false]
+                - [define-value, c, c/devices/include/kepler/kc_bram.inc, KC_BRAM_PSRAM_SIZE_KB, 0]
+                - [define-value, mk, c/pch_r2d2/soc_build.mk, SET_FEATURE_FORCE_DDR, "true"]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CLK_HEARTBEAT_BLINK, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, FORCE_MMI_CTRL, false]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_CLK_CTRL, true]
+        vivado-config:
+            strategy:
+                synth: Flow_RuntimeOptimized
+                impl: Flow_RuntimeOptimized
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+            sdk: true
+    9eg_rsmpcu_aocs:
+        enabled: true
+        description: "RS-MPCU image with peripherals for AEther AOCS prototyping."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, rsmpcu_standard]
+        vivado-build:
+            dict-fragments: [9eglv_rsmpcu, rsmpcu_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_rsmpcu, rsmpcu_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_rsmpcu, standard_bootgen_artifacts]
+    9eg_ut_l_dsss_ethernet:
+        enabled: false
+        description: "UT gen 2 PCH for L-Band DSSS approximating a S-UG. DSSS goes to RGMII."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ut2, pch_standard, pch_backplane, pch_l_dsss, pch_dsss, sue_on_pch]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RGMII, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_RGMII_TO_DSSS, true]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_sue_on_pch, sue_on_pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_sue_on_pch, standard_bootgen_artifacts]
+    9eg_ut_l_dsss_pspleth:
+        enabled: false
+        description: "UT gen 2 PCH for L-Band DSSS approximating a S-UE. DSSS goes to PS."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ut2, pch_standard, pch_backplane, pch_l_dsss, pch_dsss, sue_on_pch]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RGMII, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_DSSS_TO_PSPLETH_BRIDGE_0, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, CONNECT_RGMII_TO_PSPLETH_BRIDGE_1, true]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_sue_on_pch, sue_on_pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_sue_on_pch, standard_bootgen_artifacts]
+    9eg_ut_l_ethernet:
+        enabled: true
+        description: "UT gen 2 PCH for L-Band HDR, acting as a modem."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ut2, pch_standard, pch_backplane, pch_hdr, pch_ssd]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, LBAND, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_PL_DDR, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_RGMII, true]
+        vivado-config:
+            strategy:
+                impl: Congestion_SpreadLogic_low
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ut_l_nic:
+        enabled: false
+        description: "UT gen 2 PCH for L-Band HDR, acting as a satellite."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ut2, pch_standard, pch_backplane, pch_hdr, pch_ssd]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, LBAND, true]
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_NIC_CTRL, true]
+        vivado-config:
+            strategy:
+                impl: Congestion_SpreadLogic_low
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+    9eg_ut_nic_ethernet:
+        enabled: true
+        description: "UT gen 2 PCH for NIC Ethernet."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pch, ut2, pch_standard, pch_backplane, pch_nic_ethernet]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pch/board_pch_config.svh, ENABLE_UPPER_SSDS, false]
+        vivado-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_pch, pch_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_pch, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [9eg_pch, standard_petalinux_artifacts]
+
+    #
+    # Aether/PCU "Gen 2"
+    #
+
+    9eg_sue_dsss:
+        enabled: true
+        description: "S-UE image."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, sue_standard]
+        vivado-build:
+            dict-fragments: [9eglv_sue, sue_artifacts]
+        xsdk-build:
+            dict-fragments: [9eg_sue, sue_artifacts]
+        bootgen-build:
+            dict-fragments: [9eg_sue, standard_bootgen_artifacts]
+
+    15eg_mpcu_bringup_pcuv0:
+        enabled: false
+        description: "Elmer bring-up helper image for MPCU with PCUv0."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, mpcu_standard, mpcu_bringup]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/mpcu/board_mpcu_config.svh, PCU_v0, true]
+        vivado-build:
+            dict-fragments: [15eglv_mpcu, mpcu_artifacts]
+        xsdk-build:
+            dict-fragments: [15eg_mpcu, mpcu_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_mpcu, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_mpcu, standard_petalinux_artifacts]
+    15eg_mpcu_bringup_pcuv1:
+        enabled: true
+        description: "Elmer bring-up helper image for MPCU with PCUv1."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, mpcu_standard, mpcu_bringup]
+        vivado-build:
+            dict-fragments: [15eglv_mpcu, mpcu_artifacts]
+        xsdk-build:
+            dict-fragments: [15eg_mpcu, mpcu_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_mpcu, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_mpcu, standard_petalinux_artifacts]
+            sdk: true
+
+    15eg_mpcu_bringup_pcuv0_2021:
+        enabled: false
+        description: "Elmer bring-up helper image for MPCU with PCUv0. Xilinx 2021 migration."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, mpcu_standard, mpcu_bringup]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/mpcu/board_mpcu_config.svh, PCU_v0, true]
+        vivado-build:
+            dict-fragments: [15eglv_mpcu, mpcu_artifacts]
+            builder-version: 2021
+        vitis-build:
+            dict-fragments: [15eg_mpcu, mpcu_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_mpcu_2021, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_mpcu_2021, standard_petalinux_artifacts, petalinux_2021_artifacts]
+    15eg_mpcu_bringup_pcuv1_2021:
+        enabled: true
+        description: "Elmer bring-up helper image for MPCU with PCUv1. Xilinx 2021 migration."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, mpcu_standard, mpcu_bringup]
+        vivado-build:
+            dict-fragments: [15eglv_mpcu, mpcu_artifacts]
+            builder-version: 2021
+        vitis-build:
+            dict-fragments: [15eg_mpcu, mpcu_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_mpcu_2021, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_mpcu_2021, standard_petalinux_artifacts, petalinux_2021_artifacts]
+            sdk: false  # TODO: enable this once we retire the 2019 project
+
+    15eg_mpcut1_bringup:
+        enabled: true
+        description: "Elmer bring-up helper image for MPCU Tranche 1."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, mpcut1, mpcut1_bringup]
+        vivado-build:
+            dict-fragments: [15eglv_mpcut1, mpcut1_artifacts]
+        xsdk-build:
+            dict-fragments: [15eg_mpcut1, mpcut1_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_mpcut1, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_mpcut1, standard_petalinux_artifacts]
+            sdk: true
+        after-build:
+            dict-fragments: [after_common]
+    15eg_mpcut1_2lane_ppl_bringup:
+        enabled: false
+        description: "Elmer bring-up helper image for MPCU Tranche 1, configured for 2-lane PPL."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, mpcut1, mpcut1_2lane_ppl_bringup]
+        vivado-build:
+            dict-fragments: [15eglv_mpcut1, mpcut1_artifacts]
+        xsdk-build:
+            dict-fragments: [15eg_mpcut1, mpcut1_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_mpcut1, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_mpcut1, standard_petalinux_artifacts]
+            sdk: true
+        after-build:
+            dict-fragments: [after_common]
+    15eg_mpcut1_bringup_2021:
+        enabled: true
+        description: "Elmer bring-up helper image for MPCU Tranche 1 with 2021 tools."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, mpcut1, mpcut1_bringup]
+        vivado-build:
+            dict-fragments: [15eglv_mpcut1, mpcut1_artifacts]
+            builder-version: 2021
+        vitis-build:
+            dict-fragments: [15eg_mpcut1, mpcut1_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_mpcut1_2021, standard_bootgen_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_mpcut1_2021, standard_petalinux_artifacts, petalinux_2021_artifacts]
+            sdk: false  # TODO: enable this once we retire the 2019 project
+        after-build:
+            dict-fragments: [after_common]
+
+    15eg_pcuecp_ssds_pcuv0:
+        enabled: false
+        description: "PCU ECP image for SSD testing with PCUv0."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcuecp_ppl]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pcuecp/board_pcuecp_config.svh, PCU_v0, true]
+        vivado-build:
+            dict-fragments: [15eglv_pcuecp, pcuecp_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_pcuecp, standard_petalinux_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcuecp, standard_bootgen_artifacts]
+    15eg_pcuecp_ssds_pcuv1:
+        enabled: true
+        description: "PCU ECP image for SSD testing with PCUv1."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcuecp_ppl]
+        vivado-build:
+            dict-fragments: [15eglv_pcuecp, pcuecp_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_pcuecp, standard_petalinux_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcuecp, standard_bootgen_artifacts]
+
+    15eg_pcuecp_ssds_v1:
+        enabled: true
+        description: "PCU ECPv1 image for acceptance testing with PCUv1"
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcuecp_ppl]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pcuecp/board_pcuecp_config.svh, ECP_v1, true]
+        vivado-build:
+            dict-fragments: [15eglv_pcuecp, pcuecp_v1_artifacts]
+            builder-version: 2021
+        petalinux-build:
+            dict-fragments: [15eg_pcuecp_v1, standard_petalinux_artifacts, petalinux_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcuecp_v1, standard_bootgen_artifacts]
+
+    15eg_pcugse_test_pcuv1:
+        enabled: true
+        description: "PCU test image for PCU-GSE for PCUv1."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcugse_standard]
+        vivado-build:
+            dict-fragments: [15eglv_pcugse, pcugse_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_pcugse, standard_petalinux_artifacts, petalinux_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcugse, standard_bootgen_artifacts]
+
+    15eg_pcuhdr_dvbs2x_pcuv0:
+        enabled: false
+        description: "Tranche 0 PCU HDR DVB-S2X image with 200MHz mod clock and PCUv0."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcuhdr, pcuhdr_ppl, pcuhdr_tx, pcuhdr_rx, pcuhdr_dvbs2x_tx, pcuhdr_dvbs2x_rx, pcuhdr_ps_to_dvbs2x]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, PCU_v0, true]
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, TRANCHE0, true]
+        vivado-build:
+            dict-fragments: [15eglv_pcuhdr, pcuhdr_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_pcuhdr, standard_petalinux_artifacts, petalinux_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcuhdr, standard_bootgen_artifacts]
+    15eg_pcuhdr_dvbs2x_pcuv1:
+        enabled: true
+        description: "Tranche 0 PCU HDR DVB-S2X image with 200MHz mod clock and PCUv1."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcuhdr, pcuhdr_ppl, pcuhdr_tx, pcuhdr_rx, pcuhdr_dvbs2x_tx, pcuhdr_dvbs2x_rx, pcuhdr_ps_to_dvbs2x]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, TRANCHE0, true]
+        vivado-build:
+            dict-fragments: [15eglv_pcuhdr, pcuhdr_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_pcuhdr, standard_petalinux_artifacts, petalinux_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcuhdr, standard_bootgen_artifacts]
+    15eg_pcuhdr_t1_dvbs2x:
+        enabled: true
+        description: "Tranche 1 PCU HDR DVB-S2X image with 200MHz mod clock and PCUv1."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcuhdr, pcuhdr_ppl, pcuhdr_tx, pcuhdr_rx, pcuhdr_dvbs2x_tx, pcuhdr_dvbs2x_rx, pcuhdr_ps_to_dvbs2x]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, TRANCHE1, true]
+        vivado-build:
+            dict-fragments: [15eglv_pcuhdr, pcuhdr_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_pcuhdr, standard_petalinux_artifacts, petalinux_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcuhdr, standard_bootgen_artifacts]
+        after-build:
+            dict-fragments: [after_common]
+
+    15eg_pcuhdr_dvbs2x_150mod_pcuv0:
+        enabled: false
+        description: "Tranche 0 PCU HDR DVB-S2X image with 150MHz mod clock and PCUv0."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcuhdr, pcuhdr_ppl, pcuhdr_tx, pcuhdr_rx, pcuhdr_dvbs2x_tx, pcuhdr_dvbs2x_rx, pcuhdr_ps_to_dvbs2x]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, TX_MOD_ON_DAC_CLK, true]
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, PCU_v0, true]
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, TRANCHE0, true]
+        vivado-build:
+            dict-fragments: [15eglv_pcuhdr, pcuhdr_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_pcuhdr, standard_petalinux_artifacts, petalinux_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcuhdr, standard_bootgen_artifacts]
+    15eg_pcuhdr_dvbs2x_150mod_pcuv1:
+        enabled: false
+        description: "Tranche 0 PCU HDR DVB-S2X image with 150MHz mod clock and PCUv1."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcuhdr, pcuhdr_ppl, pcuhdr_tx, pcuhdr_rx, pcuhdr_dvbs2x_tx, pcuhdr_dvbs2x_rx, pcuhdr_ps_to_dvbs2x]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, TX_MOD_ON_DAC_CLK, true]
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, TRANCHE0, true]
+        vivado-build:
+            dict-fragments: [15eglv_pcuhdr, pcuhdr_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_pcuhdr, standard_petalinux_artifacts, petalinux_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcuhdr, standard_bootgen_artifacts]
+    15eg_pcuhdr_t1_dvbs2x_150mod:
+        enabled: false
+        description: "Tranche 1 PCU HDR DVB-S2X image with 150MHz mod clock and PCUv1."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcuhdr, pcuhdr_ppl, pcuhdr_tx, pcuhdr_rx, pcuhdr_dvbs2x_tx, pcuhdr_dvbs2x_rx, pcuhdr_ps_to_dvbs2x]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, TX_MOD_ON_DAC_CLK, true]
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, TRANCHE1, true]
+        vivado-build:
+            dict-fragments: [15eglv_pcuhdr, pcuhdr_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_pcuhdr, standard_petalinux_artifacts, petalinux_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcuhdr, standard_bootgen_artifacts]
+
+    15eg_pcuhdr_nodvbs2x_pcuv0:
+        enabled: false
+        description: "Tranche 0 PCU HDR RX/TX image (no DVB-S2X) for PCUv0."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcuhdr, pcuhdr_ppl, pcuhdr_tx, pcuhdr_rx]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, PCU_v0, true]
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, TRANCHE0, true]
+        vivado-build:
+            dict-fragments: [15eglv_pcuhdr, pcuhdr_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_pcuhdr, standard_petalinux_artifacts, petalinux_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcuhdr, standard_bootgen_artifacts]
+    15eg_pcuhdr_nodvbs2x_pcuv1:
+        enabled: false
+        description: "Tranche 0 PCU HDR RX/TX image (no DVB-S2X) for PCUv1."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcuhdr, pcuhdr_ppl, pcuhdr_tx, pcuhdr_rx]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, TRANCHE0, true]
+        vivado-build:
+            dict-fragments: [15eglv_pcuhdr, pcuhdr_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_pcuhdr, standard_petalinux_artifacts, petalinux_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcuhdr, standard_bootgen_artifacts]
+    15eg_pcuhdr_t1_nodvbs2x:
+        enabled: false
+        description: "Tranche 1 PCU HDR RX/TX image (no DVB-S2X) for PCUv1."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcuhdr, pcuhdr_ppl, pcuhdr_tx, pcuhdr_rx]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, TRANCHE1, true]
+        vivado-build:
+            dict-fragments: [15eglv_pcuhdr, pcuhdr_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_pcuhdr, standard_petalinux_artifacts, petalinux_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcuhdr, standard_bootgen_artifacts]
+
+
+    15eg_pcuhdr_pplonly_pcuv0:
+        enabled: false
+        description: "Tranche 0 PCU HDR minimal image with only PPL and essential features, for PCUv0."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcuhdr, pcuhdr_ppl]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, PCU_v0, true]
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, TRANCHE0, true]
+        vivado-build:
+            dict-fragments: [15eglv_pcuhdr, pcuhdr_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_pcuhdr, standard_petalinux_artifacts, petalinux_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcuhdr, standard_bootgen_artifacts]
+    15eg_pcuhdr_pplonly_pcuv1:
+        enabled: false
+        description: "Tranche 0 PCU HDR minimal image with only PPL and essential features, for PCUv1."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcuhdr, pcuhdr_ppl]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, TRANCHE0, true]
+        vivado-build:
+            dict-fragments: [15eglv_pcuhdr, pcuhdr_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_pcuhdr, standard_petalinux_artifacts, petalinux_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcuhdr, standard_bootgen_artifacts]
+    15eg_pcuhdr_t1_pplonly:
+        enabled: false
+        description: "Tranche 1 PCU HDR minimal image with only PPL and essential features, for PCUv1."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, pcuhdr, pcuhdr_ppl]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/pcuhdr/board_pcuhdr_config.svh, TRANCHE1, true]
+        vivado-build:
+            dict-fragments: [15eglv_pcuhdr, pcuhdr_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_pcuhdr, standard_petalinux_artifacts, petalinux_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_pcuhdr, standard_bootgen_artifacts]
+
+
+    15eg_sug_dsss_pcuv0:
+        enabled: false
+        description: "Standard Aether S-UG image with PCUv0."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, sug_standard]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/sug/board_sug_config.svh, PCU_v0, true]
+        vivado-build:
+            dict-fragments: [15eglv_sug, sug_artifacts]
+        xsdk-build:
+            dict-fragments: [15eg_sug, sug_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_sug_firmware, standard_bootgen_artifacts]
+    15eg_sug_dsss_pcuv1:
+        enabled: true
+        description: "Standard Aether S-UG image with PCUv1."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, sug_standard]
+        vivado-build:
+            dict-fragments: [15eglv_sug, sug_artifacts]
+        xsdk-build:
+            dict-fragments: [15eg_sug, sug_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_sug_firmware, standard_bootgen_artifacts]
+
+    15eg_sug_linux_pcuv0:
+        enabled: false
+        description: "Aether S-UG image Linux, without FreeRTOS firmware, with PCUv0."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, sug_standard]
+            list:
+                - [define-uncomment, sv, hdl/rtl/board/sug/board_sug_config.svh, PCU_v0, true]
+        vivado-build:
+            dict-fragments: [15eglv_sug, sug_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_sug, standard_petalinux_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_sug_linux, standard_bootgen_artifacts]
+    15eg_sug_linux_pcuv1:
+        enabled: false
+        description: "Aether S-UG image Linux, without FreeRTOS firmware, with PCUv1."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, sug_standard]
+        vivado-build:
+            dict-fragments: [15eglv_sug, sug_artifacts]
+        petalinux-build:
+            dict-fragments: [15eg_sug, standard_petalinux_artifacts]
+        bootgen-build:
+            dict-fragments: [15eg_sug_linux, standard_bootgen_artifacts]
+
+    28dr_zcu111_rfsoc_modem:
+        enabled: true
+        description: "RFSoC Modem using ZCU111."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, zcu111_dvbs2x, zcu111_dsss]
+            list:
+                # SFP1 is the control interface
+                - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_SFP1, true]
+                # SFP3 is the fall back control interface
+                - [define-uncomment, sv, hdl/rtl/board/zcu111/board_zcu111_config.svh, ENABLE_SFP3, true]
+        vivado-config:
+            strategy:
+                impl: Performance_Auto_1
+        vivado-build:
+            dict-fragments: [28dr_zcu111, zcu111_artifacts]
+        vitis-build:
+            builder-version: 2021
+            workspace-dir: c/zynqmp_baremetal/workspaces/zcu111_modem_boot
+            create-script: c/zynqmp_baremetal/scripts/create_vitis_workspace.tcl
+            create-script-args: [zcu111_modem_boot, hdl/vivado/workspace/28dr_zcu111/board_zcu111_top.xsa, --buildConfig, "{vitis_build_config}"]
+        petalinux-build:
+            dict-fragments: [28dr_zcu111, standard_petalinux_artifacts, petalinux_2021_artifacts]
+            sdk: true
+        bootgen-build:
+            dict-fragments: [28dr_zcu111, standard_bootgen_artifacts]
+
+    47dr_trenz_rfsoc_carrier_modem:
+        enabled: true
+        description: "RFSoC Modem using the Trenz 47DR RFSoC SoM on the official carrier board."
+        source-config:
+            dict-fragments: [gen_addrs]
+            list-fragments: [git_info, trenz_rfsoc_carrier_test]
+        vivado-build:
+            dict-fragments: [47dr_trenz_rfsoc_carrier, trenz_rfsoc_carrier_artifacts]
+        petalinux-build:
+            dict-fragments: [47dr_trenz_rfsoc_carrier, standard_petalinux_artifacts, petalinux_2021_artifacts]
+        bootgen-build:
+            dict-fragments: [47dr_trenz_rfsoc_carrier, standard_bootgen_artifacts]

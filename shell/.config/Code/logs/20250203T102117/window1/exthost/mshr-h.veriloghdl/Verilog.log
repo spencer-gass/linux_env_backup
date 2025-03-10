@@ -1,0 +1,45 @@
+2025-02-03 10:21:30.608 [info] mshr-h.veriloghdl is now active.
+2025-02-03 10:21:30.608 [info] [ExtensionManager] previousVersion: "1.16.0", currentVersion: "1.16.0"
+2025-02-03 10:21:30.608 [info] ctags manager configure
+2025-02-03 10:21:30.608 [warning] [LintManager] Invalid linter name: none
+2025-02-03 10:21:30.608 [info] mshr-h.veriloghdl activation finished.
+2025-02-03 10:21:30.615 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/rtl/p4_router/p4_router.sv
+2025-02-03 10:21:30.615 [info] indexing "/home/sgass/Projects/kepler2/hdl/rtl/p4_router/p4_router.sv"
+2025-02-03 10:21:30.615 [info] executing ctags
+2025-02-03 10:21:30.615 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler2/hdl/rtl/p4_router/p4_router.sv"
+2025-02-03 10:21:30.623 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/rtl/p4_router/p4_router.sv
+2025-02-03 10:21:30.623 [info] indexing "/home/sgass/Projects/kepler2/hdl/rtl/p4_router/p4_router.sv"
+2025-02-03 10:21:30.623 [info] executing ctags
+2025-02-03 10:21:30.623 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler2/hdl/rtl/p4_router/p4_router.sv"
+2025-02-03 10:21:30.625 [info] building symbols
+2025-02-03 10:21:30.627 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-03 10:21:30.634 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-03 10:21:42.499 [info] [VerilogHoverProvider] Hover requested
+2025-02-03 10:21:42.865 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-03 10:21:43.129 [info] [VerilogHoverProvider] Hover requested
+2025-02-03 10:21:43.301 [info] [VerilogHoverProvider] Hover requested
+2025-02-03 10:21:43.511 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-03 10:21:43.729 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-03 10:21:43.772 [info] [VerilogHoverProvider] Hover requested
+2025-02-03 10:21:44.167 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-03 10:21:44.263 [info] [VerilogHoverProvider] Hover requested
+2025-02-03 10:21:44.677 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-03 10:21:44.822 [info] [VerilogHoverProvider] Hover requested
+2025-02-03 10:21:45.216 [warning] [VerilogHoverProvider] Hover object not found
+2025-02-03 10:21:48.626 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/rtl/p4_router/p4_router.sv
+2025-02-03 10:21:48.627 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-03 10:21:55.625 [info] [VerilogHoverProvider] Hover requested
+2025-02-03 10:21:55.971 [info] [VerilogHoverProvider] Hover object returned
+2025-02-03 10:22:02.331 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/rtl/p4_router/p4_router.sv
+2025-02-03 10:22:02.332 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-03 10:22:34.922 [info] [VerilogHoverProvider] Hover requested
+2025-02-03 10:22:37.267 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/sgass/Projects/kepler2/hdl/sim/p4_router/p4_router_top_tb.sv
+2025-02-03 10:22:37.267 [info] indexing "/home/sgass/Projects/kepler2/hdl/sim/p4_router/p4_router_top_tb.sv"
+2025-02-03 10:22:37.267 [info] executing ctags
+2025-02-03 10:22:37.267 [info] Executing Command: ctags -f - --fields=+K --sort=no --excmd=n --fields-SystemVerilog=+{parameter} "/home/sgass/Projects/kepler2/hdl/sim/p4_router/p4_router_top_tb.sv"
+2025-02-03 10:22:37.271 [info] building symbols
+2025-02-03 10:22:37.275 [info] [VerilogDocumentSymbolProvider] 1 top-level symbols returned
+2025-02-03 10:22:38.139 [info] [VerilogHoverProvider] Hover requested
+2025-02-03 10:23:12.645 [info] on save
+2025-02-03 10:23:12.679 [warning] [LintManager] Invalid linter name: none
+2025-02-03 10:23:23.763 [info] Deactivated

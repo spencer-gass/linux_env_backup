@@ -1,0 +1,4 @@
+2025-02-03 13:30:29.832 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/sgass/Projects/kepler)
+2025-02-03 14:19:54.078 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/sgass/Projects/kepler2/ansible/roles/netbox/device_create/tasks' failed: No such file or directory (EUNKNOWN) (path: /home/sgass/Projects/kepler2)
+2025-02-03 14:19:54.078 [error] [File Watcher (universal)] inotify_add_watch on '/home/sgass/Projects/kepler2/ansible/roles/netbox/device_create/tasks' failed: No such file or directory
+2025-02-03 15:18:26.717 [error] [File Watcher (parcel)] Inotify limit reached (ENOSPC) (path: /home/sgass/Projects/kepler)

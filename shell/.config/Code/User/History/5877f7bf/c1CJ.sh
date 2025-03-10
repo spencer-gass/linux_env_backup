@@ -1,0 +1,195 @@
+#!/usr/bin/env bash
+#
+# Control the IP traffic generator
+
+set -Eeuo pipefail
+
+readonly AVMM="${AVMM:-/usr/bin/avmm}"
+
+continous_start_flag=false
+continous_stop_flag=false
+all_flag=false
+
+declare -r -A OFFSET_MAP=(
+    ["0"]="0x6400"
+    ["1"]="0x6500"
+    ["2"]="0x6600"
+    ["3"]="0x6700"
+    ["4"]="0x6800"
+    ["5"]="0x6900"
+    ["6"]="0x6A00"
+    ["7"]="0x6B00"
+    ["8"]="0x6C00"
+    ["9"]="0x6D00"
+)
+
+declare -r -A REG_OFFSETS=(
+    ["status"]=16
+    ["remaining_packets"]=17
+    ["shaper_accum"]=18
+    ["tx_count0"]=19
+    ["tx_count1"]=20
+    ["ctrl"]=21
+    ["num_packets"]=22
+    ["shaper_rate"]=23
+    ["ip_eth_type"]=24
+    ["hdip_dscp"]=25
+    ["ip_ecn"]=26
+    ["ip_identification"]=27
+    ["ip_flags"]=28
+    ["ip_fragment_offset"]=29
+    ["ip_ttl"]=30
+    ["ip_protocol"]=31
+    ["ip_source_ip"]=32
+    ["ip_dest_ip"]=33
+    ["dest_mac_msb"]=34
+    ["dest_mac_lsb"]=35
+)
+
+declare -r -A REG_VALS=(
+    ["ip_eth_type"]=0x806
+    ["hdip_dscp"]=0x0
+    ["ip_ecn"]=0x0
+    ["ip_identification"]=0x0
+    ["ip_flags"]=0x2
+    ["ip_fragment_offset"]=0x0
+    ["ip_ttl"]=0x2
+    ["ip_protocol"]=0x1
+    ["ip_source_ip"]=0xc0a86d0a
+    ["ip_dest_ip"]=0xc0a86d01
+    ["dest_mac_msb"]=0xffff
+    ["dest_mac_lsb"]=0xffffffff
+)
+
+
+usage() {
+    cat <<EOF
+Usage: $(basename "${BASH_SOURCE[0]}") [-h] gen_inst count shaper_rate
+
+Connect a blade ethernet interface to an MPCU ethernet interface.
+
+Available options:
+
+-h, --help              Print this help and exit
+-v, --verbose           Enable verbose output
+-c, --continous         Send packets indefinitielly
+-s, --stop              Stop sending packets
+-a, --all               apply request to all packet generators
+
+[gen_inst]              Which traffic generator to use
+                            One of: 0, 1
+[count]                 How many packets to send
+[shaper_rate]           Bytes per cycle represented as a 16.16 fixed point number
+
+
+EOF
+    exit
+}
+
+parse_params() {
+    while :; do
+        case "${1-}" in
+            -h | --help) usage ;;
+            -v | --verbose) set -x ;;
+            -c | --continuous) continous_start_flag=true ;;
+            -s | --stop) continous_stop_flag=true ;;
+            -a | --all) all_flag=true;;
+            -?*)
+                echo "Unknown option: ${1}"
+                exit 1;;
+            *) break ;;
+        esac
+        shift
+    done
+
+    args=("$@")
+
+    if (( ${#args[@]} < 3 )); then
+        echo "Missing arguments. Use -h for help."
+        exit 1
+    fi
+
+    readonly gen_inst_arg="${args[0]}"
+    valid_gen_inst=false
+    for interface in "0" "1"; do
+        if [[ "${interface}" == "${gen_inst_arg}" ]]; then
+          valid_gen_inst=true
+          break
+        fi
+    done
+    if [[ "${valid_gen_inst}" == false ]]; then
+        echo "Invalid generator instance ID: ${gen_inst_arg}. Must be 0 or 1."
+        exit 1
+    fi
+
+    readonly count="${args[1]}"
+    valid_count=false
+    if ((count >= 1 && count <= 4294967295 )); then
+	valid_count=true
+    fi
+
+    if [[ "${valid_count}" == false ]]; then
+        echo "Invalid count range: ${count}. Should be between 1 and 4294967295"
+        exit 1
+    fi
+
+    readonly shaper_rate="${args[2]}"
+    valid_shaper_rate=false
+    if [[ "$shaper_rate" =~ ^0x[0-9A-Fa-f]+$ ]]; then
+	    valid_shaper_rate=true
+    fi
+
+    if [[ "${valid_shaper_rate}" == false ]]; then
+        echo "Invalid shaper rate: ${shaper_rate}. Should be a hex number."
+        exit 1
+    fi
+
+
+    return 0
+}
+
+
+apply_config() {
+    gen_inst=$1
+    if $continous_stop_flag; then
+        tx_cnt1=`"${AVMM}" read "${OFFSET_MAP[${gen_inst}]}" "${REG_OFFSETS[tx_count1]}"  | cut  -d" " -f 7`
+        tx_cnt1=${tx_cnt1:2:8}
+        tx_cnt0=`"${AVMM}" read "${OFFSET_MAP[${gen_inst}]}" "${REG_OFFSETS[tx_count0]}"  | cut  -d" " -f 7`
+        tx_cnt0=${tx_cnt0:2:8}
+        echo Gen${gen_inst} Transmitted Packets: $tx_cnt1$tx_cnt0
+
+        "${AVMM}" write "${OFFSET_MAP[${gen_inst}]}" "${REG_OFFSETS[ctrl]}" 0x0 >/dev/null
+        exit;
+    fi
+
+    # set up initial values
+    for reg_name in "${!REG_VALS[@]}"; do
+        "${AVMM}" write "${OFFSET_MAP[${gen_inst}]}" "${REG_OFFSETS[${reg_name}]}" "${REG_VALS[${reg_name}]}" >/dev/null
+    done
+
+
+    #start sending
+    if $continous_start_flag; then
+        "${AVMM}" write "${OFFSET_MAP[${gen_inst}]}" "${REG_OFFSETS[num_packets]}" 0x0 >/dev/null
+        "${AVMM}" write "${OFFSET_MAP[${gen_inst}]}" "${REG_OFFSETS[shaper_rate]}" ${shaper_rate} >/dev/null
+        "${AVMM}" write "${OFFSET_MAP[${gen_inst}]}" "${REG_OFFSETS[ctrl]}" 0x3 >/dev/null
+        "${AVMM}" write "${OFFSET_MAP[${gen_inst}]}" "${REG_OFFSETS[ctrl]}" 0x2 >/dev/null
+    else
+        "${AVMM}" write "${OFFSET_MAP[${gen_inst}]}" "${REG_OFFSETS[num_packets]}" ${count} >/dev/null
+        "${AVMM}" write "${OFFSET_MAP[${gen_inst}]}" "${REG_OFFSETS[shaper_rate]}" 0x0 >/dev/null
+        "${AVMM}" write "${OFFSET_MAP[${gen_inst}]}" "${REG_OFFSETS[ctrl]}" 0x1 >/dev/null
+        "${AVMM}" write "${OFFSET_MAP[${gen_inst}]}" "${REG_OFFSETS[ctrl]}" 0x0 >/dev/null
+    fi
+}
+
+parse_params "$@"
+
+if [ $all_flag == true ]; then
+    for gen in "${!OFFSET_MAP[@]}"; do
+        apply_config $gen
+    done
+else
+    apply_config $gen_inst_arg
+fi
+
+echo Done.

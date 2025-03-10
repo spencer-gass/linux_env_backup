@@ -1,0 +1,10 @@
+2025-03-03 10:20:36.835 [info] update#setState idle
+2025-03-03 10:21:06.836 [info] update#setState checking for updates
+2025-03-03 10:21:06.840 [info] update#setState available for download
+2025-03-03 10:35:45.175 [info] Extension host with pid 975082 exited with code: 0, signal: unknown.
+2025-03-03 11:22:08.266 [info] Extension host with pid 976766 exited with code: 0, signal: unknown.
+2025-03-03 11:22:08.294 [error] [UtilityProcessWorker]: terminated unexpectedly with code 798962800, signal: unknown
+2025-03-03 12:16:12.992 [info] Extension host with pid 997703 exited with code: 0, signal: unknown.
+2025-03-03 19:54:53.375 [info] Extension host with pid 1032470 exited with code: 0, signal: unknown.
+2025-03-03 19:54:53.400 [error] [UtilityProcessWorker]: terminated unexpectedly with code 798962800, signal: unknown
+2025-03-03 21:08:57.389 [info] Extension host with pid 1429862 exited with code: 0, signal: unknown.

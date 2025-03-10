@@ -1,0 +1,523 @@
+--- fix ---
+
+ [34m|  *  3d0ca38756  -  (HEAD -> sgass/prod/no-ref/p4_router_queue_system)  FIX: remove inferred latch  (6 days ago)  [1;34m<Spencer Gass>
+
+--- wrong branch ---
+
+*  |   a1c835abfb  -   Merge branch 'sgass/prod/no-ref/p4_router_queue_system' into sgass/prod/no-ref/p4_router_ecp_ip_pkt_src  (6 days ago)  [1;34m<Spencer Gass>
+ |  \  |
+
+--- fixes ---
+
+ |  *  ec75c4f640  -  (origin/sgass/prod/no-ref/p4_router_queue_system)  FIX: move blocking assignment to always_comb  (6 days ago)  [1;34m<Spencer Gass>
+ |  *  cbb43172ec  -   FIX: delay drop counter read rather than ignoring it  (6 days ago)  [1;34m<Spencer Gass>
+ |  *  1bef4f47c6  -   FIX: one more coding style change for p4_router_scheduler  (6 days ago)  [1;34m<Spencer Gass>
+
+--- wrong branch ---
+
+*  [1;31m|   e74b7fd442  -   reverse packet gen order to match ingress port order  (6 days ago)  [1;34m<Spencer Gass>
+*  [1;31m|   ba48b488ff  -   fix arg check to allow packet gen 2 through 9  (7 days ago)  [1;34m<Spencer Gass>
+*  [1;31m|   61702c0905  -   Merge branch 'sgass/prod/no-ref/p4_router_queue_system' into sgass/prod/no-ref/p4_router_ecp_ip_pkt_src  (7 days ago)  [1;34m<Spencer Gass>
+ [1;32m|  [1;31m\  [1;31m|
+
+--- ila and bug fix ---
+
+ [1;32m|  *  5b48f6c0be  -   FIX: Fix p4_router scheduler port selection algorithm  (7 days ago)  [1;34m<Spencer Gass>
+ [1;32m|  *  d6da5e182d  -   FIX: fix ILA signal indexing in p4_router_egress  (7 days ago)  [1;34m<Spencer Gass>
+
+--- wrong branch ---
+
+*  [1;33m|   d08ea2b966  -   update ILAs and fix egress shaper  (7 days ago)  [1;34m<Spencer Gass>
+*  [1;33m|   c02c3f9e8d  -   Merge branch 'sgass/prod/no-ref/p4_router_queue_system' into sgass/prod/no-ref/p4_router_ecp_ip_pkt_src  (9 days ago)  [1;34m<Spencer Gass>
+ [1;34m|  [1;33m\  [1;33m|
+
+--- bug fix ---
+
+ [1;34m|  *  349b0ae114  -   FIX: fix p4_router mmu num_free_pages bug  (9 days ago)  [1;34m<Spencer Gass>
+
+--- wrong branch ---
+
+*  [1;35m|   4290822132  -   Merge branch 'sgass/prod/no-ref/p4_router_queue_system' into sgass/prod/no-ref/p4_router_ecp_ip_pkt_src  (2 weeks ago)  [1;34m<Spencer Gass>
+ [1;36m|  [1;35m\  [1;35m|
+
+--- ILA ---
+
+ [1;36m|  *  a82ffad4dc  -   CHG: chaged ILA signals in p4 router queue states  (2 weeks ago)  [1;34m<Spencer Gass>
+
+--- wrong branch ---
+
+*  |   fc6ea6cdff  -   fix syntax errors  (2 weeks ago)  [1;34m<Spencer Gass>
+*  |   38b68e0d3d  -   FIX: more errors fixed in packet gen bash script  (2 weeks ago)  [1;34m<Spencer Gass>
+*  |   95d74b6ce8  -   FIX: fix errors in packet gen bash script  (2 weeks ago)  [1;34m<Spencer Gass>
+*  |   6a5b3b1a99  -   IMP: change to 10 64b packet gens from 2  (2 weeks ago)  [1;34m<Spencer Gass>
+*  |   fdbb99b4af  -   fix pcuecp offsets  (2 weeks ago)  [1;34m<Spencer Gass>
+*  |   a08165ab64  -   increase default packet size for packet gen modules  (2 weeks ago)  [1;34m<Spencer Gass>
+*  |   61eba002df  -   Merge branch 'sgass/prod/no-ref/p4_router_queue_system' into sgass/prod/no-ref/p4_router_ecp_ip_pkt_src  (2 weeks ago)  [1;34m<Spencer Gass>
+ |  \  |
+
+--- bug fix ---
+
+ |  *  59249efd3c  -   FIX: Fix p4 router congestion manager ingress policer drop bug  (2 weeks ago)  [1;34m<Spencer Gass>
+
+--- wrong branch ---
+
+*  |   7e65369337  -   enable policer and cong man ILAs  (2 weeks ago)  [1;34m<Spencer Gass>
+*  |   61b1b7ac9c  -   Merge branch 'sgass/prod/no-ref/p4_router_queue_system' into sgass/prod/no-ref/p4_router_ecp_ip_pkt_src  (2 weeks ago)  [1;34m<Spencer Gass>
+ [34m|  \  |
+
+--- ILAs ---
+
+ [34m|  *  86c0873701  -   IMP: Add ILA to p4 router policer  (2 weeks ago)  [1;34m<Spencer Gass>
+
+--- wrong branch ---
+
+
+*  |   ad12610ad0  -   Merge branch 'sgass/prod/no-ref/p4_router_queue_system' into sgass/prod/no-ref/p4_router_ecp_ip_pkt_src  (2 weeks ago)  [1;34m<Spencer Gass>
+ |  \  |
+
+--- sdr ---
+
+ |  *  dc4cbecd3e  -   FIX: Correct method name typos  (2 weeks ago)  [1;34m<Spencer Gass>
+
+--- wrong branch ---
+
+*  [1;31m|   b5cdfb7f3e  -   Merge branch 'sgass/prod/no-ref/p4_router_queue_system' into sgass/prod/no-ref/p4_router_ecp_ip_pkt_src  (2 weeks ago)  [1;34m<Spencer Gass>
+ [1;32m|  [1;31m\  [1;31m|
+
+--- sdr ---
+
+ [1;32m|  *  d7b97ae6a5  -   IMP: Add ingress policer config methods to sdr python  (2 weeks ago)  [1;34m<Spencer Gass>
+
+--- wrong branch ---
+
+*  [1;33m|   61c935974c  -   Merge branch 'sgass/prod/no-ref/p4_router_queue_system' into sgass/prod/no-ref/p4_router_ecp_ip_pkt_src  (2 weeks ago)  [1;34m<Spencer Gass>
+ [1;34m|  [1;33m\  [1;33m|
+
+--- fix ---
+
+ [1;34m|  *  1daa96f623  -   STY: changed methond name for clarity  (2 weeks ago)  [1;34m<Spencer Gass>
+
+--- wrong branch ---
+
+*  [1;35m|   a3638fff3a  -   Merge branch 'sgass/prod/no-ref/p4_router_queue_system' into sgass/prod/no-ref/p4_router_ecp_ip_pkt_src  (2 weeks ago)  [1;34m<Spencer Gass>
+ [1;36m|  \  [1;35m|
+
+--- fix ---
+
+ [1;36m|  *  124a1c79ee  -   FIX: fix p4_router_avmm.py packet counter indecies.  (2 weeks ago)  [1;34m<Spencer Gass>
+
+--- wronge branch ---
+
+*  |   ed743f7fad  -   CHG: convert 1G packet generators to 10G  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   03dcde8936  -   IMP: Create ethernet frame generator  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   d8cd46b9f4  -   Merge branch 'sgass/prod/no-ref/p4_router_queue_system' into sgass/prod/no-ref/p4_router_ecp_ip_pkt_src  (3 weeks ago)  [1;34m<Spencer Gass>
+ |  \  |
+
+--- goes with module change ---
+
+ |  *  28232819b2  -   CHG: Increase p4 router counters to 64-bit and add intra-router packet counters  (3 weeks ago)  [1;34m<Spencer Gass>
+ |  *  6917f4ff31  -   CHG: Update board_pcuecp to handle CDCs to p4_router  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- branch that I don't want to merge ---
+
+*  |   1a81167504  -   IMP: Add ILA for drop counter debug  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   24dbbde0a9  -   CHG: update packet source bash script to configure shaper  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   cc5abf9f6e  -   FIX: regs io  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   6a527f0772  -   Fix: typo  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   43d2e9e138  -   FIX: syntax errors associated with debug counters  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   df2cb70d60  -   IMP: Add Debug Counters to p4_router  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   b27558fe87  -   fix continuous mode on packet gen  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   16397c7a27  -   whitespace change to get a new commit label  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   d6181da2bb  -   add bc to busybox  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   b33c0b08f9  -   fix typo in packet gen bash script  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   95ba4a466a  -   fix petalinux busybox config  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   dc45628bb6  -   fix bash script arguments for continuous tx  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   0bc5d9de29  -   Make ingress and egress counters 64 bit and make frame count saturate  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   73638f5f38  -   misc changes  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   bb1ec24b8a  -   add continuous mode for packet gen  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   1edb4cd9d3  -   FIX: revert to VNP4 echo and connect all egress ports to ps  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   e9cd4168e5  -   FIX: connect clock to ingress and egress axis interfaces  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   c4fc61210a  -   FIX: Syntax errors in packet gen bash script  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   eaac9ac40d  -   Add bc to petalinux for ECP  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   1c9abd37fb  -   removed iproute2 and ip neigh to see if that fixes ecp ssh issue  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   8d53b8a9a3  -   IMP: Integrate packet sources into ecp  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   1d6b1840aa  -   remove petalinux dir that didn't need to be committed  (3 weeks ago)  [1;34m<Spencer Gass>
+*  |   be357c51e4  -   Add arp, tcpdump, and iproute2 to ECP 2021 petalinux project  (3 weeks ago)  [1;34m<Spencer Gass>
+  /
+
+--- ILAs and Debug ---
+
+*  4cfba07e78  -   FIX: Fix offset in SDR python for p4_router drop counter access  (3 weeks ago)  [1;34m<Spencer Gass>
+*  9104bd8741  -   IMP: add counter access test case to p4_router_avmm_regs test bench  (3 weeks ago)  [1;34m<Spencer Gass>
+*  3203d06dc5  -   FIX: Fix syntax errors found while doing ECP build  (3 weeks ago)  [1;34m<Spencer Gass>
+*  83e8edf573  -   FIX: Add default value to DEBUG_ILA parameter on p4_router_queue_states  (3 weeks ago)  [1;34m<Spencer Gass>
+*  a735512c3a  -   IMP: Add ILAs to p4_router  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- goes with soc_build updates ---
+
+*  e898f3d635  -   FIX: check if directories exist before trying to create them  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- change module interface ---
+
+*  44c26faeda  -   FIX: Fix p4 router scheduler testbench aftre CDC change  (3 weeks ago)  [1;34m<Spencer Gass>
+*  1d6049246f  -   FIX: Fix merge error  (3 weeks ago)  [1;34m<Spencer Gass>
+*  82277a9fe0  -   CHG: Change p4_router module interface  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- soc build updates for vnp4 ip and runtime drivers
+
+*  3a461dc617  -   CHG: Add VNP4 .xcix to soc_build artifacts for ECP V1  (3 weeks ago)  [1;34m<Spencer Gass>
+*  12961d2eb8  -   CHG: Change VNP4 path to .p4 to be a reletive path  (3 weeks ago)  [1;34m<Spencer Gass>
+*  0a0ac2b565  -   FIX: Add p4 router ingress buffer overflow test  (3 weeks ago)  [1;34m<Spencer Gass>
+*  e6804b3cd2  -   IMP: Add VNP4 echo ip  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- p4 ---
+
+*  55384a64b3  -   CHG: Update frr_dplaine.p4  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- sdr counter access updates ---
+
+*  7b3aadaf9c  -   FIX: Make p4_router drop counters saturate  (3 weeks ago)  [1;34m<Spencer Gass>
+*  d62f2c3449  -   IMP: Add a function to sample p4_router ingres/egress counters  (3 weeks ago)  [1;34m<Spencer Gass>
+*  3795087179  -   FIX: Fix copy past error in p4_router_avmm.py  (3 weeks ago)  [1;34m<Spencer Gass>
+*  ce6e73eba7  -   FIX: fixed typos in p4_router couter print function  (3 weeks ago)  [1;34m<Spencer Gass>
+*  8d873adaf3  -   IMP: Add methods for printing all p4_router ingress and egress counters  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- misc ---
+
+*  783a3ae28f  -   FIX: Fix pcuecp build issues that popped up after rebase  (3 weeks ago)  [1;34m<Spencer Gass>
+*  899ef96ac2  -   CHG: Use passthrough VNP4 for pcuecp  (3 weeks ago)  [1;34m<Spencer Gass>
+*  61533d7cf5  -   FIX: Fix IPv4 checksum user extern  (3 weeks ago)  [1;34m<Spencer Gass>
+*  d63d3be941  -   CHG: Remove unneeded resets from p4_router logic  (3 weeks ago)  [1;34m<Spencer Gass>
+*  d18cbc0ea5  -   CHG: Add backpressure to p4_router ingress buffer  (3 weeks ago)  [1;34m<Spencer Gass>
+*  c76c09801e  -   IMP: Add mpcu t1 VNP4 IP wrapper to p4_router  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- timing improvements ---
+
+*  15df5240d1  -   CHG: Add pipeline stages to p4_router to improve timing  (3 weeks ago)  [1;34m<Spencer Gass>
+*  5ed95505dc  -   REF: First round of timing improvements for p4_router  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- queue system bug fixes and feature adds ---
+
+*  e47181ee29  -   REF: Refactor p4_router free page fifo to use BRAM  (3 weeks ago)  [1;34m<Spencer Gass>
+*  48eb6437aa  -   FIX: Rework p4_router queue system with synth feedback  (3 weeks ago)  [1;34m<Spencer Gass>
+*  ddb8e299ac  -   FIX: axis_packet_checker tlast bug fix  (3 weeks ago)  [1;34m<Spencer Gass>
+*  966cf0b66a  -   FIX: p4_router bug fixes while running Vivado Synth  (3 weeks ago)  [1;34m<Spencer Gass>
+*  0e2a8962dd  -   CHG: Update pcuecp register map with new p4_router regs  (3 weeks ago)  [1;34m<Spencer Gass>
+*  258eb4b75c  -   IMP: Add p4_router drop counters to sdr python  (3 weeks ago)  [1;34m<Spencer Gass>
+*  8020a02668  -   IMP: Add AVMM regs for p4 router queue system drop counters  (3 weeks ago)  [1;34m<Spencer Gass>
+*  0ba5c2237f  -   IMP: Add drop counters to p4 router congestion manager  (3 weeks ago)  [1;34m<Spencer Gass>
+*  512f92f13d  -   STY: Remove unused interface and stale comments  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- inital queue system ---
+
+*  5cc40bb4c5  -   CHG: Add look ahead to p4_router congestion manager  (3 weeks ago)  [1;34m<Spencer Gass>
+*  3729544bf8  -   IMP: Add ingress demap between VNP4 and queue system  (3 weeks ago)  [1;34m<Spencer Gass>
+*  410ee897b8  -   IMP: Add p4_router queue system table config to sdr python  (3 weeks ago)  [1;34m<Spencer Gass>
+*  bde07042ed  -   IMP: Add AXI4Lite table config interfaces to p4 router queue system  (3 weeks ago)  [1;34m<Spencer Gass>
+*  ec3a1bc224  -   CHG: Integrate policer changes into the reset of p4_router  (3 weeks ago)  [1;34m<Spencer Gass>
+*  e93c71b22a  -   IMP: Add test cases to p4 router policer tb  (3 weeks ago)  [1;34m<Spencer Gass>
+*  1e988ee70f  -   IMP: Implement p4_router_policer  (3 weeks ago)  [1;34m<Spencer Gass>
+*  2aa741f39f  -   IMP: Add throrough smoke test for p4_router congestion manager  (3 weeks ago)  [1;34m<Spencer Gass>
+*  c28e3cd8d0  -   IMP: Add line-rate test to p4_router_scheduler_tb  (3 weeks ago)  [1;34m<Spencer Gass>
+*  f7aba38620  -   FIX: Update metadata type for egress test bench  (3 weeks ago)  [1;34m<Spencer Gass>
+*  b1327e648c  -   IMP: Integrate queue system into p4_router  (3 weeks ago)  [1;34m<Spencer Gass>
+*  317dd0651e  -   CHG: Update p4 router egress to interface to queue system  (3 weeks ago)  [1;34m<Spencer Gass>
+*  66d4b82164  -   IMP: Add egress buffer ready feedback to dequeue scheduler  (3 weeks ago)  [1;34m<Spencer Gass>
+*  1b7e315ae4  -   CHG: Change p4_router port scheduler algorithm  (3 weeks ago)  [1;34m<Spencer Gass>
+*  f480c6ee5b  -   FIX: Bug fixes for p4 router queue system  (3 weeks ago)  [1;34m<Spencer Gass>
+*  467a7bc678  -   IMP: add test case for p4 router scheduler  (3 weeks ago)  [1;34m<Spencer Gass>
+*  8e6b57d278  -   IMP: Create test bench for p4 router scheduler  (3 weeks ago)  [1;34m<Spencer Gass>
+*  2486803e7b  -   IMP: Add test cases to p4 router queue states tb  (3 weeks ago)  [1;34m<Spencer Gass>
+*  6d89335a3b  -   IMP: Add random enque test case to queue states tb  (3 weeks ago)  [1;34m<Spencer Gass>
+*  0892803928  -   IMP: Add starting point for p4 router queue states tb  (3 weeks ago)  [1;34m<Spencer Gass>
+*  462abfd7bd  -   FIX: Fixes for p4 router scheduler and queue states  (3 weeks ago)  [1;34m<Spencer Gass>
+*  761444abe3  -   STY: Remove stail comment  (3 weeks ago)  [1;34m<Spencer Gass>
+*  6a19799ba5  -   IMP: Add test case for p4_router congestion manager tb  (3 weeks ago)  [1;34m<Spencer Gass>
+*  7b1c6f4c7a  -   IMP: Add test case for p4 router congestion manager  (3 weeks ago)  [1;34m<Spencer Gass>
+*  afd06bb90c  -   IMP: Add test case to p4_router_congestion_manager_tb  (3 weeks ago)  [1;34m<Spencer Gass>
+*  aecf9464d2  -   IMP: Create test bench for p4_router_congestion_manager  (3 weeks ago)  [1;34m<Spencer Gass>
+*  ea503abce5  -   REF: Refactor p4_router test benches  (3 weeks ago)  [1;34m<Spencer Gass>
+*  95a1c28547  -   IMP: Implement scheduler and dequeue logic  (3 weeks ago)  [1;34m<Spencer Gass>
+*  c79bb13476  -   IMP: Implement p4_router_uram_mmu  (3 weeks ago)  [1;34m<Spencer Gass>
+*  617fc8db9e  -   IMP: Implement p4_router queue states and congestion manager  (3 weeks ago)  [1;34m<Spencer Gass>
+*  ee12ebea28  -   REF: Create structs for metadata between p4 router modules  (3 weeks ago)  [1;34m<Spencer Gass>
+*  e412f32ab1  -   IMP: Create p4_router_queue_system and submodules  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- initaial sdr support ---
+
+*  a70a59fb86  -   STY: Remove unused signals and stail comment in p4_egress_tb  (3 weeks ago)  [1;34m<Spencer Gass>
+*  1ab52f348f  -   IMP: Add SDR python suport for p4_router  (3 weeks ago)  [1;34m<Spencer Gass>
+*  c11d065148  -   FIX: Reorder p4_router_avmm_regs address for clarity  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- add p4 router to pcuecp ---
+
+*  946a7386a6  -   REF: Extract generated VNP4 package to hdl/rtl  (3 weeks ago)  [1;34m<Spencer Gass>
+*  bce8dccdb7  -   FIX: Update vnp4 ip_info with property whitespace stripping  (3 weeks ago)  [1;34m<Spencer Gass>
+*  4c26776cc4  -   IMP: Create vitis net p4 instance for ECP  (3 weeks ago)  [1;34m<Spencer Gass>
+*  da0c5afeb1  -   FIX: Fix bugs found while building with Vivado  (3 weeks ago)  [1;34m<Spencer Gass>
+*  56da55852e  -   REF: Change how different version of VNP4 IP are selected  (3 weeks ago)  [1;34m<Spencer Gass>
+*  819ef47949  -   IMP: Add p4_router to pcuecp  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- .p4 ---
+
+*  43790131e3  -   IMP: Jackie's latest frr_dplane.p4 adapted to xilinx compiler  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- ipv4 checksum user extern ---
+
+*  fcdac0130a  -   FIX: Add __init__.py for ipv4 test benches  (3 weeks ago)  [1;34m<Spencer Gass>
+*  f9c3c09e62  -   CHG: Remove unused pcaps from p4_router test bench  (3 weeks ago)  [1;34m<Spencer Gass>
+*  3aa299dd91  -   IMP: mpcu. Merged vnp4 wrpapper changed into ipv4 wrapper version  (3 weeks ago)  [1;34m<Spencer Gass>
+*  18c6f59324  -   IMP: mpcu. Add a wrapper for VNP4 with IP checksum externs  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- independant IPv4 commits ---
+
+*  ae60c452c9  -   CHG: mpcu. Tie off unused AXIS interface signals  (3 weeks ago)  [1;34m<Spencer Gass>
+*  0747273eed  -   IMP: mpcu. Add a p4 example for verifying IPv4 checksum  (3 weeks ago)  [1;34m<Spencer Gass>
+*  c13b543f48  -   IMP: Create IPv4 checksum update example p4  (3 weeks ago)  [1;34m<Spencer Gass>
+*  e34e81f5f9  -   REF: mpcu. Rename user extern example p4  (3 weeks ago)  [1;34m<Spencer Gass>
+*  be16de9d77  -   IMP: mpcu. Create VNP4 user extern example  (3 weeks ago)  [1;34m<Spencer Gass>
+*  2da5645adf  -   CHG: mpcu. Change IPv4 checksum modules to use AXIS_int  (3 weeks ago)  [1;34m<Spencer Gass>
+*  4acc76442b  -   IMP: mpcu. Add tests for IPv4 checksum verifier  (3 weeks ago)  [1;34m<Spencer Gass>
+*  1f90b0e59c  -   IMP: mpcu. Create test bench for IPv4 checksum verify  (3 weeks ago)  [1;34m<Spencer Gass>
+*  ec9c1c2a83  -   IMP: mpcu. Create IPv4 checksum generator and checker  (3 weeks ago)  [1;34m<Spencer Gass>
+*  8e9f2d8d31  -   REF: mpcu. Change file name to ipv4_checksum_update_tb.py  (3 weeks ago)  [1;34m<Spencer Gass>
+*  d1ac466781  -   IMP: mpcu. Create IPv4 checksum update module  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- Ingress and Egress refactor ---
+
+*  157bbbc153  -   CHG: Updated p4 router with ingress and egress changes  (3 weeks ago)  [1;34m<Spencer Gass>
+*  7139852ff1  -   CHG: P4 router egress updates  (3 weeks ago)  [1;34m<Spencer Gass>
+*  bb8c57735c  -   CHG: Refinements to ingress refactor  (3 weeks ago)  [1;34m<Spencer Gass>
+*  7249a5b872  -   IMP: Create axis_dist_ram_fifo  (3 weeks ago)  [1;34m<Spencer Gass>
+*  59c5f3c789  -   REF: mpcu. p4 router ingress refactor  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- PCAP/DPI, counters, misc ---
+
+*  9afc3c9cca  -   CHG: mpcu. Change ingress/egress buffer depth  (3 weeks ago)  [1;34m<Spencer Gass>
+*  d9677a2566  -   FIX: mpcu. Resolve conflicts in p4_router_top test bench  (3 weeks ago)  [1;34m<Spencer Gass>
+*  024c93fd14  -   FIX: mpcu. Remove create_pcap.py to pass the pipeline  (3 weeks ago)  [1;34m<Spencer Gass>
+*  0ed86abf18  -   FIX: Add __init__.py to p4_router test bench  (3 weeks ago)  [1;34m<Spencer Gass>
+*  bf46f96f05  -   CHG: mpcu. Create VNP4 testbench wrapper for top level testbench  (3 weeks ago)  [1;34m<Spencer Gass>
+*  e4563d16cc  -   FIX: mpcu. Add `default_nettype wire at the end of pkg file  (3 weeks ago)  [1;34m<Spencer Gass>
+*  3bc990541d  -   FIX: mpcu. reverted unneeded changes to xilinx p4  (3 weeks ago)  [1;34m<Spencer Gass>
+*  85662f2305  -   IMP: mpcu. Create xilinx compatible p4 based on Jackie's p4  (3 weeks ago)  [1;34m<Spencer Gass>
+
+*  ecd4798646  -   IMP: mpcu. Add rtl to p4 port map  (3 weeks ago)  [1;34m<Spencer Gass>
+*  ece88f00fd  -   CHG: mpcu. Change VNP4 instance in default wrapper to be more generic  (3 weeks ago)  [1;34m<Spencer Gass>
+*  71ba894a83  -   FIX: mpcu. Fix modport on p4_router egress modules  (3 weeks ago)  [1;34m<Spencer Gass>
+*  9b6d9ae1e7  -   FIX: mpcu Fix clock and rest interface modport for p4_router modules  (3 weeks ago)  [1;34m<Spencer Gass>
+
+*  6f1e5487c6  -   DOC: Add register map to p4 router avmm regs  (3 weeks ago)  [1;34m<Spencer Gass>
+*  d45da02da3  -   CHG: mpcu. Reset behavior change  (3 weeks ago)  [1;34m<Spencer Gass>
+*  93ba5457ee  -   CHG: mpcu. Add avmm regs updates to p4 router top  (3 weeks ago)  [1;34m<Spencer Gass>
+*  1a255cc69f  -   CHG: mpcu. Add default_nettype none to tb_pkg  (3 weeks ago)  [1;34m<Spencer Gass>
+*  cd7b6f40d7  -   REF: mpcu. Rename address constants for clarity  (3 weeks ago)  [1;34m<Spencer Gass>
+*  413ab4c593  -   IMP: mpcu. Add p4 router RO config registers  (3 weeks ago)  [1;34m<Spencer Gass>
+
+*  a874a51160  -   IMP: mpcu. Create counter and port enable regs for p4 router  (3 weeks ago)  [1;34m<Spencer Gass>
+*  183a6c5986  -   IMP: mpcu. Add counters and enable to p4 router egress  (3 weeks ago)  [1;34m<Spencer Gass>
+*  5c1b949729  -   REF: p4_ingress signal rename and whitespace refactor  (3 weeks ago)  [1;34m<Spencer Gass>
+*  186ac7891e  -   IMP: mpcu. Add test cases for p4 router ingress enable and counters  (3 weeks ago)  [1;34m<Spencer Gass>
+*  28e7882d10  -   IMP: mpcu. Add enable and counters to p4 ingress  (3 weeks ago)  [1;34m<Spencer Gass>
+
+*  8474fe0ddc  -   CHG: mpcu. updated the forward.p4 example to the 2023 version that shows IP checksum usage  (3 weeks ago)  [1;34m<Spencer Gass>
+*  3a44006474  -   IMP: mpcu. Add PCAPs for p4 router sims and add .pcap to lfs  (3 weeks ago)  [1;34m<Spencer Gass>
+*  038e78c085  -   CHG: mpcu. Add vnp4 echo physical port sim model  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- p4_router top level ---
+
+*  e622f4f622  -   IMP: mpcu. Create p4 router top level test bench  (3 weeks ago)  [1;34m<Spencer Gass>
+*  cbed23269b  -   IMP: mpcu. Add Jackie's frr_dplane.p4 file with edits to work with Xilinx p4 compiler  (3 weeks ago)  [1;34m<Spencer Gass>
+*  634d211c50  -   IMP: mpcu. Add p4_router_avmm_regs test bench  (3 weeks ago)  [1;34m<Spencer Gass>
+*  aadc9d36e6  -   CHG: mpcu. added interconnect and peripheral resets to avmm regs  (3 weeks ago)  [1;34m<Spencer Gass>
+*  9ef0fe5783  -   REF: mpcu. Removed unecessary comment  (3 weeks ago)  [1;34m<Spencer Gass>
+*  c740698c61  -   IMP: mpcu. Create P4 router top level, register file, and VNP4 wrapper  (3 weeks ago)  [1;34m<Spencer Gass>
+
+--- ingress + egress inital design ---
+
+*  27074fbe3f  -   REF: mpcu. Rename converged_ing_bus to ing_bus for consistency  (3 weeks ago)  [1;34m<Spencer Gass>
+*  ca5bcd98e7  -   REF: mpcu. Replace ceiling divide function with UTIL_INTS::U_INT_CEIL_DIV  (3 weeks ago)  [1;34m<Spencer Gass>
+*  63fc0cff09  -   REF: mpcu. Change ingress and egress buffer overflow signals from a logic vector per data width to a single logic vector to simplify register connection  (3 weeks ago)  [1;34m<Spencer Gass>
+*  0862e2fdf9  -   REF: mpcu. Remove unnecessary curly braces.  (3 weeks ago)  [1;34m<Spencer Gass>
+*  afa12a665d  -   REF: mpcu. Rename P4 mpls_router to p4_router  (3 weeks ago)  [1;34m<Spencer Gass>
+*  ea65fdce05  -   REF: mpcu. clean up white space  (3 weeks ago)  [1;34m<Spencer Gass>
+*  ca001f5753  -   REF: mpcu. Move common RTL into mpls_router_pkg and mpls_tb_pkg  (3 weeks ago)  [1;34m<Spencer Gass>
+*  e8b1a1fc19  -   IMP: mpcu. Add packet drop test case for MPLS egress testbench  (3 weeks ago)  [1;34m<Spencer Gass>
+*  8719d08f65  -   IMP: mpcu. MPLS egress module and test bench  (3 weeks ago)  [1;34m<Spencer Gass>
+*  bcafa78448  -   STY: mpcu. Update comments in MPLS ingres tb  (3 weeks ago)  [1;34m<Spencer Gass>
+*  a057779d6a  -   TST: mpcu. Add simulation test case configurations for MPLS ingress  (3 weeks ago)  [1;34m<Spencer Gass>
+*  62a05af007  -   STY: mpcu. Clean up comments.  (3 weeks ago)  [1;34m<Spencer Gass>
+*  7addf35ccc  -   IMP: mpcu. Create MPLS ingress module and testbench  (3 weeks ago)  [1;34m<Spencer Gass>
+
+No dependencies
+- axis_dist_ram_fifo.sv
+- axis_to_user_extern.sv
+- ipv4_checksum*
+- vnp4.ip_info
+- .p4 files
+p4_router dependencies
+- axis, ipv4
+board pcuecp dependencies
+- p4_router, ip_info, p4_files
+soc_create_project / project.yaml dependencies
+- everything above
+
+
+--- Not Needed ---
+
+p4 - don't need examples merged. refactor ip_infos to use mpls_router/app.p4
+  # p4/example_ip_chksum_verify_and_update.p4
+  # p4/example_user_extern.p4
+  # p4/forward.p4
+  # p4/frr_dplane.p4
+  # p4/frr_dplane_xilinx.p4
+
+--- Submitted Thursday 12-12 ---
+
+axis_distram_fifo - no dependancies - sgass/prod/no-ref/axis_dist_ram_fifo
+  hdl/rtl/axis/axis_dist_ram_fifo.sv
+  hdl/sim/axis/axis_dist_ram_fifo_tb.sv
+  python/kepler/tests/rtlsim/axis/axis_dist_ram_fifo_tb.py
+axis_packet utils - no dependancies - sgass/prod/no-ref/axis_packet_tb_utils
+  hdl/sim/axis/axis_array_packet_checker.sv
+  hdl/sim/axis/axis_array_packet_generator.sv
+  hdl/sim/axis/axis_packet_checker.sv
+  hdl/sim/axis/axis_packet_generator.sv
+  hdl/sim/axis/axis_array_packet_generator_and_checker_tb.sv
+  python/kepler/tests/rtlsim/axis/axis_array_packet_generator_and_checker_tb.py
+ipv4 - no dependancies - sgass/prod/no-ref/ipv4_checksum
+  hdl/rtl/ipv4/ipv4_checksum_gen.sv
+  hdl/rtl/ipv4/ipv4_checksum_update.sv
+  hdl/rtl/ipv4/ipv4_checksum_verify.sv
+  hdl/sim/ipv4/ipv4_checksum_tb_pkg.sv
+  hdl/sim/ipv4/ipv4_checksum_update_tb.sv
+  hdl/sim/ipv4/ipv4_checksum_verify_tb.sv
+  python/kepler/tests/rtlsim/ipv4/__init__.py
+  python/kepler/tests/rtlsim/ipv4/ipv4_checksum_update_tb.py
+  python/kepler/tests/rtlsim/ipv4/ipv4_checksum_verify_tb.py
+
+--- Submitted Friday 12-13 ---
+
+vnp4_user_extern - depends on ipv4 - sgass/prod/no-ref/vnp4_user_extern
+  p4/passthrough_with_ipv4_user_extern.p4
+  hdl/rtl/axis/axis_to_user_extern.sv
+  hdl/sim/p4_router/vitis_net_p4_passthrough_with_ipv4_user_extern_pkg.sv
+  hdl/sim/p4_router/vitis_net_p4_passthrough_with_ipv4_user_extern_sim_netlist.v
+  hdl/sim/p4_router/vnp4_ipv4_user_extern_tb.sv
+  hdl/sim/p4_router/vnp4_ipv4_user_extern_tb.waves.tcl
+  python/kepler/tests/rtlsim/p4_router/vnp4_ipv4_user_extern_tb.py
+  hdl/rtl/p4_router/p4_router_pkg.sv
+  hdl/sim/p4_router/p4_router_tb_pkg.sv
+  python/kepler/tests/rtlsim/p4_router/__init__.py
+p4_router
+  Ingress - depends on axis_packet_utils and axis_distram_fifo - sgass/prod/no-ref/p4_router_ingress
+    hdl/rtl/p4_router/p4_router_ingress.sv
+    hdl/rtl/p4_router/p4_router_ingress_buffer.sv
+    hdl/rtl/p4_router/p4_router_ingress_port_array_adapt.sv
+    hdl/sim/p4_router/p4_router_ingress_tb.sv
+    hdl/sim/p4_router/p4_router_ingress_tb.waves.tcl
+    python/kepler/tests/rtlsim/p4_router/p4_router_ingress_tb.py
+    hdl/rtl/p4_router/p4_router_pkg.sv
+    hdl/sim/p4_router/p4_router_tb_pkg.sv
+    python/kepler/tests/rtlsim/p4_router/__init__.py
+  Egress - depnds on axis_packet_utils - sgass/prod/no-ref/p4_router_egress
+    hdl/rtl/p4_router/p4_router_egress.sv
+    hdl/rtl/p4_router/p4_router_egress_port_array_adapt.sv
+    hdl/sim/p4_router/p4_router_egress_tb.waves.tcl
+    hdl/sim/p4_router/p4_router_egress_tb.sv
+    python/kepler/tests/rtlsim/p4_router/p4_router_egress_tb.py
+    hdl/rtl/p4_router/p4_router_pkg.sv
+    hdl/sim/p4_router/p4_router_tb_pkg.sv
+    python/kepler/tests/rtlsim/p4_router/__init__.py
+
+--- Yet to be created ---
+
+  VNP4 - depends on ipv4, user_extern, p4
+    hdl/rtl/p4_router/p4_router_vnp4_echo_phys_port_pkg.sv
+    hdl/rtl/p4_router/p4_router_vnp4_echo_phys_port_wrapper.sv
+    hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_pkg.sv
+    hdl/rtl/p4_router/p4_router_vnp4_frr_t1_ecp_wrapper.sv
+    hdl/rtl/p4_router/p4_router_vnp4_frr_t1_mpcu_pkg.sv
+    hdl/rtl/p4_router/p4_router_vnp4_frr_t1_mpcu_wrapper.sv
+    hdl/rtl/p4_router/p4_router_vnp4_wrapper_select.sv
+    hdl/sim/p4_router/vitis_net_p4_echo_phys_port_sim_netlist.v
+    hdl/rtl/p4_router/p4_router_pkg.sv
+    hdl/sim/p4_router/p4_router_tb_pkg.sv
+    python/kepler/tests/rtlsim/p4_router/__init__.py
+  Queue system
+    Congestion Manager - depends on axis
+      hdl/rtl/p4_router/p4_router_congestion_manager.sv
+      hdl/sim/p4_router/p4_router_congestion_manager_tb.sv
+      hdl/sim/p4_router/p4_router_congestion_manager_tb.waves.tcl
+      python/kepler/tests/rtlsim/p4_router/p4_router_congestion_manager_tb.py
+      hdl/rtl/p4_router/p4_router_pkg.sv
+      hdl/sim/p4_router/p4_router_tb_pkg.sv
+      python/kepler/tests/rtlsim/p4_router/__init__.py
+    Policer - depends on axis
+      hdl/rtl/p4_router/p4_router_policer.sv
+      hdl/sim/p4_router/p4_router_policer_tb.sv
+      hdl/sim/p4_router/p4_router_policer_tb.waves.tcl
+      python/kepler/tests/rtlsim/p4_router/p4_router_policer_tb.py
+      hdl/rtl/p4_router/p4_router_pkg.sv
+      hdl/sim/p4_router/p4_router_tb_pkg.sv
+      python/kepler/tests/rtlsim/p4_router/__init__.py
+    Queue States - depends on axis
+      hdl/rtl/p4_router/p4_router_queue_states.sv
+      hdl/sim/p4_router/p4_router_queue_states_tb.sv
+      hdl/sim/p4_router/p4_router_queue_states_tb.waves.tcl
+      python/kepler/tests/rtlsim/p4_router/p4_router_queue_states_tb.py
+      hdl/rtl/p4_router/p4_router_pkg.sv
+      hdl/sim/p4_router/p4_router_tb_pkg.sv
+      python/kepler/tests/rtlsim/p4_router/__init__.py
+    Scheduler - depends on egress and axis
+      hdl/rtl/p4_router/p4_router_scheduler.sv
+      hdl/sim/p4_router/p4_router_scheduler_tb.sv
+      hdl/sim/p4_router/p4_router_scheduler_tb.waves.tcl
+      python/kepler/tests/rtlsim/p4_router/p4_router_scheduler_tb.py
+      hdl/rtl/p4_router/p4_router_pkg.sv
+      hdl/sim/p4_router/p4_router_tb_pkg.sv
+      python/kepler/tests/rtlsim/p4_router/__init__.py
+    Queue System - depends on other queue system modules
+      hdl/rtl/p4_router/p4_router_queue_system.sv
+      hdl/sim/p4_router/p4_router_queue_system_tb.sv
+      hdl/sim/p4_router/p4_router_queue_system_tb.waves.tcl
+      python/kepler/tests/rtlsim/p4_router/p4_router_queue_system_tb.py
+      hdl/rtl/p4_router/p4_router_uram_queue_memory.sv
+      hdl/rtl/p4_router/p4_router_uram_queue_mmu.sv
+      hdl/rtl/p4_router/p4_router_pkg.sv
+      hdl/sim/p4_router/p4_router_tb_pkg.sv
+      python/kepler/tests/rtlsim/p4_router/__init__.py
+  avmm regs - no dependancies
+    hdl/rtl/p4_router/p4_router_avmm_regs.sv
+    hdl/sim/p4_router/p4_router_avmm_regs_tb.sv
+    hdl/sim/p4_router/p4_router_avmm_regs_tb.waves.tcl
+    python/kepler/kepler/fpga/devices/p4_router_avmm.py
+    python/kepler/tests/rtlsim/p4_router/p4_router_avmm_regs_tb.py
+    hdl/rtl/p4_router/p4_router_pkg.sv
+    hdl/sim/p4_router/p4_router_tb_pkg.sv
+    python/kepler/tests/rtlsim/p4_router/__init__.py
+  top level - axis, ipv4, user_extern, p4, p4_router
+    hdl/rtl/p4_router/p4_router.sv
+    hdl/sim/p4_router/p4_router_top_tb.sv
+    hdl/sim/p4_router/p4_router_top_tb.waves.tcl
+    python/kepler/tests/rtlsim/p4_router/p4_router_top_tb.py
+    hdl/rtl/p4_router/p4_router_pkg.sv
+    hdl/sim/p4_router/p4_router_tb_pkg.sv
+    python/kepler/tests/rtlsim/p4_router/__init__.py
+pcuecp vnp4 ip info - depends on p4_router
+  p4/echo_phys_port.p4
+  hdl/rtl/board/pcuecp/board_pcuecp_avmm_addrs.sv
+  hdl/rtl/board/pcuecp/board_pcuecp_avmm_addrs_rom_init.hex
+  hdl/rtl/board/pcuecp/board_pcuecp_p4_router_wrapper.sv
+  hdl/rtl/board/pcuecp/board_pcuecp_system.sv
+  hdl/vivado/ipsrcs/tcl-managed/common/vitis_net_p4_echo_phys_port.Vivado.2021.2.ip_info
+  hdl/vivado/ipsrcs/tcl-managed/pcuecp/vitis_net_p4_frr_t1_ecp.Vivado.2021.2.ip_info
+  python/kepler/kepler/fpga/devices/avmm_addrs_pcuecp.py
+  python/kepler/kepler/fpga/generators/bus_addrs/avmm_addrs-pcuecp.csv
+  python/kepler/kepler/fpga/sdr_platform/sdr_factory_pcuecp.py
+create project and projects.yaml.gitattributes - depends on pcuecp
+  petalinux/layers/meta-kepler-common-2021/recipes-apps/kepler-build-info/files/gen_version_file.mk
+  petalinux/pcu-ecp-2021/soc_create_project.sh
+  soc_build/projects.yaml
+
+
