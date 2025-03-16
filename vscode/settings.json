@@ -10,5 +10,10 @@
     "terminal.integrated.lineHeight": 1.1,
     "search.useIgnoreFiles": false,
     "python.languageServer": "None",
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+    "[makefile]": {
+        "editor.insertSpaces": false,
+        "editor.detectIndentation": false,
+        "editor.tabSize": 4
+    }
 }
