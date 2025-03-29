@@ -1,6 +1,6 @@
 [Added Associations]
 image/png=gimp.desktop;
-image/jpeg=org.gnome.Shotwell-Viewer.desktop;gimp.desktop;firefox.desktop;
+image/jpeg=gimp_gimp.desktop;org.gnome.Shotwell-Viewer.desktop;gimp.desktop;firefox.desktop;
 
 [Default Applications]
 text/html=firefox_firefox.desktop

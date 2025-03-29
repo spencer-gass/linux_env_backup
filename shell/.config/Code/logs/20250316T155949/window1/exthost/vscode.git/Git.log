@@ -1,0 +1,342 @@
+2025-03-16 15:59:51.998 [info] [main] Log level: Info
+2025-03-16 15:59:51.998 [info] [main] Validating found git in: "git"
+2025-03-16 15:59:51.998 [info] [main] Using git "2.43.0" from "git"
+2025-03-16 15:59:51.998 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-16 15:59:51.998 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 15:59:51.998 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 15:59:51.998 [info] > git rev-parse --show-toplevel [9ms]
+2025-03-16 15:59:51.998 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 15:59:51.998 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-16 15:59:51.998 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 15:59:52.001 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-16 15:59:52.001 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 15:59:52.031 [info] > git rev-parse --show-toplevel [9ms]
+2025-03-16 15:59:52.031 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 15:59:52.039 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-16 15:59:52.039 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 15:59:52.049 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-16 15:59:52.049 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 15:59:52.059 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-16 15:59:52.059 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 15:59:52.062 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-16 15:59:52.121 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-16 15:59:52.121 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 15:59:52.187 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 15:59:52.187 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 15:59:52.685 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 15:59:52.685 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 16:00:04.258 [info] [main] Log level: Info
+2025-03-16 16:00:04.258 [info] [main] Validating found git in: "git"
+2025-03-16 16:00:04.258 [info] [main] Using git "2.43.0" from "git"
+2025-03-16 16:00:04.258 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-16 16:00:04.258 [info] > git rev-parse --show-toplevel [14ms]
+2025-03-16 16:00:04.258 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 16:00:04.291 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-16 16:00:04.291 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 16:00:04.302 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-16 16:00:04.302 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 16:00:04.316 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-16 16:00:04.316 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 16:00:04.323 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 16:00:04.323 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 16:00:04.328 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 16:00:04.328 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 16:00:04.333 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 16:00:04.333 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 16:00:04.337 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 16:00:04.337 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 16:00:04.342 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 16:00:04.342 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 16:00:04.347 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-16 16:00:04.347 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 16:00:04.352 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-16 16:00:04.357 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2025-03-16 16:00:04.359 [info] [Model][openRepository] Opened repository: /home/sgass/Projects/reference/asic
+2025-03-16 16:00:04.368 [info] > git config --get commit.template [4ms]
+2025-03-16 16:00:04.369 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-16 16:00:04.377 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-03-16 16:00:04.379 [info] [Model][openRepository] Opened repository: /home/sgass/Projects/reference/cmonster
+2025-03-16 16:00:04.380 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-03-16 16:00:04.394 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-16 16:00:04.394 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 16:00:04.394 [info] > git config --get commit.template [6ms]
+2025-03-16 16:00:04.406 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-03-16 16:00:04.406 [info] > git rev-parse --show-toplevel [9ms]
+2025-03-16 16:00:04.406 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 16:00:04.407 [info] [Model][doInitialScan] Initial repository scan completed - repositories (2), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-16 16:00:04.411 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/sgass/Projects/reference/cmonster/.git/refs/remotes/origin/master'
+2025-03-16 16:00:04.412 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-03-16 16:00:04.741 [info] > git status -z -uall [326ms]
+2025-03-16 16:00:04.779 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [29ms]
+2025-03-16 16:00:04.790 [info] > git config --get commit.template [11ms]
+2025-03-16 16:00:04.801 [info] > git config --local branch.master.vscode-merge-base [13ms]
+2025-03-16 16:00:04.819 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [9ms]
+2025-03-16 16:00:04.829 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+2025-03-16 16:00:04.836 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/sgass/Projects/reference/cmonster/.git/refs/remotes/origin/master'
+2025-03-16 16:00:04.837 [info] > git merge-base refs/heads/master refs/remotes/origin/master [9ms]
+2025-03-16 16:00:04.893 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [48ms]
+2025-03-16 16:00:04.901 [info] > git rev-parse refs/remotes/origin/master [65ms]
+2025-03-16 16:00:04.924 [info] > git diff --name-status -z --diff-filter=ADMR 09b70a309f3b8ff3cc35b630a3657c38c1c6a988...refs/remotes/origin/master [23ms]
+2025-03-16 16:00:04.929 [info] > git check-ignore -v -z --stdin [16ms]
+2025-03-16 16:00:04.929 [info] > git check-ignore -v -z --stdin [7ms]
+2025-03-16 16:00:05.128 [info] > git status -z -uall [222ms]
+2025-03-16 16:00:05.136 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2025-03-16 16:00:05.141 [info] > git config --local branch.master.vscode-merge-base [2ms]
+2025-03-16 16:00:05.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [2ms]
+2025-03-16 16:00:05.598 [info] > git status -z -uall [1193ms]
+2025-03-16 16:00:05.633 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2025-03-16 16:00:05.654 [info] > git config --get commit.template [22ms]
+2025-03-16 16:00:05.660 [info] > git rev-parse --show-toplevel [7ms]
+2025-03-16 16:00:05.660 [info] > git config --local branch.main.vscode-merge-base [17ms]
+2025-03-16 16:00:05.699 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2025-03-16 16:00:05.700 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [29ms]
+2025-03-16 16:00:05.762 [info] > git merge-base refs/heads/main refs/remotes/origin/main [53ms]
+2025-03-16 16:00:05.768 [info] > git rev-parse --show-toplevel [70ms]
+2025-03-16 16:00:05.768 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 16:00:05.776 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [8ms]
+2025-03-16 16:00:05.788 [info] > git diff --name-status -z --diff-filter=ADMR 8df2800d2b30effe9123a27779e404f2dd19c724...refs/remotes/origin/main [3ms]
+2025-03-16 16:00:06.112 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 16:00:06.112 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 16:00:06.258 [info] > git status -z -uall [483ms]
+2025-03-16 16:00:06.268 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-03-16 16:00:06.276 [info] > git config --local branch.main.vscode-merge-base [3ms]
+2025-03-16 16:00:06.283 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2025-03-16 16:00:08.241 [info] > git check-ignore -v -z --stdin [4ms]
+2025-03-16 16:00:12.758 [info] > git check-ignore -v -z --stdin [2ms]
+2025-03-16 16:00:17.525 [info] > git check-ignore -v -z --stdin [4ms]
+2025-03-16 16:00:20.171 [info] > git check-ignore -v -z --stdin [3ms]
+2025-03-16 16:00:36.529 [info] > git check-ignore -v -z --stdin [3ms]
+2025-03-16 16:00:39.278 [info] > git check-ignore -v -z --stdin [3ms]
+2025-03-16 16:00:56.695 [info] > git check-ignore -v -z --stdin [2ms]
+2025-03-16 16:00:58.514 [info] > git show --textconv :apps/devpci/devpci.c [5ms]
+2025-03-16 16:00:58.514 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/devpci/devpci.c [2ms]
+2025-03-16 16:00:58.519 [info] > git cat-file -s c200d24ac9d5d38b7526de151b1585b4cdc9b440 [2ms]
+2025-03-16 16:01:05.088 [info] > git show --textconv :apps/devpci/Makefile [9ms]
+2025-03-16 16:01:05.089 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/devpci/Makefile [2ms]
+2025-03-16 16:01:05.099 [info] > git cat-file -s 88793f92a7c469e64b296671ee660bdd365396aa [3ms]
+2025-03-16 16:01:59.745 [info] > git show --textconv :apps/devpci/devpci.c [9ms]
+2025-03-16 16:01:59.747 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/devpci/devpci.c [2ms]
+2025-03-16 16:01:59.756 [info] > git cat-file -s c200d24ac9d5d38b7526de151b1585b4cdc9b440 [2ms]
+2025-03-16 16:09:01.681 [info] > git show --textconv :apps/devpci/Makefile [9ms]
+2025-03-16 16:09:01.683 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/devpci/Makefile [2ms]
+2025-03-16 16:09:01.692 [info] > git cat-file -s 88793f92a7c469e64b296671ee660bdd365396aa [3ms]
+2025-03-16 16:09:09.509 [info] > git check-ignore -v -z --stdin [3ms]
+2025-03-16 16:09:56.828 [info] > git show --textconv :apps/fpga_driver/libelmo.h [5ms]
+2025-03-16 16:09:56.829 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/fpga_driver/libelmo.h [1ms]
+2025-03-16 16:09:56.838 [info] > git cat-file -s 85dd36ac8f6b8e49b81d12e3b55a813854f3b635 [3ms]
+2025-03-16 16:10:18.774 [info] > git check-ignore -v -z --stdin [3ms]
+2025-03-16 16:10:23.744 [info] > git check-ignore -v -z --stdin [2ms]
+2025-03-16 16:10:26.540 [info] > git check-ignore -v -z --stdin [3ms]
+2025-03-16 16:10:33.609 [info] > git show --textconv :apps/fpga_driver/kernel_driver/fpga_driver.c [8ms]
+2025-03-16 16:10:33.611 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/fpga_driver/kernel_driver/fpga_driver.c [3ms]
+2025-03-16 16:10:33.620 [info] > git cat-file -s b52f7bd69548d5e827b6be499f9d9c49d7bbf9ed [2ms]
+2025-03-16 16:15:40.557 [info] > git show --textconv :apps/fpga_driver/kernel_driver/xilinx.c [8ms]
+2025-03-16 16:15:40.559 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/fpga_driver/kernel_driver/xilinx.c [2ms]
+2025-03-16 16:15:40.569 [info] > git cat-file -s 6544169be11c921f98ace11d74aef9b1e74fc228 [3ms]
+2025-03-16 16:17:34.239 [info] > git show --textconv :apps/fpga_driver/kernel_driver/generator.c [7ms]
+2025-03-16 16:17:34.241 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/fpga_driver/kernel_driver/generator.c [3ms]
+2025-03-16 16:17:34.250 [info] > git cat-file -s 77356a1d63d57d4400998a5c5e3e24706143a977 [3ms]
+2025-03-16 16:20:00.403 [info] > git show --textconv :apps/fpga_driver/kernel_driver/imhotep.h [8ms]
+2025-03-16 16:20:00.405 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/fpga_driver/kernel_driver/imhotep.h [3ms]
+2025-03-16 16:20:00.414 [info] > git cat-file -s dde712837757d662956a2a9d3e024e5879e6ec60 [2ms]
+2025-03-16 16:20:39.858 [info] > git show --textconv :apps/fpga_driver/kernel_driver/generator.c [4ms]
+2025-03-16 16:20:39.859 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/fpga_driver/kernel_driver/generator.c [2ms]
+2025-03-16 16:20:39.862 [info] > git cat-file -s 77356a1d63d57d4400998a5c5e3e24706143a977 [1ms]
+2025-03-16 16:21:19.129 [info] > git show --textconv :apps/fpga_driver/kernel_driver/fpga_driver.c [11ms]
+2025-03-16 16:21:19.132 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/fpga_driver/kernel_driver/fpga_driver.c [3ms]
+2025-03-16 16:21:19.144 [info] > git cat-file -s b52f7bd69548d5e827b6be499f9d9c49d7bbf9ed [4ms]
+2025-03-16 16:26:08.259 [info] > git show --textconv :apps/fpga_driver/kernel_driver/xilinx.c [12ms]
+2025-03-16 16:26:08.262 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/fpga_driver/kernel_driver/xilinx.c [4ms]
+2025-03-16 16:26:08.275 [info] > git cat-file -s 6544169be11c921f98ace11d74aef9b1e74fc228 [4ms]
+2025-03-16 16:26:09.882 [info] > git show --textconv :apps/fpga_driver/kernel_driver/generator.c [9ms]
+2025-03-16 16:26:09.885 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/fpga_driver/kernel_driver/generator.c [3ms]
+2025-03-16 16:26:09.895 [info] > git cat-file -s 77356a1d63d57d4400998a5c5e3e24706143a977 [3ms]
+2025-03-16 16:26:10.677 [info] > git show --textconv :apps/fpga_driver/kernel_driver/imhotep.h [11ms]
+2025-03-16 16:26:10.679 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/fpga_driver/kernel_driver/imhotep.h [3ms]
+2025-03-16 16:26:10.692 [info] > git cat-file -s dde712837757d662956a2a9d3e024e5879e6ec60 [3ms]
+2025-03-16 16:26:20.264 [info] > git show --textconv :apps/fpga_driver/kernel_driver/generator.c [8ms]
+2025-03-16 16:26:20.266 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/fpga_driver/kernel_driver/generator.c [3ms]
+2025-03-16 16:26:20.276 [info] > git cat-file -s 77356a1d63d57d4400998a5c5e3e24706143a977 [2ms]
+2025-03-16 16:35:53.922 [info] > git show --textconv :apps/fpga_driver/fpga_access/FPGA_access.c [7ms]
+2025-03-16 16:35:53.923 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/fpga_driver/fpga_access/FPGA_access.c [2ms]
+2025-03-16 16:35:53.931 [info] > git cat-file -s 52bf7a917c15009927d75669252028b089ee5d26 [2ms]
+2025-03-16 16:38:08.198 [info] > git show --textconv :apps/fpga_driver/libelmo.c [13ms]
+2025-03-16 16:38:08.201 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/fpga_driver/libelmo.c [4ms]
+2025-03-16 16:38:08.212 [info] > git cat-file -s 684ef7f81a6afa7a7696bb8ecf81dbee78d934a7 [3ms]
+2025-03-16 16:41:17.971 [info] > git show --textconv :apps/fpga_driver/Makefile [9ms]
+2025-03-16 16:41:17.972 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/fpga_driver/Makefile [2ms]
+2025-03-16 16:41:17.982 [info] > git cat-file -s f0d0e2254b95e54b69e32300f154174d3c766daf [3ms]
+2025-03-16 16:41:43.613 [info] > git show --textconv :apps/fpga_driver/libelmo.c [10ms]
+2025-03-16 16:41:43.615 [info] > git ls-files --stage -- /home/sgass/Projects/reference/cmonster/apps/fpga_driver/libelmo.c [3ms]
+2025-03-16 16:41:43.625 [info] > git cat-file -s 684ef7f81a6afa7a7696bb8ecf81dbee78d934a7 [3ms]
+2025-03-16 17:00:50.753 [info] [main] Log level: Info
+2025-03-16 17:00:50.753 [info] [main] Validating found git in: "git"
+2025-03-16 17:00:50.753 [info] [main] Using git "2.43.0" from "git"
+2025-03-16 17:00:50.753 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-16 17:00:50.753 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-16 17:00:50.753 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:00:50.754 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-16 17:00:50.754 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:00:50.760 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:00:50.760 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:00:50.764 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:00:50.764 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:00:50.768 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:00:50.768 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:00:50.772 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:00:50.772 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:00:50.776 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:00:50.776 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:00:50.780 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:00:50.780 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:00:50.781 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-16 17:00:51.109 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:00:51.109 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:00:51.651 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:00:51.651 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:00:52.648 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:00:52.648 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:02:27.230 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-16 17:02:27.230 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:04:49.474 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-16 17:04:49.474 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:05:51.273 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-16 17:05:51.273 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:06:41.268 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-16 17:06:41.268 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:07:11.853 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-16 17:07:11.853 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:07:22.270 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-16 17:07:22.270 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:07:27.375 [info] [main] Log level: Info
+2025-03-16 17:07:27.375 [info] [main] Validating found git in: "git"
+2025-03-16 17:07:27.375 [info] [main] Using git "2.43.0" from "git"
+2025-03-16 17:07:27.375 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-16 17:07:27.375 [info] > git rev-parse --show-toplevel [7ms]
+2025-03-16 17:07:27.375 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:07:27.375 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:07:27.375 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:07:27.380 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:07:27.380 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:07:27.384 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:07:27.384 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:07:27.387 [info] > git rev-parse --show-toplevel [0ms]
+2025-03-16 17:07:27.387 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:07:27.391 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-16 17:07:27.391 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:07:27.394 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:07:27.394 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:07:27.397 [info] > git rev-parse --show-toplevel [0ms]
+2025-03-16 17:07:27.397 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:07:27.401 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:07:27.401 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:07:27.401 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-16 17:07:27.585 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-16 17:07:27.586 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:07:28.173 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-16 17:07:28.173 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-03-16 17:43:39.442 [info] > git rev-parse --show-toplevel [4ms]
+2025-03-16 17:43:39.454 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-03-16 17:43:39.466 [info] [Model][openRepository] Opened repository: /home/sgass/Projects/Personal/ldd3
+2025-03-16 17:43:39.475 [info] > git config --get commit.template [1ms]
+2025-03-16 17:43:39.478 [info] [Git][getRemotes] No remotes found in the git config file
+2025-03-16 17:43:39.479 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-03-16 17:43:39.479 [warning] [Git][getBranch] No such branch: master
+2025-03-16 17:43:39.645 [info] > git status -z -uall [162ms] (cancelled)
+2025-03-16 17:43:39.865 [info] > git show --textconv :source/Makefile [10ms]
+2025-03-16 17:43:39.867 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/source/Makefile [3ms]
+2025-03-16 17:43:39.991 [info] > git check-ignore -v -z --stdin [2ms]
+2025-03-16 17:43:41.027 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/source/Makefile [3ms]
+2025-03-16 17:43:41.036 [info] > git show --textconv :source/Makefile [2ms]
+2025-03-16 17:45:14.539 [info] > git show --textconv :.vscode/settings.json [4ms]
+2025-03-16 17:45:14.540 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/.vscode/settings.json [1ms]
+2025-03-16 17:45:42.342 [info] > git show --textconv :.vscode/settings.json [4ms]
+2025-03-16 17:45:42.342 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/.vscode/settings.json [1ms]
+2025-03-16 17:48:15.476 [info] > git show --textconv :.vscode/settings.json [4ms]
+2025-03-16 17:48:15.476 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/.vscode/settings.json [1ms]
+2025-03-16 17:48:28.171 [info] [main] Log level: Info
+2025-03-16 17:48:28.171 [info] [main] Validating found git in: "git"
+2025-03-16 17:48:28.171 [info] [main] Using git "2.43.0" from "git"
+2025-03-16 17:48:28.171 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-16 17:48:28.171 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-16 17:48:28.183 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-03-16 17:48:28.187 [info] [Model][openRepository] Opened repository: /home/sgass/Projects/Personal/ldd3
+2025-03-16 17:48:28.200 [info] > git rev-parse --show-toplevel [6ms]
+2025-03-16 17:48:28.200 [info] > git config --get commit.template [9ms]
+2025-03-16 17:48:28.208 [info] [Git][getRemotes] No remotes found in the git config file
+2025-03-16 17:48:28.208 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-16 17:48:28.212 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-03-16 17:48:28.212 [warning] [Git][getBranch] No such branch: master
+2025-03-16 17:48:28.217 [info] > git rev-parse --show-toplevel [5ms]
+2025-03-16 17:48:28.221 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:48:28.224 [info] > git rev-parse --show-toplevel [0ms]
+2025-03-16 17:48:28.227 [info] > git rev-parse --show-toplevel [0ms]
+2025-03-16 17:48:28.231 [info] > git rev-parse --show-toplevel [1ms]
+2025-03-16 17:48:28.232 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-16 17:48:28.393 [info] > git status -z -uall [177ms] (cancelled)
+2025-03-16 17:48:28.603 [info] > git show --textconv :source/Makefile [4ms]
+2025-03-16 17:48:28.604 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/source/Makefile [2ms]
+2025-03-16 17:48:28.708 [info] > git check-ignore -v -z --stdin [4ms]
+2025-03-16 17:48:37.458 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [38ms]
+2025-03-16 17:48:37.458 [warning] [Git][getBranch] No such branch: master
+2025-03-16 17:48:37.459 [info] > git config --get commit.template [2ms]
+2025-03-16 17:48:37.460 [info] [Git][getRemotes] No remotes found in the git config file
+2025-03-16 17:48:37.464 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2025-03-16 17:48:37.464 [warning] [Git][getBranch] No such branch: master
+2025-03-16 17:48:37.892 [info] > git status -z -uall [426ms] (cancelled)
+2025-03-16 17:48:37.892 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [41ms]
+2025-03-16 17:48:37.892 [warning] [Git][getBranch] No such branch: master
+2025-03-16 17:48:42.481 [info] > git show --textconv :.vscode/settings.json [5ms]
+2025-03-16 17:48:42.482 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/.vscode/settings.json [1ms]
+2025-03-16 17:48:42.776 [info] > git check-ignore -v -z --stdin [3ms]
+2025-03-16 17:48:44.108 [info] > git show --textconv :source/Makefile [11ms]
+2025-03-16 17:48:44.109 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/source/Makefile [2ms]
+2025-03-16 17:48:47.352 [info] > git show --textconv :source/Makefile [11ms]
+2025-03-16 17:48:47.354 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/source/Makefile [4ms]
+2025-03-16 17:49:43.456 [info] > git show --textconv :.gitignore [9ms]
+2025-03-16 17:49:43.458 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/.gitignore [2ms]
+2025-03-16 17:49:43.731 [info] > git check-ignore -v -z --stdin [3ms]
+2025-03-16 17:51:59.098 [info] > git check-ignore -v -z --stdin [3ms]
+2025-03-16 17:52:26.623 [info] > git show --textconv :README.md [11ms]
+2025-03-16 17:52:26.623 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/README.md [6ms]
+2025-03-16 17:52:26.892 [info] > git check-ignore -v -z --stdin [2ms]
+2025-03-16 17:52:30.917 [info] > git show --textconv :README.md [7ms]
+2025-03-16 17:52:30.918 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/README.md [2ms]
+2025-03-16 18:02:24.877 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/README.md [1ms]
+2025-03-16 18:02:24.884 [info] > git cat-file -s 5da1b56d944f8dbbdf0ed456723a499bdbbc14e8 [2ms]
+2025-03-16 18:02:24.892 [info] > git show --textconv :README.md [2ms]
+2025-03-16 18:03:21.073 [info] > git show --textconv :.gitignore [8ms]
+2025-03-16 18:03:21.075 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/.gitignore [2ms]
+2025-03-16 18:03:21.082 [info] > git cat-file -s 5d83e19fd36d9fc40d7250f2ae2906bcfd0b9bfb [2ms]
+2025-03-16 18:03:29.696 [info] > git check-ignore -v -z --stdin [2ms]
+2025-03-16 18:06:48.118 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/.gitignore [1ms]
+2025-03-16 18:06:48.123 [info] > git show --textconv :.gitignore [1ms]
+2025-03-16 18:07:03.403 [info] > git show --textconv :README.md [7ms]
+2025-03-16 18:07:03.405 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/README.md [2ms]
+2025-03-16 18:09:44.360 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/README.md [2ms]
+2025-03-16 18:09:44.366 [info] > git cat-file -s 27459bca1c5058d86e4a5c97ba55c733ab0bebc8 [2ms]
+2025-03-16 18:09:44.378 [info] > git show --textconv :README.md [3ms]
+2025-03-16 18:10:11.650 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/README.md [2ms]
+2025-03-16 18:10:11.660 [info] > git cat-file -s 27459bca1c5058d86e4a5c97ba55c733ab0bebc8 [2ms]
+2025-03-16 18:10:11.672 [info] > git show --textconv :README.md [2ms]
+2025-03-16 18:13:06.355 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/README.md [2ms]
+2025-03-16 18:13:06.364 [info] > git cat-file -s 27459bca1c5058d86e4a5c97ba55c733ab0bebc8 [3ms]
+2025-03-16 18:13:06.374 [info] > git show --textconv :README.md [3ms]
+2025-03-16 18:14:10.586 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/README.md [4ms]
+2025-03-16 18:14:10.601 [info] > git cat-file -s 27459bca1c5058d86e4a5c97ba55c733ab0bebc8 [4ms]
+2025-03-16 18:14:10.611 [info] > git show --textconv :README.md [1ms]
+2025-03-16 18:14:54.196 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/README.md [3ms]
+2025-03-16 18:14:54.205 [info] > git cat-file -s 27459bca1c5058d86e4a5c97ba55c733ab0bebc8 [2ms]
+2025-03-16 18:14:54.216 [info] > git show --textconv :README.md [3ms]
+2025-03-16 18:14:57.351 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/README.md [2ms]
+2025-03-16 18:14:57.360 [info] > git cat-file -s 27459bca1c5058d86e4a5c97ba55c733ab0bebc8 [2ms]
+2025-03-16 18:14:57.372 [info] > git show --textconv :README.md [3ms]
+2025-03-16 18:18:10.588 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/README.md [3ms]
+2025-03-16 18:18:10.598 [info] > git cat-file -s 27459bca1c5058d86e4a5c97ba55c733ab0bebc8 [2ms]
+2025-03-16 18:18:10.609 [info] > git show --textconv :README.md [2ms]
+2025-03-16 18:18:12.931 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/README.md [4ms]
+2025-03-16 18:18:12.941 [info] > git cat-file -s 27459bca1c5058d86e4a5c97ba55c733ab0bebc8 [3ms]
+2025-03-16 18:18:12.952 [info] > git show --textconv :README.md [2ms]
+2025-03-16 18:18:49.285 [info] > git ls-files --stage -- /home/sgass/Projects/Personal/ldd3/README.md [3ms]
+2025-03-16 18:18:49.295 [info] > git cat-file -s 27459bca1c5058d86e4a5c97ba55c733ab0bebc8 [3ms]
+2025-03-16 18:18:49.315 [info] > git show --textconv :README.md [4ms]

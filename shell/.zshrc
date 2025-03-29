@@ -58,6 +58,10 @@ export ALDEC_LICENSE_FILE=27009@$LICENCE_SERVER
 export KEPLER_MONOREPO_PYTHON_VIRTUALENV_PATH=/home/sgass/.venvs/kepler/bin/activate
 export CMAKE=/home/sgass/bin/cmake
 
+export LDD_ROOT=/home/sgass/Projects/Personal/ldd3
+export PATH="$PATH:$LDD_ROOT/bin"
+alias ldd="cd $LDD_ROOT"
+
 alias ssh='ssh -X'
 alias vim='vim -O'
 #alias cdk='cd ~/Projects/kepler'

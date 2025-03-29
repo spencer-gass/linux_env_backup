@@ -1,3 +1,63 @@
-2025/03/10-09:44:00.070 1525 Reusing MANIFEST /home/sgass/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
-2025/03/10-09:44:00.103 1525 Recovering log #138
-2025/03/10-09:44:00.103 1525 Reusing old log /home/sgass/.config/obsidian/Local Storage/leveldb/000138.log 
+2025/03/25-18:38:53.481 2817 Reusing MANIFEST /home/sgass/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2025/03/25-18:38:53.534 2817 Recovering log #169
+2025/03/25-18:38:53.535 2817 Reusing old log /home/sgass/.config/obsidian/Local Storage/leveldb/000169.log 
+2025/03/25-19:30:15.929 2816 Level-0 table #173: started
+2025/03/25-19:30:15.939 2816 Level-0 table #173: 13336 bytes OK
+2025/03/25-19:30:15.942 2816 Delete type=0 #169
+2025/03/25-19:35:18.557 2816 Level-0 table #175: started
+2025/03/25-19:35:18.562 2816 Level-0 table #175: 15111 bytes OK
+2025/03/25-19:35:18.564 2816 Delete type=0 #172
+2025/03/25-19:35:18.564 2816 Compacting 4@0 + 1@1 files
+2025/03/25-19:35:18.568 2816 Generated table #176@0: 52 keys, 4547 bytes
+2025/03/25-19:35:18.568 2816 Compacted 4@0 + 1@1 files => 4547 bytes
+2025/03/25-19:35:18.570 2816 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/25-19:35:18.570 2816 Delete type=2 #168
+2025/03/25-19:35:18.570 2816 Delete type=2 #166
+2025/03/25-19:35:18.570 2816 Delete type=2 #170
+2025/03/25-19:35:18.571 2816 Delete type=2 #175
+2025/03/25-19:35:18.571 2816 Delete type=2 #173
+2025/03/25-19:59:27.529 2816 Level-0 table #178: started
+2025/03/25-19:59:27.534 2816 Level-0 table #178: 15161 bytes OK
+2025/03/25-19:59:27.537 2816 Delete type=0 #174
+2025/03/27-18:27:27.784 2817 Level-0 table #180: started
+2025/03/27-18:27:27.789 2817 Level-0 table #180: 16545 bytes OK
+2025/03/27-18:27:27.792 2817 Delete type=0 #177
+2025/03/28-19:24:44.255 2816 Level-0 table #182: started
+2025/03/28-19:24:44.261 2816 Level-0 table #182: 15930 bytes OK
+2025/03/28-19:24:44.264 2816 Delete type=0 #179
+2025/03/28-19:54:10.638 2816 Level-0 table #184: started
+2025/03/28-19:54:10.648 2816 Level-0 table #184: 15471 bytes OK
+2025/03/28-19:54:10.652 2816 Delete type=0 #181
+2025/03/28-19:54:10.653 2816 Compacting 4@0 + 1@1 files
+2025/03/28-19:54:10.657 2816 Generated table #185@0: 54 keys, 4610 bytes
+2025/03/28-19:54:10.657 2816 Compacted 4@0 + 1@1 files => 4610 bytes
+2025/03/28-19:54:10.659 2816 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/28-19:54:10.660 2816 Delete type=2 #176
+2025/03/28-19:54:10.660 2816 Delete type=2 #184
+2025/03/28-19:54:10.661 2816 Delete type=2 #180
+2025/03/28-19:54:10.661 2816 Delete type=2 #182
+2025/03/28-19:54:10.661 2816 Delete type=2 #178
+2025/03/28-20:14:50.365 2816 Level-0 table #187: started
+2025/03/28-20:14:50.371 2816 Level-0 table #187: 15431 bytes OK
+2025/03/28-20:14:50.374 2816 Delete type=0 #183
+2025/03/28-20:28:32.691 2816 Level-0 table #189: started
+2025/03/28-20:28:32.700 2816 Level-0 table #189: 15424 bytes OK
+2025/03/28-20:28:32.703 2816 Delete type=0 #186
+2025/03/28-20:35:25.850 2817 Level-0 table #191: started
+2025/03/28-20:35:25.855 2817 Level-0 table #191: 15400 bytes OK
+2025/03/28-20:35:25.858 2817 Delete type=0 #188
+2025/03/28-21:29:57.265 2817 Level-0 table #193: started
+2025/03/28-21:29:57.274 2817 Level-0 table #193: 15489 bytes OK
+2025/03/28-21:29:57.276 2817 Delete type=0 #190
+2025/03/28-21:29:57.276 2817 Compacting 4@0 + 1@1 files
+2025/03/28-21:29:57.279 2817 Generated table #194@0: 54 keys, 4613 bytes
+2025/03/28-21:29:57.279 2817 Compacted 4@0 + 1@1 files => 4613 bytes
+2025/03/28-21:29:57.281 2817 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/28-21:29:57.281 2817 Delete type=2 #191
+2025/03/28-21:29:57.281 2817 Delete type=2 #193
+2025/03/28-21:29:57.281 2817 Delete type=2 #187
+2025/03/28-21:29:57.281 2817 Delete type=2 #185
+2025/03/28-21:29:57.281 2817 Delete type=2 #189
+2025/03/29-09:56:20.939 2816 Level-0 table #196: started
+2025/03/29-09:56:20.943 2816 Level-0 table #196: 15465 bytes OK
+2025/03/29-09:56:20.945 2816 Delete type=0 #192

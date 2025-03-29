@@ -1,0 +1,40 @@
+# Define Variables
+CC = gcc
+CFLAGS = -Wall
+
+# Targets that are not files
+# even if a file named main exists, the phony target main will still build
+.PHONY: all clean main build hello
+
+# make will build the first target in the make file if one isn't passed as an argument
+all: my_program
+
+# phony target that depends on object files
+# and calls GCC to link
+my_program: main.o helper.o libmylib.so
+	$(CC) $(CFLAGS) -o my_program main.o helper.o
+
+# Rule for main.o
+# compile main.c into main.o
+main.o: main.c helper.h
+	$(CC) $(CFLAGS) -c main.c
+
+# Rule for helper.o
+# compile helper.c into helper.o
+helper.o: helper.c helper.h
+	$(CC) $(CFLAGS) -c helper.c
+
+libmylib.so: libmylib.o
+	gcc -shared -o libmylib.so mylib.o
+
+libmylib.o: libmylib.c
+	gcc -fPIC -c mylib.c
+
+
+# Clean rule to remove object files and the executable
+clean:
+	rm -f *.o my_program
+
+# hello world target
+hello:
+	@echo "Hello World"

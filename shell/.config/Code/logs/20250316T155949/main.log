@@ -1,0 +1,9 @@
+2025-03-16 15:59:49.497 [info] update#setState idle
+2025-03-16 16:00:03.173 [info] Extension host with pid 1531135 exited with code: 0, signal: unknown.
+2025-03-16 16:00:19.502 [info] update#setState checking for updates
+2025-03-16 16:00:19.510 [info] update#setState available for download
+2025-03-16 17:00:48.310 [info] Extension host with pid 1531488 exited with code: 0, signal: unknown.
+2025-03-16 17:07:24.823 [info] Extension host with pid 1561689 exited with code: 0, signal: unknown.
+2025-03-16 17:48:26.204 [info] Extension host with pid 1565324 exited with code: 0, signal: unknown.
+2025-03-16 18:20:20.771 [info] Extension host with pid 1583517 exited with code: 0, signal: unknown.
+2025-03-16 18:20:20.775 [error] Blocked vscode-file request vscode-file://vscode-app/usr/share/code/resources/app/out/vs/base/worker/workerMain.js#TextEditorWorker

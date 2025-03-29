@@ -1,0 +1,1 @@
+LD_LIBRARY_PATH=. ./my_program

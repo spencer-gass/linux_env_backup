@@ -1,0 +1,5 @@
+hello:
+	@echo "Hello World"
+
+build: hello-world.c
+	gcc -o main main.c

@@ -1,0 +1,8 @@
+CC = gcc
+CFLAGS = -Wall
+
+main: main.c
+	$(CC) $(CFLAGS) -o main main.c
+
+hello:
+	@echo "Hello World"
