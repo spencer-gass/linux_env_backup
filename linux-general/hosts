@@ -1,0 +1,13 @@
+127.0.0.1	localhost
+127.0.1.1	KC-PF4YW3SN-LAP
+192.168.122.238 lld-vm
+10.240.112.100  ad6
+192.168.0.22    sgass-510R
+192.168.0.40    sgass-inspiron-15
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
