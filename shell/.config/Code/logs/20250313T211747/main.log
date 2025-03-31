@@ -1,6 +1,0 @@
-2025-03-13 21:17:47.382 [info] update#setState idle
-2025-03-13 21:18:17.385 [info] update#setState checking for updates
-2025-03-13 21:18:17.388 [info] update#setState available for download
-2025-03-13 21:59:15.445 [info] Extension host with pid 1096823 exited with code: 0, signal: unknown.
-2025-03-13 21:59:15.491 [error] Blocked vscode-file request vscode-file://vscode-app/usr/share/code/resources/app/out/vs/base/worker/workerMain.js#TextEditorWorker
-2025-03-13 21:59:15.494 [error] [UtilityProcessWorker]: terminated unexpectedly with code 1180877936, signal: unknown

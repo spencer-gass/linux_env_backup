@@ -1,5 +1,0 @@
-2025-03-14 09:05:35.323 [info] update#setState idle
-2025-03-14 09:06:05.325 [info] update#setState checking for updates
-2025-03-14 09:06:05.332 [info] update#setState available for download
-2025-03-14 16:20:29.165 [info] Extension host with pid 1205464 exited with code: 0, signal: unknown.
-2025-03-14 16:20:29.210 [error] Blocked vscode-file request vscode-file://vscode-app/usr/share/code/resources/app/out/vs/base/worker/workerMain.js#TextEditorWorker

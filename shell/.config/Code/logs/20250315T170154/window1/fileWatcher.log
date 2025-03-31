@@ -1,1 +1,0 @@
-2025-03-15 19:29:51.067 [warning] [File Watcher (parcel)] started ignoring events due to too many file change events at once (incoming: 2050, most recent change: /home/sgass/Projects/Personal/ldd3/kernel/noble/tools/perf/pmu-events/pmu-events.h). Use 'files.watcherExclude' setting to exclude folders with lots of changing files (e.g. compilation output).

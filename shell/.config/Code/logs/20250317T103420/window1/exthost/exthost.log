@@ -1,9 +1,0 @@
-2025-03-17 10:34:21.846 [info] Extension host with pid 1705201 started
-2025-03-17 10:34:21.846 [info] Skipping acquiring lock for /home/sgass/.config/Code/User/workspaceStorage/ac534d21b73f5a46534b6da463dff4de.
-2025-03-17 10:34:22.046 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
-2025-03-17 10:34:22.049 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
-2025-03-17 10:34:22.051 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
-2025-03-17 10:34:22.054 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
-2025-03-17 10:34:22.454 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
-2025-03-17 10:34:22.770 [info] Extension host terminating: renderer closed the MessagePort
-2025-03-17 10:34:22.772 [info] Extension host with pid 1705201 exiting with code 0

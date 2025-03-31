@@ -1,5 +1,0 @@
-# run traffic
-run_traffic ./imports/traffic
-
-# end
-exit
