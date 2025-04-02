@@ -1,5 +1,4 @@
 {
-    "cmake.showOptionsMovedNotification": false,
     "explorer.confirmDelete": false,
     "workbench.colorTheme": "Visual Studio Dark",
     "verilog.ctags.path": "ctags",
@@ -15,5 +14,61 @@
         "editor.insertSpaces": false,
         "editor.detectIndentation": false,
         "editor.tabSize": 4
-    }
+    },
+    "cSpell.enabledFileTypes": {
+        "*"             : false,
+        "c"             : true,
+        "cpp"           : true,
+        "verilog"       : true,
+        "systemverilog" : true,
+        "javascript"    : true,
+        "typescript"    : true,
+        "python"        : true,
+        "tcl"           : true,
+        "vhdl"          : true,
+    },
+    "cSpell.languageSettings": [
+
+        {
+            // settings forlanguages that use c style comments
+            "languageId": "cpp,c,javascript,typescript,verilog,systemverilog",
+            // turn off compound words, because it is only checking strings.
+            "allowCompoundWords": false,
+            // Only check comments and strings
+            "includeRegExpList": [
+                "CStyleComment",
+                "string"
+            ],
+            // Exclude includes, because they are also strings.
+            "ignoreRegExpList": [
+                "/#include.*/"
+            ]
+
+        },
+        {
+            "languageId": "python",
+            "allowCompoundWords": false,
+            // Special support for python. Don't need a regex
+            "includeRegExpList": [
+                "strings",
+                "comments"
+            ]
+        },
+        {
+            "languageId": "tcl",
+            "allowCompoundWords": false,
+            "includeRegExpList": [
+                "/\".*\"/", // strings
+                "/#.*/",    // comments
+            ]
+        },
+        {
+            "languageId": "vhdl",
+            "allowCompoundWords": false,
+            "includeRegExpList": [
+                "/\".*\"/", // strings
+                "/--.*/",    // comments
+            ]
+        },
+    ]
 }
