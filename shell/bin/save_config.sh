@@ -6,5 +6,4 @@ cp -f ~/.p10k.zsh.rainbow .
 cp -f ~/.source-vivado.sh .
 cp -f ~/.cd_kepler.sh .
 cp -f ~/.config/Kepler/soc_build_config.yaml .
-rsync -ahr --delete ~/.config/p4c-vitisnet .config 
 
