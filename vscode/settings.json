@@ -70,5 +70,7 @@
                 "/--.*/",    // comments
             ]
         },
-    ]
+    ],
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "makefile.configureOnOpen": false
 }

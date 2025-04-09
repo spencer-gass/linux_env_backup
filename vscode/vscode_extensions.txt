@@ -1,6 +1,9 @@
 mechatroner.rainbow-csv
 ms-python.python
+ms-vscode.cpptools
 ms-vscode.hexeditor
+ms-vscode.makefile-tools
 mshr-h.veriloghdl
+redhat.vscode-yaml
 streetsidesoftware.code-spell-checker
 xi.p4
