@@ -72,5 +72,6 @@
         },
     ],
     "C_Cpp.default.compilerPath": "/usr/bin/gcc",
-    "makefile.configureOnOpen": false
+    "makefile.configureOnOpen": false,
+    "verible.path": "/opt/verible/verible-v0.0-3958-g7aae5c08/bin/verible-verilog-ls",
 }

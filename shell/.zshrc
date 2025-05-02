@@ -16,6 +16,7 @@ export PATH=$PATH:/opt/svlint/bin/
 export PATH=$PATH:/opt/Aldec/ALINT-PRO-2023.05-EA17.6-x64/bin/
 export PATH=$PATH:/home/sgass/.local/bin
 export PATH=$PATH:/opt/IntelFPGA_lite/20.1/modelsim_ase/linux
+export PATH=$PATH:/opt/verible/verible-v0.0-3958-g7aae5c08/bin
 
 source ~/.cd_kepler.sh
 source ~/.source-vivado.sh
@@ -56,7 +57,7 @@ export CMAKE=/home/sgass/bin/cmake
 
 export LDD_ROOT=/home/sgass/Projects/Personal/ldd3
 export PATH="$PATH:$LDD_ROOT/bin"
-alias ldd="cd $LDD_ROOT"
+alias cdldd="cd $LDD_ROOT"
 
 alias ssh='ssh -X'
 alias vim='vim -O'

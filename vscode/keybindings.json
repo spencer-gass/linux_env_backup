@@ -124,6 +124,11 @@
       "command": "-workbench.action.files.openLocalFile",
       "when": "remoteFileDialogVisible"
     },
+    {
+      "key": "ctrl+shift+q",
+      "command": "workbench.action.tasks.runTask",
+      "args": "sv-module-to-instance"
+    },
 
 
 ]
