@@ -48,6 +48,7 @@ tools:
 tool-config:
     vivado:
         timing_failure_is_build_failure: false
+        run_reports: false
 repos:
     git:
         kepler: ssh://git@gitlab.i.kepler.engineering:6622/kepler/kepler.git

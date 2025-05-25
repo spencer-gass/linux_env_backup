@@ -1,5 +1,7 @@
 mechatroner.rainbow-csv
+ms-python.debugpy
 ms-python.python
+ms-python.vscode-pylance
 ms-vscode.cpptools
 ms-vscode.hexeditor
 ms-vscode.makefile-tools
