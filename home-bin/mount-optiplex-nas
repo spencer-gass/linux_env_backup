@@ -1,0 +1,68 @@
+#!/bin/bash
+
+MOUNT_POINT=/mnt/optiplex-nas
+REMOTE_SHARE=//192.168.0.62/shared-pool
+
+mount_share() {
+    sudo mkdir -p "$MOUNT_POINT"
+    sudo mount -t cifs "$REMOTE_SHARE" "$MOUNT_POINT" -o username=sgass,password=SRG123,vers=3.0
+    if [ $? -eq 0 ]; then
+        echo "Mounted at $MOUNT_POINT"
+    else
+        echo "Mount failed." >&2
+        exit 1
+    fi
+}
+
+unmount_share() {
+    sudo umount "$MOUNT_POINT"
+    if [ $? -eq 0 ]; then
+        echo "Unmounted $MOUNT_POINT"
+    else
+        echo "Failed to unmount or not mounted." >&2
+        exit 1
+    fi
+}
+
+check_status() {
+    if mountpoint -q "$MOUNT_POINT"; then
+        echo "$MOUNT_POINT is mounted."
+    else
+        echo "$MOUNT_POINT is not mounted."
+    fi
+}
+
+show_help() {
+    cat << EOF
+Usage: optiplex-nas-mount [OPTIONS]
+
+Options:
+    -m, --mount     Mount Optiplex-NAS samba share.
+    -u, --umount    Unmount Optiplex-NAS samba share.
+    -s, --status    Print whether or not Optplex-NAS is mounted
+    -h, --help      Show help message.
+
+EOF
+}
+
+case "$1" in
+    --status | -s)
+        check_status
+        ;;
+    --mount | -m)
+        mount_share
+        ;;
+    --umount | -u)
+        unmount_share
+        ;;
+    --help | -h)
+        show_help
+        ;;
+    --test | -t)
+        echo "testing"
+        ;;
+    *)
+        mount_share
+        ;;
+esac
+

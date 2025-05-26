@@ -1,0 +1,78 @@
+#!/bin/env bash
+
+# install dpipe: `sudo apt install vde2`
+# install sshfs: `sudo apt install sshfs`
+# install sshpass: `sudo apt install sshpass`
+
+BASEPATH=~/kepler
+if [ "$1" == "" ]; then
+    echo "syntax hw_ssh boardname [user] [password]"
+	echo "Boards are:"
+	curl -X 'GET' 'https://hman2.i.kepler.engineering/api/host_list/'   -H 'accept: application/json' |  jq '.[] .name' | sed 's/\"//g'
+	exit 1
+fi
+RUSER=$2
+PASSWORD="$3"
+if [ "$2" == "" ]; then
+    RUSER=kepler
+fi
+if [ "$RUSER" != "kepler" ]; then
+	echo -n Password: 
+	read -s PASSWORD
+fi
+if [ "$PASSWORD" == "" ]; then
+	PASSWORD="Unb0und3d"
+fi
+BOARD=$1
+REMOTE=$BOARD.lab.e.kepler.gdn
+#MPOINT=~/$USER
+LMPOINT=$BASEPATH/mnt/$BOARD
+
+#lock board
+echo INFO: Locking board "$BOARD" at http://hman.sat
+curl -L http://hman.sat/api/v1/get/"$BOARD" > /dev/null 2>&1 &
+
+#mount remote's filesystem
+echo INFO: Mounting remote fileystem to "$LMPOINT"
+mkdir -p "$LMPOINT"
+sshfs "$RUSER"@"$REMOTE":/ "$LMPOINT" -o ssh_command="sshpass -p $PASSWORD ssh"
+
+#add host finger-print
+ssh-keyscan -H $REMOTE >> ~/.ssh/known_hosts
+
+#mount local home to remote
+#inspired by https://github.com/dhylands/dotfiles/blob/master/bin/rev-sshfs.sh
+REMOTE_OPTS=slave,nonempty
+echo INFO: Mounting local home folder to "$REMOTE":/mnt/kac"
+sshpass -p "$PASSWORD" ssh "$RUSER"@"$REMOTE" sudo mkdir -p /mnt/kac"
+
+TMUX_CMD="tmux new -A -s $USER"
+echo $TMUX_CMD
+
+dpipe /usr/lib/openssh/sftp-server = sshpass -p "$PASSWORD" ssh -tt -o "$REMOTE_OPTS" "$RUSER"@"$REMOTE" 'sshfs :"$BASEPATH"/ /mnt/kac; $TMUX_CMD' &
+DPIPE_PID=$!
+
+#connect with ssh to remote
+sshpass -p "$PASSWORD" ssh "$RUSER"@"$REMOTE"
+
+#add host to completion if succeded
+if [ $? -eq 0 ]; then
+    CURRENT_HOSTS=`complete -p hw_ssh |cut -d "'" -f2 | cut -d"'"  -f3`
+    NEW_HOSTS = ${$CURRENT_HOSTS//$BOARD/}
+    NEW_HOSTS = "$NEW_HOSTS $BOARD"
+    SCRIPT_NAME = `basename "$0"`
+    echo "complete -W '$NEW_HOSTS' $SCRIPT_NAME"
+else
+    echo ERROR: Could not connect to host
+fi
+
+kill "$DPIPE_PID"
+
+#clean up
+echo INFO: Unmounting Remote filesystem from "$LMPOINT"
+umount -l "$LMPOINT"
+rm "$LMPOINT" -r
+echo INFO: Unlocking board "$BOARD" at http://hman.sat
+curl -L http://hman.sat/api/v1/release/"$BOARD" > /dev/null 2>&1 &
+sleep 0.1
+
