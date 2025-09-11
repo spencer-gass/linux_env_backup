@@ -2,8 +2,10 @@
 127.0.1.1	KC-PF4YW3SN-LAP
 192.168.122.238 lld-vm
 10.240.112.100  ad6
+10.240.112.132  ad9
 192.168.0.22    sgass-510R
 192.168.0.62    optiplex-nas
+192.168.0.76    optiplex-ws
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback

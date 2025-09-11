@@ -1,0 +1,33 @@
+#!/bin/bash
+
+usage() {
+    cat << EOF
+Usage: flash_mpcut1_ad6 <build-name> 
+
+EOF
+}
+
+REMOTE="kepler@ad6"
+AD6_IMAGE_DIR="/home/kepler/sgass/images"
+build="$1"
+
+if [[ $build == "" ]]; then
+    usage 
+    exit 1
+fi
+
+ub_path="$AD6_IMAGE_DIR/$build.ub"
+boot_path="$AD6_IMAGE_DIR/$build.boot"
+
+
+if ssh $REMOTE "[ ! -f $ub_path ]"; then
+    echo "Could not find $ub_path."
+    exit 1
+fi
+
+if ssh "$REMOTE" "[ ! -f $boot_path ]" ; then
+    echo "Could not find $boot_path"
+    exit 1
+fi
+
+ssh $REMOTE "source /home/kepler/.venvs/kepler/bin/activate && pch_qspi pcu-bt write -A 0x0000000 $boot_path && pch_qspi pcu-bt write -A 0x2080000 $ub_path"

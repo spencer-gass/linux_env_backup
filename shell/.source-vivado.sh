@@ -27,20 +27,20 @@ source-vivado() {
         "/opt/Xilinx/Vitis_HLS/2021.2/bin" 
     )
     local xilinx_2024_install_dirs=(
-        "/opt/Xilinx/Vitis/2024.2/bin"
-        "/opt/Xilinx/Vitis/2024.2/gnu/microblaze/lin/bin"
-        "/opt/Xilinx/Vitis/2024.2/gnu/microblaze/linux_toolchain/lin64_le/bin"
-        "/opt/Xilinx/Vitis/2024.2/gnu/aarch32/lin/gcc-arm-linux-gnueabi/bin"
-        "/opt/Xilinx/Vitis/2024.2/gnu/aarch32/lin/gcc-arm-none-eabi/bin"
-        "/opt/Xilinx/Vitis/2024.2/gnu/aarch64/lin/aarch64-linux/bin"
-        "/opt/Xilinx/Vitis/2024.2/gnu/aarch64/lin/aarch64-none/bin"
-        "/opt/Xilinx/Vitis/2024.2/gnu/armr5/lin/gcc-arm-none-eabi/bin"
-        "/opt/Xilinx/Vitis/2024.2/aietools/bin"
-        "/opt/Xilinx/Vitis/2024.2/gnu/riscv/lin/riscv64-unknown-elf/bin"
-        "/opt/Xilinx/Vivado/2024.2/bin" 
-        "/opt/Xilinx/Vitis_HLS/2024.2/bin" 
+        "/opt/Xilinx/PDM/2024.2/bin"
     )
-    local xilinx_install_dirs=("${xilinx_2019_install_dirs[@]}" "${xilinx_2021_install_dirs[@]}" "${xilinx_2024_install_dirs[@]}")
+    local xilinx_2025_install_dirs=(
+        "/opt/Xilinx/2025.1/PDM/bin"
+        "/opt/Xilinx/2025.1/Vitis/bin"
+        "/opt/Xilinx/2025.1/Vivado/bin"
+        "/opt/Xilinx/2025.1/Model_Composer/bin"
+    )
+    local xilinx_install_dirs=(
+        "${xilinx_2019_install_dirs[@]}" 
+        "${xilinx_2021_install_dirs[@]}" 
+        "${xilinx_2024_install_dirs[@]}" 
+        "${xilinx_2025_install_dirs[@]}" 
+    )
 
     # Function to remove existing Xilinx install directories from $PATH
     # This keeps $PATH from getting cluttered if you switch between versions
@@ -136,11 +136,18 @@ source-vivado() {
             update_path "${xilinx_2021_install_dirs[@]}"
             ;;
         "2024")
-            export XILINX_VIVADO=/opt/Xilinx/Vivado/2024.2
-            export XILINX_HLS=/opt/Xilinx/Vitis_HLS/2024.2
-            export XILINX_VITIS=/opt/Xilinx/Vitis/2024.2
+            export XILINX_VIVADO=""
+            export XILINX_HLS=""
+            export XILINX_VITIS=""
             update_path "${xilinx_2024_install_dirs[@]}" 
-            update_py_path "/opt/Xilinx/Vitis/2024.2/vfs/python"
+            #update_py_path "/opt/Xilinx/Vitis/2024.2/vfs/python"
+            echo "Warning: Only PDM 2024 is installed"
+            ;;
+        "2025")
+            export XILINX_VIVADO=/opt/Xilinx/2025.1/Vivado
+            export XILINX_HLS=/opt/Xilinx/2025.1/Vitis
+            export XILINX_VITIS=/opt/Xilinx/2025.1/Vitis
+            update_path "${xilinx_2025_install_dirs[@]}" 
             ;;
         *)
             echo "Invalid option. Try source-vivado -h"

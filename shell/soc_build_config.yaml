@@ -60,3 +60,11 @@ repos:
 override_defaults:
     petalinux:
         no-sdk: true
+prune:
+    patterns:
+    # Prune large files after 10 days
+    - ["%.dcp", name=orig, days_old=10, tag="", tag_type=""]
+    - ["%sdk.sh", name=orig, days_old=10, tag="", tag_type=""]
+    # Prune everything after 30 days
+    - ["%", name=orig, days_old=30, tag="", tag_type=""]
+

@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+usb1_online=$(cat /sys/class/power_supply/ucsi-source-psy-USBC000:001/online)
+usb2_online=$(cat /sys/class/power_supply/ucsi-source-psy-USBC000:002/online)
+
+echo "USB-C online"
+echo "Back  : $usb1_online"
+echo "Front : $usb2_online"
+

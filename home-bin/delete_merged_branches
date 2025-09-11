@@ -1,0 +1,12 @@
+#!/bin/bash
+for f in $(git branch | cut -c 3-); do
+    # Never delete develop
+    if [[ $f != "develop" ]]; then
+        if x=$(git log develop | grep "Merge branch '$f' into 'develop'"); then
+            # This will print a message, so no need to print another
+            git branch -D $f
+        else
+            echo "$f not merged"
+        fi
+    fi
+done

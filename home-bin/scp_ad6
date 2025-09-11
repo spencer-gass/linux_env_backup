@@ -1,0 +1,46 @@
+#!/bin/bash
+
+usage() {
+    cat << EOF
+Usage: scp_ad6 <build-name> 
+
+EOF
+}
+
+SOC_BUILD_OUTPUT_DIR="/home/sgass/Projects/soc_builds/output"
+AD6_IMAGE_DIR="/home/kepler/sgass/images"
+build="$1"
+
+if [[ $build == "" ]]; then
+    usage 
+    exit 1
+fi
+
+# Extract the date from the build name 
+# assumes the following format
+# <build-type>-<date>_<time>-<commit-hash>
+date=$(echo $build | awk -F '[-]' '{print $2}' | awk -F '[_]' '{print $1}')
+year=${date:0:4}
+month=${date:4:2}
+
+ub_path="$SOC_BUILD_OUTPUT_DIR/$year/$month/$build.ub"
+boot_path="$SOC_BUILD_OUTPUT_DIR/$year/$month/$build.boot"
+
+if [[ ! -f $ub_path ]]; then
+    echo "Could not find $ub_path."
+    exit 1
+fi
+
+if [[ ! -f $boot_path ]]; then
+    echo "Could not find $boot_path"
+    exit 1
+fi
+
+for f in $ub_path $boot_path; do 
+    echo "Copying $f to ad6:$AD6_IMAGE_DIR"
+    scp $f kepler@ad6:$AD6_IMAGE_DIR
+    ret=$?
+    if [[ ret -ne 0 ]]; then
+        exit ret
+    fi
+done
