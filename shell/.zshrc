@@ -61,8 +61,6 @@ alias cdldd="cd $LDD_ROOT"
 
 alias ssh='ssh -X'
 alias vim='vim -O'
-#alias cdk='cd ~/Projects/kepler'
-#alias cdk2='cd ~/Projects/kepler2'
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
