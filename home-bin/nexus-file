@@ -1,0 +1,62 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+show_help() {
+  cat <<'EOF'
+Usage:
+  nexus-file.sh [options] <file>
+
+Options:
+  -d, --delete   Delete the file from Nexus instead of uploading it
+  -h, --help     Show this help message
+
+Examples:
+  nexus-file.sh build.tar.gz
+  nexus-file.sh --delete build.tar.gz
+EOF
+}
+
+delete_mode=false
+
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    -d|--delete)
+      delete_mode=true
+      shift
+      ;;
+    -h|--help)
+      show_help
+      exit 0
+      ;;
+    --)
+      shift
+      break
+      ;;
+    -*)
+      echo "Unknown option: $1" >&2
+      echo >&2
+      show_help >&2
+      exit 1
+      ;;
+    *)
+      break
+      ;;
+  esac
+done
+
+if [[ $# -ne 1 ]]; then
+  echo "Error: exactly one file argument is required." >&2
+  echo >&2
+  show_help >&2
+  exit 1
+fi
+
+file="$1"
+url="https://nexus.i.kepler.engineering/repository/dev-releases/sgass/$file"
+
+if [[ "$delete_mode" == true ]]; then
+  curl --fail -X DELETE "$url" -v 
+else
+  echo "This command may hang after completion. Monitor network transmit and stop it once the transfer appears to have completed."
+  curl --fail --upload-file "$file" "$url" -v --http1.1
+fi

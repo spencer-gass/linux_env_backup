@@ -13,10 +13,10 @@ export PATH=$PATH:/home/sgass/AppImages
 export PATH=$PATH:/home/sgass/bin
 export PATH=$PATH:/home/sgass/AppImages
 export PATH=$PATH:/opt/svlint/bin/
-export PATH=$PATH:/opt/Aldec/ALINT-PRO-2023.05-EA17.6-x64/bin/
+#export PATH=$PATH:/opt/Aldec/ALINT-PRO-2023.05-EA17.6-x64/bin/
 export PATH=$PATH:/home/sgass/.local/bin
 export PATH=$PATH:/opt/IntelFPGA_lite/20.1/modelsim_ase/linux
-export PATH=$PATH:/opt/verible/verible-v0.0-3958-g7aae5c08/bin
+export PATH=$PATH:/opt/verible/verible-v0.0-4051-g9fdb4057/bin
 export PATH="$HOME/Projects/kepler/sysscripts/docker-helpers:$PATH"
 
 source ~/.cd_kepler.sh
